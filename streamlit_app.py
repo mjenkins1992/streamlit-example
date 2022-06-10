@@ -66,7 +66,10 @@ with c31:
 if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
 def increment_counter():
-	st.session_state.stat_val += 10
+	if st.session_state.stat_val < 100:
+		st.session_state.stat_val += 25
+        else:
+		st.session_state.stat_val = 0
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
 # Col for Start Button
