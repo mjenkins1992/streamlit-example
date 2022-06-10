@@ -67,7 +67,6 @@ if 'count' not in st.session_state:
 	st.session_state.stat_val = 0
 def increment_counter():
 	st.session_state.stat_val += 10
-	st.text(st.session_state.stat_val)
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
 # Col for Start Button
@@ -75,6 +74,7 @@ with c30:
     label = "Generate Summary"
     run = False
     run = st.button(label, on_click=increment_counter)
+    st.write(st.session_state.stat_val)
 # Col for Prog Bars
 with c31:
     st.text("⏳ Progress...")
