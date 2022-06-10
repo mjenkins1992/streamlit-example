@@ -60,7 +60,7 @@ with c30:
 with c31:
     st.caption("⌨️ Enter Text to Summarise")
     label = ""
-    st.text_area(label, height=50, placeholder="Type or Paste the text you would like to summarise here...")
+    st.text_area(label, height=150, placeholder="Type or Paste the text you would like to summarise here...")
 
 c30, c31 = st.columns([.25, 1])
 #col for Start Button
