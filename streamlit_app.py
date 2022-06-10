@@ -56,7 +56,24 @@ c30, c31 = st.columns([.5, 1])
 with c30:
     st.text("📤 Upload File to Summarise")
     label = ""
-    st.file_uploader(label, disabled=up_off)
+    input_text = st.file_uploader(label, disabled=up_off)
+    if input_text is not None:
+        # To read file as bytes:
+        bytes_data = input_text.getvalue()
+        st.write(bytes_data)
+
+        # To convert to a string based IO:
+        stringio = StringIO(input_text.getvalue().decode("utf-8"))
+        st.write(stringio)
+
+        # To read file as string:
+        string_data = stringio.read()
+        st.write(string_data)
+
+        # Can be used wherever a "file-like" object is accepted:
+        dataframe = pd.read_csv(input_text)
+        st.write(dataframe)
+	
 # Col for Input by text
 with c31:
     st.text("⌨️ Enter Text to Summarise")
