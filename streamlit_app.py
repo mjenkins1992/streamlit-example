@@ -63,24 +63,21 @@ with c31:
     label = ""
     st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
 
+if 'count' not in st.session_state:
+	st.session_state.stat_val = 0
+def increment_counter():
+	st.session_state.stat_val += 10
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
 # Col for Start Button
 with c30:
     label = "Generate Summary"
     run = False
-    stat_val = 0
-    run = st.button(label)
-    if run == True:
-        if stat_val < 100: 
-            stat_val = stat_val + 10
-            st.text(stat_val)
-        else:
-            stat_val = 0
+    run = st.button(label, on_click=increment_counter)
 # Col for Prog Bars
 with c31:
     st.text("⏳ Progress...")
-    st.progress(stat_val)
+    st.progress(st.session_state.stat_val)
 
 # Results Section
 st.subheader("📥 Summary Download")
