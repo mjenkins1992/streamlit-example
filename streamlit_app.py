@@ -68,6 +68,7 @@ with c30:
     st.button(label)
 # Col for Prog Bars
 with c31:
+    stat_val=0
     st.progress(stat_val)
 
 st.title("👇 Output Download")
