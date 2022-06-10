@@ -20,8 +20,10 @@ import time
 
 st.set_page_config(
     page_title="Lay Summary Generator",
-    page_icon="👩‍⚕️",
+    page_icon="📄",
 )
+
+st.title("📄 Lay Summary Generator")
 
 with st.expander("ℹ️ - About this app", expanded=True):
     st.write(
@@ -52,14 +54,14 @@ _max_width_()
 c30, c31 = st.columns([.5, 1])
 #col for Input by File
 with c30:
-    st.header("👆 Upload File to Summarise")
+    st.subheader("👆 Upload File to Summarise")
     label = ""
     st.file_uploader(label)
 # Col for Input by text
 with c31:
-    st.header("⌨️ Enter Text to Summarise")
+    st.subheader("⌨️ Enter or Paste Text to Summarise")
     label = ""
-    st.text_area(label, height=None, placeholder="Paste the test you would like to summarise here...")
+    st.text_area(label, height=None, placeholder="Type or Paste the text you would like to summarise here...")
 
 c30, c31 = st.columns([.25, 1])
 #col for Start Button
@@ -68,6 +70,7 @@ with c30:
     st.button(label)
 # Col for Prog Bars
 with c31:
+    st.subheader("📈 Progress...")
     stat_val=0
     st.progress(stat_val)
 
