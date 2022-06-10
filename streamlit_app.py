@@ -51,19 +51,25 @@ _max_width_()
 
 in_type = st.radio("How would you liek to input your data?",
      ('File Upload', 'Free Text'))
+if in_type == "File Uplaod"
+    up_on = True
+    in_on = False
+else if in_type == "Free Text"
+    up_on = False
+    in_on = True    
 
 c30, c31 = st.columns([.5, 1])
 #col for Input by File
 with c30:
     st.caption("📤 Upload File to Summarise")
     label = ""
-    st.file_uploader(label)
+    st.file_uploader(label, disabled=up_on)
 
 # Col for Input by text
 with c31:
     st.caption("⌨️ Enter Text to Summarise")
     label = ""
-    st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...")
+    st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_on)
 
 c30, c31 = st.columns([.25, 1])
 #col for Start Button
