@@ -52,13 +52,14 @@ _max_width_()
 c30, c31 = st.columns([.5, 1])
 #col for Input by File
 with c30:
-    st.text("📤 Upload File to Summarise")
+    st.caption("📤 Upload File to Summarise")
     label = ""
     st.file_uploader(label)
 
 # Col for Input by text
 with c31:
     #st.header️("⌨️ Enter or Paste Text to Summarise")
+    st.caption("Enter Text to Summarise")
     label = ""
     st.text_area(label, height=None, placeholder="Type or Paste the text you would like to summarise here...")
 
