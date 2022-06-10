@@ -42,8 +42,8 @@ c30, c31, c32 = st.columns([2.5, 1, 3])
 #col for Upload
 with c31:
     st.title("📂 Input File Upload")
-    label = "Input File Upload"
-    st.file_uploader()
+    label = ""
+    st.file_uploader(label)
 
 #col for Download
     
