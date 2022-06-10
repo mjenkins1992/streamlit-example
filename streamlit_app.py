@@ -72,7 +72,6 @@ with c30:
     stat_val = 0
     run = st.button(label)
     if run == True:
-        run = False
         if stat_val < 100: 
             stat_val = stat_val + 10
         else:
