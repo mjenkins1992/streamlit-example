@@ -74,7 +74,7 @@ with c30:
     if run == True:
         run = False
         if stat_val < 100: 
-            stat_val += 10
+            stat_val = stat_val + 10
         else:
             stat_val = 0
 # Col for Prog Bars
