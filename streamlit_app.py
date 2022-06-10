@@ -54,12 +54,12 @@ _max_width_()
 c30, c31 = st.columns([.5, 1])
 #col for Input by File
 with c30:
-    st.subheader("👆 Upload File to Summarise")
+    st.text👆 Upload File to Summarise")
     label = ""
     st.file_uploader(label)
 # Col for Input by text
 with c31:
-    st.subheader("⌨️ Enter or Paste Text to Summarise")
+    st.text️ Enter or Paste Text to Summarise")
     label = ""
     st.text_area(label, height=None, placeholder="Type or Paste the text you would like to summarise here...")
 
@@ -70,11 +70,11 @@ with c30:
     st.button(label)
 # Col for Prog Bars
 with c31:
-    st.subheader("📈 Progress...")
+    st.text Progress...")
     stat_val=0
     st.progress(stat_val)
 
-st.title("👇 Output Download")
+st.subheaderput Download")
 st.header("")
 label = "Summary Download"
 data = "This is a temporary string"
