@@ -49,7 +49,7 @@ with c31:
 #col for Download
 with c32:
     st.title("👇 Output Download")
-    label = ""
+    label = "Summary Download"
     data = "This is a temporary string"
     st.download_button(label, data, file_name="summary.txt")
 
