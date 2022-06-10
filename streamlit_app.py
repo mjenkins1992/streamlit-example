@@ -51,14 +51,14 @@ _max_width_()
 
 in_type = st.radio("How would you like to input your data?",
      ('File Upload', 'Free Text'), horizontal=True)
-up_on=True
-in_on=False
+up_off=False
+in_off=True
 if in_type == "File Uplaod":
-    up_on = True
-    in_on = False
+    up_off = False
+    in_off = True
 elif in_type == "Free Text":
-    up_on = False
-    in_on = True    
+    up_off = True
+    in_off = False    
 
 c30, c31 = st.columns([.5, 1])
 #col for Input by File
