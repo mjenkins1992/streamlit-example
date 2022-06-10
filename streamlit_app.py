@@ -57,9 +57,10 @@ with c30:
     st.text("📤 Upload File to Summarise")
     label = ""
     st.file_uploader(label)
+
 # Col for Input by text
 with c31:
-    st.text️("⌨️ Enter or Paste Text to Summarise")
+    st.text️("Enter or Paste Text to Summarise")
     label = ""
     st.text_area(label, height=None, placeholder="Type or Paste the text you would like to summarise here...")
 
