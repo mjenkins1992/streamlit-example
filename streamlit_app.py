@@ -59,7 +59,7 @@ with c30:
     label = ""
     input_text = st.file_uploader(label, disabled=up_off)
     if input_text is not None:
-        for line in uploaded_file:
+        for line in input_text:
             st.write(line)
 	
 # Col for Input by text
