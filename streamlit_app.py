@@ -81,7 +81,7 @@ def run_analysis():
     else:
         st.session_state.stat_val = 0
     
-    if input_file != NULL
+    if input_file != NULL:
 	download_on = True
 
 # Data Processing Section
