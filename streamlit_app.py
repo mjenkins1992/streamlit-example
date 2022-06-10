@@ -58,16 +58,17 @@ with c30:
     st.text("📤 Upload File to Summarise")
     label = ""
     input_text = st.file_uploader(label, disabled=up_off)
-    if input_text is not None:
-        for line in input_text:
-            st.write(line)
+#    if input_text is not None:
+#        for line in input_text:
+#            st.write(line)
 	
 # Col for Input by text
 with c31:
     st.text("⌨️ Enter Text to Summarise")
     label = ""
-    st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
-
+    input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
+    st.write(line)
+	
 if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
 def increment_counter():
