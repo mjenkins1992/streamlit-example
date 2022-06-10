@@ -49,6 +49,9 @@ def _max_width_():
 
 _max_width_()
 
+in_type = st.radio("How would you liek to input your data?",
+     ('File Upload', 'Free Text'))
+
 c30, c31 = st.columns([.5, 1])
 #col for Input by File
 with c30:
