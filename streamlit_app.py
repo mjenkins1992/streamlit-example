@@ -63,13 +63,13 @@ elif in_type == "Free Text":
 c30, c31 = st.columns([.5, 1])
 #col for Input by File
 with c30:
-    st.caption("📤 Upload File to Summarise")
+    st.text("📤 Upload File to Summarise")
     label = ""
     st.file_uploader(label, disabled=up_off)
 
 # Col for Input by text
 with c31:
-    st.caption("⌨️ Enter Text to Summarise")
+    st.text("⌨️ Enter Text to Summarise")
     label = ""
     st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
 
