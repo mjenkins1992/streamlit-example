@@ -5,26 +5,16 @@ import pandas as pd
 import streamlit as st
 import time
 
-#"""
-## Welcome to Streamlit!
-#
-#Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
-#
-#If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-#forums](https://discuss.streamlit.io).
-#
-#In the meantime, below is an example of what you can do with just a few lines of code:
-#"""
-
-
-
+#Page Config
 st.set_page_config(
     page_title="Lay Summary Generator",
     page_icon="📄",
 )
 
+#Page Title
 st.title("📄 Lay Summary Generator")
 
+#About App Section
 with st.expander("ℹ️ - About this app", expanded=True):
     st.write(
         """     
@@ -33,6 +23,7 @@ with st.expander("ℹ️ - About this app", expanded=True):
         """
     )
 
+# Page Layout Config
 def _max_width_():
     max_width_str = f"max-width: 1400px;"
     st.markdown(
@@ -45,10 +36,9 @@ def _max_width_():
     """,
         unsafe_allow_html=True,
     )
-
-
 _max_width_()
 
+# Input Type Selection
 in_type = st.radio("How would you like to input your data?",
      ('File Upload', 'Free Text'), horizontal=True)
 up_off=False
@@ -60,30 +50,39 @@ elif in_type == "Free Text":
     up_off = True
     in_off = False    
 
+# Data Input Section
 c30, c31 = st.columns([.5, 1])
-#col for Input by File
+# Col for Input by File
 with c30:
     st.text("📤 Upload File to Summarise")
     label = ""
     st.file_uploader(label, disabled=up_off)
-
 # Col for Input by text
 with c31:
     st.text("⌨️ Enter Text to Summarise")
     label = ""
     st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
 
+# Data Processing Section
 c30, c31 = st.columns([.25, 1])
-#col for Start Button
+# Col for Start Button
 with c30:
     label = "Generate Summary"
-    st.button(label)
+    run = False
+    stat_val = 0
+    run = st.button(label)
+    if run == True:
+        run = False
+        if stat_val <100
+            stat_val += 10
+        else
+            stat_val = 0
 # Col for Prog Bars
 with c31:
     st.text("⏳ Progress...")
-    stat_val=0
     st.progress(stat_val)
 
+# Results Section
 st.subheader("📥 Summary Download")
 st.header("")
 label = "Summary Download"
