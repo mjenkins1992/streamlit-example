@@ -15,6 +15,13 @@ import streamlit as st
 #In the meantime, below is an example of what you can do with just a few lines of code:
 #"""
 
+
+
+st.set_page_config(
+    page_title="Lay Summary Generator",
+    page_icon="👩‍⚕️",
+)
+
 with st.expander("ℹ️ - About this app", expanded=True):
     st.write(
         """     
@@ -24,12 +31,6 @@ with st.expander("ℹ️ - About this app", expanded=True):
     )
 
     st.markdown("")
-    
-    
-st.set_page_config(
-    page_title="Lay Summary Generator",
-    page_icon="👩‍⚕️",
-)
 
 def _max_width_():
     max_width_str = f"max-width: 1400px;"
