@@ -49,8 +49,10 @@ def _max_width_():
 
 _max_width_()
 
-in_type = st.radio("How would you liek to input your data?",
-     ('File Upload', 'Free Text'))
+in_type = st.radio("How would you like to input your data?",
+     ('File Upload', 'Free Text'), horizontal=True)
+up_on=True
+in_on=False
 if in_type == "File Uplaod":
     up_on = True
     in_on = False
