@@ -37,14 +37,16 @@ def _max_width_():
 _max_width_()
 
 c30, c31, c32 = st.columns([2.5, 1, 3])
+#col for parameters
 
-with c30:
-    # st.image("logo.png", width=400)
-    st.title("🔑 BERT Keyword Extractor")
-    st.header("")
+#col for Upload
+with c31:
+    st.title("📂 Input File Upload")
     label = "Input File Upload"
-    st.file_uploader(label)
+    st.file_uploader()
 
+#col for Download
+    
 #with st.echo(code_location='below'):
 total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
 num_turns = st.slider("Number of turns in spiral", 1, 100, 9)
