@@ -15,6 +15,17 @@ import streamlit as st
 #In the meantime, below is an example of what you can do with just a few lines of code:
 #"""
 
+with st.expander("ℹ️ - About this app", expanded=True):
+    st.write(
+        """     
+        - Some blurb here about the app
+        - Usage instructions
+        """
+    )
+
+    st.markdown("")
+    
+    
 st.set_page_config(
     page_title="Lay Summary Generator",
     page_icon="👩‍⚕️",
@@ -36,7 +47,7 @@ def _max_width_():
 
 _max_width_()
 
-c30, c31, c32 = st.columns([3, 3, 3])
+c30, c31, c32 = st.columns([1.5, 1, 1])
 
 #col for parameters
 
