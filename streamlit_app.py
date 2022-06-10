@@ -42,12 +42,17 @@ c30, c31, c32 = st.columns([3, 3, 3])
 
 #col for Upload
 with c31:
-    st.title("📂 Input File Upload")
+    st.title("👆 Input Upload")
     label = ""
     st.file_uploader(label)
 
 #col for Download
-    
+with c32:
+    st.title("👇 Output Download")
+    label = ""
+    data = "This is a temporary string"
+    st.download_button(label, data, file_name="summary.txt")
+
 #with st.echo(code_location='below'):
 total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
 num_turns = st.slider("Number of turns in spiral", 1, 100, 9)
