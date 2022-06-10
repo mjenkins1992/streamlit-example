@@ -74,6 +74,7 @@ with c30:
     if run == True:
         if stat_val < 100: 
             stat_val = stat_val + 10
+            st.text(stat_val)
         else:
             stat_val = 0
 # Col for Prog Bars
