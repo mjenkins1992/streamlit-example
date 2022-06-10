@@ -60,7 +60,7 @@ with c30:
 
 # Col for Input by text
 with c31:
-    st.text️("Enter or Paste Text to Summarise")
+    st.header️("⌨️ Enter or Paste Text to Summarise")
     label = ""
     st.text_area(label, height=None, placeholder="Type or Paste the text you would like to summarise here...")
 
