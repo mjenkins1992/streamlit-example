@@ -59,7 +59,7 @@ with c30:
 with c31:
     st.header("⌨️ Enter Text to Summarise")
     label = ""
-    st.button(label)
+    st.text_area(label, height=None, placeholder="Paste the test you would like to summarise here...")
 
 c30, c31 = st.columns([.25, 1])
 #col for Start Button
