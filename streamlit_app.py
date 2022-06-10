@@ -73,9 +73,9 @@ with c30:
     run = st.button(label)
     if run == True:
         run = False
-        if stat_val <100
+        if stat_val < 100: 
             stat_val += 10
-        else
+        else:
             stat_val = 0
 # Col for Prog Bars
 with c31:
