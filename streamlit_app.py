@@ -71,10 +71,10 @@ with c31:
     st.progress(stat_val)
 
 st.title("👇 Output Download")
-    st.header("")
-    label = "Summary Download"
-    data = "This is a temporary string"
-    st.download_button(label, data, file_name="summary.txt")
+st.header("")
+label = "Summary Download"
+data = "This is a temporary string"
+st.download_button(label, data, file_name="summary.txt")
 
 #with st.echo(code_location='below'):
 #total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
