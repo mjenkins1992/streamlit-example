@@ -67,7 +67,7 @@ with c31:
     st.text("⌨️ Enter Text to Summarise")
     label = ""
     input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
-    st.write(line)
+    st.write(input_text)
 	
 if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
