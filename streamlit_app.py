@@ -33,8 +33,6 @@ with st.expander("ℹ️ - About this app", expanded=True):
         """
     )
 
-    st.markdown("")
-
 def _max_width_():
     max_width_str = f"max-width: 1400px;"
     st.markdown(
@@ -60,7 +58,7 @@ with c30:
 
 # Col for Input by text
 with c31:
-    st.header️("⌨️ Enter or Paste Text to Summarise")
+    #st.header️("⌨️ Enter or Paste Text to Summarise")
     label = ""
     st.text_area(label, height=None, placeholder="Type or Paste the text you would like to summarise here...")
 
