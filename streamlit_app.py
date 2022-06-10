@@ -67,6 +67,7 @@ if 'count' not in st.session_state:
 	st.session_state.stat_val = 0
 def increment_counter():
 	st.session_state.stat_val += 10
+	st.text(st.session_state.stat_val)
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
 # Col for Start Button
