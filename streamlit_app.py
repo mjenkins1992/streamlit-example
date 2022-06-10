@@ -63,7 +63,7 @@ with c31:
     label = ""
     st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
 
-if 'count' not in st.session_state:
+if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
 def increment_counter():
 	st.session_state.stat_val += 10
