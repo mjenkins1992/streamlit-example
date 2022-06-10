@@ -54,7 +54,7 @@ in_type = st.radio("How would you liek to input your data?",
 if in_type == "File Uplaod":
     up_on = True
     in_on = False
-else if in_type == "Free Text":
+elif in_type == "Free Text":
     up_on = False
     in_on = True    
 
