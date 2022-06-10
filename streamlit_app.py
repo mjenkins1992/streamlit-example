@@ -53,6 +53,7 @@ elif in_type == "Free Text":
 
 # Data Input Section
 c30, c31 = st.columns([.5, 1])
+
 # Col for Input by File
 with c30:
     st.text("📤 Upload File to Summarise")
@@ -68,21 +69,29 @@ with c31:
     label = ""
     input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
     st.write(input_text)
+
 	
+# Temp for Prog Bar Demo
+download_on = False
 if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
-def increment_counter():
+def run_analysis():
     if st.session_state.stat_val < 100:
         st.session_state.stat_val += 25
     else:
         st.session_state.stat_val = 0
+    
+    if input_file != NULL
+	download_on = True
+
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
+
 # Col for Start Button
 with c30:
     label = "Generate Summary"
     run = False
-    run = st.button(label, on_click=increment_counter)
+    run = st.button(label, on_click=run_analysis)
     st.write(st.session_state.stat_val)
 # Col for Prog Bars
 with c31:
@@ -94,7 +103,7 @@ st.subheader("📥 Summary Download")
 st.header("")
 label = "Summary Download"
 data = "This is a temporary string"
-st.download_button(label, data, file_name="summary.txt")
+st.download_button(label, data, file_name="summary.txt", disabled=download_on)
 
 #with st.echo(code_location='below'):
 #total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
