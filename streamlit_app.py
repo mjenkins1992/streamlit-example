@@ -65,13 +65,13 @@ c30, c31 = st.columns([.5, 1])
 with c30:
     st.caption("📤 Upload File to Summarise")
     label = ""
-    st.file_uploader(label, disabled=up_on)
+    st.file_uploader(label, disabled=up_off)
 
 # Col for Input by text
 with c31:
     st.caption("⌨️ Enter Text to Summarise")
     label = ""
-    st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_on)
+    st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
 
 c30, c31 = st.columns([.25, 1])
 #col for Start Button
