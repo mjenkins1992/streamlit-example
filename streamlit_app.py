@@ -13,25 +13,6 @@ def update_input_params():
     st.session_state.input_text = ""
     st.session_state.up_off = not(st.session_state.up_off)
     st.session_state.in_off = not(st.session_state.in_off)
-
-#    if st.session_state.in_type == 'File Uplaod':
-#        st.session_state.up_off = False
-#        st.session_state.in_off = True
-#    elif st.session_state.in_type == 'Free Text':
-#        st.session_state.up_off = True
-#        st.session_state.in_off = False
-
-def new_file_uploaded():
-    if st.session_state.input_text:
-        st.session_state.download_on = True
-    else: 
-        st.session_state.download_on = False 
-        
-def new_text_box():
-    if st.session_state.input_text:
-        st.session_state.download_on = True
-    else:
-        st.session_state.download_on = False
         
 def run_analysis():
     with st.spinner('Generating Summary...'):
@@ -91,6 +72,8 @@ if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
 if 'output_text' not in st.session_state:
 	st.session_state.output_text = ""
+if 'generate_button' not in st.session_state:
+	st.session_state.generate_button = False	
     
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
@@ -115,7 +98,9 @@ c30, c31 = st.columns([.25, 1])
 # Col for Start Button
 with c30:
     label = "Generate Summary"
-    st.session_state.run = st.button(label, on_click=run_analysis)
+    if st.session_state.input_text: 
+        st.session_state.generate_button = True
+    st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
 
 # Results Section
 #with c31:
