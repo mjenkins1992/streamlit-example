@@ -10,13 +10,13 @@ from io import StringIO
 # CALLBACKS
 
 def update_input_params():
-st.session_state.input_text = None
-if st.session_state.in_type == "File Uplaod":
-    st.session_state.up_off = False
-    st.session_state.in_off = True
-elif st.session_state.in_type == "Free Text":
-    st.session_state.up_off = True
-    st.session_state.in_off = False
+    st.session_state.input_text = None
+    if st.session_state.in_type == "File Uplaod":
+        st.session_state.up_off = False
+        st.session_state.in_off = True
+    elif st.session_state.in_type == "Free Text":
+        st.session_state.up_off = True
+        st.session_state.in_off = False
 
 def new_file_uploaded():
     if st.session_state.input_text is not None:
