@@ -11,6 +11,9 @@ from io import StringIO
 
 def update_input_params():
     st.session_state.input_text = ""
+    st.session_state.up_off = not(st.session_state.up_off)
+    st.session_state.in_off = not(st.session_state.in_off)
+
 #    if st.session_state.in_type == 'File Uplaod':
 #        st.session_state.up_off = False
 #        st.session_state.in_off = True
