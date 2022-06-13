@@ -73,9 +73,9 @@ with c31:
     input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
     if input_text != None:
         download_on = True
-	st.write(input_text)
+        st.write(input_text)
 
-	
+
 # Temp for Prog Bar Demo
 download_on = False
 if 'stat_val' not in st.session_state:
