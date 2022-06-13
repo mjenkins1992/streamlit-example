@@ -82,7 +82,7 @@ def run_analysis():
         st.session_state.stat_val = 0
     
     if input_file != NULL:
-	download_on = True
+        download_on = True
 
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
