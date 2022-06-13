@@ -48,10 +48,12 @@ if in_type == "File Uplaod":
     input_text = None
     up_off = False
     in_off = True
+    st.write("File")
 elif in_type == "Free Text":
     input_text = None
     up_off = True
-    in_off = False    
+    in_off = False
+    st.write("Free")
 
 # Data Input Section
 c30, c31 = st.columns([.5, 1])
