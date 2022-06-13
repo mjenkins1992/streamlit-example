@@ -63,6 +63,8 @@ with c30:
     input_text = st.file_uploader(label, disabled=up_off)
     if input_text is not None:
         download_on = True
+    else: 
+        download_on = False
 #        for line in input_text:
 #            st.write(line)
 	
@@ -74,6 +76,8 @@ with c31:
     if input_text != None:
         download_on = True
         st.write(input_text)
+    else:
+        download_on = False
 
 
 # Temp for Prog Bar Demo
