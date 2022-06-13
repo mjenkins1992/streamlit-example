@@ -115,8 +115,7 @@ with c30:
     st.session_state.run = st.button(label, on_click=run_analysis)
 
 # Results Section
-with c31:
-    st.header("📥 Summary Download")
-    label = "Download Summary"
-    st.download_button(label, st.session_state.output_text, file_name="summary.txt", disabled=st.session_state.download_on)
-    
+#with c31:
+#    st.header("📥 Summary Download")
+#    label = "Download Summary"
+#    st.download_button(label, st.session_state.output_text, file_name="summary.txt", disabled=st.session_state.download_on)
