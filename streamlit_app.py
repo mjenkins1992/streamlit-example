@@ -45,9 +45,11 @@ in_type = st.radio("How would you like to input your data?",
 up_off=False
 in_off=True
 if in_type == "File Uplaod":
+    input_text = NULL
     up_off = False
     in_off = True
 elif in_type == "Free Text":
+    input_text = NULL
     up_off = True
     in_off = False    
 
@@ -81,8 +83,8 @@ def run_analysis():
     else:
         st.session_state.stat_val = 0
     
-    if input_file != NULL:
-        download_on = True
+if input_text != NULL:
+    download_on = True
 
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
