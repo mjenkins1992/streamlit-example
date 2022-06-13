@@ -78,7 +78,7 @@ if 'in_type' not in st.session_state:
 	st.session_state.in_type = 0
 if 'input_text' not in st.session_state:
 	st.session_state.input_text = None
- if 'up_off' not in st.session_state:
+if 'up_off' not in st.session_state:
 	st.session_state.up_off = False
 if 'in_off' not in st.session_state:
 	st.session_state.in_off = True
