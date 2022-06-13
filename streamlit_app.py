@@ -11,10 +11,10 @@ from io import StringIO
 
 def update_input_params():
     st.session_state.input_text = ""
-    if st.session_state.in_type == "File Uplaod":
+    if st.session_state.in_type == 'File Uplaod':
         st.session_state.up_off = False
         st.session_state.in_off = True
-    elif st.session_state.in_type == "Free Text":
+    elif st.session_state.in_type == 'Free Text':
         st.session_state.up_off = True
         st.session_state.in_off = False
 
