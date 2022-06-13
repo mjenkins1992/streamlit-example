@@ -10,7 +10,7 @@ from io import StringIO
 # CALLBACKS
 
 def update_input_params():
-    st.session_state.input_text = None
+    st.session_state.input_text = ""
     if st.session_state.in_type == "File Uplaod":
         st.session_state.up_off = False
         st.session_state.in_off = True
@@ -19,22 +19,22 @@ def update_input_params():
         st.session_state.in_off = False
 
 def new_file_uploaded():
-    if st.session_state.input_text is not None:
+    if st.session_state.input_text:
         st.session_state.download_on = True
     else: 
         st.session_state.download_on = False 
         
 def new_text_box():
-    if st.session_state.input_text is not None:
+    if st.session_state.input_text:
         st.session_state.download_on = True
     else:
         st.session_state.download_on = False
         
 def run_analysis():
     with st.spinner('Generating Summary...'):
-        if st.session_state.input_text is not None:
-            st.session_state.output.text = st.session_state.input_text
-        if st.session_state.output_text is not "":
+        if st.session_state.input_text:
+            st.session_state.output_text = st.session_state.input_text
+        if st.session_state.output_text:
             st.session_state.download_on = True
         time.sleep(10)
     st.success('Complete!')
@@ -77,7 +77,7 @@ _max_width_()
 if 'in_type' not in st.session_state:
 	st.session_state.in_type = 0
 if 'input_text' not in st.session_state:
-	st.session_state.input_text = None
+	st.session_state.input_text = ""
 if 'up_off' not in st.session_state:
 	st.session_state.up_off = False
 if 'in_off' not in st.session_state:
