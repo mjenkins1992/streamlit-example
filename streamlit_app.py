@@ -61,7 +61,8 @@ with c30:
     st.text("📤 Upload File to Summarise")
     label = ""
     input_text = st.file_uploader(label, disabled=up_off)
-#    if input_text is not None:
+    if input_text is not None:
+        download_on = True
 #        for line in input_text:
 #            st.write(line)
 	
@@ -70,7 +71,9 @@ with c31:
     st.text("⌨️ Enter Text to Summarise")
     label = ""
     input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=in_off)
-    st.write(input_text)
+    if input_text != None:
+        download_on = True
+	st.write(input_text)
 
 	
 # Temp for Prog Bar Demo
@@ -82,9 +85,6 @@ def run_analysis():
         st.session_state.stat_val += 25
     else:
         st.session_state.stat_val = 0
-    
-if input_text != None:
-    download_on = True
 
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
