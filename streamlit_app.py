@@ -120,5 +120,5 @@ with c30:
 with c31:
     st.header("📥 Summary Download")
     label = "Download Summary"
-    st.download_button(label, st.session_state.output_text, file_name="summary.txt", disabled=download_on)
+    st.download_button(label, st.session_state.output_text, file_name="summary.txt", disabled=st.session_state.download_on)
     
