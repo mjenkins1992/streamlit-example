@@ -34,7 +34,7 @@ def run_analysis():
     with st.spinner('Generating Summary...'):
         if st.session_state.input_text is not None:
             st.session_state.output.text = st.session_state.input_text
-        if st.session_state.output_text is not None:
+        if st.session_state.output_text is not "":
             st.session_state.download_on = True
         time.sleep(10)
     st.success('Complete!')
@@ -87,7 +87,7 @@ if 'download_on' not in st.session_state:
 if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
 if 'output_text' not in st.session_state:
-	st.session_state.output_text = None
+	st.session_state.output_text = ""
     
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
@@ -98,13 +98,11 @@ c30, c31 = st.columns([.5, 1])
 
 # Col for Input by File
 with c30:
-    st.header("📤 Upload File")
     label = "📤 Upload File"
     st.session_state.input_text = st.file_uploader(label, disabled=st.session_state.up_off)
 
 # Col for Input by text
 with c31:
-    st.text("⌨️ Enter Text")
     label = "⌨️ Enter Text"
     st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=st.session_state.in_off)
 
