@@ -104,17 +104,17 @@ with c31:
     st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", on_change=update_button, key='text_box', disabled=st.session_state.in_off)
 
 # Data Processing Section
-c30, c31 = st.columns([.25, 1])
+c30, c31, c32 = st.columns([.25, .25, 1])
 
 # Col for Start Button
 with c30:
     label = "Generate Summary"
     st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
 
-st.write(st.session_state.input_text)
-
-# Results Section
 with c31:
+    st.empty()
+# Results Section
+with c32:
     st.header("✅ Lay Summary")
     st.text(st.session_state.output_text.text)
 #    label = "Download Summary"
