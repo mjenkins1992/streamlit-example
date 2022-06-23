@@ -24,9 +24,12 @@ def run_analysis():
     st.success('Complete!')
 
 def update_button():
+
     if not st.session_state.input_text:
+            st.write('Uno')
             st.session_state.generate_button = True
     else:
+            st.write('Dos')
             st.session_state.generate_button = False
 
 # UI FLOW
