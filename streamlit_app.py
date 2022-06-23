@@ -26,11 +26,9 @@ def run_analysis():
 def update_button():
     if not st.session_state.input_text:
             st.write('Uno')
-            st.write(st.session_state.input_text)
             st.session_state.generate_button = True
     else:
             st.write('Dos')
-            st.write(st.session_state.input_text)
             st.session_state.generate_button = False
 
 # UI FLOW
@@ -109,6 +107,8 @@ c30, c31 = st.columns([.25, 1])
 with c30:
     label = "Generate Summary"
     st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
+
+st.write(st.session_state.input_text)
 
 # Results Section
 #with c31:
