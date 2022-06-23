@@ -27,6 +27,7 @@ def update_button():
 
     if not st.session_state.input_text:
             st.write('Uno')
+            st.write(st.session_state.input_text)
             st.session_state.generate_button = True
     else:
             st.write('Dos')
