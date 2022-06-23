@@ -6,8 +6,11 @@ import streamlit as st
 import time
 from io import StringIO
 from googletrans import Translator
+from google_trans_new import google_translator
 
-translator = Translator()
+#translator = Translator()
+translator = google_translator()
+
 # CALLBACKS
 def update_input_params():
     st.session_state.input_text = ""

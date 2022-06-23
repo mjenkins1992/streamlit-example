@@ -2,3 +2,4 @@ altair
 pandas
 streamlit
 googletrans
+google_trans_new
