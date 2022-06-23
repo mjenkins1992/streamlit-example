@@ -6,6 +6,7 @@ import streamlit as st
 import time
 from io import StringIO
 from googletrans import Translator
+from PyPDF2 import PdfFileReader
 #from google_trans_new import google_translator
 
 translator = Translator()
@@ -18,6 +19,15 @@ def update_input_params():
     st.session_state.in_off = not(st.session_state.in_off)
     return
 
+def read_pdf(file):
+	pdfReader = PdfFileReader(file)
+	count = pdfReader.numPages
+	all_page_text = ""
+	for i in range(count):
+		page = pdfReader.getPage(i)
+		all_page_text += page.extractText()
+	return all_page_text
+
 def run_analysis():
     with st.spinner('Generating Summary...'):
         if st.session_state["text_box"]:
@@ -27,11 +37,13 @@ def run_analysis():
         if st.session_state["text_upload"]:
             if st.session_state.input_file.type == "text/plain":
                 raw_text = str(st.session_state.input_file.read(),"utf-8")
-                st.write(raw_text)
-            #st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
-            #st.session_state.final_output = st.session_state.output_text.text
-            #st.session_state.download_off = False
-            #st.success('Complete!')
+            elif st.session_state.input_file.type == "application/pdf":
+                raw_text = read_pdf(t.session_state.input_file)
+
+        st.session_state.output_text = translator.translate(raw_text, src='en', dest='ru')
+        st.session_state.final_output = st.session_state.output_text.text
+        st.session_state.download_off = False
+        #st.success('Complete!')
     return
 
 def update_button():
