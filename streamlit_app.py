@@ -24,10 +24,10 @@ def run_analysis():
     st.success('Complete!')
 
 def update_button():
-    if st.session_state.input_text:
-            st.session_state.generate_button = False
-    else:
+    if not st.session_state.input_text:
             st.session_state.generate_button = True
+    else:
+            st.session_state.generate_button = False
 
 # UI FLOW
 # Page Config
