@@ -32,7 +32,7 @@ def run_analysis():
             #st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
             #st.session_state.final_output = st.session_state.output_text.text
             #st.session_state.download_off = False
-    st.success('Complete!')
+            st.success('Complete!')
     return
 
 def update_button():
