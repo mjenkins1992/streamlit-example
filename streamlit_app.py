@@ -77,7 +77,7 @@ if 'up_off' not in st.session_state:
 	st.session_state.up_off = False
 if 'in_off' not in st.session_state:
 	st.session_state.in_off = True
-if 'download_on' not in st.session_state:
+if 'download_off' not in st.session_state:
 	st.session_state.download_off = True
 if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
