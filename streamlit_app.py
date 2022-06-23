@@ -25,14 +25,15 @@ def run_analysis():
             st.session_state.final_output = st.session_state.output_text.text
             st.session_state.download_off = False
         if st.session_state["text_upload"]:
-            temp = st.session_state.input_text
-            st.write(temp)
+            temp = st.session_state.input_file
+            raw_text = str(temp.read(),"utf-8")
+            st.write(raw_text)
                 #file_details = {"Filename":temp.name,"FileType":temp.type,"FileSize":temp.size}
                 #st.write(file_details)
             #st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
             #st.session_state.final_output = st.session_state.output_text.text
             #st.session_state.download_off = False
-            st.success('Complete!')
+            #st.success('Complete!')
     return
 
 def update_button():
@@ -83,6 +84,8 @@ if 'in_type' not in st.session_state:
 	st.session_state.in_type = 0
 if 'input_text' not in st.session_state:
 	st.session_state.input_text = ""
+if 'input_file' not in st.session_state:
+	st.session_state.input_file = ""
 if 'up_off' not in st.session_state:
 	st.session_state.up_off = False
 if 'in_off' not in st.session_state:
@@ -108,7 +111,7 @@ c30, c31 = st.columns([.5, 1])
 # Col for Input by File
 with c30:
     label = "📤 Upload File"
-    st.session_state.input_text = st.file_uploader(label, disabled=st.session_state.up_off, on_change=update_button, type=['txt', 'pdf', 'docx'], key='text_upload')
+    st.session_state.input_file = st.file_uploader(label, disabled=st.session_state.up_off, on_change=update_button, type=['txt', 'pdf', 'docx'], key='text_upload')
 
 # Col for Input by Text
 with c31:
