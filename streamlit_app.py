@@ -25,11 +25,9 @@ def run_analysis():
             st.session_state.final_output = st.session_state.output_text.text
             st.session_state.download_off = False
         if st.session_state["text_upload"]:
-            temp = st.session_state.input_file
-            raw_text = str(temp.read(),"utf-8")
-            st.write(raw_text)
-                #file_details = {"Filename":temp.name,"FileType":temp.type,"FileSize":temp.size}
-                #st.write(file_details)
+            if st.session_state.input_file.type == "text/plain":
+                raw_text = str(st.session_state.input_file.read(),"utf-8")
+                st.write(raw text)
             #st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
             #st.session_state.final_output = st.session_state.output_text.text
             #st.session_state.download_off = False
