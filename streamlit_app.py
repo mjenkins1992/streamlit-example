@@ -5,32 +5,30 @@ import pandas as pd
 import streamlit as st
 import time
 from io import StringIO
+from googletrans import Translator
 
-
+translator = Translator()
 # CALLBACKS
-
 def update_input_params():
     st.session_state.input_text = ""
     st.session_state.up_off = not(st.session_state.up_off)
     st.session_state.in_off = not(st.session_state.in_off)
     return
-    
+
 def run_analysis():
     with st.spinner('Generating Summary...'):
-        if st.session_state.input_text:
-            st.session_state.output_text = st.session_state.input_text
+        if st.session_state["text_box"]:
+            st.session_state.output_text = translator.translate(st.session_state["text_box"], dest='fr')
         if st.session_state.output_text:
             st.session_state.download_on = True
-        time.sleep(10)
     st.success('Complete!')
+    st.write(st.session_state.output_text)
     return
 
 def update_button():
     if st.session_state["text_box"]:
-            st.write('Uno')
             st.session_state.generate_button = False
     else:
-            st.write('Dos')
             st.session_state.generate_button = True
     return
 
