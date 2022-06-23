@@ -120,4 +120,4 @@ with c31:
 # Results Section
 with c32:
     label = "✅ Lay Summary"
-    st.text_area(label, value=st.session_state.final_output)
+    st.text_area(label, value=st.session_state.final_output, disabled=True, placeholder='Your summary will appear here when it has been generated...')
