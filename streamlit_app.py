@@ -27,7 +27,7 @@ def run_analysis():
         if st.session_state["text_upload"]:
             if st.session_state.input_file.type == "text/plain":
                 raw_text = str(st.session_state.input_file.read(),"utf-8")
-                st.write(raw text)
+                st.write(raw_text)
             #st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
             #st.session_state.final_output = st.session_state.output_text.text
             #st.session_state.download_off = False
