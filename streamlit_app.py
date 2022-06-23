@@ -120,5 +120,5 @@ with c31:
 
 # Results Section
 with c32:
-    st.header("✅ Lay Summary")
-    st.text(st.session_state.final_output)
+    label = "✅ Lay Summary"
+    st.text_area(label, value=st.session_state.final_output)
