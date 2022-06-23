@@ -25,7 +25,7 @@ def run_analysis():
         if st.session_state.output_text:
             st.session_state.download_on = True
     st.success('Complete!')
-    st.write(st.session_state.output_text)
+    st.write(st.session_state.output_text.text)
     return
 
 def update_button():
