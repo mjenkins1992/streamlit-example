@@ -23,7 +23,6 @@ def run_analysis():
         if st.session_state["text_box"]:
             st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='fr')
             st.session_state.final_output = st.session_state.output_text.text
-        if st.session_state.final_output is not "":
             st.session_state.download_off = True
     st.success('Complete!')
     return
