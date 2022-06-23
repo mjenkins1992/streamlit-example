@@ -21,7 +21,7 @@ def update_input_params():
 def run_analysis():
     with st.spinner('Generating Summary...'):
         if st.session_state["text_box"]:
-            st.session_state.output_text = translator.translate(st.session_state.input_text, dest='fr')
+            st.session_state.output_text = translator.translate(st.session_state.input_text, lang_tgt='fr')
         if st.session_state.output_text:
             st.session_state.download_on = True
     st.success('Complete!')
