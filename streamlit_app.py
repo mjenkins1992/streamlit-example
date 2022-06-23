@@ -24,11 +24,17 @@ def run_analysis():
             st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='fr')
             st.session_state.final_output = st.session_state.output_text.text
             st.session_state.download_off = False
+        if st.session_state["text_upload"]:
+            st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
+            st.session_state.final_output = st.session_state.output_text.text
+            st.session_state.download_off = False
     st.success('Complete!')
     return
 
 def update_button():
     if st.session_state["text_box"]:
+            st.session_state.generate_button = False
+    elif st.session_state["text_upload"]:
             st.session_state.generate_button = False
     else:
             st.session_state.generate_button = True
@@ -98,9 +104,9 @@ c30, c31 = st.columns([.5, 1])
 # Col for Input by File
 with c30:
     label = "📤 Upload File"
-    st.session_state.input_text = st.file_uploader(label, disabled=st.session_state.up_off)
+    st.session_state.input_text = st.file_uploader(label, disabled=st.session_state.up_off, on_change=update_button, key='text_upload')
 
-# Col for Input by text
+# Col for Input by Text
 with c31:
     label = "⌨️ Enter Text"
     st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", on_change=update_button, key='text_box', disabled=st.session_state.in_off)
