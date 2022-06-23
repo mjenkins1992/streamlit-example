@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import time
-from io import StringIO 
+from io import StringIO
 
 
 # CALLBACKS
@@ -13,7 +13,7 @@ def update_input_params():
     st.session_state.input_text = ""
     st.session_state.up_off = not(st.session_state.up_off)
     st.session_state.in_off = not(st.session_state.in_off)
-        
+
 def run_analysis():
     with st.spinner('Generating Summary...'):
         if st.session_state.input_text:
@@ -22,7 +22,7 @@ def run_analysis():
             st.session_state.download_on = True
         time.sleep(10)
     st.success('Complete!')
-    
+
 # UI FLOW
 # Page Config
 st.set_page_config(
@@ -36,7 +36,7 @@ st.title("📄 Lay Summary Generator")
 #About App Section
 with st.expander("ℹ️ - About this app", expanded=True):
     st.write(
-        """     
+        """
         - Some blurb here about the app
         - Usage instructions
         """
@@ -51,7 +51,7 @@ def _max_width_():
     .reportview-container .main .block-container{{
         {max_width_str}
     }}
-    </style>    
+    </style>
     """,
         unsafe_allow_html=True,
     )
@@ -73,8 +73,8 @@ if 'stat_val' not in st.session_state:
 if 'output_text' not in st.session_state:
 	st.session_state.output_text = ""
 if 'generate_button' not in st.session_state:
-	st.session_state.generate_button = False	
-    
+	st.session_state.generate_button = False
+
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
      ('File Upload', 'Free Text'), horizontal=True, on_change=update_input_params)
@@ -94,11 +94,11 @@ with c31:
 
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
-
+st.write(st.session_state.input_text)
 # Col for Start Button
 with c30:
     label = "Generate Summary"
-    if st.session_state.input_text: 
+    if st.session_state.input_text is not None:
         st.session_state.generate_button = True
     st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
 
