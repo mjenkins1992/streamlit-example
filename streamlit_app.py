@@ -94,12 +94,12 @@ with c31:
 
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
-st.write(st.session_state.input_text)
+
 # Col for Start Button
 with c30:
     label = "Generate Summary"
-    if st.session_state.input_text is not None:
-        st.session_state.generate_button = False
+#    if st.session_state.input_text is not None:
+#        st.session_state.generate_button = False
     st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
 
 # Results Section
