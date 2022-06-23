@@ -30,9 +30,9 @@ def run_analysis():
                 st.write(temp)
                 #file_details = {"Filename":temp.name,"FileType":temp.type,"FileSize":temp.size}
                 #st.write(file_details)
-            st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
-            st.session_state.final_output = st.session_state.output_text.text
-            st.session_state.download_off = False
+            #st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
+            #st.session_state.final_output = st.session_state.output_text.text
+            #st.session_state.download_off = False
     st.success('Complete!')
     return
 
