@@ -22,8 +22,8 @@ def run_analysis():
     with st.spinner('Generating Summary...'):
         if st.session_state["text_box"]:
             st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='fr')
-        if st.session_state.output_text:
-            st.session_state.download_on = True
+        if st.session_state.output_text.text:
+            st.session_state.download_off = True
     st.success('Complete!')
     return
 
@@ -78,7 +78,7 @@ if 'up_off' not in st.session_state:
 if 'in_off' not in st.session_state:
 	st.session_state.in_off = True
 if 'download_on' not in st.session_state:
-	st.session_state.download_on = False
+	st.session_state.download_off = True
 if 'stat_val' not in st.session_state:
 	st.session_state.stat_val = 0
 if 'output_text' not in st.session_state:
@@ -112,10 +112,10 @@ with c30:
     st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
 
 with c31:
-    st.empty()
+    label = "Download Summary"
+    st.download_button(label, st.session_state.output_text.text, file_name="summary.txt", disabled=st.session_state.download_off)
+
 # Results Section
 with c32:
     st.header("✅ Lay Summary")
     st.text(st.session_state.output_text.text)
-#    label = "Download Summary"
-#    st.download_button(label, st.session_state.output_text, file_name="summary.txt", disabled=st.session_state.download_on)
