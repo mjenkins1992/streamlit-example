@@ -13,7 +13,8 @@ def update_input_params():
     st.session_state.input_text = ""
     st.session_state.up_off = not(st.session_state.up_off)
     st.session_state.in_off = not(st.session_state.in_off)
-
+    return
+    
 def run_analysis():
     with st.spinner('Generating Summary...'):
         if st.session_state.input_text:
@@ -22,14 +23,16 @@ def run_analysis():
             st.session_state.download_on = True
         time.sleep(10)
     st.success('Complete!')
+    return
 
 def update_button():
-    if not st.session_state.input_text:
+    if st.session_state["text_box"]:
             st.write('Uno')
-            st.session_state.generate_button = True
+            st.session_state.generate_button = False
     else:
             st.write('Dos')
-            st.session_state.generate_button = False
+            st.session_state.generate_button = True
+    return
 
 # UI FLOW
 # Page Config
@@ -98,7 +101,7 @@ with c30:
 # Col for Input by text
 with c31:
     label = "⌨️ Enter Text"
-    st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", on_change=update_button, disabled=st.session_state.in_off)
+    st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", on_change=update_button, key='text_box', disabled=st.session_state.in_off)
 
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
