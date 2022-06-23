@@ -121,4 +121,4 @@ with c31:
 # Results Section
 with c32:
     st.header("✅ Lay Summary")
-    st.text(st.session_state.output_text.text)
+    st.text(st.session_state.final_output)
