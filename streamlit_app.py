@@ -25,7 +25,6 @@ def run_analysis():
         if st.session_state.output_text:
             st.session_state.download_on = True
     st.success('Complete!')
-    st.write(st.session_state.output_text.text)
     return
 
 def update_button():
@@ -115,7 +114,8 @@ with c30:
 st.write(st.session_state.input_text)
 
 # Results Section
-#with c31:
-#    st.header("📥 Summary Download")
+with c31:
+    st.header("✅ Lay Summary")
+    st.text(st.session_state.output_text.text)
 #    label = "Download Summary"
 #    st.download_button(label, st.session_state.output_text, file_name="summary.txt", disabled=st.session_state.download_on)
