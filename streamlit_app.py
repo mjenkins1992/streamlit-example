@@ -26,7 +26,7 @@ def run_analysis():
             st.session_state.download_off = False
         if st.session_state["text_upload"]:
             if st.session_state.input_text is not None:
-				file_details = {"Filename":st.session_state.input_text.name,"FileType":st.session_state.input_text.type,"FileSize":st.session_state.input_text.size}
+                file_details = {"Filename":st.session_state.input_text.name,"FileType":st.session_state.input_text.type,"FileSize":st.session_state.input_text.size}
                 st.write(file_details)                    
             st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='ru')
             st.session_state.final_output = st.session_state.output_text.text
