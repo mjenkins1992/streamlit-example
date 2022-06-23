@@ -23,6 +23,12 @@ def run_analysis():
         time.sleep(10)
     st.success('Complete!')
 
+def update_button():
+    if st.session_state.input_text is "":
+            st.session_state.generate_button = True
+    else:
+            st.session_state.generate_button = False
+
 # UI FLOW
 # Page Config
 st.set_page_config(
@@ -90,7 +96,7 @@ with c30:
 # Col for Input by text
 with c31:
     label = "⌨️ Enter Text"
-    st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", disabled=st.session_state.in_off)
+    st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", on_change=update_button, disabled=st.session_state.in_off)
 
 # Data Processing Section
 c30, c31 = st.columns([.25, 1])
@@ -98,8 +104,6 @@ c30, c31 = st.columns([.25, 1])
 # Col for Start Button
 with c30:
     label = "Generate Summary"
-#    if st.session_state.input_text is not None:
-#        st.session_state.generate_button = False
     st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
 
 # Results Section
