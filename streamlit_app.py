@@ -73,7 +73,7 @@ if 'stat_val' not in st.session_state:
 if 'output_text' not in st.session_state:
 	st.session_state.output_text = ""
 if 'generate_button' not in st.session_state:
-	st.session_state.generate_button = False
+	st.session_state.generate_button = True
 
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
@@ -99,7 +99,7 @@ st.write(st.session_state.input_text)
 with c30:
     label = "Generate Summary"
     if st.session_state.input_text is not None:
-        st.session_state.generate_button = True
+        st.session_state.generate_button = False
     st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
 
 # Results Section
