@@ -7,6 +7,7 @@ import time
 from io import StringIO
 from googletrans import Translator
 from PyPDF2 import PdfFileReader
+import docx2txt
 #from google_trans_new import google_translator
 
 translator = Translator()
@@ -39,8 +40,10 @@ def run_analysis():
                 raw_text = str(st.session_state.input_file.read(),"utf-8")
             elif st.session_state.input_file.type == "application/pdf":
                 raw_text = read_pdf(st.session_state.input_file)
+            elif st.session_state.input_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document" :
+                raw_text = docx2txt.process(st.session_state.input_file)
 
-        st.session_state.output_text = translator.translate(raw_text, src='en', dest='ru')
+        st.session_state.output_text = translator.translate(raw_text, src='en', dest='fr')
         st.session_state.final_output = st.session_state.output_text.text
         st.session_state.download_off = False
         #st.success('Complete!')
