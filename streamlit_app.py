@@ -112,7 +112,7 @@ if 'final_output' not in st.session_state:
 if 'generate_button' not in st.session_state:
 	st.session_state.generate_button = True
 if 'box_value' not in st.session_state:
-	st.session_state.box_value = ""
+	st.session_state.box_value = "Some stuff..."
 
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
