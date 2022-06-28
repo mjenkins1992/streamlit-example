@@ -44,6 +44,7 @@ def run_analysis():
         st.session_state.output_text = translator.translate(raw_text, src='en', dest='fr')
         st.session_state.final_output = st.session_state.output_text.text
         st.session_state.download_off = False
+        st.session_state.box_text = raw_text
         #st.success('Complete!')
     return
 
@@ -112,7 +113,7 @@ if 'final_output' not in st.session_state:
 if 'generate_button' not in st.session_state:
 	st.session_state.generate_button = True
 if 'box_value' not in st.session_state:
-	st.session_state.box_value = "Some stuff..."
+	st.session_state.box_value = ""
 
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
