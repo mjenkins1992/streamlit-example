@@ -38,7 +38,7 @@ def run_analysis():
             if st.session_state.input_file.type == "text/plain":
                 raw_text = str(st.session_state.input_file.read(),"utf-8")
             elif st.session_state.input_file.type == "application/pdf":
-                raw_text = read_pdf(t.session_state.input_file)
+                raw_text = read_pdf(st.session_state.input_file)
 
         st.session_state.output_text = translator.translate(raw_text, src='en', dest='ru')
         st.session_state.final_output = st.session_state.output_text.text
