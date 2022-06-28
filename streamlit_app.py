@@ -111,6 +111,8 @@ if 'final_output' not in st.session_state:
 	st.session_state.final_output = ""
 if 'generate_button' not in st.session_state:
 	st.session_state.generate_button = True
+if 'box_value' not in st.session_state:
+	st.session_state.box_value = ""
 
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
@@ -127,7 +129,7 @@ with c30:
 # Col for Input by Text
 with c31:
     label = "⌨️ Enter Text"
-    st.session_state.input_text = st.text_area(label, height=160, placeholder="Type or Paste the text you would like to summarise here...", on_change=update_button, key='text_box', disabled=st.session_state.in_off)
+    st.session_state.input_text = st.text_area(label, value=st.session_state.box_value,  height=170, placeholder="Type or Paste the text you would like to summarise here...", on_change=update_button, key='text_box', disabled=st.session_state.in_off)
 
 # Data Processing Section
 c30, c31, c32 = st.columns([.25, .25, 1])
