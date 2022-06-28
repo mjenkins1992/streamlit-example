@@ -32,10 +32,8 @@ def read_pdf(file):
 def run_analysis():
     with st.spinner('Generating Summary...'):
         if st.session_state["text_box"]:
-            st.session_state.output_text = translator.translate(st.session_state.input_text, src='en', dest='fr')
-            st.session_state.final_output = st.session_state.output_text.text
-            st.session_state.download_off = False
-        if st.session_state["text_upload"]:
+            raw_text = st.session_state.input_text
+        elif st.session_state["text_upload"]:
             if st.session_state.input_file.type == "text/plain":
                 raw_text = str(st.session_state.input_file.read(),"utf-8")
             elif st.session_state.input_file.type == "application/pdf":
