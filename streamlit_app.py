@@ -44,7 +44,7 @@ def run_analysis():
         st.session_state.output_text = translator.translate(raw_text, src='en', dest='fr')
         st.session_state.final_output = st.session_state.output_text.text
         st.session_state.download_off = False
-        st.session_state.box_text = raw_text
+        st.session_state.box_value = raw_text
         #st.success('Complete!')
     return
 
