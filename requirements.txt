@@ -4,3 +4,5 @@ streamlit
 googletrans==4.0.0rc1
 PyPDF2
 docx2txt
+torch
+transformers

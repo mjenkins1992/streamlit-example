@@ -8,6 +8,9 @@ from io import StringIO
 from googletrans import Translator
 from PyPDF2 import PdfFileReader
 import docx2txt
+import torch
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+
 #from google_trans_new import google_translator
 
 translator = Translator()
