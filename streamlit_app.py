@@ -12,12 +12,12 @@ import docx2txt
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import pickle
-torch.device("mps")
+mps_device = torch.device("mps")
 
 path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
 #model.cuda()
-model.mps()
+model.to(mps_device)
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 translator = Translator()
 
@@ -72,9 +72,9 @@ def run_analysis2():
 
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
         #input_ids=to_pred["input_ids"]#.cuda()
-        input_ids=to_pred["input_ids"].mps()
+        input_ids=to_pred["input_ids"].to(mps_device)
         #attention_mask=to_pred["attention_mask"]#.cuda()
-        attention_mask=to_pred["attention_mask"].mps()
+        attention_mask=to_pred["attention_mask"].to(mps_device)
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
         #global_attention_mask = numpy.zeros_like(attention_mask)
