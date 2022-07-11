@@ -73,8 +73,8 @@ def run_analysis2():
         st.session_state.box_value = raw_text
 
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
-        input_ids=to_pred["input_ids"].cuda()
-        attention_mask=to_pred["attention_mask"].cuda()
+        #input_ids=to_pred["input_ids"].cuda()
+        #attention_mask=to_pred["attention_mask"].cuda()
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
         global_attention_mask[:, 0] = 1
