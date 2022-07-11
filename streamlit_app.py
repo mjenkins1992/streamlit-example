@@ -15,7 +15,7 @@ import pickle
 
 path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
-#model.cuda()
+model.cuda()
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 
 
@@ -74,8 +74,8 @@ def run_analysis2():
         st.session_state.box_value = raw_text
 
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
-        #input_ids=to_pred["input_ids"].cuda()
-        #attention_mask=to_pred["attention_mask"].cuda()
+        input_ids=to_pred["input_ids"].cuda()
+        attention_mask=to_pred["attention_mask"].cuda()
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
         #global_attention_mask = numpy.zeros_like(attention_mask)
@@ -83,7 +83,7 @@ def run_analysis2():
         predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
         st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
 
-        #st.success('Complete!')
+        st.success('Complete!')
     return
 
 def update_button():
