@@ -7,5 +7,5 @@ docx2txt
 torch
 transformers
 pickle-mixin
-cuda
+cuda-python
 cudnn
