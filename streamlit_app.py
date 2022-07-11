@@ -67,9 +67,6 @@ def run_analysis2():
                 raw_text = read_pdf(st.session_state.input_file)
             elif st.session_state.input_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document" :
                 raw_text = docx2txt.process(st.session_state.input_file)
-
-        #st.session_state.output_text = translator.translate(raw_text, src='en', dest='fr')
-        #st.session_state.final_output = st.session_state.output_text.text
         st.session_state.download_off = False
         st.session_state.box_value = raw_text
 
@@ -83,7 +80,7 @@ def run_analysis2():
         predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
         st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
 
-        st.success('Complete!')
+        #st.success('Complete!')
     return
 
 def update_button():
