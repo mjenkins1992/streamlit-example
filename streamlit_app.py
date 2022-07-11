@@ -17,8 +17,6 @@ path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
 #model.cuda()
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
-
-
 translator = Translator()
 
 # CALLBACKS
@@ -28,8 +26,7 @@ def update_input_params():
     st.session_state.in_off = not(st.session_state.in_off)
     return
 
-
-def read_pdf(file)
+def read_pdf(file):
     pdfReader = PdfFileReader(file)
     count = pdfReader.numPages
     all_page_text = ""
