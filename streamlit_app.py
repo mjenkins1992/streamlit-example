@@ -2,13 +2,14 @@ from collections import namedtuple
 import altair as alt
 import math
 import pandas as pd
+import numpy
 import streamlit as st
 import time
 from io import StringIO
 from googletrans import Translator
 from PyPDF2 import PdfFileReader
 import docx2txt
-import torch
+#import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import pickle
 
@@ -76,7 +77,8 @@ def run_analysis2():
         #input_ids=to_pred["input_ids"].cuda()
         #attention_mask=to_pred["attention_mask"].cuda()
         #global attention on special tokens
-        global_attention_mask = torch.zeros_like(attention_mask)
+        #global_attention_mask = torch.zeros_like(attention_mask)
+        global_attention_mask = numpy.zeros_like(attention_mask)
         global_attention_mask[:, 0] = 1
         predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
         st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
