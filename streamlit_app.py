@@ -28,14 +28,15 @@ def update_input_params():
     st.session_state.in_off = not(st.session_state.in_off)
     return
 
+
 def read_pdf(file)
-	pdfReader = PdfFileReader(file)
-	count = pdfReader.numPages
-	all_page_text = ""
-	for i in range(count):
-		page = pdfReader.getPage(i)
-		all_page_text += page.extractText()
-	return all_page_text
+    pdfReader = PdfFileReader(file)
+    count = pdfReader.numPages
+    all_page_text = ""
+    for i in range(count):
+        page = pdfReader.getPage(i)
+        all_page_text += page.extractText()
+    return all_page_text
 
 def run_analysis():
     with st.spinner('Generating Summary...'):
@@ -128,27 +129,27 @@ _max_width_()
 
 # Initialise Default Parameters
 if 'in_type' not in st.session_state:
-	st.session_state.in_type = 0
+    st.session_state.in_type = 0
 if 'input_text' not in st.session_state:
-	st.session_state.input_text = ""
+    st.session_state.input_text = ""
 if 'input_file' not in st.session_state:
-	st.session_state.input_file = ""
+    st.session_state.input_file = ""
 if 'up_off' not in st.session_state:
-	st.session_state.up_off = False
+    st.session_state.up_off = False
 if 'in_off' not in st.session_state:
-	st.session_state.in_off = True
+    st.session_state.in_off = True
 if 'download_off' not in st.session_state:
-	st.session_state.download_off = True
+    st.session_state.download_off = True
 if 'stat_val' not in st.session_state:
-	st.session_state.stat_val = 0
+    st.session_state.stat_val = 0
 if 'output_text' not in st.session_state:
-	st.session_state.output_text = ""
+    st.session_state.output_text = ""
 if 'final_output' not in st.session_state:
-	st.session_state.final_output = ""
+    st.session_state.final_output = ""
 if 'generate_button' not in st.session_state:
-	st.session_state.generate_button = True
+    st.session_state.generate_button = True
 if 'box_value' not in st.session_state:
-	st.session_state.box_value = ""
+    st.session_state.box_value = ""
 
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
