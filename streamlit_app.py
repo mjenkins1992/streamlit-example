@@ -15,7 +15,7 @@ import pickle
 
 path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
-model.cuda()
+#model.cuda()
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 
 
@@ -28,7 +28,7 @@ def update_input_params():
     st.session_state.in_off = not(st.session_state.in_off)
     return
 
-def read_pdf(file):
+def read_pdf(file)
 	pdfReader = PdfFileReader(file)
 	count = pdfReader.numPages
 	all_page_text = ""
@@ -74,8 +74,8 @@ def run_analysis2():
         st.session_state.box_value = raw_text
 
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
-        input_ids=to_pred["input_ids"].cuda()
-        attention_mask=to_pred["attention_mask"].cuda()
+        input_ids=to_pred["input_ids"]#.cuda()
+        attention_mask=to_pred["attention_mask"]#ß.cuda()
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
         #global_attention_mask = numpy.zeros_like(attention_mask)
