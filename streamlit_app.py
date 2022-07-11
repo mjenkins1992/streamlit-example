@@ -83,6 +83,7 @@ def run_analysis2():
         global_attention_mask[:, 0] = 1
         predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
         st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
+        st.write(st.session_state.final_output)
 
         #st.success('Complete!')
     return
@@ -179,9 +180,9 @@ with c30:
     label = "Generate Summary"
     st.session_state.run = st.button(label, on_click=run_analysis2, disabled=st.session_state.generate_button)
 
-with c31:
-    label = "Download Summary"
-    st.download_button(label, st.session_state.final_output, file_name="summary.txt", disabled=st.session_state.download_off)
+#with c31:
+#    label = "Download Summary"
+#    st.download_button(label, st.session_state.final_output, file_name="summary.txt", disabled=st.session_state.download_off)
 
 # Results Section
 with c32:
