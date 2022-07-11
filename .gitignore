@@ -1,3 +1,4 @@
 .DS_Store
 model/*
 led_large_16384_pubmed_CTS_untouched_blind_bestsofar_3072_1024_2bs_20e.pickle
+model.zip
