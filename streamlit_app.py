@@ -12,6 +12,7 @@ import docx2txt
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import pickle
+import os
 mps_device = torch.device("mps")
 os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 
