@@ -13,6 +13,7 @@ import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import pickle
 mps_device = torch.device("mps")
+os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 
 path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
