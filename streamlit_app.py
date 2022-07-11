@@ -8,10 +8,17 @@ from io import StringIO
 from googletrans import Translator
 from PyPDF2 import PdfFileReader
 import docx2txt
-#from google_trans_new import google_translator
+import torch
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+import pickle
+
+path = "./model/"
+model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
+#model.cuda()
+tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
+
 
 translator = Translator()
-#translator = google_translator()
 
 # CALLBACKS
 def update_input_params():
@@ -45,6 +52,35 @@ def run_analysis():
         st.session_state.final_output = st.session_state.output_text.text
         st.session_state.download_off = False
         st.session_state.box_value = raw_text
+        #st.success('Complete!')
+    return
+
+def run_analysis2():
+    with st.spinner('Generating Summary...'):
+        if st.session_state["text_box"]:
+            raw_text = st.session_state.input_text
+        elif st.session_state["text_upload"]:
+            if st.session_state.input_file.type == "text/plain":
+                raw_text = str(st.session_state.input_file.read(),"utf-8")
+            elif st.session_state.input_file.type == "application/pdf":
+                raw_text = read_pdf(st.session_state.input_file)
+            elif st.session_state.input_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document" :
+                raw_text = docx2txt.process(st.session_state.input_file)
+
+        #st.session_state.output_text = translator.translate(raw_text, src='en', dest='fr')
+        #st.session_state.final_output = st.session_state.output_text.text
+        st.session_state.download_off = False
+        st.session_state.box_value = raw_text
+
+        to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
+        input_ids=to_pred["input_ids"].cuda()
+        attention_mask=to_pred["attention_mask"].cuda()
+        #global attention on special tokens
+        global_attention_mask = torch.zeros_like(attention_mask)
+        global_attention_mask[:, 0] = 1
+        predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
+        st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
+
         #st.success('Complete!')
     return
 
@@ -138,7 +174,7 @@ c30, c31, c32 = st.columns([.25, .25, 1])
 # Col for Start Button
 with c30:
     label = "Generate Summary"
-    st.session_state.run = st.button(label, on_click=run_analysis, disabled=st.session_state.generate_button)
+    st.session_state.run = st.button(label, on_click=run_analysis2, disabled=st.session_state.generate_button)
 
 with c31:
     label = "Download Summary"
