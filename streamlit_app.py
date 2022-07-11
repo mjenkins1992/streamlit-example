@@ -17,6 +17,7 @@ torch.device("mps")
 path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
 #model.cuda()
+model.mps()
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 translator = Translator()
 
@@ -70,8 +71,10 @@ def run_analysis2():
         st.session_state.box_value = raw_text
 
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
-        input_ids=to_pred["input_ids"]#.cuda()
-        attention_mask=to_pred["attention_mask"]#ß.cuda()
+        #input_ids=to_pred["input_ids"]#.cuda()
+        input_ids=to_pred["input_ids"].mps()
+        #attention_mask=to_pred["attention_mask"]#.cuda()
+        attention_mask=to_pred["attention_mask"].mps()
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
         #global_attention_mask = numpy.zeros_like(attention_mask)
