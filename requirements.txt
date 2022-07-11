@@ -6,6 +6,6 @@ PyPDF2
 docx2txt
 torch
 transformers
-pickle
+pickle-mixin
 cuda
 cudnn
