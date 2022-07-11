@@ -12,6 +12,7 @@ import docx2txt
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import pickle
+torch.device("mps")
 
 path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
