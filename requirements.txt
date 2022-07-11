@@ -8,4 +8,4 @@ torch
 transformers
 pickle-mixin
 cuda-python
-cudnn
+cuda-toolkit
