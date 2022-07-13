@@ -18,7 +18,7 @@ import os
 
 path = "./model/"
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
-model.cuda()
+model.cuda(1)
 #model.to(mps_device)
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 #translator = Translator()
@@ -59,7 +59,7 @@ def run_analysis():
     return
 
 def run_analysis2():
-    with st.spinner('Generating Summary...'):
+    with st.spinner('Extracting Text...'):
         if st.session_state["text_box"]:
             raw_text = st.session_state.input_text
         elif st.session_state["text_upload"]:
@@ -72,10 +72,11 @@ def run_analysis2():
         st.session_state.download_off = False
         st.session_state.box_value = raw_text
 
+    with st.spinner('Running Tokenizer...'):
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
-        input_ids=to_pred["input_ids"].cuda()
+        input_ids=to_pred["input_ids"].cuda(1)
         #input_ids=to_pred["input_ids"].to(mps_device)
-        attention_mask=to_pred["attention_mask"].cuda()
+        attention_mask=to_pred["attention_mask"].cuda(1)
         #attention_mask=to_pred["attention_mask"].to(mps_device)
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
