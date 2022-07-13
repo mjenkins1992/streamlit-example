@@ -6,7 +6,7 @@ import numpy
 import streamlit as st
 import time
 from io import StringIO
-from googletrans import Translator
+#from googletrans import Translator
 from PyPDF2 import PdfFileReader
 import docx2txt
 import torch
@@ -21,7 +21,7 @@ model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
 model.cuda()
 #model.to(mps_device)
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
-translator = Translator()
+#translator = Translator()
 
 # CALLBACKS
 def update_input_params():
