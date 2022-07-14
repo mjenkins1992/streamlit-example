@@ -74,7 +74,6 @@ def get_raw_txt():
 
 def prep_model():
     model.cuda(1)
-    tokenizer.cuda(1)
 
 def generate_summary():
     with st.spinner('Running Tokenizer...'):
@@ -82,6 +81,7 @@ def generate_summary():
 
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
+    with st.spinner('Pass tokens to GPU...'):
         input_ids=to_pred["input_ids"].cuda(1)
         attention_mask=to_pred["attention_mask"].cuda(1)
 
@@ -89,8 +89,10 @@ def generate_summary():
         global_attention_mask = torch.zeros_like(attention_mask)
         global_attention_mask[:, 0] = 1
 
+    with st.spinner('Running Model...'):
         predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
 
+    with st.spinner('Decode Results...'):
         st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
 
 def run_analysis2():
