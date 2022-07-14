@@ -82,8 +82,8 @@ def generate_summary():
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
     with st.spinner('Pass tokens to GPU...'):
-        input_ids=to_pred["input_ids"].cuda(1)
-        attention_mask=to_pred["attention_mask"].cuda(1)
+        input_ids=to_pred["input_ids"]#.cuda(1)
+        attention_mask=to_pred["attention_mask"]#.cuda(1)
 
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
@@ -98,7 +98,7 @@ def generate_summary():
 def run_analysis2():
     get_raw_txt()
     #Any preprocessing on raw text should happen here
-    prep_model()
+    #prep_model()
     generate_summary()
     st.success('Complete!')
 
