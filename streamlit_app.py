@@ -20,7 +20,6 @@ path = "./model/"
 dev_id = 1 #Change to 0 for single GPU systems. Currently set as 1 to use free GPU
 
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
-model.cuda()
 #model.to(mps_device)
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 #translator = Translator()
@@ -60,7 +59,7 @@ def run_analysis():
         #st.success('Complete!')
     return
 
-def run_analysis2():
+def get_raw_txt():
     with st.spinner('Extracting Text...'):
         if st.session_state["text_box"]:
             raw_text = st.session_state.input_text
@@ -74,28 +73,41 @@ def run_analysis2():
         st.session_state.download_off = False
         st.session_state.box_value = raw_text
 
+def prep_model():
+    model.cuda(1)
+
+def generate_summary():
     with st.spinner('Running Tokenizer...'):
+        raw_text = st.session_state.box_value
+
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
-        input_ids=to_pred["input_ids"].cuda()
-        #input_ids=to_pred["input_ids"].to(mps_device)
-        attention_mask=to_pred["attention_mask"].cuda()
-        #attention_mask=to_pred["attention_mask"].to(mps_device)
+
+        input_ids=to_pred["input_ids"].cuda(1)
+        attention_mask=to_pred["attention_mask"].cuda(1)
+
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
-        #global_attention_mask = numpy.zeros_like(attention_mask)
         global_attention_mask[:, 0] = 1
-        predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
-        st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
-        #st.write(st.session_state.final_output)
 
-        #st.success('Complete!')
+        predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
+
+        st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
+
+def run_analysis2():
+    #Any preprocessing on raw text should happen here
+    prep_model()
+    generate_summary()
+    st.success('Complete!')
+
     return
 
 def update_button():
     if st.session_state["text_box"]:
             st.session_state.generate_button = False
+            get_raw_text()
     elif st.session_state["text_upload"]:
             st.session_state.generate_button = False
+            get_raw_text()
     else:
             st.session_state.generate_button = True
     return
