@@ -20,7 +20,6 @@ path = "./model/"
 dev_id = 1 #Change to 0 for single GPU systems. Currently set as 1 to use free GPU
 
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
-#model.to(mps_device)
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 #translator = Translator()
 
@@ -75,6 +74,7 @@ def get_raw_txt():
 
 def prep_model():
     model.cuda(1)
+    tokenizer.cuda(1)
 
 def generate_summary():
     with st.spinner('Running Tokenizer...'):
