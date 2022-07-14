@@ -20,7 +20,7 @@ path = "./model/"
 dev_id = 1 #Change to 0 for single GPU systems. Currently set as 1 to use free GPU
 
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True)
-model.cuda(dev_id)
+model.cuda()
 #model.to(mps_device)
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True)
 #translator = Translator()
@@ -76,9 +76,9 @@ def run_analysis2():
 
     with st.spinner('Running Tokenizer...'):
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
-        input_ids=to_pred["input_ids"].cuda(dev_id)
+        input_ids=to_pred["input_ids"].cuda()
         #input_ids=to_pred["input_ids"].to(mps_device)
-        attention_mask=to_pred["attention_mask"].cuda(dev_id)
+        attention_mask=to_pred["attention_mask"].cuda()
         #attention_mask=to_pred["attention_mask"].to(mps_device)
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
