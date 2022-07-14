@@ -94,6 +94,7 @@ def generate_summary():
         st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
 
 def run_analysis2():
+    get_raw_txt()
     #Any preprocessing on raw text should happen here
     prep_model()
     generate_summary()
@@ -104,10 +105,8 @@ def run_analysis2():
 def update_button():
     if st.session_state["text_box"]:
             st.session_state.generate_button = False
-            get_raw_txt()
     elif st.session_state["text_upload"]:
             st.session_state.generate_button = False
-            get_raw_txt()
     else:
             st.session_state.generate_button = True
     return
