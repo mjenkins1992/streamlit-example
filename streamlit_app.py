@@ -104,10 +104,10 @@ def run_analysis2():
 def update_button():
     if st.session_state["text_box"]:
             st.session_state.generate_button = False
-            get_raw_text()
+            get_raw_txt()
     elif st.session_state["text_upload"]:
             st.session_state.generate_button = False
-            get_raw_text()
+            get_raw_txt()
     else:
             st.session_state.generate_button = True
     return
