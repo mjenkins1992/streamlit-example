@@ -73,7 +73,10 @@ def get_raw_txt():
         st.session_state.box_value = raw_text
 
 def prep_model():
-    model.cuda(1)
+    model.cuda(dev_id)
+
+#def gen_sample_input():
+
 
 def generate_summary():
     with st.spinner('Running Tokenizer...'):
@@ -82,8 +85,8 @@ def generate_summary():
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
     with st.spinner('Pass tokens to GPU...'):
-        input_ids=to_pred["input_ids"]#.cuda(1)
-        attention_mask=to_pred["attention_mask"]#.cuda(1)
+        input_ids=to_pred["input_ids"].cuda(dev_id)
+        attention_mask=to_pred["attention_mask"].cuda(dev_id)
 
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
