@@ -101,7 +101,7 @@ def generate_summary():
 def run_analysis2():
     get_raw_txt()
     #Any preprocessing on raw text should happen here
-    #prep_model()
+    prep_model()
     generate_summary()
     st.success('Complete!')
 
