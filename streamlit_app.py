@@ -210,6 +210,10 @@ with c31:
     label = "Download Summary"
     st.download_button(label, ''.join(st.session_state.final_output), file_name="summary.txt", disabled=st.session_state.download_button_off)
 
+# Col for Progress Bar
+with c32:
+    myBar = st.progress(0)
+
 # Results Section
 label = "✅ Lay Summary"
 st.text_area(label, value=st.session_state.final_output, disabled=True, height=175, placeholder='Your summary will appear here when it has been generated...')
