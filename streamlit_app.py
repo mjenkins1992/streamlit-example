@@ -60,12 +60,11 @@ def generate_summary():
         with st.spinner('Preprocessing Input...'):
             chunked_text = lambda raw_text, max_input: [raw_text[i:i+max_input] for i in range(0, len(raw_text), max_input)]
     else:
-        chunked_text = raw_text
-        
-    len(chunked_text.split())
+        chunked_text = 0
+
 
     with st.spinner('Running Tokenizer...'):
-        to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
+        to_pred = tokenizer(chunked_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
     with st.spinner('Pass tokens to GPU...'):
         input_ids=to_pred["input_ids"].cuda(dev_id)
