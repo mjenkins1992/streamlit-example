@@ -56,7 +56,7 @@ max_input = 4096
 def generate_summary():
 
     raw_text = st.session_state.box_value
-    if len(raw_text) > max_input:
+    if len(raw_text) < max_input:
         with st.spinner('Preprocessing Input...'):
             chunked_text = lambda raw_text, max_input: [raw_text[i:i+max_input] for i in range(0, len(raw_text), max_input)]
     else:
