@@ -201,7 +201,7 @@ with c30:
 
 with c31:
     label = "Download Summary"
-    st.download_button(label, st.session_state.final_output, file_name="summary.txt", disabled=st.session_state.download_off)
+    st.download_button(label, ''.join(st.session_state.final_output), file_name="summary.txt", disabled=st.session_state.download_off)
 
 # Results Section
 with c32:
