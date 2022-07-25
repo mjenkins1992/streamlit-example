@@ -53,20 +53,16 @@ def get_raw_txt():
         st.session_state.box_value = raw_text
 
 def run_model(data):
-    with st.spinner('Running Tokenizer...'):
         to_pred = tokenizer(data, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
-    with st.spinner('Pass tokens to GPU...'):
         input_ids=to_pred["input_ids"].cuda(dev_id)
         attention_mask=to_pred["attention_mask"].cuda(dev_id)
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
         global_attention_mask[:, 0] = 1
 
-    with st.spinner('Running Model...'):
         predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
 
-    with st.spinner('Decode Results...'):
         output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
 
     return output
@@ -83,12 +79,14 @@ def generate_summary():
         chunked_text = raw_text
 
     output = []
-    for i in range(0, len(chunked_text)):
-        output[i] = run_model(chunked_text[i])
+    with st.spinner('Running Model...'):
+        for i in range(0, len(chunked_text)):
+            output[i] = run_model(chunked_text[i])
 
     temp_out = ''
-    for i in output:
-        temp_out += ' '+i[0]
+    with st.spinner('Building Output...'):
+        for i in output:
+            temp_out += ' '+i[0]
 
     st.session_state.final_output = temp_out
 
