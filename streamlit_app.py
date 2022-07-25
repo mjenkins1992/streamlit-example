@@ -81,7 +81,7 @@ def generate_summary():
     output = []
     with st.spinner('Running Model...'):
         for i in range(0, len(chunked_text)):
-            output[i] = run_model(chunked_text[i])
+            output.append(run_model(chunked_text[i]))
 
     temp_out = ''
     with st.spinner('Building Output...'):
