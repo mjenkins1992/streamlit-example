@@ -86,8 +86,8 @@ def generate_summary():
 
     # Variables for incrementing progress bar
     progNoSteps = len(chunked_text)
-    progSteps = 80/progNoSteps
-    progStart = 10
+    progSteps = 0.8/progNoSteps
+    progStart = 0.1
 
     output = []
     # Generate Summary for each Input Chunk
@@ -97,7 +97,7 @@ def generate_summary():
         progStart += progSteps
 
     temp_out = ''
-    myBar.progress(90)
+    myBar.progress(0.9)
     # Format output chunks as single string
     for i in output:
         temp_out += ' '+i[0]
@@ -106,8 +106,9 @@ def generate_summary():
 
 def run_analysis():
     # Get the raw text from the input
+    myBar.progress(0.05)
     get_raw_txt()
-    myBar.progress(10)
+    myBar.progress(0.1)
     # Any preprocessing on raw text should happen here!!
     # Pass the model to the GPU
     model.cuda()
@@ -221,7 +222,7 @@ with c31:
 # Col for Progress Bar
 with c32:
     st.header("⚙️ Progress")
-    myBar = st.progress(0)
+    myBar = st.progress(0.0)
 
 # Results Section
 label = "✅ Lay Summary"
