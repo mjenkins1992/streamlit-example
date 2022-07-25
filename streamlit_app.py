@@ -204,6 +204,6 @@ with c31:
     st.download_button(label, ''.join(st.session_state.final_output), file_name="summary.txt", disabled=st.session_state.download_off)
 
 # Results Section
-with c32:
-    label = "✅ Lay Summary"
-    st.text_area(label, value=st.session_state.final_output, disabled=True, height=160, placeholder='Your summary will appear here when it has been generated...')
+
+label = "✅ Lay Summary"
+st.text_area(label, value=st.session_state.final_output, disabled=True, height=160, placeholder='Your summary will appear here when it has been generated...')
