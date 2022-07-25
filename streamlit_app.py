@@ -77,30 +77,37 @@ def generate_summary():
     raw_text = st.session_state.raw_text
 
     if len(raw_text) > max_input: # If length of input is > max model input length
-        with st.spinner('Pre-Processing Input...'):
-            # Split text into chunks of size max_input
-            chunked_text = [raw_text[i:i+max_input] for i in range(0, len(raw_text), max_input)]
+        # Split text into chunks of size max_input
+        chunked_text = [raw_text[i:i+max_input] for i in range(0, len(raw_text), max_input)]
     else:
         # If input does not need split
         chunked_text = raw_text
 
+
+    # Variables for incrementing progress bar
+    progNoSteps = len(chunked_text)
+    progSteps = 80/progNoSteps
+    progStart = 10
+
     output = []
     # Generate Summary for each Input Chunk
-    with st.spinner('Running Model...'):
-        for i in range(0, len(chunked_text)):
-            output.append(run_model(chunked_text[i]))
+    for i in range(0, len(chunked_text)):
+        output.append(run_model(chunked_text[i]))
+        myBar.progress(progStart+progSteps)
+        progStart += progSteps
 
     temp_out = ''
+    myBar.progress(90)
     # Format output chunks as single string
-    with st.spinner('Building Output...'):
-        for i in output:
-            temp_out += ' '+i[0]
+    for i in output:
+        temp_out += ' '+i[0]
 
     st.session_state.final_output = temp_out
 
 def run_analysis():
     # Get the raw text from the input
     get_raw_txt()
+    myBar.progress(10)
     # Any preprocessing on raw text should happen here!!
     # Pass the model to the GPU
     model.cuda()
@@ -108,6 +115,7 @@ def run_analysis():
     generate_summary()
     #Activate Download Button
     st.session_state.download_button_off = False
+    myBar.progress(100)
     st.success('Complete!')
     return
 
@@ -212,6 +220,7 @@ with c31:
 
 # Col for Progress Bar
 with c32:
+    st.header("⚙️ Progress")
     myBar = st.progress(0)
 
 # Results Section
