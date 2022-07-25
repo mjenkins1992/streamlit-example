@@ -64,7 +64,7 @@ def generate_summary():
 
 
     with st.spinner('Running Tokenizer...'):
-        to_pred = tokenizer(chunked_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
+        to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
     with st.spinner('Pass tokens to GPU...'):
         input_ids=to_pred["input_ids"].cuda(dev_id)
