@@ -52,25 +52,13 @@ def get_raw_txt():
                 raw_text = docx2txt.process(st.session_state.input_file)
         st.session_state.box_value = raw_text
 
-max_input = 4096
-def generate_summary():
-
-    raw_text = st.session_state.box_value
-    
-    if len(raw_text) > max_input:
-        with st.spinner('Preprocessing Input...'):
-            #chunked_text = lambda raw_text, max_input: [raw_text[i:i+max_input] for i in range(0, len(raw_text), max_input)]
-            chunked_text = [raw_text[i:i+max_input] for i in range(0, len(raw_text), max_input)]
-    else:
-        chunked_text = raw_text
-
+def run_model(data):
     with st.spinner('Running Tokenizer...'):
-        to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
+        to_pred = tokenizer(data, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
     with st.spinner('Pass tokens to GPU...'):
         input_ids=to_pred["input_ids"].cuda(dev_id)
         attention_mask=to_pred["attention_mask"].cuda(dev_id)
-
         #global attention on special tokens
         global_attention_mask = torch.zeros_like(attention_mask)
         global_attention_mask[:, 0] = 1
@@ -79,7 +67,29 @@ def generate_summary():
         predicted_ids = model.generate(input_ids, attention_mask=attention_mask, global_attention_mask=global_attention_mask)
 
     with st.spinner('Decode Results...'):
-        st.session_state.final_output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
+        output = tokenizer.batch_decode(predicted_ids, skip_special_tokens=True)
+
+    return output
+
+max_input = 4096
+def generate_summary():
+
+    raw_text = st.session_state.box_value
+
+    if len(raw_text) > max_input:
+        with st.spinner('Preprocessing Input...'):
+            chunked_text = [raw_text[i:i+max_input] for i in range(0, len(raw_text), max_input)]
+    else:
+        chunked_text = raw_text
+
+    for i in range(0, len(chunked_text)):
+        output[i] = run_model(chunked_text[i])
+
+    temp_out = ''
+    for i in output:
+        temp_out += ' '+i[0]
+
+    st.session_state.final_output = temp_out
 
 def run_analysis():
     get_raw_txt()
