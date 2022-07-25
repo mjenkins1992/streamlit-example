@@ -115,8 +115,8 @@ def run_analysis():
     generate_summary()
     #Activate Download Button
     st.session_state.download_button_off = False
-    myBar.progress(100)
     st.success('Complete!')
+    myBar.progress(1.0)
     return
 
 # Controls the visibility of the Generate Summary button based on availability of input data
