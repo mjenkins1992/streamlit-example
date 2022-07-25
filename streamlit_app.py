@@ -82,6 +82,7 @@ def generate_summary():
     else:
         chunked_text = raw_text
 
+    output = ''
     for i in range(0, len(chunked_text)):
         output[i] = run_model(chunked_text[i])
 
