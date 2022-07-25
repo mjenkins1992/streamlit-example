@@ -156,7 +156,7 @@ _max_width_()
 st.title("📄 Lay Summary Generator")
 
 #About App Section
-with st.expander("ℹ️ - About this app", expanded=True):
+with st.expander("ℹ️ - About this app", expanded=False):
     st.write(
         """
         - This Application uses the Longformer Transformer NLP Algorithm to generate Lay Summaries of Clinical Trial Reports.
