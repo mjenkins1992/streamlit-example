@@ -69,7 +69,6 @@ def get_raw_txt():
                 raw_text = read_pdf(st.session_state.input_file)
             elif st.session_state.input_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document" :
                 raw_text = docx2txt.process(st.session_state.input_file)
-        st.session_state.download_off = False
         st.session_state.box_value = raw_text
 
 def prep_model():
@@ -103,6 +102,7 @@ def run_analysis2():
     #Any preprocessing on raw text should happen here
     prep_model()
     generate_summary()
+    st.session_state.download_off = False
     st.success('Complete!')
 
     return
@@ -199,9 +199,9 @@ with c30:
     label = "Generate Summary"
     st.session_state.run = st.button(label, on_click=run_analysis2, disabled=st.session_state.generate_button)
 
-#with c31:
-#    label = "Download Summary"
-#    st.download_button(label, st.session_state.final_output, file_name="summary.txt", disabled=st.session_state.download_off)
+with c31:
+    label = "Download Summary"
+    st.download_button(label, st.session_state.final_output, file_name="summary.txt", disabled=st.session_state.download_off)
 
 # Results Section
 with c32:
