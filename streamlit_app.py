@@ -117,6 +117,13 @@ def update_button():
     return
 
 # UI FLOW
+
+# Page Config
+st.set_page_config(
+    page_title="Lay Summary Generator",
+    page_icon="📄",
+)
+
 # Page Layout Config
 def _max_width_():
     max_width_str = f"max-width: 1400px;"
@@ -131,12 +138,6 @@ def _max_width_():
         unsafe_allow_html=True,
     )
 _max_width_()
-
-# Page Config
-st.set_page_config(
-    page_title="Lay Summary Generator",
-    page_icon="📄",
-)
 
 # Page Title
 st.title("📄 Lay Summary Generator")
