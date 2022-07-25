@@ -54,8 +54,8 @@ def get_raw_txt():
 def run_model(data):
     to_pred = tokenizer(data, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
 
-    input_ids=to_pred["input_ids"].cuda(dev_id)
-    attention_mask=to_pred["attention_mask"].cuda(dev_id)
+    input_ids=to_pred["input_ids"].cuda()
+    attention_mask=to_pred["attention_mask"].cuda()
     #global attention on special tokens
     global_attention_mask = torch.zeros_like(attention_mask)
     global_attention_mask[:, 0] = 1
@@ -98,7 +98,7 @@ def run_analysis():
     get_raw_txt()
     # Any preprocessing on raw text should happen here!!
     # Pass the model to the GPU
-    model.cuda(dev_id)
+    model.cuda()
     # Run the function to generate summary
     generate_summary()
     #Activate Download Button
