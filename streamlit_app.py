@@ -151,7 +151,7 @@ st.title("📄 Lay Summary Generator")
 with st.expander("ℹ️ - About this app", expanded=True):
     st.write(
         """
-        - This application uses the Longformer Transformer NLP Algorithm to generate Lay Summaries of Clinical Trial Reports.
+        - This Application uses the Longformer Transformer NLP Algorithm to generate Lay Summaries of Clinical Trial Reports.
         - Select Your Data Input Method
         - File Upload accepts PDF, DOCX and TXT
         - Click Generate Summary to run the model
