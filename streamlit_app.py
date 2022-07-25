@@ -61,7 +61,7 @@ def generate_summary():
         else:
             chunked_text = raw_text
 
-        len(chunked_text)
+        len(chunked_text.split())
 
     with st.spinner('Running Tokenizer...'):
         to_pred = tokenizer(raw_text, padding="max_length", max_length=4096, return_tensors="pt", truncation=True)
