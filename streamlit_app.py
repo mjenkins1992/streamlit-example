@@ -43,17 +43,16 @@ def read_pdf(file):
 
 # Extracts raw text from input depending on input method and file type
 def get_raw_txt():
-    with st.spinner('Extracting Text...'):
-        if st.session_state["text_box"]:
-            raw_text = st.session_state.input_text
-        elif st.session_state["text_upload"]:
-            if st.session_state.input_file.type == "text/plain":
-                raw_text = str(st.session_state.input_file.read(),"utf-8")
-            elif st.session_state.input_file.type == "application/pdf":
-                raw_text = read_pdf(st.session_state.input_file)
-            elif st.session_state.input_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document" :
-                raw_text = docx2txt.process(st.session_state.input_file)
-        st.session_state.raw_text = raw_text
+    if st.session_state["text_box"]:
+        raw_text = st.session_state.input_text
+    elif st.session_state["text_upload"]:
+        if st.session_state.input_file.type == "text/plain":
+            raw_text = str(st.session_state.input_file.read(),"utf-8")
+        elif st.session_state.input_file.type == "application/pdf":
+            raw_text = read_pdf(st.session_state.input_file)
+        elif st.session_state.input_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document" :
+            raw_text = docx2txt.process(st.session_state.input_file)
+    st.session_state.raw_text = raw_text
 
 # Run the model to generate a summary
 def run_model(data):
@@ -221,7 +220,7 @@ with c31:
 
 # Col for Progress Bar
 with c32:
-    st.header("⚙️ Progress")
+    st.caption("⚙️ Progress")
     myBar = st.progress(0.0)
 
 # Results Section
