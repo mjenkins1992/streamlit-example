@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 from PyPDF2 import PdfFileReader
+import pdfplumber
 import docx2txt
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
@@ -21,7 +22,7 @@ def update_input_params():
     return
 
 # Reads raw text from PDF file
-def read_pdf(file):
+def read_pdf_old(file):
     pdfReader = PdfFileReader(file)
     count = pdfReader.numPages
     all_page_text = ""
@@ -30,6 +31,15 @@ def read_pdf(file):
         all_page_text += page.extractText()
         all_page_text += "\n"
     return all_page_text
+
+# Reads raw text from PDF file
+def read_pdf(file):
+    text = ''
+    with pdfplumber.open(file) as pdf:
+        for page in pdf.pages:
+            text += page.extract_text()
+            text += "\n"
+    return text
 
 # Extracts raw text from input depending on input method and file type
 def get_raw_txt():
