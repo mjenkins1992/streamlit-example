@@ -1,9 +1,3 @@
-#from collections import namedtuple
-#import altair as alt
-#import math
-#import numpy
-#import time
-#from io import StringIO
 import pandas as pd
 import streamlit as st
 from PyPDF2 import PdfFileReader
@@ -12,7 +6,7 @@ import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 path = "./model/"
-dev_id = '' #Change to 0 for single GPU systems. Currently set as 1 to use free GPU
+dev_id = '1' #Change to 0 for single GPU systems. Currently set as 1 to use free GPU
 
 model = AutoModelForSeq2SeqLM.from_pretrained(path, local_files_only=True) # Load Model from local Path
 tokenizer = AutoTokenizer.from_pretrained(path, local_files_only=True) # Load Tokenizer from local Path
@@ -34,6 +28,7 @@ def read_pdf(file):
     for i in range(count):
         page = pdfReader.getPage(i)
         all_page_text += page.extractText()
+        all_page_text += "\n"
     return all_page_text
 
 # Extracts raw text from input depending on input method and file type
