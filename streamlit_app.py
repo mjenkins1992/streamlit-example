@@ -116,6 +116,7 @@ def get_file_name():
 def run_analysis():
     # Get the raw text from the input
     myBar.progress(0.05)
+    get_file_name()
     get_raw_txt()
     myBar.progress(0.1)
     # Any preprocessing on raw text should happen here!!
@@ -138,9 +139,6 @@ def update_button():
             st.session_state.generate_button_off = False
     else:
             st.session_state.generate_button_off = True
-
-    get_file_name()
-
     return
 
 # UI FLOW
