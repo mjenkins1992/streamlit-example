@@ -204,7 +204,7 @@ if 'raw_text' not in st.session_state:
 if 'out_file_name' not in st.session_state:
     st.session_state.out_file_name = 'summary.txt'      # Variable for output file name
 if 'prog_val' not in st.session_state:
-    st.session_state.prog_val = '0.0'      # Variable for output file name
+    st.session_state.prog_val = 0.0      # Variable for output file name
 
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
