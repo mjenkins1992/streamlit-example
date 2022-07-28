@@ -232,7 +232,7 @@ with c30:
 # Col for Download Button
 with c31:
     label = "Download Summary"
-    st.download_button(label, ''.join(st.session_state.final_output), file_name="summary.txt", disabled=st.session_state.download_button_off)
+    st.download_button(label, ''.join(st.session_state.final_output), file_name=st.session_state.out_file_name, disabled=st.session_state.download_button_off)
 
 # Col for Progress Bar
 with c32:
