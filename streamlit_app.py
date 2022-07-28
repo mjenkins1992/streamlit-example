@@ -109,7 +109,7 @@ def get_file_name():
     elif st.session_state["text_upload"]:
             in_name = st.session_state.input_file.name
             split_text = in_name.split('_')
-            out_name = split_test[0] + '_summary.txt'
+            out_name = split_text[0] + '_summary.txt'
             st.session_state.out_file_name = out_name
     return
 
