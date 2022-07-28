@@ -103,6 +103,16 @@ def generate_summary():
 
     st.session_state.final_output = temp_out
 
+def get_file_name():
+    if st.session_state["text_box"]:
+            st.session_state.out_file_name = 'summary.txt'
+    elif st.session_state["text_upload"]:
+            in_name = st.session_state.input_file.name
+            split_text = in_name.split('_')
+            out_name = split_test[0] + '_summary.txt'
+            st.session_state.out_file_name = out_name
+    return
+
 def run_analysis():
     # Get the raw text from the input
     myBar.progress(0.05)
@@ -115,7 +125,8 @@ def run_analysis():
     generate_summary()
     #Activate Download Button
     st.session_state.download_button_off = False
-    myBar.progress(1.0)
+    st.session_state.prog_val = 1.0
+    myBar.progress(st.session_state.prog_val)
     #st.success('Complete!')
     return
 
@@ -127,6 +138,9 @@ def update_button():
             st.session_state.generate_button_off = False
     else:
             st.session_state.generate_button_off = True
+
+    get_file_name()
+
     return
 
 # UI FLOW
@@ -187,6 +201,10 @@ if 'generate_button_off' not in st.session_state:
     st.session_state.generate_button_off = True         # Controls Generate Summary Button Visibility
 if 'raw_text' not in st.session_state:
     st.session_state.raw_text = True                    # Variable to store raw text
+if 'out_file_name' not in st.session_state:
+    st.session_state.out_file_name = 'summary.txt'      # Variable for output file name
+if 'prog_val' not in st.session_state:
+    st.session_state.prog_val = '0.0'      # Variable for output file name
 
 # Input Type Selection
 st.session_state.in_type = st.radio("How would you like to input your data?",
@@ -221,7 +239,7 @@ with c31:
 # Col for Progress Bar
 with c32:
     st.caption("⚙️ Progress")
-    myBar = st.progress(0.0)
+    myBar = st.progress(st.session_state.prog_val)
 
 # Results Section
 label = "✅ Lay Summary"
