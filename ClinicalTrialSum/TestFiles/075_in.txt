@@ -1,0 +1,4272 @@
+EU Clinical Trials Register
+Clinical trial results:
+A randomised, double-blind, placebo-controlled, parallel-group
+trial to evaluate efficacy and safety of tiotropium inhalation
+solution (2.5 g and 5 g) delivered via Respimat® inhaler once
+daily in the evening over 48 weeks in children (6 to 11 years old)
+with moderate persistent asthma
+Summary
+EudraCT number 2011-001758-26
+Trial protocol LV LT PT DE BG SE HU GB
+Global end of trial date 08 December 2015
+Results information
+Result version number v1 (current)
+This version publication date 19 June 2016
+First version publication date 19 June 2016
+Trial information
+Trial identification
+Sponsor protocol code 205.445
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT01634139
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name Boehringer Ingelheim
+Sponsor organisation address 173 Binger Strasse, Ingelheim am Rhein , Germany, 55216
+Public contact QRPE Processes and Systems Coordination Clinical Trial
+Information Disclosure, Boehringer Ingelheim, +1
+8002430127, clintriage.rdg@boehringer-ingelheim.com
+Scientific contact QRPE Processes and Systems Coordination Clinical Trial
+Information Disclosure, Boehringer Ingelheim, +1
+8002430127, clintriage.rdg@boehringer-ingelheim.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric Yes
+investigation plan (PIP)
+EMA paediatric investigation plan EMEA-000035-PIP02-09
+number(s)
+Does article 45 of REGULATION (EC) No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No Yes
+1901/2006 apply to this trial?
+Notes:
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 1  of 89
+Results analysis stage
+Analysis stage Final
+Date of interim/final analysis 05 January 2016
+Is this the analysis of the primary Yes
+completion data?
+Primary completion date 02 June 2015
+Global end of trial reached? Yes
+Global end of trial date 08 December 2015
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+The overall purpose of the trial was to evaluate efficacy and safety of tiotropium inhalation solution
+delivered via Respimat® inhaler (2.5 μg and 5 μg once daily in the evening) over 48 weeks, compared
+to placebo, in children (6 to 11 years old) with moderate persistent asthma. The primary objective of the
+trial was to demonstrate superiority of tiotropium (5 μg and possibly 2.5 μg once daily in the evening)
+over placebo with regard to the primary pulmonary function endpoint after 24 weeks of treatment.
+Secondary objectives were to evaluate efficacy of tiotropium with regard to other efficacy endpoints
+after 24 and 48 week of treatment, and to evaluate the long-term safety of tiotropium of a 48 week
+treatment, compared to placebo, as add-on controller therapy on top of usual care in this patient
+population.
+Protection of trial subjects:
+Only subjects that met all the study inclusion and none of the exclusion criteria were to be entered in
+the study. All subjects were free to withdraw from the clinical trial at any time for any reason given.
+Close monitoring of all subjects was adhered to throughout the trial conduct. Salbutamol (albuterol) was
+provided as rescue medication for use as necessary during the trial.
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 03 August 2012
+Long term follow-up planned No
+Independent data monitoring committee Yes
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Bulgaria: 31
+Country: Number of subjects enrolled Canada: 5
+Country: Number of subjects enrolled Germany: 16
+Country: Number of subjects enrolled Guatemala: 81
+Country: Number of subjects enrolled Hungary: 52
+Country: Number of subjects enrolled Korea, Republic of: 27
+Country: Number of subjects enrolled Latvia: 94
+Country: Number of subjects enrolled Lithuania: 13
+Country: Number of subjects enrolled Norway: 5
+Country: Number of subjects enrolled Portugal: 24
+Country: Number of subjects enrolled Romania: 12
+Country: Number of subjects enrolled Russian Federation: 74
+Country: Number of subjects enrolled Sweden: 5
+Country: Number of subjects enrolled Ukraine: 123
+Country: Number of subjects enrolled United Kingdom: 6
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 2  of 89
+Country: Number of subjects enrolled United States: 47
+Worldwide total number of subjects 615
+EEA total number of subjects 258
+Notes:
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 614
+Adolescents (12-17 years) 1
+Adults (18-64 years) 0
+From 65 to 84 years 0
+85 years and over 0
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 3  of 89
+Subject disposition
+Recruitment
+Recruitment details: -
+Pre-assignment
+Screening details:
+All subjects were screened for eligibility to participate in the trial. Subjects attended specialist sites
+which would then ensure that they (the subjects) met all strictly implemented inclusion/exclusion
+criteria. Subjects were not to be randomised to trial treatment if any one of the specific entry criteria
+were violated.
+Period 1
+Period 1 title Treatment period (overall period)
+Is this the baseline period? Yes
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator, Carer
+Arms
+Are arms mutually exclusive? Yes
+Arm title Placebo Respimat
+Arm description:
+Inhalation of placebo solution (2 puffs) once daily for 48 weeks delivered by the Respimat inhaler, as
+add on therapy on top of usual care.
+One patient was randomised to the Placebo arm, however this patient was not treated. Consequently,
+number of subject that started is 132 but only 131 reported to ensure consistent reporting with baseline
+characteristics that includes only treated patients.
+Arm type Placebo
+Investigational medicinal product name Placebo
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation solution
+Routes of administration Inhalation use
+Dosage and administration details:
+2 actuations once daily in the evening. Dose not applicable.
+Arm title Tio R2.5
+Arm description:
+Inhalation of 2.5mcg tiotropium (Tio R2.5) solution (2 puffs of 1.25mcg) once daily for 48 weeks
+delivered by the Respimat inhaler, as add on therapy on top of usual care.
+One patient was randomised to the Tio R2.5 arm, however this patient was not treated. Consequently,
+number of subject that started is 136 but only 135 reported to ensure consistent reporting with baseline
+characteristics that includes only treated patients.
+Arm type Experimental
+Investigational medicinal product name Tiotropium
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation solution
+Routes of administration Inhalation use
+Dosage and administration details:
+2 actuations once daily in the evening, for a total dose of 2.5 mcg.
+Arm title Tio R5
+Arm description:
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 4  of 89
+Inhalation of 5mcg tiotropium (Tio R5) solution (2 puffs of 2.5mcg) once daily for 48 weeks delivered by
+the Respimat inhaler, as add on therapy on top of usual care.
+Arm type Experimental
+Investigational medicinal product name Tiotropium
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation solution
+Routes of administration Inhalation use
+Dosage and administration details:
+2 actuations once daily in the evening, for a total dose of 5 mcg.
+Number of subjects in period Placebo Respimat Tio R2.5 Tio R5
+1[1]
+Started 131 135 135
+Completed 122 130 130
+Not completed 9 5 5
+Consent withdrawn not due to AE 4 3 2
+Non compliant with protocol 1  -  -
+Other reason not defined above 4  - 3
+Lost to follow-up  - 2  -
+Notes:
+[1] - The number of subjects reported to be in the baseline period are not the same as the worldwide
+number enrolled in the trial. It is expected that these numbers will be the same.
+Justification: Baseline characteristics are based on patients who were randomised after successfully
+completing the screening period and received at least one dose of the trial medication.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 5  of 89
+Baseline characteristics
+Reporting groups
+Reporting group title Placebo Respimat
+Reporting group description:
+Inhalation of placebo solution (2 puffs) once daily for 48 weeks delivered by the Respimat inhaler, as
+add on therapy on top of usual care.
+One patient was randomised to the Placebo arm, however this patient was not treated. Consequently,
+number of subject that started is 132 but only 131 reported to ensure consistent reporting with baseline
+characteristics that includes only treated patients.
+Reporting group title Tio R2.5
+Reporting group description:
+Inhalation of 2.5mcg tiotropium (Tio R2.5) solution (2 puffs of 1.25mcg) once daily for 48 weeks
+delivered by the Respimat inhaler, as add on therapy on top of usual care.
+One patient was randomised to the Tio R2.5 arm, however this patient was not treated. Consequently,
+number of subject that started is 136 but only 135 reported to ensure consistent reporting with baseline
+characteristics that includes only treated patients.
+Reporting group title Tio R5
+Reporting group description:
+Inhalation of 5mcg tiotropium (Tio R5) solution (2 puffs of 2.5mcg) once daily for 48 weeks delivered by
+the Respimat inhaler, as add on therapy on top of usual care.
+Reporting group values Placebo Respimat Tio R2.5 Tio R5
+Number of subjects 131 135 135
+Age categorical
+Units: Subjects
+Age Continuous
+Treated set (TS) which included all randomised patients who were dispensed study medication and were
+documented to have taken at least 1 dose of investigational treatment.
+Units: Years
+arithmetic mean 9 9 8.9
+standard deviation ± 1.6 ± 1.6 ± 1.7
+Gender, Male/Female
+Units: Participants
+Female 46 38 53
+Male 85 97 82
+Reporting group values Total
+Number of subjects 401
+Age categorical
+Units: Subjects
+Age Continuous
+Treated set (TS) which included all randomised patients who were dispensed study medication and were
+documented to have taken at least 1 dose of investigational treatment.
+Units: Years
+arithmetic mean
+standard deviation -
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 6  of 89
+Gender, Male/Female
+Units: Participants
+Female 137
+Male 264
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 7  of 89
+End points
+End points reporting groups
+Reporting group title Placebo Respimat
+Reporting group description:
+Inhalation of placebo solution (2 puffs) once daily for 48 weeks delivered by the Respimat inhaler, as
+add on therapy on top of usual care.
+One patient was randomised to the Placebo arm, however this patient was not treated. Consequently,
+number of subject that started is 132 but only 131 reported to ensure consistent reporting with baseline
+characteristics that includes only treated patients.
+Reporting group title Tio R2.5
+Reporting group description:
+Inhalation of 2.5mcg tiotropium (Tio R2.5) solution (2 puffs of 1.25mcg) once daily for 48 weeks
+delivered by the Respimat inhaler, as add on therapy on top of usual care.
+One patient was randomised to the Tio R2.5 arm, however this patient was not treated. Consequently,
+number of subject that started is 136 but only 135 reported to ensure consistent reporting with baseline
+characteristics that includes only treated patients.
+Reporting group title Tio R5
+Reporting group description:
+Inhalation of 5mcg tiotropium (Tio R5) solution (2 puffs of 2.5mcg) once daily for 48 weeks delivered by
+the Respimat inhaler, as add on therapy on top of usual care.
+Primary: FEV1 Peak (0-3h) Change From Baseline
+End point title FEV1 Peak (0-3h) Change From Baseline
+End point description:
+Change from baseline in peak forced expiratory volume (FEV) in 1 second within the first 3 hours (h)
+post dosing (FEV1 peak(0-3h)) measured at week 24.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants with available data at the
+timepoint of interest.
+Full Analysis Set (FAS) was equal to treated set which included all randomised patients who received at
+least 1 documented dose of study
+medication. Missing data at a visit was imputed by available data from the patient at that visit.
+Completely missing data were handled by the statistical model.
+End point type Primary
+End point timeframe:
+Baseline and 24 Weeks
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 126[1] 131[2] 134[3]
+Units: Litres (L)
+0.225 (± 0.395 (± 0.389 (±
+arithmetic mean (standard error)
+0.027) 0.026) 0.026)
+Notes:
+[1] - FAS including patients with available endpoint data at week 24
+[2] - FAS including patients with available endpoint data at week 24
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 8  of 89
+[3] - FAS including patients with available endpoint data at week 24
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo.
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 257
+Analysis specification Pre-specified
+Analysis type superiority[4]
+P-value < 0.0001 [5]
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.17
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.108
+upper limit 0.231
+Variability estimate Standard error of the mean
+Dispersion value 0.031
+Notes:
+[4] - Stepwise testing of the null hypothesis was used to test the efficacy of Tio R5 and then Tio R2.5,
+each over placebo. The analysis was performed in a stepwise manner, firstly for this endpoint, then
+Trough FEV1. Each step was only considered confirmatory if all previous steps were successful.
+[5] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (257) reflects only patients with value at week 24, rather than all
+patients that were included in the analysis.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo.
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 260
+Analysis specification Pre-specified
+Analysis type superiority[6]
+P-value < 0.0001 [7]
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.164
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.103
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 9  of 89
+upper limit 0.255
+Variability estimate Standard error of the mean
+Dispersion value 0.031
+Notes:
+[6] - Stepwise testing of the null hypothesis was used to test the efficacy of Tio R5 and then Tio R2.5,
+each over placebo. The analysis was performed in a stepwise manner, firstly for this endpoint, then
+Trough FEV1. Each step was only considered confirmatory if all previous steps were successful.
+[7] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (260) reflects only patients with value at week 24, rather than all
+patients that were included in the analysis.
+Secondary: Trough FEV1 Change From Baseline
+End point title Trough FEV1 Change From Baseline
+End point description:
+Change from Baseline in Trough (pre-dose) Forced Expiratory Volume (FEV) in 1 second (FEV1)
+measured at week 24 and 48.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[8] 135[9] 135[10]
+Units: Litres (L)
+arithmetic mean (standard error)
+Week 24 (N=126, 131, 134) 0.156 (± 0.272 (± 0.03)
+0.274 (± 0.03)
+0.031)
+Week 48 (N=124, 130, 130) 0.266 (± 0.337 (± 0.03) 0.365 (±
+0.032) 0.031)
+Notes:
+[8] - FAS
+[9] - FAS
+[10] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 10  of 89
+Analysis type superiority[11]
+P-value = 0.0012
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.116
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.046
+upper limit 0.186
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Notes:
+[11] - Stepwise testing of the null hypothesis was used to test the efficacy of Tio R5 and then Tio R2.5,
+each over placebo. The analysis for this endpoint was performed in a stepwise manner after the analysis
+of the primary endpoint was performed. Each step was only considered confirmatory if all previous steps
+were successful.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type superiority[12]
+P-value = 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.118
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.048
+upper limit 0.188
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Notes:
+[12] - Stepwise testing of the null hypothesis was used to test the efficacy of Tio R5 and then Tio R2.5,
+each over placebo. The analysis for this endpoint was performed in a stepwise manner after the analysis
+of the primary endpoint was performed. Each step was only considered confirmatory if all previous steps
+were successful.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type superiority
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 11  of 89
+P-value = 0.0477
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.071
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.001
+upper limit 0.142
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0059
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.099
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.029
+upper limit 0.17
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Secondary: FEV1 Peak (0-3h) at Week 48 Change From Baseline
+End point title FEV1 Peak (0-3h) at Week 48 Change From Baseline
+End point description:
+Change from baseline in peak forced expiratory volume (FEV) in 1 second within the first 3 hours (h)
+post dosing (FEV1 peak(0-3h)) measured at week 48.
+Measured values presented are actually adjusted means.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and 48 Weeks
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 12  of 89
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 124[13] 130[14] 130[15]
+Units: Litres (L)
+0.351 (± 0.474 (± 0.477 (±
+arithmetic mean (standard error)
+0.027) 0.026) 0.026)
+Notes:
+[13] - FAS including patients with available endpoint data at week 48
+[14] - FAS including patients with available endpoint data at week 48
+[15] - FAS including patients with available endpoint data at week 48
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo.
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 254
+Analysis specification Pre-specified
+Analysis type other[16]
+P-value < 0.0001 [17]
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.124
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.062
+upper limit 0.185
+Variability estimate Standard error of the mean
+Dispersion value 0.031
+Notes:
+[16] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+[17] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (254) reflects only patients with value at week 48, rather than all
+patients that were included in the analysis.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo.
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 254
+Analysis specification Pre-specified
+Analysis type other[18]
+P-value < 0.0001 [19]
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.127
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 13  of 89
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.065
+upper limit 0.188
+Variability estimate Standard error of the mean
+Dispersion value 0.031
+Notes:
+[18] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+[19] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (254) reflects only patients with value at week 48, rather than all
+patients that were included in the analysis.
+Secondary: FEV1 AUC (0-3h) Change From Baseline
+End point title FEV1 AUC (0-3h) Change From Baseline
+End point description:
+Change from baseline of area under the curve (AUC) from 0 to 3 hours for FEV1 (FEV1 AUC (0-3h)) after
+24 weeks of treatment. The AUC was calculated by using the trapezoidal rule divided by the observation
+time (3h).
+Measured values presented are actually adjusted means.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and 10 mins before drug administration and 30 mins, 1 hour (h), 2h, 3h after drug
+administration at week 24.
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 126[20] 131[21] 134[22]
+Units: Litres (L)
+0.152 (± 0.306 (± 0.309 (±
+arithmetic mean (standard error)
+0.026) 0.025) 0.025)
+Notes:
+[20] - FAS including patients with available endpoint data at week 24
+[21] - FAS including patients with available endpoint data at week 24
+[22] - FAS including patients with available endpoint data at week 24
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 257
+Analysis specification Pre-specified
+Analysis type other[23]
+P-value < 0.0001 [24]
+Method Mixed models analysis
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 14  of 89
+Parameter estimate Mean difference (net)
+Point estimate 0.154
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.095
+upper limit 0.212
+Variability estimate Standard error of the mean
+Dispersion value 0.03
+Notes:
+[23] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+[24] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (257) reflects only patients with value at week 24, rather than all
+patients that were included in the analysis.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo.
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 260
+Analysis specification Pre-specified
+Analysis type other[25]
+P-value < 0.0001 [26]
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.157
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.098
+upper limit 0.215
+Variability estimate Standard error of the mean
+Dispersion value 0.03
+Notes:
+[25] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+[26] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (260) reflects only patients with value at week 24, rather than all
+patients that were included in the analysis.
+Secondary: FVC AUC (0-3h) Change From Baseline
+End point title FVC AUC (0-3h) Change From Baseline
+End point description:
+Change from baseline of area under the curve (AUC) from 0 to 3 hours for FVC (Forced vital capacity)
+(FVC AUC (0-3h)) after 24 weeks of treatment. The AUC was calculated by using the trapezoidal rule
+divided by the observation time (3h).
+Measured values presented are actually adjusted means.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and 10 mins before drug administration and 30 mins, 1 hour (h), 2h, 3h after drug
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 15  of 89
+administration at 24 weeks
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 126[27] 131[28] 134[29]
+Units: Litres (L)
+0.235 (± 0.207 (±
+arithmetic mean (standard error) 0.13 (± 0.03)
+0.029) 0.029)
+Notes:
+[27] - FAS including patients with available endpoint data at week 24
+[28] - FAS including patients with available endpoint data at week 24
+[29] - FAS including patients with available endpoint data at week 24
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo.
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 257
+Analysis specification Pre-specified
+Analysis type other[30]
+P-value = 0.0023 [31]
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.105
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.037
+upper limit 0.172
+Variability estimate Standard error of the mean
+Dispersion value 0.034
+Notes:
+[30] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+[31] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (257) reflects only patients with value at week 24, rather than all
+patients that were included in the analysis.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo.
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 260
+Analysis specification Pre-specified
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 16  of 89
+Analysis type other[32]
+P-value = 0.0255 [33]
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.076
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.009
+upper limit 0.143
+Variability estimate Standard error of the mean
+Dispersion value 0.034
+Notes:
+[32] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+[33] - The actual number of subjects analyzed is 266, the automatically calculated number that is
+provided in the statistical analysis (260) reflects only patients with value at week 24, rather than all
+patients that were included in the analysis.
+Secondary: Trough FVC Change From Baseline
+End point title Trough FVC Change From Baseline
+End point description:
+Change from baseline in Trough (pre-dose) FVC measured at week 24 and 48.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[34] 135[35] 135[36]
+Units: Litres (L)
+arithmetic mean (standard error)
+Week 24 (N=126, 131, 134) 0.154 (± 0.246 (± 0.206 (±
+0.035) 0.034) 0.034)
+Week 48 (N=124, 130, 130) 0.28 (± 0.035) 0.341 (± 0.333 (±
+0.034) 0.034)
+Notes:
+[34] - FAS
+[35] - FAS
+[36] - FAS
+Statistical analyses
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 17  of 89
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[37]
+P-value = 0.0228
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.092
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.013
+upper limit 0.171
+Variability estimate Standard error of the mean
+Dispersion value 0.04
+Notes:
+[37] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo  (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[38]
+P-value = 0.198
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.052
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.027
+upper limit 0.131
+Variability estimate Standard error of the mean
+Dispersion value 0.04
+Notes:
+[38] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 18  of 89
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[39]
+P-value = 0.1256
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.062
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.017
+upper limit 0.141
+Variability estimate Standard error of the mean
+Dispersion value 0.04
+Notes:
+[39] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[40]
+P-value = 0.188
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.053
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.026
+upper limit 0.133
+Variability estimate Standard error of the mean
+Dispersion value 0.04
+Notes:
+[40] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: FVC peak(0-3h) Change From Baseline
+End point title FVC peak(0-3h) Change From Baseline
+End point description:
+Change from baseline in Maximum forced vital capacity (FVC) measured within the first 3 hours after
+administration of trial medication (FVC peak(0-3h)) after 24 and 48 Weeks of treatment.
+Measured values presented are actually adjusted means.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 19  of 89
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[41] 135[42] 135[43]
+Units: Litres (L)
+arithmetic mean (standard error)
+Week 24 (N=124, 130, 134) 0.215 (± 0.325 (± 0.307 (±
+0.033) 0.032) 0.032)
+Week 48 (N=124, 130, 130) 0.361 (± 0.43 (± 0.032) 0.413 (±
+0.033) 0.032)
+Notes:
+[41] - FAS
+[42] - FAS
+[43] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[44]
+P-value = 0.0036
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.11
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.036
+upper limit 0.184
+Variability estimate Standard error of the mean
+Dispersion value 0.038
+Notes:
+[44] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 20  of 89
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[45]
+P-value = 0.0152
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.091
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.018
+upper limit 0.165
+Variability estimate Standard error of the mean
+Dispersion value 0.037
+Notes:
+[45] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[46]
+P-value = 0.0687
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.069
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.005
+upper limit 0.143
+Variability estimate Standard error of the mean
+Dispersion value 0.038
+Notes:
+[46] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 21  of 89
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[47]
+P-value = 0.1666
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.052
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.022
+upper limit 0.126
+Variability estimate Standard error of the mean
+Dispersion value 0.038
+Notes:
+[47] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: FEV1 change from baseline at each individual timepoint
+End point title FEV1 change from baseline at each individual timepoint
+End point description:
+FEV1 change from baseline to week 24 at each individual timepoint.
+The measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical
+model.
+End point type Secondary
+End point timeframe:
+Baseline and 10 mins before drug administration and 30 mins, 1 hour (h), 2h, 3h after drug
+administration at 24 weeks
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[48] 135[49] 135[50]
+Units: Litres (L)
+arithmetic mean (standard error)
+10 minutes pre-dose (Week 24) 0.156 (± 0.272 (± 0.03)
+0.274 (± 0.03)
+(N=126, 131, 134) 0.031)
+30 minutes post-dose (Week 24) 0.156 (± 0.295 (± 0.307 (±
+(N=126, 131, 134) 0.027) 0.026) 0.027)
+1 hour post-dose (Week 24) (N=126, 0.165 (± 0.313 (± 0.312 (±
+131, 134) 0.028) 0.027) 0.027)
+2 hours post-dose (Week 24) (N=126, 0.144 (± 0.307 (± 0.312 (±
+131, 134) 0.028) 0.027) 0.027)
+3 hours post-dose (Week 24) (N=126, 0.147 (± 0.325 (± 0.322 (±
+131, 134) 0.027) 0.026) 0.026)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 22  of 89
+Notes:
+[48] - FAS
+[49] - FAS
+[50] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo at 10 minutes pre-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[51]
+P-value = 0.0012
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.116
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.046
+upper limit 0.186
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Notes:
+[51] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo at 10 minutes pre-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[52]
+P-value = 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.118
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.048
+upper limit 0.188
+Variability estimate Standard error of the mean
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 23  of 89
+Dispersion value 0.036
+Notes:
+[52] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 30 minutes post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[53]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.139
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.076
+upper limit 0.201
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[53] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 30 minutes post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[54]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.151
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.088
+upper limit 0.213
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[54] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 24  of 89
+Statistical analysis title Statistical Analysis 5
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 1 hour post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[55]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.148
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.084
+upper limit 0.211
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[55] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 6
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 1 hour post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[56]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.147
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.084
+upper limit 0.21
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[56] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 7
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 25  of 89
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 2 hours post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[57]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.163
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.101
+upper limit 0.226
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[57] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 8
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 2 hours post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[58]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.168
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.106
+upper limit 0.231
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[58] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 9
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 3 hours post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 26  of 89
+Analysis specification Pre-specified
+Analysis type other[59]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.178
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.116
+upper limit 0.24
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[59] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 10
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 3 hours post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[60]
+P-value < 0.0001
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.176
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.114
+upper limit 0.238
+Variability estimate Standard error of the mean
+Dispersion value 0.032
+Notes:
+[60] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: FVC change from baseline to week 24 at each individual timepoint
+End point title FVC change from baseline to week 24 at each individual
+timepoint
+End point description:
+FVC change from baseline to week 24 at each individual timepoint.
+The measured values presented are actually adjusted means
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 27  of 89
+model.
+End point type Secondary
+End point timeframe:
+Baseline and 10 mins before drug administration and 30 mins, 1 hour (h), 2h, 3h after drug
+administration at Week 24
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[61] 135[62] 135[63]
+Units: Litres (L)
+arithmetic mean (standard error)
+10 minues pre-dose (Week 24) (N=124, 0.154 (± 0.246 (± 0.206 (±
+131, 134) 0.035) 0.034) 0.034)
+30 minutes post-dose (Week 24) 0.144 (± 0.222 (± 0.211 (±
+(N=124, 131, 13 0.032) 0.031) 0.031)
+1 hour post-dose (Week 24) (N=124, 0.142 (± 0.252 (± 0.202 (±
+131, 134) 0.032) 0.031) 0.031)
+2 hours post-dose (Week 24) (N=124, 0.117 (± 0.23 (± 0.031)
+0.21 (± 0.032)
+131, 134) 0.033)
+3 hours post-dose (Week 24) (N=124, 0.118 (± 0.233 (±
+0.21 (± 0.032)
+131, 134) 0.033) 0.032)
+Notes:
+[61] - FAS
+[62] - FAS
+[63] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo at 10 minues pre-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[64]
+P-value = 0.0228
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.092
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.013
+upper limit 0.171
+Variability estimate Standard error of the mean
+Dispersion value 0.04
+Notes:
+[64] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 28  of 89
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo at 10 minutes pre-dose Week 24
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[65]
+P-value = 0.198
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.052
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.027
+upper limit 0.131
+Variability estimate Standard error of the mean
+Dispersion value 0.04
+Notes:
+[65] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 30 minutes post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[66]
+P-value = 0.0344
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.078
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.006
+upper limit 0.15
+Variability estimate Standard error of the mean
+Dispersion value 0.037
+Notes:
+[66] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 29  of 89
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 30 minutes post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[67]
+P-value = 0.0696
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.067
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.005
+upper limit 0.139
+Variability estimate Standard error of the mean
+Dispersion value 0.037
+Notes:
+[67] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 5
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 1 hour post-dose (week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[68]
+P-value = 0.0032
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.109
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.037
+upper limit 0.182
+Variability estimate Standard error of the mean
+Dispersion value 0.037
+Notes:
+[68] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 6
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 30  of 89
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 1 hour post-dose (week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[69]
+P-value = 0.1044
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.06
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.012
+upper limit 0.132
+Variability estimate Standard error of the mean
+Dispersion value 0.037
+Notes:
+[69] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 7
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 2 hours post-dose (week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[70]
+P-value = 0.0027
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.113
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.039
+upper limit 0.186
+Variability estimate Standard error of the mean
+Dispersion value 0.037
+Notes:
+[70] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 8
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 2 hours post-dose (week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 31  of 89
+Analysis specification Pre-specified
+Analysis type other[71]
+P-value = 0.013
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.093
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.02
+upper limit 0.166
+Variability estimate Standard error of the mean
+Dispersion value 0.037
+Notes:
+[71] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 9
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo 3 hours post-dose (week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[72]
+P-value = 0.0025
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.115
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.041
+upper limit 0.19
+Variability estimate Standard error of the mean
+Dispersion value 0.038
+Notes:
+[72] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 10
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo 3 hours post-dose (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[73]
+P-value = 0.0156
+Method Mixed models analysis
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 32  of 89
+Parameter estimate Mean difference (net)
+Point estimate 0.092
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.017
+upper limit 0.166
+Variability estimate Standard error of the mean
+Dispersion value 0.038
+Notes:
+[73] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Use of PRN Rescue Medication per Day
+End point title Use of PRN Rescue Medication per Day
+End point description:
+Change from baseline in the number of puffs rescue medication (salbutamol/albuterol) used per day (24
+hour period) based on the weekly mean at weeks 24 and 48.
+The measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[74] 135[75] 135[76]
+Units: Number of puffs of rescue
+medication
+arithmetic mean (standard error)
+Week 24 (N=122, 130, 133) -0.437 (± -0.603 (± 0.646 (±
+0.079) 0.077) 0.077)
+Week 48 (N=120, 123, 127) -0.484 (± 0.638 (± 0.685 (±
+0.079) 0.078) 0.078)
+Notes:
+[74] - FAS
+[75] - FAS
+[76] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 33  of 89
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[77]
+P-value = 0.1349
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.165
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.382
+upper limit 0.051
+Variability estimate Standard error of the mean
+Dispersion value 0.11
+Notes:
+[77] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[78]
+P-value = 0.0588
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.209
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.425
+upper limit 0.008
+Variability estimate Standard error of the mean
+Dispersion value 0.11
+Notes:
+[78] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 34  of 89
+Analysis type other[79]
+P-value = 0.1675
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.154
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.372
+upper limit 0.065
+Variability estimate Standard error of the mean
+Dispersion value 0.111
+Notes:
+[79] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[80]
+P-value = 0.0709
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.201
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.419
+upper limit 0.017
+Variability estimate Standard error of the mean
+Dispersion value 0.111
+Notes:
+[80] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Use of PRN Rescue Medication during daytime
+End point title Use of PRN Rescue Medication during daytime
+End point description:
+Change from baseline in the number of puffs of rescue medication (salbutamol/albuterol) used during
+daytime based on the weekly mean at weeks 24 and 48.
+Measured values presented are actually adjusted means
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 35  of 89
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[81] 135[82] 135[83]
+Units: Number of puffs of rescue
+medication
+arithmetic mean (standard error)
+Week 24 (N=121, 130, 133) -0.234 (± -0.35 (± -0.375 (±
+0.055) 0.053) 0.053)
+Week 48 (N=119, 123, 125) -0.247 (± -0.372 (± -0.378 (±
+0.055) 0.053) 0.053)
+Notes:
+[81] - FAS
+[82] - FAS
+[83] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[84]
+P-value = 0.0749
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.116
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.245
+upper limit 0.012
+Variability estimate Standard error of the mean
+Dispersion value 0.065
+Notes:
+[84] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 36  of 89
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[85]
+P-value = 0.0305
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.141
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.269
+upper limit -0.013
+Variability estimate Standard error of the mean
+Dispersion value 0.065
+Notes:
+[85] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[86]
+P-value = 0.0581
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.125
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.255
+upper limit 0.004
+Variability estimate Standard error of the mean
+Dispersion value 0.066
+Notes:
+[86] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[87]
+P-value = 0.0464
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 37  of 89
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.131
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.26
+upper limit -0.002
+Variability estimate Standard error of the mean
+Dispersion value 0.066
+Notes:
+[87] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Use of PRN Rescue Medication during nighttime
+End point title Use of PRN Rescue Medication during nighttime
+End point description:
+Change from baseline in the number of puffs of rescue medication (salbutamol/albuterol) used during
+nighttime based on the weekly mean at weeks 24 and 48.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[88] 135[89] 135[90]
+Units: Number of puffs of rescue
+medication
+arithmetic mean (standard error)
+Week 24 (N=122, 130, 130) -0.178 (± -0.274 (± -0.304 (±
+0.051) 0.05) 0.05)
+Week 48 (N=119, 122, 125) -0.198 (± -0.298 (± -0.301 (±
+0.052) 0.05) 0.05)
+Notes:
+[88] - FAS
+[89] - FAS
+[90] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 38  of 89
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[91]
+P-value = 0.1182
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.096
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.217
+upper limit 0.025
+Variability estimate Standard error of the mean
+Dispersion value 0.062
+Notes:
+[91] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[92]
+P-value = 0.0404
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.126
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.246
+upper limit -0.006
+Variability estimate Standard error of the mean
+Dispersion value 0.061
+Notes:
+[92] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 39  of 89
+Analysis specification Pre-specified
+Analysis type other[93]
+P-value = 0.1105
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.099
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.221
+upper limit 0.023
+Variability estimate Standard error of the mean
+Dispersion value 0.062
+Notes:
+[93] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[94]
+P-value = 0.0983
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.103
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.224
+upper limit 0.019
+Variability estimate Standard error of the mean
+Dispersion value 0.062
+Notes:
+[94] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Peak expiratory flow (PEF) a.m. change from baseline
+End point title Peak expiratory flow (PEF) a.m. change from baseline
+End point description:
+Change from baseline in the morning (a.m.) peak expiratory flow based on the weekly mean at weeks
+24 and 48.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 40  of 89
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[95] 135[96] 135[97]
+Units: Litres per min (L/min)
+arithmetic mean (standard error)
+Week 24 (N=122, 130, 130) 14.153 (± 22.66 (± 21.646 (±
+4.556) 4.406) 4.434)
+Week 48 (N=119, 122, 125) 20.824 (± 26.362 (± 29.598 (±
+4.581) 4.44) 4.466)
+Notes:
+[95] - FAS
+[96] - FAS
+[97] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[98]
+P-value = 0.1146
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 8.507
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -2.063
+upper limit 19.077
+Variability estimate Standard error of the mean
+Dispersion value 5.387
+Notes:
+[98] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 41  of 89
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[99]
+P-value = 0.1628
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 7.493
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -3.034
+upper limit 18.02
+Variability estimate Standard error of the mean
+Dispersion value 5.365
+Notes:
+[99] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[100]
+P-value = 0.3085
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 5.538
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -5.127
+upper limit 16.203
+Variability estimate Standard error of the mean
+Dispersion value 5.435
+Notes:
+[100] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[101]
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 42  of 89
+P-value = 0.1053
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 8.774
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.847
+upper limit 19.394
+Variability estimate Standard error of the mean
+Dispersion value 5.413
+Notes:
+[101] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Peak expiratory flow (PEF) p.m. change from baseline
+End point title Peak expiratory flow (PEF) p.m. change from baseline
+End point description:
+Change from baseline in the evening (p.m.) peak expiratory flow based on the weekly mean at weeks 24
+and 48.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[102] 135[103] 135[104]
+Units: Litres per min (L/min)
+arithmetic mean (standard error)
+Week 24 (N= 121, 130, 133) 3.179 (± 15.539 (± 17.325 (±
+4.597) 4.444) 4.464)
+Week 48 (N=119, 123, 125) 17.1 (± 4.622) 15.219 (± 21.276 (±
+4.475) 4.504)
+Notes:
+[102] - FAS
+[103] - FAS
+[104] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 43  of 89
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[105]
+P-value = 0.0236
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 12.36
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.663
+upper limit 23.056
+Variability estimate Standard error of the mean
+Dispersion value 5.451
+Notes:
+[105] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[106]
+P-value = 0.0093
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 14.146
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 3.497
+upper limit 24.794
+Variability estimate Standard error of the mean
+Dispersion value 5.427
+Notes:
+[106] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 44  of 89
+Analysis specification Pre-specified
+Analysis type other[107]
+P-value = 0.7322
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -1.882
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -12.667
+upper limit 8.904
+Variability estimate Standard error of the mean
+Dispersion value 5.497
+Notes:
+[107] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[108]
+P-value = 0.4463
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 4.176
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -6.578
+upper limit 14.929
+Variability estimate Standard error of the mean
+Dispersion value 5.481
+Notes:
+[108] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Peak expiratory flow (PEF) variability change from baseline
+End point title Peak expiratory flow (PEF) variability change from baseline
+End point description:
+Change from baseline in the peak expiratory flow variability based on the weekly mean at week 24 and
+48.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 45  of 89
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[109] 135[110] 135[111]
+Units: Percentage of PEF
+arithmetic mean (standard error)
+Week 24 (N=121, 129, 128) -1.204 (± -0.942 (± -1.038 (±
+0.826) 0.798) 0.803)
+Week 48 (N=117, 120, 121) -0.32 (± -0.048 (± -0.899 (±
+0.835) 0.814) 0.818)
+Notes:
+[109] - FAS
+[110] - FAS
+[111] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[112]
+P-value = 0.8008
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.262
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.775
+upper limit 2.299
+Variability estimate Standard error of the mean
+Dispersion value 1.039
+Notes:
+[112] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 46  of 89
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[113]
+P-value = 0.8731
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.166
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.875
+upper limit 2.208
+Variability estimate Standard error of the mean
+Dispersion value 1.041
+Notes:
+[113] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[114]
+P-value = 0.7975
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.272
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.803
+upper limit 2.346
+Variability estimate Standard error of the mean
+Dispersion value 1.058
+Notes:
+[114] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[115]
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 47  of 89
+P-value = 0.5845
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.579
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -2.656
+upper limit 1.498
+Variability estimate Standard error of the mean
+Dispersion value 1.059
+Notes:
+[115] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: FEV1 p.m. change from baseline
+End point title FEV1 p.m. change from baseline
+End point description:
+Change from baseline in evening (p.m.) FEV1 based on the weekly mean at week 24 and 48.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[116] 135[117] 135[118]
+Units: Litres (L)
+arithmetic mean (standard error)
+Week 24 (N=121, 129, 128) 0.167 (± 0.142 (± 0.092 (±
+0.042) 0.041) 0.041)
+Week 48 (N=119, 123, 125) 0.202 (± 0.208 (± 0.159 (±
+0.042) 0.041) 0.041)
+Notes:
+[116] - FAS
+[117] - FAS
+[118] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 48  of 89
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[119]
+P-value = 0.6166
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.025
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.122
+upper limit 0.073
+Variability estimate Standard error of the mean
+Dispersion value 0.05
+Notes:
+[119] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[120]
+P-value = 0.1267
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.076
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.173
+upper limit 0.021
+Variability estimate Standard error of the mean
+Dispersion value 0.049
+Notes:
+[120] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 49  of 89
+Analysis type other[121]
+P-value = 0.9
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.006
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.092
+upper limit 0.105
+Variability estimate Standard error of the mean
+Dispersion value 0.05
+Notes:
+[121] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[122]
+P-value = 0.3897
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.043
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.141
+upper limit 0.055
+Variability estimate Standard error of the mean
+Dispersion value 0.05
+Notes:
+[122] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: ACQ−IA total score
+End point title ACQ−IA total score
+End point description:
+Interviewer Administered Asthma Control Questionnaire (ACQ-IA) total score change after 24 and 48
+weeks of treatment.
+The ACQ-IA is a scale containing 7 questions. Each question has a 7 point scale which ranges from 0 to
+6. A score of 0 corresponds to no impairment and a score of 6 corresponds to maximum impairment.
+ACQ-IA total score is calculated as the mean of the responses to all 7 questions.
+The measured values presented are actually adjusted means.
+Missing data at a visit was imputed by the
+available data from the patient at that visit. Completely missing data were handled by the statistical
+model.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 50  of 89
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+End point type Secondary
+End point timeframe:
+Week 24 and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[123] 135[124] 135[125]
+Units: Units on a Scale
+arithmetic mean (standard error)
+Week 24 (N=126, 131, 134) 1.017 (± 0.897 (± 0.06)
+0.835 (± 0.06)
+0.062)
+Week 48 (N=124, 130, 130) 0.817 (± 0.752 (± 0.06) 0.723 (±
+0.062) 0.061)
+Notes:
+[123] - FAS
+[124] - FAS
+[125] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Tio R2.5 v Placebo Respimat
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[126]
+P-value = 0.0975
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.12
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.262
+upper limit 0.022
+Variability estimate Standard error of the mean
+Dispersion value 0.072
+Notes:
+[126] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 51  of 89
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[127]
+P-value = 0.0116
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.182
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.323
+upper limit -0.041
+Variability estimate Standard error of the mean
+Dispersion value 0.072
+Notes:
+[127] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[128]
+P-value = 0.3732
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.065
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.208
+upper limit 0.078
+Variability estimate Standard error of the mean
+Dispersion value 0.073
+Notes:
+[128] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 52  of 89
+Analysis specification Pre-specified
+Analysis type other[129]
+P-value = 0.1985
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.093
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.236
+upper limit 0.049
+Variability estimate Standard error of the mean
+Dispersion value 0.073
+Notes:
+[129] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: ACQ−IA responder analysis
+End point title ACQ−IA responder analysis
+End point description:
+Responder categories based on the ACQ-IA total score after 24 and 48 weeks of treatment. Analysis was
+performed using the following categories and definitions: responder (change from trial baseline ≤-0.5),
+no change (-0.5 <change from trial baseline <0.5) and worsening (change from trial baseline ≥0.5). No
+statistical testing was performed for ACQ-IA total score responders.
+The ACQ-IA is a scale containing 7 questions, each question has a 7-point scale which ranges from 0 to
+6; a score of 0 corresponds to no impairment and a score of 6 corresponds to maximum impairment.
+Missing data for patients not withdrawn from the study were either categorised as no change or based
+on available data, withdrawn patients were imputed based upon discontinuation reason.
+End point type Secondary
+End point timeframe:
+Weeks 24 and 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[130] 135[131] 135[132]
+Units: Patients
+number (not applicable)
+Responders at Week 24 97 108 118
+No Change at Week 24 34 27 16
+Worsening at Week 24 0 0 1
+Responder at Week 48 114 118 117
+No Change at Week 48 16 14 17
+Worsening at Week 48 1 3 1
+Notes:
+[130] - FAS
+[131] - FAS
+[132] - FAS
+Statistical analyses
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 53  of 89
+No statistical analyses for this end point
+Secondary: PAQLQ(S) total score
+End point title PAQLQ(S) total score
+End point description:
+Standardised Paediatric Asthma Quality of Life Questionnaire (PAQLQ(S)) total score at weeks 24 and
+48.
+The PAQLQ(S) is 23 questions on a 7-point scale, ranging from 1 (worst control) to 7 (best control).
+Total Score is calculated as mean of all 23 questions.
+The measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical
+model.
+End point type Secondary
+End point timeframe:
+Week 24 and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[133] 135[134] 135[135]
+Units: Units on a Scale
+arithmetic mean (standard error)
+Week 24 (N= 126, 131, 134) 5.966 (± 6.142 (± 6.093 (±
+0.065) 0.063) 0.062)
+Week 48 (N=124, 130, 130) 6.309 (± 6.288 (± 6.327 (±
+0.065) 0.063) 0.063)
+Notes:
+[133] - FAS
+[134] - FAS
+[135] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[136]
+P-value = 0.0144
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.176
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 54  of 89
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.035
+upper limit 0.316
+Variability estimate Standard error of the mean
+Dispersion value 0.072
+Notes:
+[136] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[137]
+P-value = 0.0747
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.127
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.013
+upper limit 0.267
+Variability estimate Standard error of the mean
+Dispersion value 0.071
+Notes:
+[137] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[138]
+P-value = 0.7654
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.021
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.163
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 55  of 89
+upper limit 0.12
+Variability estimate Standard error of the mean
+Dispersion value 0.072
+Notes:
+[138] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[139]
+P-value = 0.8082
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.017
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.124
+upper limit 0.158
+Variability estimate Standard error of the mean
+Dispersion value 0.072
+Notes:
+[139] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: PAQLQ(S) symptom domain score
+End point title PAQLQ(S) symptom domain score
+End point description:
+PAQLQ(S) symptom domain score at weeks 24 and 48.
+The PAQLQ(S) is 23 questions on a 7-point scale, ranging from 1 (worst control) to 7 (best control). The
+individual domain score was calculated as the mean of the items in the domain.
+The measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical
+model.
+End point type Secondary
+End point timeframe:
+Week 24 and Week 48
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 56  of 89
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[140] 135[141] 135[142]
+Units: Units on a Scale
+arithmetic mean (standard error)
+Week 24 (N=126, 131, 134) 5.84 (± 0.076) 6.015 (± 5.967 (±
+0.074) 0.073)
+Week 48 (N=124, 130, 130) 6.195 (± 6.177 (± 6.199 (±
+0.076) 0.074) 0.074)
+Notes:
+[140] - FAS
+[141] - FAS
+[142] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[143]
+P-value = 0.0392
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.175
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.009
+upper limit 0.341
+Variability estimate Standard error of the mean
+Dispersion value 0.085
+Notes:
+[143] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[144]
+P-value = 0.1351
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 57  of 89
+Point estimate 0.126
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.039
+upper limit 0.292
+Variability estimate Standard error of the mean
+Dispersion value 0.084
+Notes:
+[144] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[145]
+P-value = 0.8291
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.018
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.185
+upper limit 0.149
+Variability estimate Standard error of the mean
+Dispersion value 0.085
+Notes:
+[145] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[146]
+P-value = 0.9655
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.004
+Confidence interval
+level 95 %
+sides 2-sided
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 58  of 89
+lower limit -0.163
+upper limit 0.171
+Variability estimate Standard error of the mean
+Dispersion value 0.085
+Notes:
+[146] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: PAQLQ(S) activity limitation domain score
+End point title PAQLQ(S) activity limitation domain score
+End point description:
+PAQLQ(S) activity limitation domain score at weeks 24 and 48. The PAQLQ(S) is 23 questions on a 7-
+point scale, ranging from 1 (worst control) to 7 (best control). The individual domain score is calculated
+as the mean of the items in this domain.
+The measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Week 24 and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[147] 135[148] 135[149]
+Units: Units on a Scale
+arithmetic mean (standard error)
+Week 24 (N= 126, 131, 134) 5.898 (± 6.089 (± 6.023 (±
+0.069) 0.067) 0.067)
+Week 48 (N=124, 130, 130) 6.249 (± 0.07) 6.284 (± 6.319 (±
+0.068) 0.067)
+Notes:
+[147] - FAS
+[148] - FAS
+[149] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[150]
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 59  of 89
+P-value = 0.0139
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.191
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.039
+upper limit 0.343
+Variability estimate Standard error of the mean
+Dispersion value 0.077
+Notes:
+[150] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[151]
+P-value = 0.1043
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.125
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.026
+upper limit 0.276
+Variability estimate Standard error of the mean
+Dispersion value 0.077
+Notes:
+[151] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[152]
+P-value = 0.6547
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.035
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 60  of 89
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.118
+upper limit 0.187
+Variability estimate Standard error of the mean
+Dispersion value 0.078
+Notes:
+[152] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[153]
+P-value = 0.3648
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.07
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.082
+upper limit 0.222
+Variability estimate Standard error of the mean
+Dispersion value 0.077
+Notes:
+[153] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: PAQLQ(S) emotional function domain score
+End point title PAQLQ(S) emotional function domain score
+End point description:
+PAQLQ(S) emotional function domain score at weeks 24 and 48. The PAQLQ(S) is 23 questions on a 7-
+point scale, ranging from 1 (worst control) to 7 (best control). The individual domain score is calculated
+as the mean of the items in this domain.
+The measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical
+model.
+End point type Secondary
+End point timeframe:
+Week 24 Week 48
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 61  of 89
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[154] 135[155] 135[156]
+Units: Units on a Scale
+arithmetic mean (standard error)
+Week 24 (N=126, 131, 134) 6.157 (± 6.323 (± 6.298 (±
+0.067) 0.065) 0.064)
+Week 48 (N=124, 130, 130) 6.481 (± 6.42 (± 0.065) 6.491 (±
+0.067) 0.065)
+Notes:
+[154] - FAS
+[155] - FAS
+[156] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[157]
+P-value = 0.0256
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.166
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.02
+upper limit 0.312
+Variability estimate Standard error of the mean
+Dispersion value 0.074
+Notes:
+[157] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 62  of 89
+Analysis type other[158]
+P-value = 0.0561
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.141
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.004
+upper limit 0.286
+Variability estimate Standard error of the mean
+Dispersion value 0.074
+Notes:
+[158] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[159]
+P-value = 0.4127
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.061
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.208
+upper limit 0.085
+Variability estimate Standard error of the mean
+Dispersion value 0.075
+Notes:
+[159] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[160]
+P-value = 0.8922
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 63  of 89
+Point estimate 0.01
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.136
+upper limit 0.156
+Variability estimate Standard error of the mean
+Dispersion value 0.074
+Notes:
+[160] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Responders in PAQLQ(S) at weeks 24 and 48
+End point title Responders in PAQLQ(S) at weeks 24 and 48
+End point description:
+Responders in PAQLQ(S) at weeks 24 and 48. Analysis was performed using the following categories and
+definitions: responder (change from trial baseline ≥0.5), no change (-0.5 <change from trial baseline
+<0.5) and worsening (change from trial baseline ≤-0.5).
+No statistical testing was performed for PAQLQ(S) total score responders.
+The PAQLQ(S) is 23 questions on a 7-point scale, ranging from 1 (worst control) to 7 (best control).
+Missing data for patients not withdrawn from the study were either categorised as no change or based
+on available data, withdrawn patients were imputed based upon discontinuation reason.
+End point type Secondary
+End point timeframe:
+Weeks 24 and 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[161] 135[162] 135[163]
+Units: Patients
+number (not applicable)
+Responders at Week 24 67 82 73
+No Change at Week 24 58 47 56
+Worsening at Week 24 6 6 6
+Responders at Week 48 89 96 92
+No Change at Week 48 39 33 42
+Worsening at Week 48 3 6 1
+Notes:
+[161] - FAS
+[162] - FAS
+[163] - FAS
+Statistical analyses
+No statistical analyses for this end point
+Secondary: FEV1 a.m. change from baseline
+End point title FEV1 a.m. change from baseline
+End point description:
+Change from baseline in morning (a.m.) FEV1 based on the weekly mean at week 24 and 48.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 64  of 89
+The measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[164] 135[165] 135[166]
+Units: Litres
+arithmetic mean (standard error)
+Week 24 (N=122, 130, 130) 0.191 (± 0.209 (± 0.126 (±
+0.041) 0.039) 0.039)
+Week 48 (N=119, 122, 125) 0.236 (± 0.259 (± 0.04)
+0.221 (± 0.04)
+0.041)
+Notes:
+[164] - FAS
+[165] - FAS
+[166] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[167]
+P-value = 0.6932
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.019
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.075
+upper limit 0.113
+Variability estimate Standard error of the mean
+Dispersion value 0.048
+Notes:
+[167] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 65  of 89
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[168]
+P-value = 0.1741
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.065
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.158
+upper limit 0.029
+Variability estimate Standard error of the mean
+Dispersion value 0.048
+Notes:
+[168] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[169]
+P-value = 0.625
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.024
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.071
+upper limit 0.118
+Variability estimate Standard error of the mean
+Dispersion value 0.048
+Notes:
+[169] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 66  of 89
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[170]
+P-value = 0.7597
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.015
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.109
+upper limit 0.08
+Variability estimate Standard error of the mean
+Dispersion value 0.048
+Notes:
+[170] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Change from baseline in nighttime awakenings
+End point title Change from baseline in nighttime awakenings
+End point description:
+Change from baseline in nighttime awakenings based on the weekly mean at weeks 24 and 48.
+Nighttime awakenings was assessed by the question "Did you wake up during the night due to your
+asthma?" from the e-diary. Scores range from 1 (did not wake up) to 5 (was awake all night).
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[171] 135[172] 135[173]
+Units: Units on a scale
+arithmetic mean (standard error)
+Week 24 (N=122, 130, 130) -0.07 (± 0.03) -0.079 (± -0.144 (±
+0.029) 0.029)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 67  of 89
+Week 48 (N=119, 122, 125) -0.101 (± -0.131 (± -0.127 (±
+0.03) 0.029) 0.029)
+Notes:
+[171] - FAS
+[172] - FAS
+[173] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[174]
+P-value = 0.7931
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.009
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.08
+upper limit 0.061
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Notes:
+[174] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[175]
+P-value = 0.0369
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.075
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.145
+upper limit -0.005
+Variability estimate Standard error of the mean
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 68  of 89
+Dispersion value 0.036
+Notes:
+[175] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[176]
+P-value = 0.4086
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.03
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.101
+upper limit 0.041
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Notes:
+[176] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[177]
+P-value = 0.4714
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.026
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.097
+upper limit 0.045
+Variability estimate Standard error of the mean
+Dispersion value 0.036
+Notes:
+[177] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 69  of 89
+Secondary: Change from baseline in morning asthma symptoms
+End point title Change from baseline in morning asthma symptoms
+End point description:
+Change from baseline in morning asthma symptoms based on the weekly mean at weeks 24 and 48.
+Morning asthma symptoms was assessed by the question "how were your asthma symptoms this
+morning?" from the e-diary. Scores range from 1 (no asthma symptoms) to 5 (very severe asthma
+symptoms).
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[178] 135[179] 135[180]
+Units: Units on a scale
+arithmetic mean (standard error)
+Week 24 (N=122, 130, 130) -0.138 (± -0.138 (± -0.22 (±
+0.039) 0.038) 0.038)
+Week 48 (N=119, 122, 125) -0.177 (± -0.23 (± -0.221 (±
+0.039) 0.038) 0.038)
+Notes:
+[178] - FAS
+[179] - FAS
+[180] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[181]
+P-value = 0.988
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.001
+Confidence interval
+level 95 %
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 70  of 89
+sides 2-sided
+lower limit -0.091
+upper limit 0.092
+Variability estimate Standard error of the mean
+Dispersion value 0.047
+Notes:
+[181] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[182]
+P-value = 0.0794
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.082
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.173
+upper limit 0.01
+Variability estimate Standard error of the mean
+Dispersion value 0.046
+Notes:
+[182] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[183]
+P-value = 0.2623
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.053
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.145
+upper limit 0.04
+Variability estimate Standard error of the mean
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 71  of 89
+Dispersion value 0.047
+Notes:
+[183] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[184]
+P-value = 0.3552
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.043
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.136
+upper limit 0.04
+Variability estimate Standard error of the mean
+Dispersion value 0.047
+Notes:
+[184] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Change from baseline in daytime asthma symptoms
+End point title Change from baseline in daytime asthma symptoms
+End point description:
+Change from baseline in daytime asthma symptoms based on the weekly mean at weeks 24 and 48.
+Daytime asthma symptoms was assessed by the question "how were your asthma symptoms during the
+day?" from the e-diary. Scores range from 1 (no asthma symptoms) to 5 (very severe asthma
+symptoms).
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 72  of 89
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[185] 135[186] 135[187]
+Units: Units on a scale
+arithmetic mean (standard error)
+Week 24 (N=121, 130, 133) -0.204 (± -0.243 (± -0.263 (±
+0.041) 0.04) 0.04)
+Week 48 (N=119, 123, 125) -0.261 (± -0.272 (± -0.312 (±
+0.042) 0.041) 0.041)
+Notes:
+[185] - FAS
+[186] - FAS
+[187] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[188]
+P-value = 0.4359
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.039
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.135
+upper limit 0.058
+Variability estimate Standard error of the mean
+Dispersion value 0.049
+Notes:
+[188] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[189]
+P-value = 0.2293
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 73  of 89
+Point estimate -0.059
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.155
+upper limit 0.037
+Variability estimate Standard error of the mean
+Dispersion value 0.049
+Notes:
+[189] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[190]
+P-value = 0.8372
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.01
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.108
+upper limit 0.088
+Variability estimate Standard error of the mean
+Dispersion value 0.05
+Notes:
+[190] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[191]
+P-value = 0.3022
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.051
+Confidence interval
+level 95 %
+sides 2-sided
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 74  of 89
+lower limit -0.148
+upper limit 0.046
+Variability estimate Standard error of the mean
+Dispersion value 0.049
+Notes:
+[191] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Change from baseline in daytime activity limitations
+End point title Change from baseline in daytime activity limitations
+End point description:
+Change from baseline in daytime activity limitations based on the weekly mean at weeks 24 and 48.
+Daytime activity limitations was assessed by the question "how limited were you in your activities today
+because of your asthma?" from the e-diary. Scores range from 1 (not limited) to 5 (totally limited).
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[192] 135[193] 135[194]
+Units: Units on a scale
+arithmetic mean (standard error)
+Week 24 (N=121, 130, 133) -0.181 (± -0.212 (± -0.24 (±
+0.039) 0.038) 0.038)
+Week 48 (N=119, 123, 125) -0.227 (± -0.238 (± -0.259 (±
+0.039) 0.038) 0.038)
+Notes:
+[192] - FAS
+[193] - FAS
+[194] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[195]
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 75  of 89
+P-value = 0.5004
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.031
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.122
+upper limit 0.06
+Variability estimate Standard error of the mean
+Dispersion value 0.046
+Notes:
+[195] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[196]
+P-value = 0.1982
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.059
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.149
+upper limit 0.031
+Variability estimate Standard error of the mean
+Dispersion value 0.046
+Notes:
+[196] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[197]
+P-value = 0.8019
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.012
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 76  of 89
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.103
+upper limit 0.08
+Variability estimate Standard error of the mean
+Dispersion value 0.047
+Notes:
+[197] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[198]
+P-value = 0.4872
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.032
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.123
+upper limit 0.059
+Variability estimate Standard error of the mean
+Dispersion value 0.046
+Notes:
+[198] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Change from baseline in daytime experiences of shortness of breath
+End point title Change from baseline in daytime experiences of shortness of
+breath
+End point description:
+Change from baseline in daytime experiences of shortness of breath based on the weekly mean at
+weeks 24 and 48.
+Daytime experiences of shortness of breath was assessed by the question "how much shortness of
+breath did you experience during the day" from the e-diary. Scores range from 1 (none) to 5 (a very
+great deal).
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the
+statistical model.
+End point type Secondary
+End point timeframe:
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 77  of 89
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[199] 135[200] 135[201]
+Units: Units on a scale
+arithmetic mean (standard error)
+Week 24 (N=121, 130, 133) -0.134 (± -0.178 (± -0.24 (±
+0.039) 0.038) 0.038)
+Week 48 (N=119, 123, 125) -0.219 (± -0.231 (± -0.253 (±
+0.039) 0.038) 0.038)
+Notes:
+[199] - FAS
+[200] - FAS
+[201] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[202]
+P-value = 0.3498
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.043
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.135
+upper limit 0.048
+Variability estimate Standard error of the mean
+Dispersion value 0.046
+Notes:
+[202] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 78  of 89
+Analysis specification Pre-specified
+Analysis type other[203]
+P-value = 0.0222
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.106
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.196
+upper limit -0.015
+Variability estimate Standard error of the mean
+Dispersion value 0.046
+Notes:
+[203] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[204]
+P-value = 0.799
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.012
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.104
+upper limit 0.08
+Variability estimate Standard error of the mean
+Dispersion value 0.047
+Notes:
+[204] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[205]
+P-value = 0.4586
+Method Mixed models analysis
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 79  of 89
+Parameter estimate Median difference (net)
+Point estimate -0.035
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.126
+upper limit 0.057
+Variability estimate Standard error of the mean
+Dispersion value 0.047
+Notes:
+[205] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Change from baseline in daytime experiences of wheeze or cough
+End point title Change from baseline in daytime experiences of wheeze or
+cough
+End point description:
+Change from baseline in daytime experiences of wheeze or cough based on the weekly mean at weeks
+24 and 48.
+Daytime experiences of wheeze or cough was assessed by the question "did you experience wheeze or
+cough during the day?" from the e-diary. Scores range from 1 (not at all) to 5 (all the time).
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[206] 135[207] 135[208]
+Units: Units on a scale
+arithmetic mean (standard error)
+Week 24 (N=121, 130, 133) -0.261 (± -0.307 (± -0.355 (±
+0.046) 0.045) 0.045)
+Week 48 (N=119, 123, 125) -0.34 (± -0.337 (± -0.393 (±
+0.047) 0.045) 0.046)
+Notes:
+[206] - FAS
+[207] - FAS
+[208] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 80  of 89
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[209]
+P-value = 0.4221
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.045
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.156
+upper limit 0.065
+Variability estimate Standard error of the mean
+Dispersion value 0.056
+Notes:
+[209] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[210]
+P-value = 0.0959
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate -0.093
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.204
+upper limit 0.017
+Variability estimate Standard error of the mean
+Dispersion value 0.056
+Notes:
+[210] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 81  of 89
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[211]
+P-value = 0.9627
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.003
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.109
+upper limit 0.114
+Variability estimate Standard error of the mean
+Dispersion value 0.057
+Notes:
+[211] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[212]
+P-value = 0.3457
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate -0.054
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.165
+upper limit 0.058
+Variability estimate Standard error of the mean
+Dispersion value 0.057
+Notes:
+[212] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Secondary: Change from baseline in asthma symptom-free days
+End point title Change from baseline in asthma symptom-free days
+End point description:
+Change from baseline in asthma symptom-free days based on the weekly mean at weeks 24 and 48.
+A day was considered as an asthma symptom-free day if there were no symptoms reported via the e-
+Diary and no use of rescue medication reported via the eDiary during that day.
+Measured values presented are actually adjusted means.
+The number of participants analysed displays the number of participants included in the statistical model
+whereas the N’s for each timepoint display the number of participants with available data at that
+timepoint.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 82  of 89
+Missing data at a visit was imputed by the available data from the patient at that visit. Completely
+missing data were handled by the statistical model.
+End point type Secondary
+End point timeframe:
+Baseline and Week 24, Baseline and Week 48
+Placebo
+End point values Tio R2.5 Tio R5
+Respimat
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 131[213] 135[214] 135[215]
+Units: Days
+arithmetic mean (standard error)
+Week 24 (N=122, 130, 133) 0.135 (± 0.176 (± 0.172 (±
+0.036) 0.034) 0.035)
+Week 48 (N=120, 123, 127) 0.151 (± 0.17 (± 0.035)
+0.18 (± 0.035)
+0.036)
+Notes:
+[213] - FAS
+[214] - FAS
+[215] - FAS
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[216]
+P-value = 0.3375
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.041
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.043
+upper limit 0.125
+Variability estimate Standard error of the mean
+Dispersion value 0.043
+Notes:
+[216] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 83  of 89
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 24)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[217]
+P-value = 0.388
+Method Mixed models analysis
+Parameter estimate Mean difference (net)
+Point estimate 0.037
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.047
+upper limit 0.121
+Variability estimate Standard error of the mean
+Dispersion value 0.043
+Notes:
+[217] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R2.5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R2.5
+Number of subjects included in analysis 266
+Analysis specification Pre-specified
+Analysis type other[218]
+P-value = 0.6541
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.019
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.066
+upper limit 0.104
+Variability estimate Standard error of the mean
+Dispersion value 0.043
+Notes:
+[218] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Repeated measures restricted maximum likelihood model was used. The model included the fixed,
+categorical effects of treatment, country, visit and treatment-by-visit interaction, as well the continuous
+fixed covariates of baseline and baseline-by-visit interaction. Patient was included as random effect.
+Difference calculated as Tio R5 minus placebo (Week 48)
+Comparison groups Placebo Respimat v Tio R5
+Number of subjects included in analysis 266
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 84  of 89
+Analysis specification Pre-specified
+Analysis type other[219]
+P-value = 0.5089
+Method Mixed models analysis
+Parameter estimate Median difference (net)
+Point estimate 0.028
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.056
+upper limit 0.133
+Variability estimate Standard error of the mean
+Dispersion value 0.043
+Notes:
+[219] - All treatment comparisons were exploratory, no formal hypothesis testing was performed.
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 85  of 89
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+From first drug intake until 30 days after last drug intake, up to day 407.
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 18.1
+Reporting groups
+Reporting group title Placebo
+Reporting group description:
+Inhalation of placebo solution (2 puffs) once daily for 48 weeks delivered by the Respimat inhaler, as
+add on therapy on top of usual care.
+Reporting group title Tio R2.5
+Reporting group description:
+Inhalation of 2.5mcg tiotropium (Tio R2.5) solution (2 puffs of 1.25mcg) once daily for 48 weeks
+delivered by the Respimat inhaler, as add on therapy on top of usual care.
+Reporting group title Tio R5
+Reporting group description:
+Inhalation of 5mcg tiotropium (Tio R5) solution (2 puffs of 2.5mcg) once daily for 48 weeks delivered by
+the Respimat inhaler, as add on therapy on top of usual care.
+Serious adverse events Placebo Tio R2.5 Tio R5
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 6 / 131 (4.58%) 3 / 135 (2.22%) 1 / 135 (0.74%)
+number of deaths (all causes) 0 0 0
+number of deaths resulting from
+0 0 0
+adverse events
+Injury, poisoning and procedural
+complications
+Concussion
+subjects affected / exposed 1 / 131 (0.76%) 0 / 135 (0.00%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Fall
+subjects affected / exposed 1 / 131 (0.76%) 0 / 135 (0.00%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Skull fracture
+subjects affected / exposed 1 / 131 (0.76%) 0 / 135 (0.00%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 86  of 89
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Asthma
+subjects affected / exposed 2 / 131 (1.53%) 2 / 135 (1.48%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 2 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Paranasal sinus haematoma
+subjects affected / exposed 1 / 131 (0.76%) 0 / 135 (0.00%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Immune system disorders
+Anaphylactic reaction
+subjects affected / exposed 1 / 131 (0.76%) 0 / 135 (0.00%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrointestinal disorders
+Ileus paralytic
+subjects affected / exposed 0 / 131 (0.00%) 0 / 135 (0.00%) 1 / 135 (0.74%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infections and infestations
+Gastroenteritis
+subjects affected / exposed 1 / 131 (0.76%) 0 / 135 (0.00%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Appendicitis
+subjects affected / exposed 0 / 131 (0.00%) 1 / 135 (0.74%) 1 / 135 (0.74%)
+occurrences causally related to 0 / 0 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Renal abscess
+subjects affected / exposed 1 / 131 (0.76%) 0 / 135 (0.00%) 0 / 135 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 87  of 89
+Frequency threshold for reporting non-serious adverse events: 5 %
+Non-serious adverse events Placebo Tio R2.5 Tio R5
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 79 / 131 (60.31%) 76 / 135 (56.30%) 71 / 135 (52.59%)
+Investigations
+Peak expiratory flow rate decreased
+subjects affected / exposed 27 / 131 (20.61%) 31 / 135 (22.96%) 29 / 135 (21.48%)
+occurrences (all) 63 73 89
+Respiratory, thoracic and mediastinal
+disorders
+Asthma
+subjects affected / exposed 57 / 131 (43.51%) 49 / 135 (36.30%) 46 / 135 (34.07%)
+occurrences (all) 132 122 131
+Rhinitis allergic
+subjects affected / exposed 8 / 131 (6.11%) 4 / 135 (2.96%) 6 / 135 (4.44%)
+occurrences (all) 11 4 9
+Infections and infestations
+Nasopharyngitis
+subjects affected / exposed 13 / 131 (9.92%) 15 / 135 (11.11%) 12 / 135 (8.89%)
+occurrences (all) 18 21 14
+Respiratory tract infection
+subjects affected / exposed 16 / 131 (12.21%) 11 / 135 (8.15%) 13 / 135 (9.63%)
+occurrences (all) 29 18 26
+Respiratory tract infection viral
+subjects affected / exposed 8 / 131 (6.11%) 8 / 135 (5.93%) 8 / 135 (5.93%)
+occurrences (all) 10 11 14
+Rhinitis
+subjects affected / exposed 7 / 131 (5.34%) 5 / 135 (3.70%) 2 / 135 (1.48%)
+occurrences (all) 7 5 2
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 88  of 89
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+21 March 2013 This amendment introduced changes to clarify wording and trial procedures, to
+replace the name and contact information of the former CI with the name and
+contact information of the new CI, to correct minor typographical errors and
+inconsistencies, and to update the information and risk assessment for tiotropium
+based on newly available data. Some clarification in regard to inclusion and
+exclusion criteria was introduced. The amendment also clarified the process to
+administer information to the patient and collect assent from the patient in case
+the patient him/herself was not able to read or sign him/herself.
+01 April 2015 With the second amendment, the CTP was updated with definitions and
+procedures used by
+the sponsor for AEs, SAEs, AESI, and reporting of such events. To be in line with
+other
+clinical trials of the same development program, the endpoint ‘FEF25-75 response
+determined
+at the end of the 48-week treatment period’ was amended to ‘individual FEF25-75
+response at
+each time point and visit during the 48-week treatment period’. The following
+further
+endpoints were added for the same reason: FEV1 peak0-3h expressed as
+percentage of patient’s
+predicted FEV1 after 24 and 48 weeks of treatment, trough FEV1 expressed as
+percentage of
+patient’s predicted FEV1 after 24 and 48 weeks of treatment, time to first
+symptomatic
+asthma exacerbation during the 48-week treatment period, ACQ-IA6 and ACQ-IA6
+responder. The description of the safety analyses was amended to remove
+frequency tables
+with the number and percentage of patients with marked changes in vital signs
+recorded in
+conjunction with spirometry at any time during the trial and at each time point
+separately by
+treatment. Furthermore, the amendment introduced changes to include updated
+information
+on tiotropium based on newly available data and to correct minor typographical
+errors and
+inconsistencies.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Limitations and caveats
+None reported
+Clinical trial results 2011-001758-26 version 1 EU-CTR publication date: 19 June 2016 Page 89  of 89

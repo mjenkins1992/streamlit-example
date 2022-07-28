@@ -1,0 +1,1669 @@
+ EU Clinical Trials Register
+Clinical trial results:
+A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Trial to
+Evaluate the Efficacy and Safety of a Vaccine, ASP0113, in
+Cytomegalovirus (CMV)-Seronegative Kidney Transplant
+Recipients Receiving an Organ from a CMV-Seropositive Donor
+Summary
+EudraCT number 2013-000464-29
+Trial protocol DE ES
+Global end of trial date 05 November 2020
+Results information
+Result version number v3 (current)
+This version publication date 13 February 2022
+First version publication date 29 April 2017
+Version creation reason
+Trial information
+Trial identification
+Sponsor protocol code 0113-CL-2001
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT01974206
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name Astellas Pharma Global Development, Inc.
+Sponsor organisation address 1 Astellas Way, Northbrook, United States, 60062
+Public contact Clinical Transparency, Astellas Pharma Global Development,
+Inc., astellas.resultsdisclosure@astellas.com
+Scientific contact Clinical Transparency, Astellas Pharma Global Development,
+Inc., astellas.resultsdisclosure@astellas.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Results analysis stage
+Analysis stage Final
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 1  of 38
+Date of interim/final analysis 05 November 2020
+Is this the analysis of the primary No
+completion data?
+Global end of trial reached? Yes
+Global end of trial date 05 November 2020
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+The main objective of the trial was to evaluate efficacy and safety of ASP0113 compared to placebo in
+reducing the incidence of Cytomegalovirus (CMV) viremia through 1 year post first study drug injection
+in CMV-seronegative participants who received a kidney from a CMV-seropositive donor.
+Protection of trial subjects:
+This clinical study was written, conducted and reported in accordance with the protocol, International
+Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Good
+Clinical Practice (GCP) Guidelines, and applicable local regulations, including the European Directive
+2001/20/EC, on the protection of human rights, and with the ethical principles that have their origin in
+the Declaration of Helsinki. Astellas ensures that the use and disclosure of protected health information
+(PHI) obtained during a research study complies with the federal, national and/or regional legislation
+related to the privacy and protection of personal information.
+Background therapy:
+In the first 10 days after the transplant, patients received prophylactic valganciclovir or ganciclovir (dose
+per package insert) from the day of randomization to prevent Cytomegalovirus (CMV) disease. After
+randomization, patients continued to receive valganciclovir or ganciclovir until 100 days post-transplant.
+Valganciclovir or ganciclovir could be interrupted, dose adjusted or replaced by other CMV-specific
+antiviral prophylaxis (AVP) per standard of care after the day of randomization.
+Evidence for comparator: -
+Actual start date of recruitment 20 November 2013
+Long term follow-up planned Yes
+Long term follow-up rationale Safety
+Long term follow-up duration 4 Years
+Independent data monitoring committee Yes
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Spain: 8
+Country: Number of subjects enrolled United States: 93
+Country: Number of subjects enrolled Australia: 11
+Country: Number of subjects enrolled Canada: 7
+Country: Number of subjects enrolled France: 15
+Country: Number of subjects enrolled Germany: 16
+Worldwide total number of subjects 150
+EEA total number of subjects 39
+Notes:
+Subjects enrolled per age group
+In u 
+
+******************************
+
+ tero 0
+Preterm newborn - gestational age < 37 0
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 2  of 38
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 129
+From 65 to 84 years 21
+85 years and over 0
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 3  of 38
+Subject disposition
+Recruitment
+Recruitment details:
+A total of 150 participants were enrolled into the study from 6 countries. Eligible participants were ≥18
+years of age, CMV-seronegative at the time of the transplant and had a kidney allograft from a CMV-
+seropositive living or deceased donor. After the primary period completion, 149 participants entered the
+long-term follow-up period.
+Pre-assignment
+Screening details:
+Screening assessments were performed from 14-30 days after the transplant. Patients were randomized
+at day 30, in relation to the day of the transplant, in a 1:1 ratio to ASP0113 or placebo. Participants
+were stratified by the use of antithymocyte globulin (ATG) prior to randomization and by the receipt of a
+kidney from a living or deceased donor.
+Period 1
+Period 1 title Primary Study Period (overall period)
+Is this the baseline period? Yes
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator, Assessor
+Blinding implementation details:
+This was a double-blind study. Participants were randomized to receive ASP0113 or placebo in a double-
+blind fashion such that the investigator, sponsor’s study management team, clinical staff nor the
+participant knew which agent was being administered.
+Arms
+Are arms mutually exclusive? Yes
+Arm title Placebo
+Arm description:
+Participants received 1 mL of 5 mg/mL of placebo via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Arm type Placebo
+Investigational medicinal product name Placebo
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Injection
+Routes of administration Intramuscular use
+Dosage and administration details:
+Participants received Placebo in 2-mL vials containing phosphate-buffered saline.
+Arm title ASP0113 5mg
+Arm description:
+Participants received 1 mL of 5 mg/mL of ASP0113 via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Arm type Experimental
+Investigational medicinal product name ASP0113
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Injection
+Routes of administration Intramuscular use
+Dosage and administration details:
+Participants received ASP0113 in single dose 2-ml vials containing 1.3 ml of 5 mg/mL of ASP0113.
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 4  of 38
+Number of subjects in period 1 Placebo ASP0113 5mg
+Started 74 76
+Received Treatment 74 75
+Completed 68 75
+Not completed 6 1
+Death 1  -
+Physician decision 1  -
+Consent withdrawn by subject 3  -
+Patient did not take study drug  - 1
+Lost to follow-up 1  -
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 5  of 38
+Baseline characteristics
+Reporting groups
+Reporting group title Placebo
+Reporting group description:
+Participants received 1 mL of 5 mg/mL of placebo via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Reporting group title ASP0113 5mg
+Reporting group description:
+Participants received 1 mL of 5 mg/mL of ASP0113 via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Reporting group values Placebo ASP0113 5mg Total
+Number of subjects 74 76 150
+Age categorical
+Units: Subjects
+Age continuous
+Units: years
+arithmetic mean 47.9 50.8
+standard deviation ± 13.3 ± 13.6 -
+Gender categorical
+Units: Pa 
+
+******************************
+
+ rticipants
+Male 55 55 110
+Female 19 21 40
+Ethnicity
+Units: Subjects
+Hispanic or Latino 2 70 72
+Not Hispanic or Latino 72 6 78
+Unknown or Not Reported 0 0 0
+Race
+Units: Subjects
+American Indian or Alaska Native 1 0 1
+Asian 0 0 0
+Native Hawaiian or Other Pacific 0 0 0
+Islander
+Black or African American 14 11 25
+White 57 61 118
+More than one race 0 0 0
+Unknown or Not Reported 2 4 6
+Use of ATG
+Units: Subjects
+Use of ATG = No 44 44 88
+Use of ATG = Yes 30 32 62
+Source of Current Transplant
+Units: Subjects
+Living Unrelated Donor 10 17 27
+Living Related Donor 16 9 25
+Deceased Donor 48 49 97
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 6  of 38
+Not Recorded 0 1 1
+Randomization Strata
+Units: Subjects
+Living Donor & ATG Use = No 18 16 34
+Living Donor & ATG Use = Yes 8 10 18
+Deceased Donor & ATG Use = Yes 22 22 44
+Deceased Donor & ATG Use = No 26 27 53
+Not Recorded 0 1 1
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 7  of 38
+End points
+End points reporting groups
+Reporting group title Placebo
+Reporting group description:
+Participants received 1 mL of 5 mg/mL of placebo via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Reporting group title ASP0113 5mg
+Reporting group description:
+Participants received 1 mL of 5 mg/mL of ASP0113 via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Primary: Percentage of Participants with CMV Viremia Through One Year Post First
+Study Drug Injection. (Primary Study Period)
+End point title Percentage of Participants with CMV Viremia Through One Year
+Post First Study Drug Injection. (Primary Study Period)
+End point description:
+CMV viremia was defined as presence of cytomegalovirus as measured in plasma viral load of ≥ 1000
+IU/mL by central laboratory assay. A participants who discontinued the study without a positive CMV
+viral load was imputed as having a CMV viremia. A participant who had more than one viral load ≥ 1000
+IU/mL by central assay was counted once in this summary. CMV viral loads after first injection (Day 1)
+through Day 380 (scheduled or unscheduled) were included in the analysis. The analysis population was
+the Full Analysis Set (FAS) which consisted of all randomized patients who received at least 1 dose of
+randomized study drug and who had at least 1 post dose viral load assessment within 1 year post first
+injection by central laboratory.
+End point type Primary
+End point timeframe:
+From first study dose injection (Day 1) up to one year post study drug injection (up to Day 380)
+End point values Placebo ASP0113 5mg
+Subject group type Reporting group Reporting group
+Number of subjects analysed 73 73
+Units: Percentage of Participants
+number (not applicable)
+Known CMV Viremia 35.6 35.6
+Imputed CMV Viremia Due to 5.5 0
+Discontinuation
+Statistical analyses
+Statistical analysis title Common Odds Ratio for Patients With CMV
+Statistical analysis description:
+The Cochran-Mantel-Haenszel (CMH) estimate of the common odds ratio (ASP0113 vs placebo) stratified
+by randomization strata, and the 90% CIs of the CMH odds ratio stratified by randomization group.
+Comparison groups Placebo v ASP0113 5mg
+Number of subjects included in analysis 146
+Analysis specification Pre-specified
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 8  of 38
+Analysis type other
+P-value = 0.307 [1]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Common Odds Ratio
+Point estimate 0.79
+Confidence interval
+level 90 %
+sides 2-sided
+lower limit 0.43
+upper limit 1.47
+Notes:
+[1] - P-value (1-sided) of the CMH adjusted odds ratio stratified by randomization group.
+Secondary: Percentage of Participants with Adjudicated CMV-Associated Disease,
+Including CMV Syndrome and CMV Tissue-Invasive Disease (Primary Study Period)
+End point title Percentage of Participants with Adjudicated CMV-Associated
+Disease, Inc 
+
+******************************
+
+ luding CMV Syndrome and CMV Tissue-Invasive
+Disease (Primary Study Period)
+End point description:
+An independent panel of medical experts reviewed/adjudicated events of CMV-associated disease
+including CMV syndrome and tissue invasive disease, which were defined according to the American
+Society of Transplantation Recommendations for Screening, Monitoring and Reporting of Infectious
+Complications in Immunosuppression Trials in Recipients of Organ Transplantation 2006. The analysis
+population was the FAS.
+End point type Secondary
+End point timeframe:
+From first study dose injection (Day 1) up to one year post study drug injection (up to Day 380)
+End point values Placebo ASP0113 5mg
+Subject group type Reporting group Reporting group
+Number of subjects analysed 73 73
+Units: Percentage of Participants
+number (not applicable) 19.18 19.18
+Statistical analyses
+Statistical analysis title Common Odds Ratio for CMV-Associated Disease
+Statistical analysis description:
+The exact Cochran-Mantel-Haenszel (CMH) estimate of the common odds ratio (ASP0113 vs placebo)
+stratified by randomization group, and the 90% CI of the exact CMH odds ratio stratified by
+randomization group.
+Comparison groups Placebo v ASP0113 5mg
+Number of subjects included in analysis 146
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.576 [2]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Common Odds Ratio
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 9  of 38
+Point estimate 0.99
+Confidence interval
+level 90 %
+sides 2-sided
+lower limit 0.46
+upper limit 2.15
+Notes:
+[2] - P-value (1-sided) of the exact CMH method adjusted odds ratio stratified by randomization group.
+Secondary: Percentage of Participants with CMV Viremia Defined as Plasma Viral
+Load ≥ the Lower Limit of Quantification (LLOQ) Assessed by Central Laboratory
+(Primary Study Period)
+End point title Percentage of Participants with CMV Viremia Defined as Plasma
+Viral Load ≥ the Lower Limit of Quantification (LLOQ) Assessed
+by Central Laboratory (Primary Study Period)
+End point description:
+The central laboratory had the LLOQ level for CMV viral load assessment. When the viral load was below
+the LLOQ the actual reading was not possible and was denoted as ≤LLOQ. If the participant had any
+CMV viral load assessments greater than the LLOQ, set up by the central laboratory, participant was
+classified as viremic and was included in the analysis. The analysis population was the FAS.
+End point type Secondary
+End point timeframe:
+From first study dose injection (Day 1) up to one year post study drug injection (up to Day 380)
+End point values Placebo ASP0113 5mg
+Subject group type Reporting group Reporting group
+Number of subjects analysed 73 73
+Units: Percentage of Participants
+number (not applicable) 49.32 46.58
+Statistical analyses
+Statistical analysis title Common Odds Ratio for Participants w/ CMV Viremia
+Statistical analysis description:
+The exact Cochran-Mantel-Haenszel (CMH) estimate of the common odds ratio (ASP0113 vs placebo)
+stratified by randomization group, and the 90% CI of the exact CMH odds ratio stratified by
+randomization group.
+Comparison groups Placebo v ASP0113 5mg
+Number of subjects included in analysis 146
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.408 [3]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Common Odds Ratio
+Point estimate 0.88
+Confidence interval
+level 90 %
+sides 2-sided
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 10  of 38
+lower limit 0.48
+upper limit 1.59
+Notes:
+[3] - P-value (1-sided) of the exact CMH method adjusted odds ratio stratified by randomization group.
+Secondary: Percentage of Participants Who Took Adjudicated CMV-specific antiviral
+therapy (AVT) for the Treatment of CMV Viremia or Disease (Primary Study Period)
+End point title Percentage of Participants Who Took Adjudicated CMV-specific
+antiviral therapy (AVT) for the Treatment of CMV Viremia or
+Disease (Primary Study Period)
+End point description:
+An independent p 
+
+******************************
+
+ anel of medical experts reviewed/adjudicated events of CMV-specific AVT for treatment
+of CMV viremia or disease. The analysis population was the FAS.
+End point type Secondary
+End point timeframe:
+From first study dose injection (Day 1) up to one year post study drug injection (up to Day 380)
+End point values Placebo ASP0113 5mg
+Subject group type Reporting group Reporting group
+Number of subjects analysed 73 73
+Units: Percentage of Participants
+number (not applicable) 45.21 42.47
+Statistical analyses
+Statistical analysis title Common Odds Ratio for Participants With CMV-AVT
+Statistical analysis description:
+The exact Cochran-Mantel-Haenszel (CMH) estimate of the common odds ratio (ASP0113 vs placebo)
+stratified by randomization group, and the 90% CI of the exact CMH odds ratio stratified by
+randomization group.
+Comparison groups Placebo v ASP0113 5mg
+Number of subjects included in analysis 146
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.419 [4]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Common Odds Ratio
+Point estimate 0.88
+Confidence interval
+level 90 %
+sides 2-sided
+lower limit 0.48
+upper limit 1.61
+Notes:
+[4] - P-value (1-sided) of the exact CMH method adjusted odds ratio stratified by randomization group.
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 11  of 38
+Secondary: Percentage of Participants with Graft Survival (Primary Study Period)
+End point title Percentage of Participants with Graft Survival (Primary Study
+Period)
+End point description:
+Graft survival was defined for any participants that did not fit the definition of graft loss. Graft loss was
+defined as participant death, re-transplant, nephrectomy, or return to permanent dialysis (i.e., for > 30
+days). Missing values for graft survival were not included in the denominator when making the
+proportion. The analysis population was the FAS.
+End point type Secondary
+End point timeframe:
+From first study dose injection (Day 1) up to one year post study drug injection (up to Day 380)
+End point values Placebo ASP0113 5mg
+Subject group type Reporting group Reporting group
+Number of subjects analysed 74 76
+Units: Percentage of Participants
+number (not applicable) 98.53 100
+Statistical analyses
+Statistical analysis title Common Odds Ratio of Participants w/Graft Survival
+Statistical analysis description:
+Exact Cochran-Mantel-Haenszel estimate of the common odds ratio (ASP0113 versus Placebo) could not
+be estimated and is denoted as "9999." Moreover, upper limit of 90% CI of oods ratio is an infinity value
+and is also denoted as "9999."
+Comparison groups Placebo v ASP0113 5mg
+Number of subjects included in analysis 150
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.5 [5]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Common Odds Ratio
+Point estimate 9999
+Confidence interval
+level 90 %
+sides 2-sided
+lower limit 0.11
+upper limit 9999
+Notes:
+[5] - P-value (1-sided) of the Exact Cochran-Mantel-Haenszel method adjusted odds ratio stratified by
+randomization group.
+Secondary: Percentage of Participants with Graft Survival (Long-term Follow up)
+End point title Percentage of Participants with Graft Survival (Long-term
+Follow up)
+End point description:
+Graft survival was defined for any participants that did not fit the definition of graft loss. Graft loss was
+defined as participant death, re-transplant, nephrectomy, or return to permanent dialysis (i.e., for > 30
+days). The analysis population was all participants who entered long-term follow-up.
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 12  of 38
+End point type Secondary
+End point timeframe:
+Month 18, 30, 42, 54, and 66
+End point values Placebo ASP0113 5mg
+Subject group type Reporting group Reporting group
+Number of subjects analysed 74 76
+Units: Percentage of participants
+number (not applicable)
+Long-term Follow up Month 18 91.9 94.7
+Long-term Follow up Month 30 83.8 81.6
+Long-term Follow up Month 42 85.1 80.3
+Long-term Follow up Month 54 78.4 77.6
+Long-term Follow 
+
+******************************
+
+  up Month 66 82.4 84.2
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 13  of 38
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+Day 1 to Day 380
+Adverse event reporting additional description:
+Treatment Emergent Adverse Event (TEAE) was defined as an AE observed after the first study drug
+injection Day 1 through Day 380. No AEs were collected/reported during the long-term follow-up period.
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version v16
+Reporting groups
+Reporting group title Placebo
+Reporting group description:
+Participants received 1 mL of 5 mg/mL of placebo via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Reporting group title ASP0113
+Reporting group description:
+Participants received 1 mL of 5 mg/mL of ASP0113 via injection in the deltoid muscle alternating sides
+with each dose on days 30, 60, 90, 120 and 180 in relation to the day of transplant (Day 0).
+Serious adverse events Placebo ASP0113
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 36 / 74 (48.65%) 44 / 75 (58.67%)
+number of deaths (all causes) 5 7
+number of deaths resulting from
+adverse events
+Vascular disorders
+Aortic aneurysm
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Jugular vein thrombosis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypotension
+subjects affected / exposed 2 / 74 (2.70%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 14  of 38
+Deep vein thrombosis
+subjects affected / exposed 2 / 74 (2.70%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Lymphocele
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Thrombosis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Thrombophlebitis superficial
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Surgical and medical procedures
+Nephrectomy
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Transurethral prostatectomy
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ureteral stent removal
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urostomy
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Neoplasms benign, malignant and
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 15  of 38
+unspecified (incl cysts and polyps)
+Basal cell carcinoma
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Colorectal cancer
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences 
+
+******************************
+
+  causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Prostate cancer
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Metastases to peritoneum
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Invasive lobular breast carcinoma
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Squamous cell carcinoma
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Squamous cell carcinoma of skin
+subjects affected / exposed 2 / 74 (2.70%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Immune system disorders
+Drug hypersensitivity
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 16  of 38
+Kidney transplant rejection
+subjects affected / exposed 4 / 74 (5.41%) 3 / 75 (4.00%)
+occurrences causally related to 0 / 4 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Pyrexia
+subjects affected / exposed 3 / 74 (4.05%) 3 / 75 (4.00%)
+occurrences causally related to 0 / 3 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Malaise
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Psychiatric disorders
+Depression
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Mental status changes
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Injury, poisoning and procedural
+complications
+Bone fissure
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Graft haemorrhage
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Perinephric collection
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 17  of 38
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Lumbar vertebral fracture
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Graft thrombosis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Post procedural haematuria
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Seroma
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Spinal compression fracture
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally 
+
+******************************
+
+  related to
+treatment / all 0 / 0 0 / 0
+Wound
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Investigations
+Blood creatinine increased
+subjects affected / exposed 4 / 74 (5.41%) 5 / 75 (6.67%)
+occurrences causally related to 0 / 4 0 / 5
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Blood glucose increased
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 18  of 38
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+HLA marker study positive
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Immunosuppressant drug level
+increased
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac disorders
+Coronary artery disease
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bradycardia
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Acute myocardial infarction
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Atrial fibrillation
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Pleural effusion
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia aspiration
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 19  of 38
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Dyspnoea
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Blood and lymphatic system disorders
+Leukopenia
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 1 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Febrile neutropenia
+subjects affected / exposed 2 / 74 (2.70%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 2 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Anaemia
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Neutropenia
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Agranulocytosis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nervous system disorders
+Neuropathy peripheral
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Convulsion
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 20  of 38
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causal 
+
+******************************
+
+ ly related to
+treatment / all 0 / 0 0 / 0
+Eye disorders
+Angle closure glaucoma
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastrointestinal disorders
+Abdominal pain
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Aphthous stomatitis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Constipation
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diarrhoea
+subjects affected / exposed 1 / 74 (1.35%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 1 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastrointestinal toxicity
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Subileus
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 3 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Umbilical hernia
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 21  of 38
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal and urinary disorders
+Calculus urinary
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Haematuria
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hydronephrosis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nephrolithiasis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal artery stenosis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal cyst
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nephropathy
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ureteric stenosis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 22  of 38
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal failure acute
+subjects affected / exposed 6 / 74 (8.11%) 10 / 75 (13.33%)
+occurrences causally related to 0 / 10 0 / 12
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal impairment
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal tubular necrosis
+subjects affected / exposed 2 / 74 (2.70%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary tract disorder
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+t 
+
+******************************
+
+ reatment / all 0 / 0 0 / 0
+Urinoma
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary retention
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary bladder atrophy
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hepatobiliary disorders
+Bile duct stone
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 23  of 38
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cholelithiasis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Skin and subcutaneous tissue disorders
+Diabetic foot
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Rhabdomyolysis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Endocrine disorders
+Hyperparathyroidism tertiary
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Metabolism and nutrition disorders
+Diabetes mellitus
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Dehydration
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Fluid overload
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hyperkalaemia
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 24  of 38
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hyperglycaemia
+subjects affected / exposed 2 / 74 (2.70%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Failure to thrive
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diabetes mellitus inadequate control
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypokalaemia
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypovolaemia
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Infections and infestations
+Abscess soft tissue
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bacterial pyelonephritis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+BK virus infection
+subjects affected /  
+
+******************************
+
+ exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 25  of 38
+occurrences causally related to 0 / 0 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clostridium difficile colitis
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus colitis
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus viraemia
+subjects affected / exposed 3 / 74 (4.05%) 5 / 75 (6.67%)
+occurrences causally related to 1 / 3 3 / 7
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus oesophagitis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus syndrome
+subjects affected / exposed 5 / 74 (6.76%) 2 / 75 (2.67%)
+occurrences causally related to 3 / 5 2 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus infection
+subjects affected / exposed 2 / 74 (2.70%) 7 / 75 (9.33%)
+occurrences causally related to 1 / 2 1 / 7
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus mucocutaneous
+ulcer
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Epstein-Barr viraemia
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 26  of 38
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Escherichia bacteraemia
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Enterococcal bacteraemia
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Enterocolitis bacterial
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastroenteritis norovirus
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastroenteritis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Escherichia urinary tract infection
+subjects affected / exposed 2 / 74 (2.70%) 5 / 75 (6.67%)
+occurrences causally related to 0 / 2 0 / 6
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Escherichia sepsis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastroenteritis clostridial
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 27  of 38
+Haematoma infection
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastrointestinal infection
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastroenteritis viral
+subjects affected / exposed 0  
+
+******************************
+
+ / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Infected lymphocele
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Peritonitis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Orchitis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nasopharyngitis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumocystis jiroveci pneumonia
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Polyomavirus-associated
+nephropathy
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 28  of 38
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia necrotising
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia
+subjects affected / exposed 0 / 74 (0.00%) 2 / 75 (2.67%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia cytomegaloviral
+subjects affected / exposed 0 / 74 (0.00%) 3 / 75 (4.00%)
+occurrences causally related to 0 / 0 1 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pyelonephritis acute
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Staphylococcal bacteraemia
+subjects affected / exposed 2 / 74 (2.70%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Staphylococcal sepsis
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pyelonephritis
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary tract infection
+subjects affected / exposed 2 / 74 (2.70%) 2 / 75 (2.67%)
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 29  of 38
+occurrences causally related to 0 / 2 0 / 4
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary tract infection pseudomonal
+subjects affected / exposed 0 / 74 (0.00%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Streptococcal bacteraemia
+subjects affected / exposed 1 / 74 (1.35%) 0 / 75 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary tract infection enterococcal
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary tract infection bacterial
+subjects affected / exposed 1 / 74 (1.35%) 3 / 75 (4.00%)
+occurrences causally related to 0 / 1 0 / 4
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Viral infection
+subjects affected / exposed 1 / 74 (1.35%) 1 / 75 (1.33%)
+occurrences causally related to 1 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urosepsis
+subje 
+
+******************************
+
+ cts affected / exposed 0 / 74 (0.00%) 3 / 75 (4.00%)
+occurrences causally related to 0 / 0 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Non-serious adverse events Placebo ASP0113
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 72 / 74 (97.30%) 75 / 75 (100.00%)
+Vascular disorders
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 30  of 38
+Orthostatic hypotension
+subjects affected / exposed 4 / 74 (5.41%) 0 / 75 (0.00%)
+occurrences (all) 5 0
+Hypotension
+subjects affected / exposed 8 / 74 (10.81%) 11 / 75 (14.67%)
+occurrences (all) 10 16
+Hypertension
+subjects affected / exposed 9 / 74 (12.16%) 12 / 75 (16.00%)
+occurrences (all) 14 12
+Arteriosclerosis
+subjects affected / exposed 1 / 74 (1.35%) 4 / 75 (5.33%)
+occurrences (all) 1 4
+Surgical and medical procedures
+Ureteral stent removal
+subjects affected / exposed 6 / 74 (8.11%) 1 / 75 (1.33%)
+occurrences (all) 6 1
+General disorders and administration
+site conditions
+Injection site pain
+subjects affected / exposed 18 / 74 (24.32%) 47 / 75 (62.67%)
+occurrences (all) 46 277
+Oedema
+subjects affected / exposed 3 / 74 (4.05%) 5 / 75 (6.67%)
+occurrences (all) 3 5
+Oedema peripheral
+subjects affected / exposed 5 / 74 (6.76%) 9 / 75 (12.00%)
+occurrences (all) 8 13
+Fatigue
+subjects affected / exposed 24 / 74 (32.43%) 27 / 75 (36.00%)
+occurrences (all) 38 59
+Injection site erythema
+subjects affected / exposed 2 / 74 (2.70%) 8 / 75 (10.67%)
+occurrences (all) 2 14
+Asthenia
+subjects affected / exposed 8 / 74 (10.81%) 5 / 75 (6.67%)
+occurrences (all) 8 5
+Chills
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 31  of 38
+subjects affected / exposed 4 / 74 (5.41%) 2 / 75 (2.67%)
+occurrences (all) 4 2
+Pyrexia
+subjects affected / exposed 13 / 74 (17.57%) 9 / 75 (12.00%)
+occurrences (all) 14 11
+Psychiatric disorders
+Insomnia
+subjects affected / exposed 6 / 74 (8.11%) 8 / 75 (10.67%)
+occurrences (all) 8 11
+Injury, poisoning and procedural
+complications
+Complications of transplant surgery
+subjects affected / exposed 4 / 74 (5.41%) 2 / 75 (2.67%)
+occurrences (all) 4 2
+Complications of transplanted kidney
+subjects affected / exposed 4 / 74 (5.41%) 4 / 75 (5.33%)
+occurrences (all) 4 4
+Procedural pain
+subjects affected / exposed 2 / 74 (2.70%) 6 / 75 (8.00%)
+occurrences (all) 2 10
+Investigations
+Blood creatinine increased
+subjects affected / exposed 16 / 74 (21.62%) 11 / 75 (14.67%)
+occurrences (all) 19 17
+Weight increased
+subjects affected / exposed 3 / 74 (4.05%) 4 / 75 (5.33%)
+occurrences (all) 3 4
+White blood cell count decreased
+subjects affected / exposed 4 / 74 (5.41%) 1 / 75 (1.33%)
+occurrences (all) 12 1
+Cardiac disorders
+Bradycardia
+subjects affected / exposed 3 / 74 (4.05%) 5 / 75 (6.67%)
+occurrences (all) 3 5
+Tachycardia
+subjects affected / exposed 3 / 74 (4.05%) 5 / 75 (6.67%)
+occurrences (all) 3 5
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 32  of 38
+Respiratory, thoracic and mediastinal
+disorders
+Dyspnoea
+subjects affected / exposed 8 / 74 (10.81%) 5 / 75 (6.67%)
+occurrences (all) 10 9
+Oropharyngeal pain
+subjects affected / exposed 5 / 74 (6.76%) 4 / 75 (5.33%)
+occurrences (all) 5 4
+Cough
+subjects affected / exposed 4 / 74 (5.41%) 7 / 75 (9.33%)
+occurrences (all) 4 8
+Blood and lymphatic system disorders
+Neutropenia
+subjects affected / exposed 6 / 74 (8.11%) 10 / 75 (13.33%)
+occurrences (all) 6 11
+Anaemia
+subjects affected / exposed 4 / 74 (5.41%) 7 / 75 (9.33%)
+occurrences (all) 4 7
+Leukopenia
+subjects affected / exposed 19 / 74 (25.68%) 29 / 75 (38.67%)
+occurrences (all) 23 32
+Thrombocytopenia
+subjects affected / exposed 5 / 74 (6.76%) 1 / 75 (1.33%)
+occurrences (all) 6 1
+Nervous system disorders
+Tremor
+subjects affected / exposed 7 / 74 (9.46%) 10 / 75 (13.33%)
+occurrences (all) 9 11
+Dizziness
+subjects affected / exposed 9 / 74 (12.16%) 3 / 75 (4.00%)
+occurrences (all) 12 3
+Headache
+subjects affected / exposed 12 / 74 
+
+******************************
+
+  (16.22%) 13 / 75 (17.33%)
+occurrences (all) 14 13
+Eye disorders
+Vision blurred
+subjects affected / exposed 1 / 74 (1.35%) 5 / 75 (6.67%)
+occurrences (all) 1 5
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 33  of 38
+Gastrointestinal disorders
+Abdominal pain
+subjects affected / exposed 6 / 74 (8.11%) 8 / 75 (10.67%)
+occurrences (all) 7 9
+Abdominal pain upper
+subjects affected / exposed 3 / 74 (4.05%) 5 / 75 (6.67%)
+occurrences (all) 3 5
+Constipation
+subjects affected / exposed 6 / 74 (8.11%) 4 / 75 (5.33%)
+occurrences (all) 7 4
+Diarrhoea
+subjects affected / exposed 24 / 74 (32.43%) 23 / 75 (30.67%)
+occurrences (all) 38 33
+Dyspepsia
+subjects affected / exposed 3 / 74 (4.05%) 5 / 75 (6.67%)
+occurrences (all) 3 6
+Gastrooesophageal reflux disease
+subjects affected / exposed 6 / 74 (8.11%) 1 / 75 (1.33%)
+occurrences (all) 7 1
+Nausea
+subjects affected / exposed 14 / 74 (18.92%) 13 / 75 (17.33%)
+occurrences (all) 19 22
+Vomiting
+subjects affected / exposed 9 / 74 (12.16%) 9 / 75 (12.00%)
+occurrences (all) 13 12
+Renal and urinary disorders
+Haematuria
+subjects affected / exposed 7 / 74 (9.46%) 6 / 75 (8.00%)
+occurrences (all) 7 8
+Dysuria
+subjects affected / exposed 6 / 74 (8.11%) 5 / 75 (6.67%)
+occurrences (all) 6 5
+Kidney fibrosis
+subjects affected / exposed 4 / 74 (5.41%) 7 / 75 (9.33%)
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 34  of 38
+occurrences (all) 4 7
+Skin and subcutaneous tissue disorders
+Alopecia
+subjects affected / exposed 8 / 74 (10.81%) 3 / 75 (4.00%)
+occurrences (all) 9 3
+Rash
+subjects affected / exposed 2 / 74 (2.70%) 4 / 75 (5.33%)
+occurrences (all) 2 4
+Musculoskeletal and connective tissue
+disorders
+Arthralgia
+subjects affected / exposed 8 / 74 (10.81%) 5 / 75 (6.67%)
+occurrences (all) 10 7
+Back pain
+subjects affected / exposed 8 / 74 (10.81%) 5 / 75 (6.67%)
+occurrences (all) 9 6
+Muscle spasms
+subjects affected / exposed 5 / 74 (6.76%) 3 / 75 (4.00%)
+occurrences (all) 6 3
+Muscular weakness
+subjects affected / exposed 4 / 74 (5.41%) 0 / 75 (0.00%)
+occurrences (all) 4 0
+Musculoskeletal discomfort
+subjects affected / exposed 6 / 74 (8.11%) 4 / 75 (5.33%)
+occurrences (all) 7 11
+Musculoskeletal pain
+subjects affected / exposed 2 / 74 (2.70%) 4 / 75 (5.33%)
+occurrences (all) 2 4
+Myalgia
+subjects affected / exposed 15 / 74 (20.27%) 21 / 75 (28.00%)
+occurrences (all) 22 38
+Pain in extremity
+subjects affected / exposed 8 / 74 (10.81%) 4 / 75 (5.33%)
+occurrences (all) 9 5
+Metabolism and nutrition disorders
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 35  of 38
+Decreased appetite
+subjects affected / exposed 5 / 74 (6.76%) 3 / 75 (4.00%)
+occurrences (all) 5 3
+Hypercalcaemia
+subjects affected / exposed 5 / 74 (6.76%) 4 / 75 (5.33%)
+occurrences (all) 5 4
+Hypoglycaemia
+subjects affected / exposed 6 / 74 (8.11%) 1 / 75 (1.33%)
+occurrences (all) 7 1
+Hyperglycaemia
+subjects affected / exposed 5 / 74 (6.76%) 2 / 75 (2.67%)
+occurrences (all) 6 2
+Hyperkalaemia
+subjects affected / exposed 8 / 74 (10.81%) 12 / 75 (16.00%)
+occurrences (all) 8 16
+Diabetes mellitus
+subjects affected / exposed 1 / 74 (1.35%) 4 / 75 (5.33%)
+occurrences (all) 1 4
+Hyperlipidaemia
+subjects affected / exposed 3 / 74 (4.05%) 4 / 75 (5.33%)
+occurrences (all) 3 4
+Hypomagnesaemia
+subjects affected / exposed 6 / 74 (8.11%) 7 / 75 (9.33%)
+occurrences (all) 6 13
+Metabolic acidosis
+subjects affected / exposed 4 / 74 (5.41%) 11 / 75 (14.67%)
+occurrences (all) 4 12
+Vitamin D deficiency
+subjects affected / exposed 4 / 74 (5.41%) 7 / 75 (9.33%)
+occurrences (all) 4 7
+Hypophosphataemia
+subjects affected / exposed 7 / 74 (9.46%) 7 / 75 (9.33%)
+occurrences (all) 8 8
+Hyponatraemia
+subjects affected / exposed 1 / 74 (1.35%) 5 / 75 (6.67%)
+occurrences (all) 1 7
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 36  of 38
+Infections and infestations
+Cytomegalovirus viraemia
+subjects affected / exposed 19 / 74 (25.68%) 22 / 75 (29.33%)
+occurrences (all) 22 30
+Cytomegalovirus syndrome
+subje 
+
+******************************
+
+ cts affected / exposed 6 / 74 (8.11%) 7 / 75 (9.33%)
+occurrences (all) 6 7
+BK virus infection
+subjects affected / exposed 16 / 74 (21.62%) 16 / 75 (21.33%)
+occurrences (all) 18 17
+Cytomegalovirus infection
+subjects affected / exposed 5 / 74 (6.76%) 3 / 75 (4.00%)
+occurrences (all) 7 4
+Upper respiratory tract infection
+subjects affected / exposed 7 / 74 (9.46%) 8 / 75 (10.67%)
+occurrences (all) 7 9
+Nasopharyngitis
+subjects affected / exposed 8 / 74 (10.81%) 8 / 75 (10.67%)
+occurrences (all) 10 10
+Escherichia urinary tract infection
+subjects affected / exposed 5 / 74 (6.76%) 6 / 75 (8.00%)
+occurrences (all) 5 9
+Urinary tract infection
+subjects affected / exposed 4 / 74 (5.41%) 10 / 75 (13.33%)
+occurrences (all) 5 17
+Urinary tract infection bacterial
+subjects affected / exposed 3 / 74 (4.05%) 8 / 75 (10.67%)
+occurrences (all) 5 11
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 37  of 38
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+13 August 2013 Key changes in Substantial Amendment 1, dated 13 Aug 2013, are summarized
+below. • Patients with graft failure would be discontinued from treatment • 1-
+sided P value (not 2-sided) would be used for testing the hypothesis • Urinalysis
+with microscopic evaluation was added to the safety labs • Vital signs for
+reactogenicity assessments were added • Screening laboratory tests could be
+repeated once • Collect creatinine values during the long-term follow-up period, if
+available
+06 January 2014 Key changes in Substantial Amendment 2, dated 06 Jan 2014, are summarized
+below. ● Screening period could begin -14 days from transplant to day of
+randomization ● Redefined CMV viremia as plasma viral load ≥ 1000 IU/mL ●
+Expanded stratification criteria for ATG to day of randomization ● Revised CMV
+AVP period of adjustment to after the day of randomization ● Added vital signs
+and evaluation of patients 15 minutes after study drug injection ● Inclusion
+Criterion 5 - clarified patients received valganciclovir or ganciclovir per regulatory
+label (package insert) ● Exclusion Criteria: Excluded patients who required dialysis
+on day of randomization, Deleted criterion that excluded patients who had an
+episode of hyperacute or acuterejection prior to Randomization, Excluded patients
+who received eculizumab, bortezomib, and intravenous immunoglobulin (IVIG)
+and/or plasmapheresis from day of transplantation through day of randomization,
+Clarified contraindications to prophylaxis of CMV viremia/disease with
+valganciclovir and ganciclovir, Clarified a contraindication to an intramuscular
+injection also included those who were expected to have a contraindication to the
+injection, Clarified aspartate aminotransferase (AST) or alanine aminotransferase
+(ALT) criteria was within 3 days prior to randomization, Concomitant medications
+– included several clarifications (dose adjustments, interruptions to therapy, time
+periods for prohibited medications, recording) and additional prohibited
+medications, Spontaneously reported SAEs during long-term follow-up that were
+possibly or probably related to study drug should be reported. ● Patients with a
+temperature ≥ 100.4°F should not receive study drug ● Transplant surgery on day
+0 would not be considered an AE or SAE
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Limitations and caveats
+Limitations of the trial such as small numbers of subjects analysed or technical problems leading to
+unreliable data.
+N/A
+Notes:
+Clinical trial results 2013-000464-29 version 3 EU-CTR publication date: 13 February 2022 Page 38  of 38
+ 
+
+******************************
+

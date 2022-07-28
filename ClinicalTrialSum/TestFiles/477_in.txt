@@ -1,0 +1,3811 @@
+EU Clinical Trials Register
+Clinical trial results:
+A Phase 2b Randomised, Double-Blind, Placebo-Controlled,
+Parallel Arm, Multi-Centre Study to Assess Efficacy and Safety of
+Multiple Dose Levels of AZD7594 DPI Given Once Daily for Twelve
+Weeks, Compared to Placebo, in Asthmatics Symptomatic on Low
+Dose ICS
+Summary
+EudraCT number 2017-002483-40
+Trial protocol DE HU BG PL
+Global end of trial date 30 September 2019
+Results information
+Result version number v1 (current)
+This version publication date 20 September 2020
+First version publication date 20 September 2020
+Trial information
+Trial identification
+Sponsor protocol code D3741C00007
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT03622112
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name AstraZeneca AB
+Sponsor organisation address Södertälje, Södertälje, Sweden, 151 85
+Public contact Global Clinical Lead, AstraZeneca AB, 301 3985799,
+ClinicalTrialTransparency@astrazeneca.com
+Scientific contact Global Clinical Lead, AstraZeneca AB, 301 3985799,
+ClinicalTrialTransparency@astrazeneca.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Results analysis stage
+Analysis stage Final
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 1  of 89
+Date of interim/final analysis 21 November 2019
+Is this the analysis of the primary No
+completion data?
+Global end of trial reached? Yes
+Global end of trial date 30 September 2019
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose Inhaled Corticosteroid (ICS)
+Protection of trial subjects:
+The global study protocol, the country-specific protocols and all protocol amendments,
+including all versions of informed consent forms (ICFs) and any other written information and/or
+materials provided to the subjects were approved by an Independent Ethics Committee/Institutional
+Review Board (IEC/ IRB) in writing. This study was performed in accordance with the ethical principles
+that have their origin in the Declaration of Helsinki and that are consistent with International Council for
+Harmonisation/Good Clinical Practice (ICH/ GCP), applicable regulatory requirements and the
+AstraZeneca policy on Bioethics.The applicable regulatory requirements in Japan were GCP for Trials on
+Drugs ((Ministry of Health, Labour and Welfare [MHLW] Ordinance No.28, 27 March 1997, partially
+revised by MHLW Ordinance and their related notifications). Before signing the ICF, each subject was
+given full and adequate oral and written information about the nature, purpose, possible risk and benefit
+of the study. Every subject was given the opportunity to ask questions and allowed time to consider the
+information provided and was notified that he/she was free to discontinue from the study at any time.
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 02 January 2019
+Long term follow-up planned No
+Independent data monitoring committee No
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled United States: 135
+Country: Number of subjects enrolled Japan: 82
+Country: Number of subjects enrolled Poland: 142
+Country: Number of subjects enrolled Ukraine: 125
+Country: Number of subjects enrolled Germany: 120
+Country: Number of subjects enrolled Hungary: 99
+Country: Number of subjects enrolled Bulgaria: 85
+Country: Number of subjects enrolled South Africa: 18
+Worldwide total number of subjects 806
+EEA total number of subjects 446
+Notes:
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 2  of 89
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 630
+From 65 to 84 years 176
+85 years and over 0
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 3  of 89
+Subject disposition
+Recruitment
+Recruitment details:
+The study was conducted in 92 sites in 8 countries; Bulgaria, Germany, Hungary, Poland, and Ukraine,
+United States (US), South Africa, and Japan. In this study, 806 subjects (including 82 Japanese
+subjects) were randomised. For sites in the US, no subjects were randomised to the AZD7594 792
+μg/720 μg once daily (QD) treatment arm.
+Pre-assignment
+Screening details:
+Subjects attended a Screening Visit within 28 days before receiving their first dose. All subjects
+underwent inclusion exclusion criteria assessment and all eligible subjects signed the informed consent
+before undergoing any study related procedures.
+Period 1
+Period 1 title Overall Study (overall period)
+Is this the baseline period? Yes
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator
+Arms
+Are arms mutually exclusive? Yes
+Arm title AZD7594 50 μg
+Arm description:
+Oral inhalation of AZD5794 55 μg/ 50 μg (nominal dose/delivered dose) once daily (QD).
+Arm type Experimental
+Investigational medicinal product name AZD7594
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation powder
+Routes of administration Oral use
+Dosage and administration details:
+55 μg/50 μg (nominal dose/delivered dose), Oral inhalation (by SD3FL inhaler, dry powder inhaler
+(DPI)) QD
+Arm title AZD7594 90 μg
+Arm description:
+Oral inhalation of AZD5794 99 μg/ 90 μg (nominal dose/delivered dose) once daily.
+Arm type Experimental
+Investigational medicinal product name AZD7594
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation powder
+Routes of administration Oral use
+Dosage and administration details:
+99 μg/90 μg (nominal dose/delivered dose), Oral inhalation (by SD3FL inhaler, DPI) QD
+Arm title AZD7594 180 μg
+Arm description:
+Oral inhalation of AZD5794 198 μg/ 180 μg (nominal dose/delivered dose) once daily.
+Arm type Experimental
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 4  of 89
+Investigational medicinal product name AZD7594
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation powder
+Routes of administration Oral use
+Dosage and administration details:
+198 μg/180 μg (nominal dose/delivered dose), Oral inhalation (by SD3FL inhaler, DPI) QD
+Arm title AZD7594 360 μg
+Arm description:
+Oral inhalation of AZD5794 396 μg/ 360 μg (nominal dose/delivered dose) once daily.
+Arm type Experimental
+Investigational medicinal product name AZD7594
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation powder
+Routes of administration Oral use
+Dosage and administration details:
+396 μg/360 μg (nominal dose/delivered dose), Oral inhalation (by SD3FL inhaler, DPI) QD
+Arm title AZD7594 720 μg
+Arm description:
+Oral inhalation of AZD5794 792 μg/ 720 μg (nominal dose/delivered dose) once daily.
+Arm type Experimental
+Investigational medicinal product name AZD7594
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation powder
+Routes of administration Oral use
+Dosage and administration details:
+792 μg/720 μg (nominal dose/delivered dose), Oral inhalation (by SD3FL inhaler, DPI) QD (US excluded)
+Arm title Placebo to AZD7594
+Arm description:
+Oral inhalation of placebo to AZD7594 once daily.
+Arm type Placebo
+Investigational medicinal product name Placebo to AZD7594
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation powder
+Routes of administration Oral use
+Dosage and administration details:
+Matching Placebo to AZD7594, Oral inhalation (by SD3FL inhaler, DPI) QD
+Arm title Fluticasone furoate
+Arm description:
+Oral inhalation of fluticasone furoate 100 μg once daily.
+Arm type Experimental
+Investigational medicinal product name Fluticasone furoate
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Inhalation powder
+Routes of administration Oral use
+Dosage and administration details:
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 5  of 89
+100 μg per nominal dose, Oral inhalation (by ELLIPTA inhaler, DPI) QD
+Number of subjects in period AZD7594 50 μg AZD7594 90 μg AZD7594 180 μg
+1[1]
+Started 110 112 111
+Completed 85 92 95
+Not completed 25 20 16
+Study-specific withdrawal criteria 10 8 7
+Protocol deviation 2  - 1
+Adverse event, serious fatal  -  -  -
+Adverse event, non-fatal 6 8 4
+Consent withdrawn by subject 6 2 4
+Reason not specified  - 1  -
+Lost to follow-up 1 1  -
+Number of subjects in period AZD7594 360 μg AZD7594 720 μg Placebo to AZD7594
+1[1]
+Started 113 134 113
+Completed 91 124 71
+Not completed 22 10 42
+Study-specific withdrawal criteria 6 4 18
+Protocol deviation 1  -  -
+Adverse event, serious fatal 1  -  -
+Adverse event, non-fatal 11 4 20
+Consent withdrawn by subject 2 1 2
+Reason not specified 1 1 2
+Lost to follow-up  -  -  -
+Number of subjects in period Fluticasone furoate
+1[1]
+Started 112
+Completed 103
+Not completed 9
+Study-specific withdrawal criteria 4
+Protocol deviation  -
+Adverse event, serious fatal  -
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 6  of 89
+Adverse event, non-fatal 2
+Consent withdrawn by subject 2
+Reason not specified 1
+Lost to follow-up  -
+Notes:
+[1] - The number of subjects reported to be in the baseline period are not the same as the worldwide
+number enrolled in the trial. It is expected that these numbers will be the same.
+Justification: One randomized subject did not receive treatment as the subject deviated from the
+protocol and was randomized in error.
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 7  of 89
+Baseline characteristics
+Reporting groups
+Reporting group title AZD7594 50 μg
+Reporting group description:
+Oral inhalation of AZD5794 55 μg/ 50 μg (nominal dose/delivered dose) once daily (QD).
+Reporting group title AZD7594 90 μg
+Reporting group description:
+Oral inhalation of AZD5794 99 μg/ 90 μg (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 180 μg
+Reporting group description:
+Oral inhalation of AZD5794 198 μg/ 180 μg (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 360 μg
+Reporting group description:
+Oral inhalation of AZD5794 396 μg/ 360 μg (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 720 μg
+Reporting group description:
+Oral inhalation of AZD5794 792 μg/ 720 μg (nominal dose/delivered dose) once daily.
+Reporting group title Placebo to AZD7594
+Reporting group description:
+Oral inhalation of placebo to AZD7594 once daily.
+Reporting group title Fluticasone furoate
+Reporting group description:
+Oral inhalation of fluticasone furoate 100 μg once daily.
+Reporting group values AZD7594 50 μg AZD7594 90 μg AZD7594 180 μg
+Number of subjects 110 112 111
+Age Categorical
+Units: Subjects
+<=18 years 0 0 0
+Between 18 and 65 years 90 92 79
+>=65 years 20 20 32
+Age Continuous
+Units: Years
+arithmetic mean 52.2 53.2 54.6
+standard deviation ± 12.8 ± 13.3 ± 14.5
+Sex: Female, Male
+Units: Subjects
+Female 59 66 72
+Male 51 46 39
+Race (NIH/OMB)
+Units: Subjects
+American Indian or Alaska Native 0 1 0
+Asian 9 11 10
+Native Hawaiian or Other Pacific 0 0 0
+Islander
+Black or African American 5 5 5
+White 95 93 94
+More than one race 1 2 2
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 8  of 89
+Unknown or Not Reported 0 0 0
+Reporting group values AZD7594 360 μg AZD7594 720 μg Placebo to AZD7594
+Number of subjects 113 134 113
+Age Categorical
+Units: Subjects
+<=18 years 0 0 0
+Between 18 and 65 years 92 107 87
+>=65 years 21 27 26
+Age Continuous
+Units: Years
+arithmetic mean 52.8 52.2 53.4
+standard deviation ± 13.2 ± 13.0 ± 13.7
+Sex: Female, Male
+Units: Subjects
+Female 64 79 68
+Male 49 55 45
+Race (NIH/OMB)
+Units: Subjects
+American Indian or Alaska Native 0 0 0
+Asian 13 16 13
+Native Hawaiian or Other Pacific 0 0 0
+Islander
+Black or African American 2 1 5
+White 97 115 92
+More than one race 1 2 3
+Unknown or Not Reported 0 0 0
+Reporting group values Fluticasone furoate Total
+Number of subjects 112 805
+Age Categorical
+Units: Subjects
+<=18 years 0 0
+Between 18 and 65 years 82 629
+>=65 years 30 176
+Age Continuous
+Units: Years
+arithmetic mean 53.7
+standard deviation ± 13.4 -
+Sex: Female, Male
+Units: Subjects
+Female 59 467
+Male 53 338
+Race (NIH/OMB)
+Units: Subjects
+American Indian or Alaska Native 0 1
+Asian 12 84
+Native Hawaiian or Other Pacific 0 0
+Islander
+Black or African American 7 30
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 9  of 89
+White 93 679
+More than one race 0 11
+Unknown or Not Reported 0 0
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 10  of 89
+End points
+End points reporting groups
+Reporting group title AZD7594 50 μg
+Reporting group description:
+Oral inhalation of AZD5794 55 μg/ 50 μg (nominal dose/delivered dose) once daily (QD).
+Reporting group title AZD7594 90 μg
+Reporting group description:
+Oral inhalation of AZD5794 99 μg/ 90 μg (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 180 μg
+Reporting group description:
+Oral inhalation of AZD5794 198 μg/ 180 μg (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 360 μg
+Reporting group description:
+Oral inhalation of AZD5794 396 μg/ 360 μg (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 720 μg
+Reporting group description:
+Oral inhalation of AZD5794 792 μg/ 720 μg (nominal dose/delivered dose) once daily.
+Reporting group title Placebo to AZD7594
+Reporting group description:
+Oral inhalation of placebo to AZD7594 once daily.
+Reporting group title Fluticasone furoate
+Reporting group description:
+Oral inhalation of fluticasone furoate 100 μg once daily.
+Primary: Change from baseline in trough Forced expiratory volume in 1 second
+(FEV1) at Week 12
+End point title Change from baseline in trough Forced expiratory volume in 1
+second (FEV1) at Week 12
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Trough value was defined as the mean of the 2 measurements 30 minutes
+apart (23 hours after last dose) pre-dose for every visit throughout the Treatment Period (Visit 4/Week
+2 to Visit 7/Week 12). Baseline was defined as the mean of the 2 measured values before first
+investigational product (IP) administration (30 minutes apart, at −45 minutes and −15 minutes, before
+IP administration) on Day 1 (Visit 3).  Analyses were based on a Mixed-effects model for repeated
+measures (MMRM) with treatment, visit, treatment by visit interaction and region as fixed effects, and
+baseline value and baseline by visit interaction as covariates.
+End point type Primary
+End point timeframe:
+At Baseline and Week 12
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 11  of 89
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 83 90 92 90
+Units: Liters
+least squares mean (confidence interval -0.013 (-0.077 -0.031 (-0.094 0.062 (-0.001 0.099 (0.036
+95%) to 0.050) to 0.031) to 0.124) to 0.161)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 123 70 103
+Units: Liters
+least squares mean (confidence interval 0.104 (0.046 0.022 (-0.046 0.133 (0.073
+95%) to 0.162) to 0.091) to 0.193)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 153
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.437
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.036
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.126
+upper limit 0.054
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.236
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.054
+Confidence interval
+level 95 %
+sides 2-sided
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 12  of 89
+lower limit -0.143
+upper limit 0.035
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 162
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.389
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.039
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.05
+upper limit 0.128
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.094
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.076
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.013
+upper limit 0.165
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 193
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.06
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.082
+Confidence interval
+level 95 %
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 13  of 89
+sides 2-sided
+lower limit -0.003
+upper limit 0.167
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 173
+Analysis specification Pre-specified
+Analysis type superiority[1]
+P-value = 0.014
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.111
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.023
+upper limit 0.199
+Notes:
+[1] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in trough FEV1 at Weeks 2, 4, 8 and average over
+the Treatment Period
+End point title Change from baseline in trough FEV1 at Weeks 2, 4, 8 and
+average over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Trough value was defined as the mean of the 2 measurements 30 minutes
+apart (23 hours after last dose) pre-dose for every visit throughout the Treatment Period. Baseline was
+defined as the mean of the 2 measured values before first IP administration on Day 1. Analyses were
+based on a MMRM with treatment, visit, treatment by visit interaction and region as fixed effects, and
+baseline value and baseline by visit interaction as covariates. Analysis of covariance (ANCOVA) with
+treatment and region (ie, US, Japan, and Rest of the World [RoW]) as fixed effects, and baseline as
+covariate was used for the analysis of average over the Treatment Period. The reported number of
+subjects analysed corresponds to Week 2 and for Weeks 4, 8, 12 and average over the Treatment
+Period, the number of subjects analysed are provided as comment in the row titles.
+End point type Secondary
+End point timeframe:
+At Baseline and Weeks 2, 4 and 8
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 108 107 108 104
+Units: Liters
+least squares mean (confidence interval
+95%)
+Week 2 0.018 (-0.038 0.011 (-0.044 0.067 (0.011 0.091 (0.036
+to 0.073) to 0.066) to 0.122) to 0.147)
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 14  of 89
+Week 4 (n=98, 103, 103, 104, 127, 84, -0.002 (-0.063 0.039 (-0.021 0.078 (0.018 0.086 (0.027
+110) to 0.059) to 0.099) to 0.138) to 0.146)
+Week 8 (n=90, 96, 100, 96, 125, 76, 0.019 (-0.044 0.007 (-0.055 0.071 (0.010 0.102 (0.040
+105) to 0.082) to 0.069) to 0.133) to 0.163)
+Treatment Period 0.005 (-0.049 0.006 (-0.047 0.069 (0.016 0.094 (0.041
+Avg(n=108,109,108,109,132,95,110) to 0.059) to 0.059) to 0.123) to 0.148)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 132 95 109
+Units: Liters
+least squares mean (confidence interval
+95%)
+Week 2 0.093 (0.041 -0.011 (-0.070 0.107 (0.052
+to 0.146) to 0.048) to 0.161)
+Week 4 (n=98, 103, 103, 104, 127, 84, 0.094 (0.037 -0.020 (-0.085 0.145 (0.086
+110) to 0.151) to 0.045) to 0.204)
+Week 8 (n=90, 96, 100, 96, 125, 76, 0.141 (0.083 0.002 (-0.066 0.124 (0.064
+105) to 0.199) to 0.069) to 0.184)
+Treatment Period 0.108 (0.057 -0.002 (-0.059 0.127 (0.075
+Avg(n=108,109,108,109,132,95,110) to 0.159) to 0.056) to 0.180)
+Statistical analyses
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.463
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.029
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.048
+upper limit 0.105
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.576
+Method Mixed models analysis
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 15  of 89
+Parameter estimate Mean difference (final values)
+Point estimate 0.022
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.055
+upper limit 0.098
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.047
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.078
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.001
+upper limit 0.154
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.009
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.102
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.025
+upper limit 0.179
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 227
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.006
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 16  of 89
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.104
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.031
+upper limit 0.178
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 204
+Analysis specification Pre-specified
+Analysis type superiority[2]
+P-value = 0.003
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.118
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.041
+upper limit 0.194
+Notes:
+[2] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.685
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.018
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.068
+upper limit 0.103
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 17  of 89
+P-value = 0.176
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.059
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.026
+upper limit 0.144
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.024
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.098
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.013
+upper limit 0.183
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.014
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.106
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.021
+upper limit 0.191
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 227
+Analysis specification Pre-specified
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 18  of 89
+Analysis type superiority
+P-value = 0.006
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.114
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.032
+upper limit 0.196
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 204
+Analysis specification Pre-specified
+Analysis type superiority[3]
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.165
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.081
+upper limit 0.249
+Notes:
+[3] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.707
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.017
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.072
+upper limit 0.106
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 19  of 89
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.904
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.005
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.083
+upper limit 0.094
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.121
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.07
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.018
+upper limit 0.157
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.026
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.1
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.012
+upper limit 0.188
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 20  of 89
+Number of subjects included in analysis 227
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.139
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.055
+upper limit 0.224
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 204
+Analysis specification Pre-specified
+Analysis type superiority[4]
+P-value = 0.006
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.122
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.035
+upper limit 0.209
+Notes:
+[4] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.856
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.007
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.068
+upper limit 0.081
+Statistical analysis title Statistical Analysis for Treatment period average
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 21  of 89
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.832
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.008
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.066
+upper limit 0.082
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 203
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.06
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.071
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.003
+upper limit 0.145
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.011
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.096
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.022
+upper limit 0.17
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 22  of 89
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 227
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.003
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.11
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.039
+upper limit 0.181
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 204
+Analysis specification Pre-specified
+Analysis type superiority[5]
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.129
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.055
+upper limit 0.202
+Notes:
+[5] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in Fractional exhaled nitic oxide (FENO) at Weeks
+2, 4, 8, 12 and average over the Treatment Period
+End point title Change from baseline in Fractional exhaled nitic oxide (FENO)
+at Weeks 2, 4, 8, 12 and average over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Baseline was defined as the last value obtained prior to the first dose of
+investigational product. Analyses were based on a MMRM with change from baseline on the log-scale as
+the response, treatment, visit, treatment by visit interaction and region as fixed effects, and log-
+transformed baseline value and baseline by visit interaction as covariates.
+The reported number of subjects analysed corresponds to Week 2 and for Weeks 4, 8, 12 and average
+over the Treatment Period, the number of subjects analysed are provided as comment in the row titles.
+End point type Secondary
+End point timeframe:
+At Baseline and Weeks 2, 4, 8, and 12
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 23  of 89
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 107 105 107 102
+Units: ppb
+geometric mean (confidence interval
+95%)
+Week 2 1.307 (1.190 1.223 (1.113 1.175 (1.070 1.152 (1.048
+to 1.436) to 1.343) to 1.290) to 1.267)
+Week 4 1.229 (1.109 1.203 (1.087 1.220 (1.103 1.118 (1.011
+(n=95,100,103,102,126,84,105) to 1.363) to 1.332) to 1.349) to 1.237)
+Week 8 (n=87,90,97,93,122,76,101) 1.294 (1.157 1.316 (1.179 1.250 (1.122 1.206 (1.082
+to 1.447) to 1.470) to 1.392) to 1.345)
+Week 12 (n=79,89,89,88,121,70,100) 1.367 (1.219 1.405 (1.258 1.281 (1.148 1.198 (1.072
+to 1.532) to 1.569) to 1.431) to 1.337)
+Treatment Period 1.298 (1.188 1.284 (1.176 1.231 (1.128 1.168 (1.070
+Avg(n=109,107,108,109,132,95,110) to 1.419) to 1.402) to 1.343) to 1.275)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 127 95 104
+Units: ppb
+geometric mean (confidence interval
+95%)
+Week 2 0.959 (0.876 1.396 (1.263 0.880 (0.801
+to 1.049) to 1.542) to 0.967)
+Week 4 0.980 (0.891 1.321 (1.184 0.928 (0.840
+(n=95,100,103,102,126,84,105) to 1.078) to 1.475) to 1.025)
+Week 8 (n=87,90,97,93,122,76,101) 1.021 (0.923 1.411 (1.252 0.906 (0.815
+to 1.129) to 1.591) to 1.007)
+Week 12 (n=79,89,89,88,121,70,100) 0.958 (0.866 1.474 (1.305 0.918 (0.826
+to 1.060) to 1.664) to 1.022)
+Treatment Period 0.979 (0.901 1.399 (1.273 0.908 (0.833
+Avg(n=109,107,108,109,132,95,110) to 1.064) to 1.538) to 0.989)
+Statistical analyses
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.322
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.936
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.822
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 24  of 89
+upper limit 1.067
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 200
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.047
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.876
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.768
+upper limit 0.999
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.01
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.842
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.739
+upper limit 0.959
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 197
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.004
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.825
+Confidence interval
+level 95 %
+sides 2-sided
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 25  of 89
+lower limit 0.724
+upper limit 0.941
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 222
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.687
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.606
+upper limit 0.779
+Statistical analysis title Statistical Analysis at Week 2
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority[6]
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.63
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.553
+upper limit 0.719
+Notes:
+[6] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.329
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.931
+Confidence interval
+level 95 %
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 26  of 89
+sides 2-sided
+lower limit 0.805
+upper limit 1.076
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 200
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.203
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.911
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.789
+upper limit 1.052
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.273
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.923
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.8
+upper limit 1.065
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 197
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.023
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.846
+Confidence interval
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 27  of 89
+level 95 %
+sides 2-sided
+lower limit 0.734
+upper limit 0.977
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 222
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.742
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.646
+upper limit 0.852
+Statistical analysis title Statistical Analysis at Week 4
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority[7]
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.703
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.609
+upper limit 0.81
+Notes:
+[7] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.283
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.917
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 28  of 89
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.783
+upper limit 1.074
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 200
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.386
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.933
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.797
+upper limit 1.092
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.126
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.886
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.758
+upper limit 1.035
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 197
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.05
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 29  of 89
+Point estimate 0.855
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.731
+upper limit 1
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 222
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.723
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.623
+upper limit 0.84
+Statistical analysis title Statistical Analysis at Week 8
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority[8]
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.642
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.55
+upper limit 0.749
+Notes:
+[8] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.359
+Method Mixed models analysis
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 30  of 89
+Parameter estimate Mean difference (final values)
+Point estimate 0.927
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.789
+upper limit 1.09
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups Placebo to AZD7594 v AZD7594 90 μg
+Number of subjects included in analysis 200
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.556
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.953
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.813
+upper limit 1.118
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.084
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.869
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.742
+upper limit 1.019
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 197
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.011
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 31  of 89
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.813
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.693
+upper limit 0.953
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 222
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.65
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.559
+upper limit 0.757
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority[9]
+P-value < 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.623
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.533
+upper limit 0.729
+Notes:
+[9] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 32  of 89
+P-value = 0.231
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.928
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.821
+upper limit 1.049
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 200
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.17
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.918
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.812
+upper limit 1.037
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 202
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.039
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.879
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.778
+upper limit 0.994
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 197
+Analysis specification Pre-specified
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 33  of 89
+Analysis type superiority
+P-value = 0.004
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.835
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.739
+upper limit 0.943
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 222
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.7
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.622
+upper limit 0.787
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 199
+Analysis specification Pre-specified
+Analysis type superiority[10]
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.649
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.575
+upper limit 0.732
+Notes:
+[10] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in trough Forced vital capacity (FVC) at Week 12
+and average over the Treatment Period
+End point title Change from baseline in trough Forced vital capacity (FVC) at
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 34  of 89
+Week 12 and average over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS(Full Analysis Set).Trough value was defined as the mean of the 2 measurements 30 minutes
+apart(23 hours after last dose) pre-dose for every visit throughout the Treatment Period (Week 2 to
+Week 12).Baseline was defined as the mean of the 2 measured values before first IP administration(30
+minutes apart, at −45 minutes and −15 minutes, before IP administration) on Day 1. Analyses were
+based on a MMRM with treatment, visit, treatment by visit interaction and region as fixed effects, and
+baseline value and baseline by visit interaction as covariates. Analysis of covariance with treatment and
+region as fixed effects, and baseline as covariate was used for the analysis of average over the
+Treatment Period. Reported number of subjects analysed corresponds to Week 12 and for average over
+the Treatment Period, the number of subjects analysed are provided as comment in row title.
+End point type Secondary
+End point timeframe:
+At Baseline and Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 83 90 92 90
+Units: Liters
+least squares mean (confidence interval
+95%)
+Week 12 0.027 (-0.047 -0.017 (-0.089 0.076 (0.005 0.119 (0.047
+to 0.101) to 0.056) to 0.148) to 0.191)
+Treatment Period 0.044 (-0.017 0.019 (-0.041 0.087 (0.026 0.127 (0.066
+Avg(n=108,109,108,109,132,95,110) to 0.106) to 0.080) to 0.148) to 0.188)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 123 70 103
+Units: Liters
+least squares mean (confidence interval
+95%)
+Week 12 0.088 (0.021 0.061 (-0.018 0.118 (0.048
+to 0.155) to 0.141) to 0.188)
+Treatment Period 0.091 (0.033 0.046 (-0.020 0.121 (0.062
+Avg(n=108,109,108,109,132,95,110) to 0.149) to 0.112) to 0.181)
+Statistical analyses
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 153
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.519
+Method Mixed models analysis
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 35  of 89
+Parameter estimate Mean difference (final values)
+Point estimate -0.034
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.139
+upper limit 0.07
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.141
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.078
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.181
+upper limit 0.026
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 162
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.772
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.015
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.088
+upper limit 0.119
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.27
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 36  of 89
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.058
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.045
+upper limit 0.162
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 193
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.592
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.027
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.072
+upper limit 0.126
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 173
+Analysis specification Pre-specified
+Analysis type superiority[11]
+P-value = 0.275
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate 0.057
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.045
+upper limit 0.158
+Notes:
+[11] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 153
+Analysis specification Pre-specified
+Analysis type superiority
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 37  of 89
+P-value = 0.963
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.002
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.087
+upper limit 0.083
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.533
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.027
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.112
+upper limit 0.058
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 162
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.342
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.041
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.044
+upper limit 0.126
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 38  of 89
+Analysis type superiority
+P-value = 0.061
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.081
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.004
+upper limit 0.165
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 193
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.278
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.045
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.037
+upper limit 0.127
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 173
+Analysis specification Pre-specified
+Analysis type superiority[12]
+P-value = 0.079
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.075
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.009
+upper limit 0.159
+Notes:
+[12] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in Asthma Control Questionnaire -5 (ACQ-5) at
+Week 12 and average over the Treatment Period
+End point title Change from baseline in Asthma Control Questionnaire -5
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 39  of 89
+(ACQ-5) at Week 12 and average over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Baseline was defined as the ACQ-5 score at Visit 3. Analyses were based on
+a MMRM with treatment, visit, treatment by visit interaction and region as fixed effects, and baseline
+value and baseline by visit interaction as covariates. Analysis of covariance with treatment and region as
+fixed effects, and baseline as covariate was used for the analysis of average over the Treatment Period.
+The questionnaire has 5 items; each item is scored on a scale of 0 to 6, where higher scores represent
+more severe impairment/symptoms. The overall ACQ-5 score is the average of the scores for each of the
+questions included in the questionnaire. Reported number of subjects analysed corresponds to Week 12
+and for average over the Treatment Period, the number of subjects analysed are provided as comment
+in row title.
+End point type Secondary
+End point timeframe:
+At Baseline and Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 83 91 93 90
+Units: units on a scale
+least squares mean (confidence interval
+95%)
+Week 12 -0.289 (-0.412 -0.394 (-0.513 -0.357 (-0.476 -0.330 (-0.449
+to -0.166) to -0.274) to -0.239) to -0.210)
+Treatment Period -0.215 (-0.307 -0.230 (-0.322 -0.220 (-0.311 -0.291 (-0.382
+Avg(n=108,110,108,110,132,101,110 to -0.122) to -0.139) to -0.128) to -0.199)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 122 70 103
+Units: units on a scale
+least squares mean (confidence interval
+95%)
+Week 12 -0.406 (-0.514 -0.137 (-0.269 -0.360 (-0.474
+to -0.297) to -0.004) to -0.245)
+Treatment Period -0.306 (-0.394 -0.090 (-0.187 -0.269 (-0.359
+Avg(n=108,110,108,110,132,101,110 to -0.219) to 0.008) to -0.179)
+Statistical analyses
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 153
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.088
+Method Mixed models analysis
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 40  of 89
+Parameter estimate Mean difference (final values)
+Point estimate -0.153
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.328
+upper limit 0.023
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 161
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.004
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.257
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.43
+upper limit -0.084
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 163
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.012
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.221
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.393
+upper limit -0.049
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.029
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 41  of 89
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.193
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.366
+upper limit -0.02
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 192
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.001
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.269
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.434
+upper limit -0.104
+Statistical analysis title Statistical Analysis at Week 12
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 173
+Analysis specification Pre-specified
+Analysis type superiority[13]
+P-value = 0.01
+Method Mixed models analysis
+Parameter estimate Mean difference (final values)
+Point estimate -0.223
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.393
+upper limit -0.054
+Notes:
+[13] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 153
+Analysis specification Pre-specified
+Analysis type superiority
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 42  of 89
+P-value = 0.055
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.125
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.253
+upper limit 0.003
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 161
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.029
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.141
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.268
+upper limit -0.014
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 163
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.044
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.13
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.257
+upper limit -0.003
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 160
+Analysis specification Pre-specified
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 43  of 89
+Analysis type superiority
+P-value = 0.002
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.201
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.328
+upper limit -0.074
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 192
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.217
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.339
+upper limit -0.094
+Statistical analysis title Statistical Analysis for Treatment period average
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 173
+Analysis specification Pre-specified
+Analysis type superiority[14]
+P-value = 0.005
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.179
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.305
+upper limit -0.053
+Notes:
+[14] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in average morning Peak Expiratory Flow (PEF)
+over the Treatment Period
+End point title Change from baseline in average morning Peak Expiratory Flow
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 44  of 89
+(PEF) over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Baseline was defined as the average over the 7 days prior to
+randomisation. Analyses were based on an ANCOVA model with treatment and region as fixed effects,
+and baseline value as a covariate.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 89 94 97 92
+Units: Liters/minute
+-4.036 (- -5.718 (-
+least squares mean (confidence interval -2.576 (-8.768 3.745 (-2.558
+10.518 to 11.994 to
+95%) to 3.617) to 10.048)
+2.447) 0.557)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 122 73 104
+Units: Liters/minute
+-11.699 (-
+least squares mean (confidence interval 4.900 (-1.010 -1.208 (-7.209
+18.749 to -
+95%) to 10.810) to 4.793)
+4.649)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 162
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.097
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 7.664
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.403
+upper limit 16.73
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 45  of 89
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 167
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.19
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 5.981
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -2.98
+upper limit 14.941
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 170
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.045
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 9.123
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.195
+upper limit 18.052
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 165
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 15.444
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 6.443
+upper limit 24.445
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 46  of 89
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 195
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 16.599
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 8.031
+upper limit 25.167
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 177
+Analysis specification Pre-specified
+Analysis type superiority[15]
+P-value = 0.019
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 10.491
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.726
+upper limit 19.256
+Notes:
+[15] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in average evening PEF over the Treatment Period
+End point title Change from baseline in average evening PEF over the
+Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Baseline was defined as the average over the 7 days prior to
+randomisation. Analyses were based on an ANCOVA model with treatment and region as fixed effects,
+and baseline value as a covariate.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 47  of 89
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 88 93 96 92
+Units: Liters/minute
+-5.418 (- -5.654 (- -3.983 (-
+least squares mean (confidence interval 2.441 (-3.738
+11.792 to 11.843 to 10.081 to
+95%) to 8.620)
+0.955) 0.534) 2.114)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 119 73 102
+Units: Liters/minute
+-7.816 (-
+least squares mean (confidence interval 4.178 (-1.642 -1.687 (-7.602
+14.712 to -
+95%) to 9.997) to 4.227)
+0.921)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 161
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.597
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 2.398
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -6.494
+upper limit 11.29
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 166
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.629
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 2.162
+Confidence interval
+level 95 %
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 48  of 89
+sides 2-sided
+lower limit -6.623
+upper limit 10.948
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 169
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.389
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 3.833
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -4.907
+upper limit 12.573
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 165
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.022
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 10.258
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.456
+upper limit 19.059
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 192
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.005
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 11.994
+Confidence interval
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 49  of 89
+level 95 %
+sides 2-sided
+lower limit 3.571
+upper limit 20.417
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 175
+Analysis specification Pre-specified
+Analysis type superiority[16]
+P-value = 0.163
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 6.129
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -2.479
+upper limit 14.737
+Notes:
+[16] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in average daily use of rescue medication over the
+Treatment Period
+End point title Change from baseline in average daily use of rescue medication
+over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Baseline was defined as the average over the 7 days prior to
+randomisation. Analyses were based on an ANCOVA model with treatment and region as fixed effects,
+and baseline value as a covariate.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 86 86 91 79
+Units: number of puffs
+least squares mean (confidence interval -0.370 (-0.502 -0.282 (-0.415 -0.226 (-0.356 -0.435 (-0.572
+95%) to -0.237) to -0.149) to -0.096) to -0.297)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 50  of 89
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 109 66 93
+Units: number of puffs
+least squares mean (confidence interval -0.435 (-0.560 -0.127 (-0.276 -0.304 (-0.432
+95%) to -0.310) to 0.023) to -0.175)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.012
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.243
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.431
+upper limit -0.054
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.108
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.155
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.344
+upper limit 0.034
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 157
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.295
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 51  of 89
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.099
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.286
+upper limit 0.087
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 145
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.002
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.308
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.5
+upper limit -0.116
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 175
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.308
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.489
+upper limit -0.126
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 159
+Analysis specification Pre-specified
+Analysis type superiority[17]
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 52  of 89
+P-value = 0.062
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.177
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.362
+upper limit 0.009
+Notes:
+[17] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in percent night-time awakening days over the
+Treatment Period
+End point title Change from baseline in percent night-time awakening days
+over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Baseline was defined as the average over the 7 days prior to
+randomisation. Analyses were based on an ANCOVA model with treatment and region as fixed effects,
+and baseline value as a covariate.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 89 94 97 92
+Units: percentage
+-14.281 (- -12.260 (- -8.649 (- -12.085 (-
+least squares mean (confidence interval
+18.408 to - 16.263 to - 12.579 to - 16.102 to -
+95%)
+10.154) 8.257) 4.718) 8.068)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 122 73 104
+Units: percentage
+-13.017 (- -15.910 (-
+least squares mean (confidence interval -4.288 (-8.814
+16.790 to - 19.753 to -
+95%) to 0.238)
+9.244) 12.067)
+Statistical analyses
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 53  of 89
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 162
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -9.993
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -15.795
+upper limit -4.191
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 167
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.006
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -7.972
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -13.694
+upper limit -2.251
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 170
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.133
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -4.361
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -10.051
+upper limit 1.329
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 54  of 89
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 165
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.008
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -7.797
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -13.555
+upper limit -2.04
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 195
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.002
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -8.729
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -14.195
+upper limit -3.264
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 177
+Analysis specification Pre-specified
+Analysis type superiority[18]
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -11.622
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -17.211
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 55  of 89
+upper limit -6.034
+Notes:
+[18] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in average daily asthma symptom score over the
+Treatment Period
+End point title Change from baseline in average daily asthma symptom score
+over the Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Baseline was defined as the average over the 7 days prior to
+randomisation. Analyses were based on an ANCOVA model with treatment and region as fixed effects,
+and baseline value as a covariate. During the Run-in and Treatment Periods, subjects recorded the
+severity of their asthma symptoms during night-time and day-time each morning and evening, using the
+eDiary. Asthma symptom scores during night-time/day-time were assessed by the subject each
+morning/evening according to the following scoring system and recorded on the eDiary: 0: No asthma
+symptoms, 1: The subjects were aware of their asthma symptoms but they can easily tolerate the
+symptoms, 2: asthma was causing enough discomfort to cause problems with sleep, 3: Subjects were
+unable to sleep/do normal activities because of their asthma.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 86 86 91 79
+Units: Unit on a scale
+least squares mean (confidence interval -0.303 (-0.385 -0.201 (-0.283 -0.229 (-0.310 -0.321 (-0.407
+95%) to -0.220) to -0.118) to -0.149) to -0.235)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 109 66 93
+Units: Unit on a scale
+least squares mean (confidence interval -0.275 (-0.353 -0.091 (-0.184 -0.296 (-0.376
+95%) to -0.198) to 0.003) to -0.216)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method ANCOVA
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 56  of 89
+Parameter estimate Mean difference (final values)
+Point estimate -0.212
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.329
+upper limit -0.094
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.066
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.11
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.228
+upper limit 0.007
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 157
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.02
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.139
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.255
+upper limit -0.022
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 145
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 57  of 89
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.23
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.35
+upper limit -0.11
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 175
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.185
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.298
+upper limit -0.071
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 159
+Analysis specification Pre-specified
+Analysis type superiority[19]
+P-value < 0.001
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -0.206
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.321
+upper limit -0.09
+Notes:
+[19] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in percent asthma control days over the
+Treatment Period
+End point title Change from baseline in percent asthma control days over the
+Treatment Period
+End point description:
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 58  of 89
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Asthma-control days was defined as days with no symptoms, no night-
+waking, no use of rescue medication. Baseline was defined as the average over the 7 days prior to
+randomisation. Analyses were based on an ANCOVA model with treatment and region as fixed effects,
+and baseline value as a covariate.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 86 86 91 79
+Units: percent
+least squares mean (confidence interval 15.470 (9.547 11.362 (5.435 12.646 (6.865 15.925 (9.775
+95%) to 21.394) to 17.290) to 18.427) to 22.076)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 109 66 93
+Units: percent
+least squares mean (confidence interval 14.479 (8.896 5.859 (-0.813 13.037 (7.301
+95%) to 20.062) to 12.532) to 18.772)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.026
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 9.611
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.18
+upper limit 18.042
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 59  of 89
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.2
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 5.503
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -2.927
+upper limit 13.933
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 157
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.11
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 6.787
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.546
+upper limit 15.119
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 145
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.022
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 10.066
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.461
+upper limit 18.672
+Statistical analysis title Statistical Analysis 5
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 60  of 89
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 175
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.038
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 8.62
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.489
+upper limit 16.75
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 159
+Analysis specification Pre-specified
+Analysis type superiority[20]
+P-value = 0.09
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 7.178
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.112
+upper limit 15.467
+Notes:
+[20] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in percent rescue-free days over the Treatment
+Period
+End point title Change from baseline in percent rescue-free days over the
+Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). A rescue-free day (RFD) was defined as a day with no use of rescue
+medication. Baseline was defined as the average over the 7 days prior to randomisation. Analyses were
+based on an ANCOVA model with treatment and region as fixed effects, and baseline value as a
+covariate.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 61  of 89
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 86 86 91 79
+Units: percent
+31.138 (24.01924.178 (17.04521.960 (14.94034.991 (27.549
+least squares mean (confidence interval
+to 38.257) to 31.312) to 28.980) to 42.433)
+95%)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 109 66 93
+Units: percent
+30.775 (24.02523.202 (15.18828.260 (21.308
+least squares mean (confidence interval
+to 37.526) to 31.215) to 35.211)
+95%)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.123
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 7.936
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -2.16
+upper limit 18.031
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.849
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 0.977
+Confidence interval
+level 95 %
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 62  of 89
+sides 2-sided
+lower limit -9.112
+upper limit 11.065
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 157
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.807
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate -1.242
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -11.233
+upper limit 8.748
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 145
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.025
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 11.789
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.488
+upper limit 22.09
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 175
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.127
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 7.574
+Confidence interval
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 63  of 89
+level 95 %
+sides 2-sided
+lower limit -2.16
+upper limit 17.307
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 159
+Analysis specification Pre-specified
+Analysis type superiority[21]
+P-value = 0.318
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 5.058
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -4.874
+upper limit 14.99
+Notes:
+[21] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Change from baseline in percent symptom-free days over the Treatment
+Period
+End point title Change from baseline in percent symptom-free days over the
+Treatment Period
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set). Days without asthma symptoms, or symptom-free days, were defined as
+days without asthma symptoms, short-acting β-agonist (SABA) use, systemic corticosteroid use, or need
+for urgent asthma care.
+End point type Secondary
+End point timeframe:
+Week 0 (7 days prior to randomisation) to Week 12
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 86 86 91 79
+Units: percent
+least squares mean (confidence interval 13.780 (7.873 10.521 (4.608 11.935 (6.169 14.673 (8.539
+95%) to 19.686) to 16.435) to 17.701) to 20.806)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 64  of 89
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 109 66 93
+Units: percent
+least squares mean (confidence interval 13.451 (7.883 3.329 (-3.319 14.018 (8.293
+95%) to 19.018) to 9.977) to 19.743)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.015
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 10.45
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 2.046
+upper limit 18.855
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 152
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.093
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 7.192
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.208
+upper limit 15.592
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 157
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.042
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 65  of 89
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 8.606
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.298
+upper limit 16.913
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 145
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.01
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 11.344
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 2.773
+upper limit 19.914
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 175
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.014
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 10.122
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 2.021
+upper limit 18.222
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 159
+Analysis specification Pre-specified
+Analysis type superiority[22]
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 66  of 89
+P-value = 0.011
+Method ANCOVA
+Parameter estimate Mean difference (final values)
+Point estimate 10.689
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 2.424
+upper limit 18.953
+Notes:
+[22] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Time to recurrent Composite endpoint for severe exacerbations of
+asthma (CompEx) event
+End point title Time to recurrent Composite endpoint for severe exacerbations
+of asthma (CompEx) event
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set).
+CompEx is a composite endpoint combining severe exacerbations of asthma and diary events. CompEx
+is a composite surrogate endpoint for severe exacerbations of asthma, recently developed by
+AstraZeneca (it is not yet a regulatory-approved clinical endpoint). Severe exacerbations are defined as
+those episodes that lead to hospitalisation, emergency room visit and/or treatment with oral
+corticosteroids. Time at risk was calculated as [(date of last treatment – date of randomisation)+1 –
+recovery time. Recovery time was the sum (from i=1 to k) of (min with event end date +7, date of last
+treatment] – with event start date +1). No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+From Screening (Within 21-28 days before randomisation) to Week 12/End of treatment or Early
+Termination Visit
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 110 112 111 113
+Units: Years
+number (not applicable) 21.3 22.2 22.6 23.1
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 134 113 112
+Units: Years
+number (not applicable) 29.0 18.6 24.4
+Statistical analyses
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 67  of 89
+No statistical analyses for this end point
+Secondary: Annualized CompEx event rate
+End point title Annualized CompEx event rate
+End point description:
+To investigate the clinical efficacy of AZD7594 at different dose levels in asthmatics symptomatic on low
+dose ICS (Full Analysis Set).
+CompEx is a composite endpoint combining severe exacerbations of asthma and diary events. CompEx
+is a composite surrogate endpoint for severe exacerbations of asthma, recently developed by
+AstraZeneca (it is not yet a regulatory-approved clinical endpoint). Severe exacerbations are defined as
+those episodes that lead to hospitalisation, emergency room visit and/or treatment with oral
+corticosteroids.  CompEx Model: Rates, rate ratios, and p-values were from a negative binomial model
+analysis, with event count as the dependent variable, with treatment and
+region as covariates and log-transformed time at risk (days) as an offset variable to account for
+overdispersion.
+End point type Secondary
+End point timeframe:
+From Screening (Within 21-28 days before randomisation) to Week 12/End of treatment or Early
+Termination Visit
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 110 112 111 113
+Units: Annual rate
+number (not applicable) 2.06 2.20 2.04 0.67
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 134 113 112
+Units: Annual rate
+number (not applicable) 0.50 4.71 0.75
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 223
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.035
+Method  Negative Binominal Model
+Parameter estimate  Estimate
+Point estimate 0.44
+Confidence interval
+level 95 %
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 68  of 89
+sides 2-sided
+lower limit 0.2
+upper limit 0.94
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 225
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.05
+Method  Negative Binominal Model
+Parameter estimate  Estimate
+Point estimate 0.47
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.22
+upper limit 1
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 224
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.032
+Method  Negative Binominal Model
+Parameter estimate  Estimate
+Point estimate 0.43
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.2
+upper limit 0.93
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Number of subjects included in analysis 226
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method  Negative Binominal Model
+Parameter estimate  Estimate
+Point estimate 0.14
+Confidence interval
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 69  of 89
+level 95 %
+sides 2-sided
+lower limit 0.06
+upper limit 0.34
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 247
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.001
+Method  Negative Binominal Model
+Parameter estimate  Estimate
+Point estimate 0.11
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.04
+upper limit 0.25
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 225
+Analysis specification Pre-specified
+Analysis type superiority[23]
+P-value < 0.001
+Method  Negative Binominal Model
+Parameter estimate  Estimate
+Point estimate 0.16
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.07
+upper limit 0.37
+Notes:
+[23] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Observed maximum concentration at steady state (Css,max) of AZD7594
+at Day 84
+End point title Observed maximum concentration at steady state (Css,max) of
+AZD7594 at Day 84
+End point description:
+To describe the (steady state) pharmacokinetic (PK) of AZD7594 in a subset of asthmatics symptomatic
+on low dose ICS (subset of subjects at EU sites) (PK Analysis Set). The presented results are summary
+statistics of the PK parameter.
+End point type Secondary
+End point timeframe:
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 70  of 89
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 hour (h) post-dose)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 17 14 15 16
+Units: pmol/L
+geometric mean (geometric coefficient 48.45 (± 114.90 (± 69.71 (± 154.50 (±
+of variation) 68.65) 99.12) 105.94) 144.67)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 27 0[24] 0[25]
+Units: pmol/L
+geometric mean (geometric coefficient 200.00 (±
+ ()  ()
+of variation) 113.05)
+Notes:
+[24] - Subjects from this arm were excluded from the PK analysis set.
+[25] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Assessment of Dose Proportionality of AZD7594 PK Parameter at Visit 7 (Day 84) (PK Analysis Set)
+Comparison groups AZD7594 50 μg v AZD7594 90 μg v AZD7594 180 μg v
+AZD7594 360 μg v AZD7594 720 μg
+Number of subjects included in analysis 89
+Analysis specification Pre-specified
+Analysis type other
+Parameter estimate Slope
+Point estimate 0.476
+Confidence interval
+level 90 %
+sides 2-sided
+lower limit 0.321
+upper limit 0.632
+Variability estimate Standard error of the mean
+Dispersion value 0.094
+Secondary: Observed minimum concentration at the end of the dosing interval
+(Css,min) of AZD7594 at Day 84
+End point title Observed minimum concentration at the end of the dosing
+interval (Css,min) of AZD7594 at Day 84
+End point description:
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 71  of 89
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter. No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 3 10 11 13
+Units: pmol/L
+geometric mean (geometric coefficient 14.41 (± 21.45 (± 30.22 (± 70.58 (±
+of variation) 37.59) 43.12) 43.28) 46.22)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 26 0[26] 0[27]
+Units: pmol/L
+geometric mean (geometric coefficient 85.13 (±
+ ()  ()
+of variation) 108.41)
+Notes:
+[26] - Subjects from this arm were excluded from the PK analysis set.
+[27] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to maximum concentration at steady state, taken directly from the
+individual concentration-time curve (tss, max) of AZD7594 at Day 84
+End point title Time to maximum concentration at steady state, taken directly
+from the individual concentration-time curve (tss, max) of
+AZD7594 at Day 84
+End point description:
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter. No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 72  of 89
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 17 14 15 16
+Units: hours
+0.25 (0.23 to 0.25 (0.00 to 0.25 (0.20 to 0.25 (0.00 to
+median (full range (min-max))
+2.17) 0.98) 2.00) 2.00)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 27 0[28] 0[29]
+Units: hours
+0.25 (0.00 to
+median (full range (min-max))  ( to )  ( to )
+23.98)
+Notes:
+[28] - Subjects from this arm were excluded from the PK analysis set.
+[29] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Area under the plasma concentration-curve from time zero to the time of
+last quantifiable analyte concentration (AUClast) of AZD7594 at Day 84
+End point title Area under the plasma concentration-curve from time zero to
+the time of last quantifiable analyte concentration (AUClast) of
+AZD7594 at Day 84
+End point description:
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter. No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 15 14 14 16
+Units: h*pmol/L
+geometric mean (geometric coefficient 167.50 (± 573.00 (± 719.10 (± 1435.00 (±
+of variation) 123.50) 116.00) 134.58) 140.28)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 26 0[30] 0[31]
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 73  of 89
+Units: h*pmol/L
+geometric mean (geometric coefficient 2622.00 (±
+ ()  ()
+of variation) 98.88)
+Notes:
+[30] - Subjects from this arm were excluded from the PK analysis set.
+[31] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Area under the plasma concentration-curve within a dosing interval
+(AUCτ) of AZD7594 at Day 84
+End point title Area under the plasma concentration-curve within a dosing
+interval (AUCτ) of AZD7594 at Day 84
+End point description:
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 3 10 11 13
+Units: h*pmol/L
+geometric mean (geometric coefficient 530.50 (± 928.60 (± 1137.00 (± 2205.00 (±
+of variation) 32.57) 37.52) 52.06) 52.32)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 26 0[32] 0[33]
+Units: h*pmol/L
+geometric mean (geometric coefficient 2622.00 (±
+ ()  ()
+of variation) 98.88)
+Notes:
+[32] - Subjects from this arm were excluded from the PK analysis set.
+[33] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Assessment of Dose Proportionality of AZD7594 PK Parameter at Visit 7 (Day 84) (PK Analysis Set)
+Comparison groups AZD7594 50 μg v AZD7594 90 μg v AZD7594 180 μg v
+AZD7594 360 μg v AZD7594 720 μg
+Number of subjects included in analysis 63
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 74  of 89
+Analysis specification Pre-specified
+Analysis type other
+Parameter estimate Slope
+Point estimate 0.555
+Confidence interval
+level 90 %
+sides 2-sided
+lower limit 0.402
+upper limit 0.709
+Variability estimate Standard error of the mean
+Dispersion value 0.092
+Secondary: Average plasma concentration during a dosing interval at steady state
+(Css,avg) of AZD7594 at Day 84
+End point title Average plasma concentration during a dosing interval at
+steady state (Css,avg) of AZD7594 at Day 84
+End point description:
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter. No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 3 10 11 13
+Units: pmol/L
+geometric mean (geometric coefficient 22.10 (± 38.69 (± 47.37 (± 91.86 (±
+of variation) 32.57) 37.52) 52.06) 52.32)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 26 0[34] 0[35]
+Units: pmol/L
+geometric mean (geometric coefficient 109.30 (±
+ ()  ()
+of variation) 98.88)
+Notes:
+[34] - Subjects from this arm were excluded from the PK analysis set.
+[35] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 75  of 89
+Secondary: Dose normalised Css,max (Css,max/D) of AZD7594 at Day 84
+End point title Dose normalised Css,max (Css,max/D) of AZD7594 at Day 84
+End point description:
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter. No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 17 14 15 16
+Units: pmol/L/umol
+geometric mean (geometric coefficient 587.80 (± 774.40 (± 234.90 (± 260.40 (±
+of variation) 68.65) 99.12) 105.94) 144.67)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 27 0[36] 0[37]
+Units: pmol/L/umol
+geometric mean (geometric coefficient 168.50 (±
+ ()  ()
+of variation) 113.05)
+Notes:
+[36] - Subjects from this arm were excluded from the PK analysis set.
+[37] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Dose normalised AUCτ (AUCτ/D) of AZD7594 at Day 84
+End point title Dose normalised AUCτ (AUCτ/D) of AZD7594 at Day 84
+End point description:
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter. No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 76  of 89
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 3 10 11 13
+Units: h*pmol/μmol
+geometric mean (geometric coefficient 6436.00 (± 6259.00 (± 3831.00 (± 3715.00 (±
+of variation) 32.57) 37.52) 52.06) 52.32)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 26 0[38] 0[39]
+Units: h*pmol/μmol
+geometric mean (geometric coefficient 2209.00 (±
+ ()  ()
+of variation) 98.88)
+Notes:
+[38] - Subjects from this arm were excluded from the PK analysis set.
+[39] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage Fluctuation index within a dosing interval of AZD7594 at Day
+84
+End point title Percentage Fluctuation index within a dosing interval of
+AZD7594 at Day 84
+End point description:
+To describe the (steady state) PK of AZD7594 in a subset of asthmatics symptomatic on low dose ICS
+(subset of subjects at EU sites) (PK Analysis Set). The presented results are summary statistics of the
+PK parameter. No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+Day 84 (pre-dose and 0.25, 0.5, 1.0, 2.0, 4.0, 8.0, 12.0, 16.0 and 24 h post-dose)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 3 10 11 13
+Units: percentage
+geometric mean (geometric coefficient 387.80 (± 326.60 (± 148.90 (± 172.10 (±
+of variation) 21.97) 37.40) 38.27) 44.32)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 26 0[40] 0[41]
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 77  of 89
+Units: percentage
+geometric mean (geometric coefficient 98.22 (±
+ ()  ()
+of variation) 61.36)
+Notes:
+[40] - Subjects from this arm were excluded from the PK analysis set.
+[41] - Subjects from this arm were excluded from the PK analysis set.
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Change from baseline of area under the plasma cortisol concentration-
+time curve from zero to 24 hours after dosing (AUEC0-24), compared to Placebo of
+AZD7594 at Day 84
+End point title Change from baseline of area under the plasma cortisol
+concentration-time curve from zero to 24 hours after dosing
+(AUEC0-24), compared to Placebo of AZD7594 at Day 84
+End point description:
+To describe the pharmacodynamics of AZD7594 by measuring cortisol suppression in a subset of
+asthmatics symptomatic on low dose ICS (subset of subjects at EU sites) (Pharmacodynamic Analysis
+Set). Baseline was defined as the Day -1 value. Analyses were based on an ANCOVA model with change
+from baseline on the log-scale as the response, treatment as a fixed effect, and log-transformed
+baseline value as a covariate.
+End point type Secondary
+End point timeframe:
+Day 84 (at 0 [pre-dose], 2, 4, 6, 8, 10, 12, 16, 20, 22 and 24 hours relative to IP administration)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 19 16 16 17
+Units: ng/mL
+geometric mean (confidence interval 1.029 (0.920 1.140 (1.009 1.151 (1.018 1.003 (0.891
+95%) to 1.152) to 1.287) to 1.300) to 1.129)
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 27 14 17
+Units: ng/mL
+geometric mean (confidence interval 0.934 (0.850 1.019 (0.895 1.011 (0.898
+95%) to 1.026) to 1.161) to 1.137)
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Comparison groups AZD7594 50 μg v Placebo to AZD7594
+Number of subjects included in analysis 33
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 78  of 89
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.909
+Method ANCOVA
+Parameter estimate  geometric LSMean ratio
+Point estimate 1.01
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.851
+upper limit 1.199
+Statistical analysis title Statistical Analysis 2
+Comparison groups AZD7594 90 μg v Placebo to AZD7594
+Number of subjects included in analysis 30
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.218
+Method ANCOVA
+Parameter estimate  geometric LSMean ratio
+Point estimate 1.118
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.935
+upper limit 1.336
+Statistical analysis title Statistical Analysis 3
+Comparison groups AZD7594 180 μg v Placebo to AZD7594
+Number of subjects included in analysis 30
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.181
+Method ANCOVA
+Parameter estimate  geometric LSMean ratio
+Point estimate 1.129
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.944
+upper limit 1.349
+Statistical analysis title Statistical Analysis 4
+Comparison groups AZD7594 360 μg v Placebo to AZD7594
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 79  of 89
+Number of subjects included in analysis 31
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.859
+Method ANCOVA
+Parameter estimate  geometric LSMean ratio
+Point estimate 0.984
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.825
+upper limit 1.174
+Statistical analysis title Statistical Analysis 5
+Comparison groups AZD7594 720 μg v Placebo to AZD7594
+Number of subjects included in analysis 41
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.285
+Method ANCOVA
+Parameter estimate  geometric LSMean ratio
+Point estimate 0.916
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.78
+upper limit 1.077
+Statistical analysis title Statistical Analysis 6
+Comparison groups Placebo to AZD7594 v Fluticasone furoate
+Number of subjects included in analysis 31
+Analysis specification Pre-specified
+Analysis type superiority[42]
+P-value = 0.923
+Method ANCOVA
+Parameter estimate  geometric LSMean ratio
+Point estimate 0.991
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.831
+upper limit 1.182
+Notes:
+[42] - The Statistical analysis is done to show the superiority of Fluticasone furoate over Placebo
+Secondary: Number of subjects with adverse events
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 80  of 89
+End point title Number of subjects with adverse events
+End point description:
+To evaluate the safety and tolerability of AZD7594 in relation to Placebo in asthmatics symptomatic on
+low dose ICS (Safety Analysis Set). No statistical analysis is done for this endpoint.
+End point type Secondary
+End point timeframe:
+From screening to follow-up period (7 to 10 days after visit 7)
+AZD7594 50 AZD7594 90 AZD7594 180 AZD7594 360
+End point values
+μg μg μg μg
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 110 112 111 113
+Units: Subjects
+Any AE 35 45 39 54
+death 0 0 0 1
+Any SAE 0 3 1 3
+Any AE leading to discontinuation of IP 6 8 4 11
+AZD7594 720 Placebo to Fluticasone
+End point values
+μg AZD7594 furoate
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 134 113 112
+Units: Subjects
+Any AE 46 47 34
+death 0 0 0
+Any SAE 3 0 1
+Any AE leading to discontinuation of IP 4 20 2
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 81  of 89
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+From Screening to follow-up period (7to 10 days after visit 7)
+Assessment type Non-systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 22.0
+Reporting groups
+Reporting group title AZD7594 50 μg
+Reporting group description:
+Oral inhalation of AZD5794 55 microgram/ 50 microgram (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 180 μg
+Reporting group description:
+Oral inhalation of AZD5794 198 microgram/ 180 microgram (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 90 μg
+Reporting group description:
+Oral inhalation of AZD5794 99 microgram/ 90 microgram (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 360 μg
+Reporting group description:
+Oral inhalation of AZD5794 396 microgram/ 360 microgram (nominal dose/delivered dose) once daily.
+Reporting group title AZD7594 720 μg
+Reporting group description:
+Oral inhalation of AZD5794 792 microgram/ 720 microgram (nominal dose/delivered dose) once daily.
+Reporting group title Placebo to AZD7594
+Reporting group description:
+Oral inhalation of placebo to AZD7594 once daily.
+Reporting group title Fluticasone furoate
+Reporting group description:
+Oral inhalation of fluticasone furoate 100 microgram once daily.
+Serious adverse events AZD7594 50 μg AZD7594 180 μg AZD7594 90 μg
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 0 / 110 (0.00%) 1 / 111 (0.90%) 3 / 112 (2.68%)
+number of deaths (all causes) 0 0 0
+number of deaths resulting from
+0 0 0
+adverse events
+Injury, poisoning and procedural
+complications
+Femur fracture
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 0 / 112 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Spinal compression fracture
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 82  of 89
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 0 / 112 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac disorders
+Angina pectoris
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 0 / 112 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Atrial flutter
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 0 / 112 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Asthma
+subjects affected / exposed 0 / 110 (0.00%) 1 / 111 (0.90%) 1 / 112 (0.89%)
+occurrences causally related to 0 / 0 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Death
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 0 / 112 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrointestinal disorders
+Colitis
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 0 / 112 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hepatobiliary disorders
+Cholecystitis acute
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 1 / 112 (0.89%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 83  of 89
+Back pain
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 1 / 112 (0.89%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Neck pain
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 1 / 112 (0.89%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infections and infestations
+Sepsis
+subjects affected / exposed 0 / 110 (0.00%) 0 / 111 (0.00%) 1 / 112 (0.89%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Serious adverse events AZD7594 360 μg AZD7594 720 μg Placebo to AZD7594
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 3 / 113 (2.65%) 3 / 134 (2.24%) 0 / 113 (0.00%)
+number of deaths (all causes) 1 0 0
+number of deaths resulting from
+0 0 0
+adverse events
+Injury, poisoning and procedural
+complications
+Femur fracture
+subjects affected / exposed 0 / 113 (0.00%) 1 / 134 (0.75%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Spinal compression fracture
+subjects affected / exposed 0 / 113 (0.00%) 1 / 134 (0.75%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac disorders
+Angina pectoris
+subjects affected / exposed 0 / 113 (0.00%) 1 / 134 (0.75%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Atrial flutter
+subjects affected / exposed 0 / 113 (0.00%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 84  of 89
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Asthma
+subjects affected / exposed 1 / 113 (0.88%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Death
+subjects affected / exposed 1 / 113 (0.88%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Gastrointestinal disorders
+Colitis
+subjects affected / exposed 1 / 113 (0.88%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hepatobiliary disorders
+Cholecystitis acute
+subjects affected / exposed 0 / 113 (0.00%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Back pain
+subjects affected / exposed 0 / 113 (0.00%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Neck pain
+subjects affected / exposed 0 / 113 (0.00%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infections and infestations
+Sepsis
+subjects affected / exposed 0 / 113 (0.00%) 0 / 134 (0.00%) 0 / 113 (0.00%)
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 85  of 89
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Serious adverse events Fluticasone furoate
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 1 / 112 (0.89%)
+number of deaths (all causes) 0
+number of deaths resulting from
+0
+adverse events
+Injury, poisoning and procedural
+complications
+Femur fracture
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Spinal compression fracture
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Cardiac disorders
+Angina pectoris
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Atrial flutter
+subjects affected / exposed 1 / 112 (0.89%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Asthma
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+General disorders and administration
+site conditions
+Death
+subjects affected / exposed 0 / 112 (0.00%)
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 86  of 89
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Gastrointestinal disorders
+Colitis
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Hepatobiliary disorders
+Cholecystitis acute
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Back pain
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Neck pain
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Infections and infestations
+Sepsis
+subjects affected / exposed 0 / 112 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Non-serious adverse events AZD7594 50 μg AZD7594 180 μg AZD7594 90 μg
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 14 / 110 (12.73%) 8 / 111 (7.21%) 15 / 112 (13.39%)
+Respiratory, thoracic and mediastinal
+disorders
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 87  of 89
+Asthma
+subjects affected / exposed 7 / 110 (6.36%) 2 / 111 (1.80%) 6 / 112 (5.36%)
+occurrences (all) 7 2 6
+Infections and infestations
+Nasopharyngitis
+subjects affected / exposed 7 / 110 (6.36%) 6 / 111 (5.41%) 9 / 112 (8.04%)
+occurrences (all) 7 6 9
+Non-serious adverse events AZD7594 360 μg AZD7594 720 μg Placebo to AZD7594
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 14 / 113 (12.39%) 8 / 134 (5.97%) 24 / 113 (21.24%)
+Respiratory, thoracic and mediastinal
+disorders
+Asthma
+subjects affected / exposed 10 / 113 (8.85%) 3 / 134 (2.24%) 19 / 113 (16.81%)
+occurrences (all) 10 3 20
+Infections and infestations
+Nasopharyngitis
+subjects affected / exposed 4 / 113 (3.54%) 5 / 134 (3.73%) 6 / 113 (5.31%)
+occurrences (all) 4 6 6
+Non-serious adverse events Fluticasone furoate
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 11 / 112 (9.82%)
+Respiratory, thoracic and mediastinal
+disorders
+Asthma
+subjects affected / exposed 3 / 112 (2.68%)
+occurrences (all) 3
+Infections and infestations
+Nasopharyngitis
+subjects affected / exposed 9 / 112 (8.04%)
+occurrences (all) 9
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 88  of 89
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+26 April 2019 Deletion of peak FEV1 from the secondary efficacy endpoints. Update of the
+inclusion criteria to include only subjects with BMI ≤ 35. Deletion of the expected
+number of subjects in the US vs. non-US sites. Removal of interim futility
+analysis. Specification of inclusion criterion #7 (pre-bronchodilator FEV1 at Visit 3
+between 40% and 90% predicted). Deletion of QT interval corrected using
+Bazett’s formula; addition of appropriate electrocardiogram parameters.
+Clarification of exclusion criterion #3 and exclusion criterion #21 for alcohol and
+drug abuse. Clarified the required treatments for postmenopausal subjects.
+Clarified that the subjects were discontinued when specified criteria are met.
+Deletion of measure peak expiratory flow at Screening. Clarification of the number
+of measurement and timing of spirometry. Clarification of the compliance rate in
+the Run-in Period and the expected compliance rate in the Treatment Period.
+Clarification that peak expiratory flow was measured at home after completing the
+morning and evening diary. Clarification that Forced oscillation technique
+evaluation and training took place at Visit 1, instead of Visit 2. Deletion of the
+description that rescue medication should be recorded as concomitant medication.
+Clarification that the analysis set used for demographic and baseline
+characteristics was Full analysis set. Clarification that baseline asthma severity
+was assessed using the pre-SABA value at Visit 2, instead of pre-bronchodilator
+value at Visit 1. The number of subjects who met the reversibility criteria was
+deleted. “Individual plasma concentrations vs. time on Week 12 (Day 84) plotted
+on linear and semi-logarithmic scale with all treatments overlaid on the same plot
+and separate plots for each subject” was no longer provided as part of PK
+analysis. Geometric SD was no longer presented on figures of geometric mean for
+concentration-time data as part of the PK analysis. Clarification of the definition of
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Limitations and caveats
+None reported
+Clinical trial results 2017-002483-40 version 1 EU-CTR publication date: 20 September 2020 Page 89  of 89

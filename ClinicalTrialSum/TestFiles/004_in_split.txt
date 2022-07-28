@@ -1,0 +1,1896 @@
+ EU Clinical Trials Register
+Clinical trial results:
+A double-blind, randomised, placebo-controlled trial evaluating
+the effect of BI 655064 administered as subcutaneous injections,
+on renal response after one year of treatment, in patients with
+active lupus nephritis
+Summary
+EudraCT number 2015-001750-15
+Trial protocol ES CZ GR DE PL AT PT GB FR IT
+Global end of trial date 18 August 2020
+Results information
+Result version number v2 (current)
+This version publication date 14 November 2021
+First version publication date 04 July 2021
+Version creation reason
+Trial information
+Trial identification
+Sponsor protocol code 1293.10
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT02770170
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name Boehringer Ingelheim
+Sponsor organisation address Binger Strasse 173, Ingelheim am Rhein, Germany, 55216
+Public contact Boehringer Ingelheim, Call Center, Boehringer Ingelheim, 001
+18002430127, clintriage.rdg@boehringer-ingelheim.com
+Scientific contact Boehringer Ingelheim, Call Center, Boehringer Ingelheim, 001
+18002430127, clintriage.rdg@boehringer-ingelheim.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Results analysis stage
+Analysis stage Final
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 1  of 44
+Date of interim/final analysis 15 October 2020
+Is this the analysis of the primary Yes
+completion data?
+Primary completion date 23 June 2020
+Global end of trial reached? Yes
+Global end of trial date 18 August 2020
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+The objectives were to characterise the dose-response relationship, identify the target dose for Phase III
+development, and investigate the safety and efficacy of 3 doses of BI 655064 administered
+subcutaneously for 52 weeks as add-on therapy to standard of care treatment in patients with active
+lupus nephritis.
+Protection of trial subjects:
+Only subjects that met all the study inclusion and none of the exclusion criteria were to be entered in
+the study. All subjects were free to withdraw from the clinical trial at any time for any reason given.
+Close monitoring of all subjects was adhered to throughout the trial conduct. Rescue medication was
+allowed for all patients as required.
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 16 August 2016
+Long term follow-up planned No
+Independent data monitoring committee Yes
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Australia: 2
+Country: Number of subjects enrolled Canada: 2
+Country: Number of subjects enrolled Czechia: 6
+Country: Number of subjects enrolled France: 6
+Country: Number of subjects enrolled Germany: 11
+Country: Number of subjects enrolled Greece: 9
+Country: Number of subjects enrolled Hong Kong: 4
+Country: Number of subjects enrolled Italy: 3
+Country: Number of subjects enrolled Japan: 15
+Country: Number of subjects enrolled Malaysia: 3
+Country: Number of subjects enrolled Mexico: 22
+Country: Number of subjects enrolled Philippines: 28
+Country: Number of subjects enrolled Poland: 16
+Country: Number of subjects enrolled Portugal: 7
+Country: Number of subjects enrolled Serbia: 7
+Country: Number of subjects enrolled Spain: 4
+Country: Number of subjects enrolled Thailand: 26
+Country: Number of subjects enrolled United Kingdom: 4
+Country: Number of subjects enrolled United States: 31
+Country: Number of subjects enrolled Korea, Republic of: 3
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 2  of 44
+Worldwide total number of subjects 209
+EEA total number of subjects 62
+Notes:
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk 
+
+******************************
+
+ 
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 207
+From 65 to 84 years 2
+85 years and over 0
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 3  of 44
+Subject disposition
+Recruitment
+Recruitment details:
+This is a double-blind, randomised, placebo-controlled trial evaluating the effect of BI 655064
+administered as subcutaneous injections, on renal response after one year of treatment, in patients with
+active lupus nephritis.
+Pre-assignment
+Screening details:
+All patients were screened for eligibility prior to participation in the trial. Patients attended a specialist
+site which ensured that they (the patients) strictly met all inclusion and none of the exclusion criteria.
+Patients were not to be allocated to a treatment group if any of the entry criteria were violated.
+Period 1
+Period 1 title Overall Study (overall period)
+Is this the baseline period? Yes
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator
+Blinding implementation details:
+Double-blind
+Arms
+Are arms mutually exclusive? Yes
+Arm title 120 mg BI 655064
+Arm description:
+Participants in dose group 1 received two subcutaneous injections per week, one of 120 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 120 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Arm type Experimental
+Investigational medicinal product name BI 655064
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants in dose group 1 received two subcutaneous injections per week, one of 120 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 120 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Arm title 180 mg BI 655064
+Arm description:
+Participants in dose group 2 received two subcutaneous injections per week, one of 180 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 180 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Arm type Experimental
+Investigational medicinal product name BI 655064
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants in dose group 2 received two subcutaneous injections per week, one of 180 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 180 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 4  of 44
+Arm title 240 mg BI 655064
+Arm description:
+Participants in dose group 3 received two subcutaneous injections per week of 120 milligrams (mg) of BI
+655064 (240 mg in total) on the same day for 3 weeks followed by one subcutaneous injection per week
+of 120 mg of BI 655064, up to 52 weeks.
+Arm type Experimental
+Investigational medicinal product name BI 655064
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants in dose group 3 received two subcutaneous injections per week of 120 milligrams (mg) of BI
+655064 (240 mg in total) on the same day for 3 weeks followed by one subcutaneous injection per week
+of 120 mg of BI 655064, up to 52 weeks.
+Arm title Placebo
+Arm description:
+Participants in the placebo group received two subcutaneous injections per week of placebo on the same
+day for 3 weeks followed by one subcutaneous injection per week of placebo, up to 52 weeks.
+Arm type Placebo
+Investigational medicinal product name Placebo
+Investigationa 
+
+******************************
+
+ l medicinal product code
+Other name
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants in the placebo group received two subcutaneous injections per week of placebo on the same
+day for 3 weeks followed by one subcutaneous injection per week of placebo, up to 52 weeks.
+Number of subjects in period 120 mg BI 655064 180 mg BI 655064 240 mg BI 655064
+1[1]
+Started 21 20 40
+Completed 14 17 35
+Not completed 7 3 5
+due to disease worsening  -  -  -
+Lack of efficacy 2  -  -
+Adverse event, non-fatal 4 3 5
+Consent withdrawn by subject  -  -  -
+due to pregnancy 1  -  -
+Number of subjects in period Placebo
+1[1]
+Started 40
+Completed 33
+Not completed 7
+due to disease worsening 1
+Lack of efficacy 1
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 5  of 44
+Adverse event, non-fatal 3
+Consent withdrawn by subject 2
+due to pregnancy  -
+Notes:
+[1] - The number of subjects reported to be in the baseline period are not the same as the worldwide
+number enrolled in the trial. It is expected that these numbers will be the same.
+Justification: Baseline characteristics are based on patients who were randomised after successfully
+completing the screening period and received at least one dose of the trial medication.
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 6  of 44
+Baseline characteristics
+Reporting groups
+Reporting group title 120 mg BI 655064
+Reporting group description:
+Participants in dose group 1 received two subcutaneous injections per week, one of 120 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 120 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Reporting group title 180 mg BI 655064
+Reporting group description:
+Participants in dose group 2 received two subcutaneous injections per week, one of 180 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 180 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Reporting group title 240 mg BI 655064
+Reporting group description:
+Participants in dose group 3 received two subcutaneous injections per week of 120 milligrams (mg) of BI
+655064 (240 mg in total) on the same day for 3 weeks followed by one subcutaneous injection per week
+of 120 mg of BI 655064, up to 52 weeks.
+Reporting group title Placebo
+Reporting group description:
+Participants in the placebo group received two subcutaneous injections per week of placebo on the same
+day for 3 weeks followed by one subcutaneous injection per week of placebo, up to 52 weeks.
+Reporting group values 120 mg BI 655064 180 mg BI 655064 240 mg BI 655064
+Number of subjects 21 20 40
+Age categorical
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: Subjects
+In utero 0 0 0
+Preterm newborn infants 0 0 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0 0 0
+Infants and toddlers (28 days-23 0 0 0
+months)
+Children (2-11 years) 0 0 0
+Adolescents (12-17 years) 0 0 0
+Adults (18-64 years) 21 20 40
+From 65-84 years 0 0 0
+85 years and over 0 0 0
+Age Continuous
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: years
+arithmetic mean 35.9 34.5 34.3
+standard deviation ± 11.4 ± 9.9 ± 10.3
+Sex: Female, Male
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: Participants
+Female 16 18 36
+Male 5 2 4
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 7  of 44
+Ethnicity (NIH/OMB)
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented  
+
+******************************
+
+ to have taken at least one dose of investigational treatment.
+Units: Subjects
+Hispanic or Latino 5 4 8
+Not Hispanic or Latino 16 16 32
+Unknown or Not Reported 0 0 0
+Race (NIH/OMB)
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: Subjects
+American Indian or Alaska Native 0 0 0
+Asian 9 9 17
+Native Hawaiian or Other Pacific 0 0 0
+Islander
+Black or African American 1 0 2
+White 9 11 21
+More than one race 1 0 0
+Unknown or Not Reported 1 0 0
+estimated glomerular filtration rate
+(eGFR) at baseline
+estimated glomerular filtration rate (eGFR) was calculated from serum creatinine.
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: milliLitres /minute /1.73
+squaremeter
+arithmetic mean 85.857 99.850 91.125
+standard deviation ± 34.268 ± 21.109 ± 32.673
+Reporting group values Placebo Total
+Number of subjects 40 121
+Age categorical
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: Subjects
+In utero 0 0
+Preterm newborn infants 0 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0 0
+Infants and toddlers (28 days-23 0 0
+months)
+Children (2-11 years) 0 0
+Adolescents (12-17 years) 0 0
+Adults (18-64 years) 40 121
+From 65-84 years 0 0
+85 years and over 0 0
+Age Continuous
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: years
+arithmetic mean 33.9
+standard deviation ± 9.8 -
+Sex: Female, Male
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 8  of 44
+Units: Participants
+Female 38 108
+Male 2 13
+Ethnicity (NIH/OMB)
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: Subjects
+Hispanic or Latino 7 24
+Not Hispanic or Latino 33 97
+Unknown or Not Reported 0 0
+Race (NIH/OMB)
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: Subjects
+American Indian or Alaska Native 0 0
+Asian 17 52
+Native Hawaiian or Other Pacific 0 0
+Islander
+Black or African American 1 4
+White 22 63
+More than one race 0 1
+Unknown or Not Reported 0 1
+estimated glomerular filtration rate
+(eGFR) at baseline
+estimated glomerular filtration rate (eGFR) was calculated from serum creatinine.
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Units: milliLitres /minute /1.73
+squaremeter
+arithmetic mean 88.775
+standard deviation ± 29.914 -
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 9  of 44
+End points
+End points reporting groups
+Reporting group title 120 mg BI 655064
+Reporting group description:
+Participants in dose group 1 received two subcutaneous injections per week, one of 120 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 120 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Reporting group title 180 mg BI 655064
+Reporting group description:
+Participants in dose group 2 received two subcutaneous injections per week, one of 180 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 180 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Reporting  
+
+******************************
+
+ group title 240 mg BI 655064
+Reporting group description:
+Participants in dose group 3 received two subcutaneous injections per week of 120 milligrams (mg) of BI
+655064 (240 mg in total) on the same day for 3 weeks followed by one subcutaneous injection per week
+of 120 mg of BI 655064, up to 52 weeks.
+Reporting group title Placebo
+Reporting group description:
+Participants in the placebo group received two subcutaneous injections per week of placebo on the same
+day for 3 weeks followed by one subcutaneous injection per week of placebo, up to 52 weeks.
+Subject analysis set title 120 mg BI 655064
+Subject analysis set type Intention-to-treat
+Subject analysis set description:
+Participants in dose group 1 received two subcutaneous injections per week, one of 120 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 120 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Subject analysis set title 180 mg BI 655064
+Subject analysis set type Intention-to-treat
+Subject analysis set description:
+Participants in dose group 2 received two subcutaneous injections per week, one of 180 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 180 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Subject analysis set title 240 mg BI 655064
+Subject analysis set type Intention-to-treat
+Subject analysis set description:
+Participants in dose group 3 received two subcutaneous injections per week of 120 milligrams (mg) of BI
+655064 (240 mg in total) on the same day for 3 weeks followed by one subcutaneous injection per week
+of 120 mg of BI 655064, up to 52 weeks.
+Subject analysis set title Placebo
+Subject analysis set type Intention-to-treat
+Subject analysis set description:
+Participants in the placebo group received two subcutaneous injections per week of placebo on the same
+day for 3 weeks followed by one subcutaneous injection per week of placebo, up to 52 weeks.
+Primary: Percentage of patients with complete renal response (CRR) at week 52
+End point title Percentage of patients with complete renal response (CRR) at
+week 52
+End point description:
+Complete renal response (CRR) was defined as urine protein (UP) < 0.5 g/day at Week 52 and either
+estimated glomerular filtration rate (eGFR) within normal range at Week 52 or decrease in eGFR < 20%
+from baseline at Week 52 if eGFR was below normal range (below lower limit of normal [LLN], where
+LLN = 90 mL/min).
+CRR at Week 52 (derived using UP from the 24 h urine collections) was analyzed using a logistic
+regression model. Factors in the model included treatment and the covariates race (Asian/Non-Asian)
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 10  of 44
+and proteinuria at screening (UP/urine creatinine (UC) <3 or >=3 g/day).
+Pairwise comparisons of the modelled proportions of patients with CRR at each dose level to placebo
+were performed.
+Intent to treat (ITT) set: This patient set included all patients from the treated set who had a baseline
+(or screening) proteinuria (spot urine could be used if a patient did not have 24 h urine collections) and
+a baseline or screening estimated glomerular filtration rate (eGFR) value.
+End point type Primary
+End point timeframe:
+At week 52.
+120 mg BI 180 mg BI 240 mg BI
+End point values Placebo
+655064 655064 655064
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 21 20 40 40
+Units: Percentage of Participants
+number (not applicable) 38.32 44.95 44.56 48.33
+Statistical analyses
+Statistical analysis title MCPMod quadratic model fit
+Statistical analysis description:
+Multiple comparison procedures and modelling (MCPmod) techniques for logistic regression was used.
+Comparison groups 120 mg BI 655064 v 180 mg BI 655064 v 240 mg BI 655064 v
+Placebo
+Number of subjects included in analysis 121
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.7271 [1]
+Method  MCPMod qu 
+
+******************************
+
+ adratic model fit
+Notes:
+[1] - An alpha of 0.20 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.
+Statistical analysis title MCPMod sigmoidal Emax model fit
+Statistical analysis description:
+Multiple comparison procedures and modelling (MCPmod) techniques for logistic regression was used.
+Comparison groups 120 mg BI 655064 v 180 mg BI 655064 v 240 mg BI 655064 v
+Placebo
+Number of subjects included in analysis 121
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.6415 [2]
+Method  MCPMod sigmoidal Emax model fit
+Notes:
+[2] - An alpha of 0.20 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.
+Statistical analysis title MCPMod Emax model fit
+Statistical analysis description:
+Multiple comparison procedures and modelling (MCPmod) techniques for logistic regression was used.
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 11  of 44
+Comparison groups 120 mg BI 655064 v 180 mg BI 655064 v 240 mg BI 655064 v
+Placebo
+Number of subjects included in analysis 121
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.7367 [3]
+Method  MCPMod Emax model fit
+Notes:
+[3] - An alpha of 0.20 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.
+Statistical analysis title MCPMod exponential model fit
+Statistical analysis description:
+Multiple comparison procedures and modelling (MCPmod) techniques for logistic regression was used.
+Comparison groups 120 mg BI 655064 v 180 mg BI 655064 v 240 mg BI 655064 v
+Placebo
+Number of subjects included in analysis 121
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.6624 [4]
+Method  MCPMod exponential model fit
+Notes:
+[4] - An alpha of 0.20 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.
+Statistical analysis title Logistic regression
+Statistical analysis description:
+include treatment and covariates, race (Asian or non−Asian), proteinuria at screening (<3g/day or >=
+3g/day)
+Confidence intervals calculated using delta method
+Comparison groups 120 mg BI 655064 v Placebo
+Number of subjects included in analysis 61
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.4645
+Method Regression, Logistic
+Parameter estimate Risk difference (RD)
+Point estimate -10
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -27.292
+upper limit 7.288
+Statistical analysis title Logistic regression
+Statistical analysis description:
+include treatment and covariates, race (Asian or non−Asian), proteinuria at screening (<3g/day or >=
+3g/day)
+Confidence intervals calculated using delta method
+Comparison groups 180 mg BI 655064 v Placebo
+Number of subjects included in analysis 60
+Analysis specification Pre-specified
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 12  of 44
+Analysis type other
+P-value = 0.8084
+Method Regression, Logistic
+Parameter estimate Risk difference (RD)
+Point estimate -3.38
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -21.204
+upper limit 14.451
+Statistical analysis title Logistic regression
+Statistical analysis description:
+include treatment and covariates, race (Asian or non−Asian), proteinuria at screening (<3g/day or >=
+3g/day)
+Confidence intervals calculated using delta method
+Comparison groups 240 mg BI 655064 v Placebo
+Number of subjects included in analysis 80
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.7398
+Method Regression, Logistic
+Parameter estimate Risk difference (RD)
+Point estimate -3.77
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -18.364
+upper limit 10.832
+Secondary: Percentage of patients with complete renal response (CRR) at week 26
+End point title Percentage of patients with complete renal response (CRR) at
+week 26
+End point description:
+Complete renal response (CRR) was defined as urine protein (UP) < 0.5 g/day at Week 26 and either
+estimated glomerular filtration rate (eGFR) within normal range at Week 26 or decrease in eGFR < 20%
+from baseline at Week 26 i 
+
+******************************
+
+ f eGFR was below normal range (below lower limit of normal [LLN], where
+LLN = 90 mL/min).
+Intent to treat (ITT) set: This patient set included all patients from the treated set who had a baseline
+(or screening) proteinuria (spot urine could be used if a patient did not have 24 h urine collections) and
+a baseline or screening estimated glomerular filtration rate (eGFR) value.
+End point type Secondary
+End point timeframe:
+At week 26.
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 13  of 44
+120 mg BI 180 mg BI 240 mg BI
+End point values Placebo
+655064 655064 655064
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 21 20 40 40
+Units: Percentage of Participants
+number (not applicable) 28.6 50.0 35.0 37.5
+Statistical analyses
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 120 mg BI 655064 v Placebo
+Number of subjects included in analysis 61
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.5773
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate -8.93
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -23.66
+upper limit 7.64
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 180 mg BI 655064 v Placebo
+Number of subjects included in analysis 60
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.4013
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate 12.5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -4.59
+upper limit 29.03
+Statistical analysis title Barnard test of association
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 14  of 44
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 240 mg BI 655064 v Placebo
+Number of subjects included in analysis 80
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.8965
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate -2.5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -15.98
+upper limit 11.1
+Secondary: Percentage of patients with partial renal response (PRR) at week 26
+End point title Percentage of patients with partial renal response (PRR) at
+week 26
+End point description:
+Partial renal response (PRR) was defined as at least 50% reduction of proteinuria from baseline if
+estimated glomerular filtration rate (eGFR) was within normal range at time of assessment or decrease
+of eGFR <20% from baseline if eGFR was below normal range at time of assessment.
+Intent to treat (ITT) set: This patient set included all patients from the treated set who had a baseline
+(or screening) proteinuria (spot urine could be used if a patient did not have 24 h urine collections) and
+a baseline or screening estimated glomerular filtration rate (eGFR) value.
+End point type Secondary
+End point timeframe:
+At week 26.
+120 mg BI 180 mg BI 240 mg BI
+End point values Placebo
+655064 655064 655064
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 21 20 40 40
+Units: Percentage of Participants
+number (not applicable) 42.9 75.0 62.5 62.5
+Statistical analyses
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 120 mg BI 655064 v Placebo
+Number of subjects included in analysis 61
+Analysis specification Pre-specified
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 15  of 44
+Analysis type other
+P-value = 0.1476
+Method  Barnar 
+
+******************************
+
+ d test of association
+Parameter estimate Risk difference (RD)
+Point estimate -19.64
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -35.38
+upper limit -2.48
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 240 mg BI 655064 v Placebo
+Number of subjects included in analysis 80
+Analysis specification Pre-specified
+Analysis type other
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate 0
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -13.63
+upper limit 13.63
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 180 mg BI 655064 v Placebo
+Number of subjects included in analysis 60
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.4013
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate 12.5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -4.2
+upper limit 26.86
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 16  of 44
+Secondary: Percentage of patients with partial renal response (PRR) at week 52
+End point title Percentage of patients with partial renal response (PRR) at
+week 52
+End point description:
+Partial renal response (PRR) was defined as at least 50% reduction of proteinuria from baseline if
+estimated glomerular filtration rate (eGFR) was within normal range at time of assessment or decrease
+of eGFR <20% from baseline if eGFR was below normal range at time of assessment.
+Intent to treat (ITT) set: This patient set included all patients from the treated set who had a baseline
+(or screening) proteinuria (spot urine could be used if a patient did not have 24 h urine collections) and
+a baseline or screening estimated glomerular filtration rate (eGFR) value.
+End point type Secondary
+End point timeframe:
+At week 52.
+120 mg BI 180 mg BI 240 mg BI
+End point values Placebo
+655064 655064 655064
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 21 20 40 40
+Units: Percentage of Participants
+number (not applicable) 33.3 65.0 55.0 60.0
+Statistical analyses
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 120 mg BI 655064 v Placebo
+Number of subjects included in analysis 61
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.0512
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate -26.67
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -41.52
+upper limit -9.42
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 180 mg BI 655064 v Placebo
+Number of subjects included in analysis 60
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 17  of 44
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.7597
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate 5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -12.1
+upper limit 20.74
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 240 mg BI 655064 v Placebo
+Number of subjects included in analysis 80
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.7505
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate -5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -18.74
+upper limi 
+
+******************************
+
+ t 9.02
+Secondary: Percentage of patients with major renal response (MRR) at week 26
+End point title Percentage of patients with major renal response (MRR) at
+week 26
+End point description:
+Major renal response was defined as follows depending on proteinuria at baseline:
+-If baseline proteinuria was <3 g/day and patient had complete renal response (CRR)
+-If baseline proteinuria was >= 3 g/day and proteinuria < 1 g/day and either estimated glomerular
+filtration rate (eGFR) within normal range or decrease in eGFR <20% from baseline at Week 26 if eGFR
+was below normal range (below lower limit of normal (LLN), where LLN = 90 mL/min)
+Intent to treat (ITT) set: This patient set included all patients from the treated set who had a baseline
+(or screening) proteinuria (spot urine could be used if a patient did not have 24 h urine collections) and
+a baseline or screening estimated glomerular filtration rate (eGFR) value.
+End point type Secondary
+End point timeframe:
+At week 26.
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 18  of 44
+120 mg BI 180 mg BI 240 mg BI
+End point values Placebo
+655064 655064 655064
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 21 20 40 40
+Units: Percentage of Participants
+number (not applicable) 28.6 55.0 37.5 50.0
+Statistical analyses
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 120 mg BI 655064 v Placebo
+Number of subjects included in analysis 61
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.1269
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate -21.43
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -36.03
+upper limit -4.41
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 180 mg BI 655064 v Placebo
+Number of subjects included in analysis 60
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.7889
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate 5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -12.24
+upper limit 21.62
+Statistical analysis title Barnard test of association
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 19  of 44
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 240 mg BI 655064 v Placebo
+Number of subjects included in analysis 80
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.2906
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate -12.5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -25.99
+upper limit 1.68
+Secondary: Percentage of patients with major renal response (MRR) at week 52
+End point title Percentage of patients with major renal response (MRR) at
+week 52
+End point description:
+Major renal response was defined as follows depending on proteinuria at baseline:
+-If baseline proteinuria was <3 g/day and patient had complete renal response (CRR)
+-If baseline proteinuria was >= 3 g/day and proteinuria < 1 g/day and either estimated glomerular
+filtration rate (eGFR) within normal range or decrease in eGFR <20% from baseline at Week 52 if eGFR
+was below normal range (below lower limit of normal (LLN), where LLN = 90 mL/min)
+Intent to treat (ITT) set: This patient set included all patients from the treated set who had a baseline
+(or screening) proteinuria (spot urine could be used if a patient did not have 24 h urine collections) and
+a baseline or screening estimated glomerular filtration rate (eGFR) value.
+End point type Secondary
+End point timeframe:
+At week 52.
+120 mg BI 180 mg BI 240 mg BI
+End point values Plac 
+
+******************************
+
+ ebo
+655064 655064 655064
+Subject group type Reporting group Reporting group Reporting group Reporting group
+Number of subjects analysed 21 20 40 40
+Units: Percentage of Participants
+number (not applicable) 42.9 55.0 52.5 52.5
+Statistical analyses
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 120 mg BI 655064 v Placebo
+Number of subjects included in analysis 61
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 20  of 44
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.5687
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate -9.64
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -25.79
+upper limit 7.45
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 240 mg BI 655064 v Placebo
+Number of subjects included in analysis 80
+Analysis specification Pre-specified
+Analysis type other
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate 0
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -14.03
+upper limit 14.03
+Statistical analysis title Barnard test of association
+Statistical analysis description:
+Unadjusted absolute risk difference; Confidence intervals calculated using Newcombe method
+Comparison groups 180 mg BI 655064 v Placebo
+Number of subjects included in analysis 60
+Analysis specification Pre-specified
+Analysis type other
+P-value = 0.9217
+Method  Barnard test of association
+Parameter estimate Risk difference (RD)
+Point estimate 2.5
+Confidence interval
+level Other: 80 %
+sides 2-sided
+lower limit -14.67
+upper limit 19.17
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 21  of 44
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 22  of 44
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+From the first does of study medication until end of the 52-week treatment + 8 weeks of follow-up, up
+to 60 weeks.
+Adverse event reporting additional description:
+Treated set (TS): This patient set included all patients who were dispensed study medication and were
+documented to have taken at least one dose of investigational treatment.
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 23.1
+Reporting groups
+Reporting group title 120 mg BI 655064
+Reporting group description:
+Participants in dose group 1 received two subcutaneous injections per week, one of 120 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 120 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Reporting group title 180 mg BI 655064
+Reporting group description:
+Participants in dose group 2 received two subcutaneous injections per week, one of 180 milligrams (mg)
+of BI 655064 and one of matching placebo on the same day for 3 weeks followed by one subcutaneous
+injection per week of 180 mg of BI 655064 alternating with placebo, up to 52 weeks.
+Reporting group title 240 mg BI 655064
+Reporting group description:
+Participants in dose group 3 received two subcutaneous injections per week of 120 milligrams (mg) of BI
+655064 (240 mg in total) on the same day for 3 weeks followed by one subcutaneous injection per week
+of 120 mg of BI 655064, up to 52 weeks.
+Reporting group title Placebo
+Reporting group description:
+Participants in the placebo group received two subcutaneous injections per week of placebo on the same
+day for 3 weeks followed by one subcutaneous injection per week of placebo, up to 52 weeks.
+Serious adverse events 120 mg BI 655064 180 mg BI 655064 240 mg BI 655064
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 6 / 21 (28.57%) 6 / 20 
+
+******************************
+
+  (30.00%) 10 / 40 (25.00%)
+number of deaths (all causes) 0 0 1
+number of deaths resulting from
+0 0 1
+adverse events
+Psychiatric disorders
+Delirium
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Injury, poisoning and procedural
+complications
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 23  of 44
+Foot fracture
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Investigations
+Lymphocyte count decreased
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac disorders
+Ventricular tachycardia
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Blood and lymphatic system disorders
+Agranulocytosis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Neutropenia
+subjects affected / exposed 1 / 21 (4.76%) 2 / 20 (10.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 2 1 / 3 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Acute respiratory failure
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Eye disorders
+Chorioretinopathy
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Ulcerative keratitis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 24  of 44
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrointestinal disorders
+Diarrhoea
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Dyspepsia
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Oesophageal food impaction
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hepatobiliary disorders
+Cholecystitis chronic
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cholelithiasis
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Liver injury
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Renal and urinary disorders
+Acute kidney injury
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Lupus 
+
+******************************
+
+  nephritis
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 25  of 44
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Proteinuria
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tubulointerstitial nephritis
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Skin and subcutaneous tissue disorders
+Angioedema
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Arthritis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Systemic lupus erythematosus
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 1 / 1 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Metabolism and nutrition disorders
+Hyperglycaemia
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infections and infestations
+Cellulitis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 2 / 2
+treatment / all
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 26  of 44
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Conjunctivitis viral
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Enterocolitis infectious
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Escherichia bacteraemia
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastroenteritis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastroenteritis viral
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Genital herpes simplex
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Herpes zoster
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 1 / 1 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Meningitis cryptococcal
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 27  of 44
+Perineal abscess
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 0 / 0  
+
+******************************
+
+ 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pneumonia
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pneumonia bacterial
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Pulmonary tuberculosis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pyelonephritis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pyelonephritis acute
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Septic shock
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 2 / 40 (5.00%)
+occurrences causally related to 0 / 0 0 / 0 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Upper respiratory tract infection
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Urinary tract infection
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 0 / 40 (0.00%)
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 28  of 44
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Serious adverse events Placebo
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 8 / 40 (20.00%)
+number of deaths (all causes) 0
+number of deaths resulting from
+0
+adverse events
+Psychiatric disorders
+Delirium
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Injury, poisoning and procedural
+complications
+Foot fracture
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Investigations
+Lymphocyte count decreased
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Cardiac disorders
+Ventricular tachycardia
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Blood and lymphatic system disorders
+Agranulocytosis
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Neutropenia
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 29  of 44
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Acute respiratory failure
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Eye disorders
+Chorioretinopathy
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Ulcerative keratitis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Gastrointestinal disorders
+Diarrhoea
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally relat 
+
+******************************
+
+ ed to
+treatment / all 0 / 0
+Dyspepsia
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Oesophageal food impaction
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Hepatobiliary disorders
+Cholecystitis chronic
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 30  of 44
+Cholelithiasis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Liver injury
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Renal and urinary disorders
+Acute kidney injury
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Lupus nephritis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Proteinuria
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Tubulointerstitial nephritis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Skin and subcutaneous tissue disorders
+Angioedema
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Arthritis
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 0 / 1
+treatment / all
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 31  of 44
+deaths causally related to
+treatment / all 0 / 0
+Systemic lupus erythematosus
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Metabolism and nutrition disorders
+Hyperglycaemia
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Infections and infestations
+Cellulitis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Conjunctivitis viral
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Enterocolitis infectious
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Escherichia bacteraemia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Gastroenteritis
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Gastroenteritis viral
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 32  of 44
+deaths causally related to
+treatment / all 0 / 0
+Genital herpes simplex
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Herpes zoster
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Meningitis cryptococcal
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 
+
+******************************
+
+  / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Perineal abscess
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Pneumonia
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Pneumonia bacterial
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Pulmonary tuberculosis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Pyelonephritis
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 33  of 44
+Pyelonephritis acute
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Septic shock
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Upper respiratory tract infection
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences causally related to 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Urinary tract infection
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Non-serious adverse events 120 mg BI 655064 180 mg BI 655064 240 mg BI 655064
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 17 / 21 (80.95%) 13 / 20 (65.00%) 34 / 40 (85.00%)
+Vascular disorders
+Hypertension
+subjects affected / exposed 1 / 21 (4.76%) 1 / 20 (5.00%) 2 / 40 (5.00%)
+occurrences (all) 1 1 2
+Hypotension
+subjects affected / exposed 0 / 21 (0.00%) 2 / 20 (10.00%) 1 / 40 (2.50%)
+occurrences (all) 0 3 2
+General disorders and administration
+site conditions
+Fatigue
+subjects affected / exposed 2 / 21 (9.52%) 1 / 20 (5.00%) 1 / 40 (2.50%)
+occurrences (all) 2 1 3
+Asthenia
+subjects affected / exposed 2 / 21 (9.52%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 34  of 44
+occurrences (all) 3 0 1
+Injection site pain
+subjects affected / exposed 2 / 21 (9.52%) 1 / 20 (5.00%) 3 / 40 (7.50%)
+occurrences (all) 2 1 3
+Pyrexia
+subjects affected / exposed 3 / 21 (14.29%) 0 / 20 (0.00%) 2 / 40 (5.00%)
+occurrences (all) 4 0 2
+Oedema peripheral
+subjects affected / exposed 3 / 21 (14.29%) 1 / 20 (5.00%) 3 / 40 (7.50%)
+occurrences (all) 4 1 3
+Psychiatric disorders
+Insomnia
+subjects affected / exposed 1 / 21 (4.76%) 2 / 20 (10.00%) 3 / 40 (7.50%)
+occurrences (all) 1 3 4
+Investigations
+Lymphocyte count decreased
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 3 / 40 (7.50%)
+occurrences (all) 0 0 6
+Weight increased
+subjects affected / exposed 2 / 21 (9.52%) 2 / 20 (10.00%) 5 / 40 (12.50%)
+occurrences (all) 2 2 8
+Blood and lymphatic system disorders
+Anaemia
+subjects affected / exposed 3 / 21 (14.29%) 0 / 20 (0.00%) 3 / 40 (7.50%)
+occurrences (all) 3 0 6
+Leukopenia
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 4 / 40 (10.00%)
+occurrences (all) 1 0 5
+Lymphopenia
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 5 / 40 (12.50%)
+occurrences (all) 0 0 6
+Neutropenia
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 6 / 40 (15.00%)
+occurrences (all) 0 1 11
+Respiratory, thoracic and mediastinal
+disorders
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 35  of 44
+Oropharyngeal pain
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 3 / 40 (7.50%)
+occurrences (all) 0 0 3
+Cough
+subjects affected / exposed 1 / 21 (4.76%) 1 / 20 (5.00%) 5 / 40 (12.50%)
+ 
+
+******************************
+
+ occurrences (all) 1 2 5
+Nervous system disorders
+Dizziness
+subjects affected / exposed 1 / 21 (4.76%) 2 / 20 (10.00%) 1 / 40 (2.50%)
+occurrences (all) 1 2 1
+Headache
+subjects affected / exposed 3 / 21 (14.29%) 1 / 20 (5.00%) 6 / 40 (15.00%)
+occurrences (all) 3 1 8
+Eye disorders
+Vision blurred
+subjects affected / exposed 2 / 21 (9.52%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences (all) 2 1 0
+Dry eye
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences (all) 0 0 1
+Gastrointestinal disorders
+Diarrhoea
+subjects affected / exposed 5 / 21 (23.81%) 3 / 20 (15.00%) 9 / 40 (22.50%)
+occurrences (all) 6 4 9
+Vomiting
+subjects affected / exposed 1 / 21 (4.76%) 1 / 20 (5.00%) 2 / 40 (5.00%)
+occurrences (all) 1 3 2
+Skin and subcutaneous tissue disorders
+Acne
+subjects affected / exposed 1 / 21 (4.76%) 0 / 20 (0.00%) 3 / 40 (7.50%)
+occurrences (all) 1 0 4
+Alopecia
+subjects affected / exposed 0 / 21 (0.00%) 3 / 20 (15.00%) 9 / 40 (22.50%)
+occurrences (all) 0 3 9
+Rash
+subjects affected / exposed 2 / 21 (9.52%) 0 / 20 (0.00%) 6 / 40 (15.00%)
+occurrences (all) 2 0 9
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 36  of 44
+Erythema
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 4 / 40 (10.00%)
+occurrences (all) 0 0 5
+Musculoskeletal and connective tissue
+disorders
+Arthralgia
+subjects affected / exposed 3 / 21 (14.29%) 0 / 20 (0.00%) 4 / 40 (10.00%)
+occurrences (all) 3 0 5
+Arthritis
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 4 / 40 (10.00%)
+occurrences (all) 0 1 4
+Muscle spasms
+subjects affected / exposed 1 / 21 (4.76%) 1 / 20 (5.00%) 1 / 40 (2.50%)
+occurrences (all) 1 1 1
+Endocrine disorders
+Cushingoid
+subjects affected / exposed 1 / 21 (4.76%) 3 / 20 (15.00%) 2 / 40 (5.00%)
+occurrences (all) 1 3 2
+Metabolism and nutrition disorders
+Hypercholesterolaemia
+subjects affected / exposed 2 / 21 (9.52%) 0 / 20 (0.00%) 1 / 40 (2.50%)
+occurrences (all) 2 0 1
+Hypokalaemia
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 2 / 40 (5.00%)
+occurrences (all) 0 1 2
+Infections and infestations
+Bronchitis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 2 / 40 (5.00%)
+occurrences (all) 0 0 2
+Gastroenteritis
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 3 / 40 (7.50%)
+occurrences (all) 0 1 3
+Nasopharyngitis
+subjects affected / exposed 2 / 21 (9.52%) 1 / 20 (5.00%) 4 / 40 (10.00%)
+occurrences (all) 2 1 5
+Herpes zoster
+subjects affected / exposed 0 / 21 (0.00%) 1 / 20 (5.00%) 4 / 40 (10.00%)
+occurrences (all) 0 1 4
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 37  of 44
+Oral candidiasis
+subjects affected / exposed 2 / 21 (9.52%) 1 / 20 (5.00%) 0 / 40 (0.00%)
+occurrences (all) 5 1 0
+Respiratory tract infection
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 3 / 40 (7.50%)
+occurrences (all) 0 0 4
+Rhinitis
+subjects affected / exposed 0 / 21 (0.00%) 0 / 20 (0.00%) 3 / 40 (7.50%)
+occurrences (all) 0 0 4
+Upper respiratory tract infection
+subjects affected / exposed 5 / 21 (23.81%) 6 / 20 (30.00%) 7 / 40 (17.50%)
+occurrences (all) 6 9 8
+Urinary tract infection
+subjects affected / exposed 1 / 21 (4.76%) 2 / 20 (10.00%) 4 / 40 (10.00%)
+occurrences (all) 2 3 5
+Non-serious adverse events Placebo
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 35 / 40 (87.50%)
+Vascular disorders
+Hypertension
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 3
+Hypotension
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+General disorders and administration
+site conditions
+Fatigue
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Asthenia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Injection site pain
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences (all) 0
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 38  of 44
+Pyrexia
+subjects affected / exposed 2 / 40 (5.00%)
+occurrences (all) 2
+Oedema peripheral
+subjects affected / exposed 2 / 40 (5.00%)
+occurrences (all) 2
+P 
+
+******************************
+
+ sychiatric disorders
+Insomnia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Investigations
+Lymphocyte count decreased
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences (all) 0
+Weight increased
+subjects affected / exposed 2 / 40 (5.00%)
+occurrences (all) 3
+Blood and lymphatic system disorders
+Anaemia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Leukopenia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 3
+Lymphopenia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Neutropenia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Respiratory, thoracic and mediastinal
+disorders
+Oropharyngeal pain
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 3
+Cough
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 39  of 44
+Nervous system disorders
+Dizziness
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 3
+Headache
+subjects affected / exposed 5 / 40 (12.50%)
+occurrences (all) 6
+Eye disorders
+Vision blurred
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences (all) 0
+Dry eye
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 3
+Gastrointestinal disorders
+Diarrhoea
+subjects affected / exposed 6 / 40 (15.00%)
+occurrences (all) 8
+Vomiting
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 4
+Skin and subcutaneous tissue disorders
+Acne
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences (all) 0
+Alopecia
+subjects affected / exposed 7 / 40 (17.50%)
+occurrences (all) 7
+Rash
+subjects affected / exposed 2 / 40 (5.00%)
+occurrences (all) 2
+Erythema
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 3
+Musculoskeletal and connective tissue
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 40  of 44
+disorders
+Arthralgia
+subjects affected / exposed 6 / 40 (15.00%)
+occurrences (all) 7
+Arthritis
+subjects affected / exposed 4 / 40 (10.00%)
+occurrences (all) 4
+Muscle spasms
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 4
+Endocrine disorders
+Cushingoid
+subjects affected / exposed 2 / 40 (5.00%)
+occurrences (all) 2
+Metabolism and nutrition disorders
+Hypercholesterolaemia
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Hypokalaemia
+subjects affected / exposed 5 / 40 (12.50%)
+occurrences (all) 5
+Infections and infestations
+Bronchitis
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 3
+Gastroenteritis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences (all) 0
+Nasopharyngitis
+subjects affected / exposed 7 / 40 (17.50%)
+occurrences (all) 10
+Herpes zoster
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 3
+Oral candidiasis
+subjects affected / exposed 1 / 40 (2.50%)
+occurrences (all) 1
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 41  of 44
+Respiratory tract infection
+subjects affected / exposed 3 / 40 (7.50%)
+occurrences (all) 3
+Rhinitis
+subjects affected / exposed 0 / 40 (0.00%)
+occurrences (all) 0
+Upper respiratory tract infection
+subjects affected / exposed 8 / 40 (20.00%)
+occurrences (all) 9
+Urinary tract infection
+subjects affected / exposed 6 / 40 (15.00%)
+occurrences (all) 6
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 42  of 44
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+24 November 2015 Inclusion criterion 3 was revised to allow the inclusion of patients with a positive
+antidsDNA antibody at screening or around the time of start of induction therapy.
+Initially the patients had to have a positive anti-dsDNA antibody at screening.
+Exclusion criterion 9 (‘live vaccination within 6 weeks before randomisation’) was
+added.
+02 February 2016 According to the updated SmPC for MMF, additional requirements for pregnancy
+tests and contraception methods, as well as recommendations regarding blood
+and semen donation were added in the resp 
+
+******************************
+
+ ective sections of the CTP.
+24 November 2016 Statements were included that vital status information was to be collected at
+Week 60 (EOS visit) for randomised patients who discontinued from the study
+before EOS.
+Inclusion criterion 1 was revised: Women of childbearing potential were to use '2
+reliable methods of birth control, one of which should be highly effective’ instead
+of '2 highly effective methods of birth control’. Also, in the definition of ‘women of
+nonchildbearing potential’, ‘tubal occlusion’ was removed as a sterilisation
+method.
+In exclusion criterion 4, the definition of antiphospholipid syndrome was modified.
+This had been requested by authorities.
+The following AEs were defined as AESIs (in addition to ‘hepatic injury’): injection
+reactions including anaphylactic reaction, cytokine release syndrome,
+opportunistic infections and/or severe infections, lymphoproliferative disorders
+(e.g. B- and T-cell lymphoma, Non-Hodgkin lymphoma and Hodgkin lymphoma,
+hepatosplenic T-cell lymphoma), thrombosis and adjunct immunosuppression.
+Other additional changes have been applied.
+17 February 2017 If a higher dose of i.v. steroids was considered necessary by the investigator, a
+total dose of up to 3 g was acceptable for initial induction treatment.
+06 October 2017 Proteinuria at screening <3 g/day or ≥3 g/day was also defined as UP/UC <3 or
+UP/UC ≥3.
+Inclusion criterion 3 was modified: one of the documented criteria for SLE had to
+be a positive anti-dsDNA antibody or a positive antinuclear antibody.
+The following exclusion criterion was deleted: ‘acute presence of oliguria (<500
+mL/day)’.
+Further instructions with regard to steroids tapering were added.
+07 September 2018 For the AESI ‘opportunistic infections and/or severe infections’, the following text
+was added as requested by the DMC: ‘Whenever a patient comes to a visit and
+reports of an (S)AE related to infections, which occurred in the interval since the
+last visit, then he/she is routinely asked whether they have been seen/treated by
+a physician and whether blood
+samples had been taken in that context. Should this be answered in the
+affirmative, then efforts should be undertaken to collect the respective
+information’.
+A statement was added that if a partner of a male trial participant became
+pregnant this had to be reported and written consent of the pregnant partner was
+required.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 43  of 44
+Limitations and caveats
+None reported
+Clinical trial results 2015-001750-15 version 2 EU-CTR publication date: 14 November 2021 Page 44  of 44
+ 
+
+******************************
+

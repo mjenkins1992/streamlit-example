@@ -1,0 +1,2182 @@
+ EU Clinical Trials Register
+Clinical trial results:
+A Phase III Randomized, Open-Label, Multi-Center, Global Study of
+MEDI4736 Monotherapy and MEDI4736 in Combination with
+Tremelimumab Versus Standard of Care Therapy in Patients with
+Recurrent or Metastatic Squamous Cell Carcinoma of the Head and
+Neck (SCCHN)
+Summary
+EudraCT number 2014-003863-40
+Trial protocol HU CZ BE DE ES FR PL RO HR IT
+Global end of trial date
+Results information
+Result version number v1 (current)
+This version publication date 06 February 2021
+First version publication date 06 February 2021
+Trial information
+Trial identification
+Sponsor protocol code D4193C00002
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT02369874
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name AstraZeneca
+Sponsor organisation address Forskargatan 18, Sodertalje, Sweden,
+Public contact Nassim Morsli, AstraZeneca, +44 7384 520046,
+nassim.morsli@astrazeneca.com
+Scientific contact Nassim Morsli, AstraZeneca, +44 7384 520046,
+nassim.morsli@astrazeneca.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Results analysis stage
+Analysis stage Interim
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 1  of 48
+Date of interim/final analysis 10 September 2018
+Is this the analysis of the primary Yes
+completion data?
+Primary completion date 10 September 2018
+Global end of trial reached? No
+Notes:
+General information about the trial
+Main objective of the trial:
+To assess the efficacy of durvalumab + tremelimumab combination therapy versus standard of care
+(SoC) and durvalumab monotherapy versus SoC in terms of overall survival.
+Protection of trial subjects:
+This study was performed in accordance with the ethical principles that have their origin in the
+Declaration of Helsinki and that are consistent with International Conference on Harmonisation/ Good
+Clinical Practice, applicable regulatory requirements and the AstraZeneca policy on Bioethics.
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 09 September 2015
+Long term follow-up planned No
+Independent data monitoring committee Yes
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Japan: 65
+Country: Number of subjects enrolled United States: 40
+Country: Number of subjects enrolled Russian Federation: 95
+Country: Number of subjects enrolled France: 93
+Country: Number of subjects enrolled Spain: 69
+Country: Number of subjects enrolled Italy: 56
+Country: Number of subjects enrolled Germany: 19
+Country: Number of subjects enrolled Belgium: 43
+Country: Number of subjects enrolled Serbia: 27
+Country: Number of subjects enrolled Brazil: 18
+Country: Number of subjects enrolled Romania: 42
+Country: Number of subjects enrolled Korea, Republic of: 23
+Country: Number of subjects enrolled Hungary: 21
+Country: Number of subjects enrolled Ukraine: 36
+Country: Number of subjects enrolled Australia: 18
+Country: Number of subjects enrolled Israel: 16
+Country: Number of subjects enrolled Taiwan: 21
+Country: Number of subjects enrolled Poland: 17
+Country: Number of subjects enrolled Czechia: 4
+Country: Number of subjects enrolled Argentina: 4
+Country: Number of subjects enrolled Bulgaria: 4
+Country: Number of subjects enrolled Croatia: 4
+Country: Number of subjects enrolled Chile: 1
+Worldwide total number of subjects 736
+EEA total number of subjects 372
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 2  of 48
+Notes:
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 514
+From 65 to 84 years 222
+85 years and over 0
+Clinical trial  
+
+******************************
+
+ results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 3  of 48
+Subject disposition
+Recruitment
+Recruitment details: -
+Pre-assignment
+Screening details:
+Of the 1086 participants who enrolled and screened, 77 participants failed screening but were
+subsequently re-enrolled and re-screened. Of these 77, 56 were randomized and 21 failed re-screening.
+Overall, 736 patients were randomized to receive treatment with durvalumab + tremelimumab
+combination therapy, durvalumab monotherapy, or SoC therapy.
+Period 1
+Period 1 title Overall Study (overall period)
+Is this the baseline period? Yes
+Allocation method Randomised - controlled
+Blinding used Not blinded
+Arms
+Are arms mutually exclusive? Yes
+Arm title Durvalumab + Tremelimumab
+Arm description:
+Participants received 20 mg/kg durvalumab and 1 mg/kg tremelimumab combination therapy via
+intravenous (IV) infusion every 4 weeks (q4w) for up to 16 weeks. 4 weeks after completion of
+combination therapy, participants received dosing with durvalumab 10 mg/kg monotherapy every 2
+weeks (q2w) until disease progression (PD).
+Arm type Experimental
+Investigational medicinal product name Durvalumab
+Investigational medicinal product code MEDI4736
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+20 mg/kg administered via intravenous (IV) infusion every 4 weeks (q4w) for 4 doses then 10 mg/kg via
+IV infusion q2w beginning 4 weeks after the last combination dose.
+Investigational medicinal product name Tremelimumab
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+1 mg/kg administered via intravenous (IV) infusion every 4 weeks (q4w) for 4 doses (4 doses total).
+Arm title Durvalumab
+Arm description:
+Participants received 10 mg/kg durvalumab via intravenous (IV) infusion every 2 weeks (q2w) until
+disease progression (PD).
+Arm type Experimental
+Investigational medicinal product name Durvalumab
+Investigational medicinal product code MEDI4736
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+10 mg/kg administered via intravenous (IV) infusion every 2 weeks (q2w).
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 4  of 48
+Arm title Standard of Care (SoC)
+Arm description:
+Participants received monotherapy with 1 of the following therapies at the investigator’s discretion until
+disease progression (PD): cetuximab, a taxane, methotrexate, or a fluoropyrimidine.
+Arm type Active comparator
+Investigational medicinal product name Cetuximab
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+400 mg/m^2 administered via intravenous (IV) infusion on Day 0, then 250 mg/m^2 via IV infusion
+weekly thereafter.
+Investigational medicinal product name Docetaxel
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+40 mg/m^2 administered via intravenous (IV) infusion weekly.
+Investigational medicinal product name Paclitaxel
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+80 mg/m^2 administered via intravenous (IV) infusion weekly.
+Investigational medicinal product name 5-fluorouracil
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+2400 mg/m^2 administered via intravenous (IV) infusion over 46 hours every 2 weeks.
+Investigational medicinal product name Methotrexate
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+40 mg/m2 administered via intravenous (IV) infusion weekly per the institution’s SoC.
+I 
+
+******************************
+
+ nvestigational medicinal product name Tegafur/Gimeracil/Oteracil
+Investigational medicinal product code TS-1
+Other name
+Pharmaceutical forms Capsule
+Routes of administration Oral use
+Dosage and administration details:
+80 mg/m^2 administered orally once daily for 28 days followed by a 14-day rest.
+Investigational medicinal product name Capecitabine
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Tablet
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 5  of 48
+Routes of administration Oral use
+Dosage and administration details:
+1000 mg/m^2 administered orally twice daily for 7 days followed by a 7-day rest.
+Number of subjects in period 1 Durvalumab + Durvalumab Standard of Care
+Tremelimumab (SoC)
+Started 247 240 249
+Received Treatment 246 237 240
+Completed 203 183 188
+Not completed 44 57 61
+Miscellaneous 1 1  -
+Participant Ongoing 34 45 32
+Consent withdrawn by subject 7 9 27
+Lost to follow-up 2 2 2
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 6  of 48
+Baseline characteristics
+Reporting groups
+Reporting group title Durvalumab + Tremelimumab
+Reporting group description:
+Participants received 20 mg/kg durvalumab and 1 mg/kg tremelimumab combination therapy via
+intravenous (IV) infusion every 4 weeks (q4w) for up to 16 weeks. 4 weeks after completion of
+combination therapy, participants received dosing with durvalumab 10 mg/kg monotherapy every 2
+weeks (q2w) until disease progression (PD).
+Reporting group title Durvalumab
+Reporting group description:
+Participants received 10 mg/kg durvalumab via intravenous (IV) infusion every 2 weeks (q2w) until
+disease progression (PD).
+Reporting group title Standard of Care (SoC)
+Reporting group description:
+Participants received monotherapy with 1 of the following therapies at the investigator’s discretion until
+disease progression (PD): cetuximab, a taxane, methotrexate, or a fluoropyrimidine.
+Reporting group values Durvalumab + Durvalumab Standard of Care
+Tremelimumab (SoC)
+Number of subjects 247 240 249
+Age, Customized
+Units: Subjects
+< 65 Years 174 169 171
+>= 65 - < 75 Years 63 56 64
+>= 75 Years 10 15 14
+Age Continuous
+Units: Years
+arithmetic mean 59.9 59.0 59.5
+standard deviation ± 9.14 ± 10.07 ± 10.37
+Sex: Female, Male
+Units: Subjects
+Female 38 38 42
+Male 209 202 207
+Race/Ethnicity, Customized
+Units: Subjects
+Asian 33 35 45
+Black Or African American 1 0 3
+Other 4 5 3
+White 204 198 189
+Unknown or Not Reported 5 2 9
+Ethnicity (NIH/OMB)
+Units: Subjects
+Hispanic or Latino 16 15 13
+Not Hispanic or Latino 226 223 229
+Unknown or Not Reported 5 2 7
+Reporting group values Total
+Number of subjects 736
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 7  of 48
+Age, Customized
+Units: Subjects
+< 65 Years 514
+>= 65 - < 75 Years 183
+>= 75 Years 39
+Age Continuous
+Units: Years
+arithmetic mean
+standard deviation -
+Sex: Female, Male
+Units: Subjects
+Female 118
+Male 618
+Race/Ethnicity, Customized
+Units: Subjects
+Asian 113
+Black Or African American 4
+Other 12
+White 591
+Unknown or Not Reported 16
+Ethnicity (NIH/OMB)
+Units: Subjects
+Hispanic or Latino 44
+Not Hispanic or Latino 678
+Unknown or Not Reported 14
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 8  of 48
+End points
+End points reporting groups
+Reporting group title Durvalumab + Tremelimumab
+Reporting group description:
+Participants received 20 mg/kg durvalumab and 1 mg/kg tremelimumab combination therapy via
+intravenous (IV) infusion every 4 weeks (q4w) for up to 16 weeks. 4 weeks after completion of
+combination therapy, participants received dosing with durvalumab 10 mg/kg monotherapy every 2
+weeks (q2w) until disease progression (PD).
+Reporting group title Durvalumab
+Reporting group description:
+Participants received 10 mg/kg durvalumab via intravenous (IV) infusion every 2 weeks (q2w) until
+disease progression (PD).
+Reporting group title Standard of Care (SoC)
+Reporting group description:
+Participants received monotherapy with 1 of the fol 
+
+******************************
+
+ lowing therapies at the investigator’s discretion until
+disease progression (PD): cetuximab, a taxane, methotrexate, or a fluoropyrimidine.
+Primary: Overall survival (OS)
+End point title Overall survival (OS)
+End point description:
+OS is defined as the time from the date of randomization until death due to any cause. OS was analyzed
+for the full analysis set, regardless of programmed death-ligand 1 (PD-L1) status.
+End point type Primary
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 247 240 249
+Units: Months
+median (confidence interval 95%) 6.5 (5.5 to 8.2)7.6 (6.1 to 9.8)8.3 (7.3 to 9.2)
+Statistical analyses
+Statistical analysis title Combo therapy vs. SoC
+Comparison groups Durvalumab + Tremelimumab v Standard of Care (SoC)
+Number of subjects included in analysis 496
+Analysis specification Pre-specified
+Analysis type
+P-value = 0.7624
+Method Logrank
+Parameter estimate Hazard ratio (HR)
+Point estimate 1.04
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 9  of 48
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.85
+upper limit 1.26
+Statistical analysis title Mono therapy vs. SoC
+Comparison groups Durvalumab v Standard of Care (SoC)
+Number of subjects included in analysis 489
+Analysis specification Pre-specified
+Analysis type
+P-value = 0.1993
+Method Logrank
+Parameter estimate Hazard ratio (HR)
+Point estimate 0.88
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.72
+upper limit 1.08
+Secondary: Overall survival (OS) in PD-L1 negative participants
+End point title Overall survival (OS) in PD-L1 negative participants
+End point description:
+OS is defined as the time from the date of randomization until death due to any cause. PD-L1 negative
+was defined as <25% of tumor cells with membrane staining for PD-L1 at any intensity.
+End point type Secondary
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 175 172 177
+Units: Months
+7.8 (5.9 to
+median (confidence interval 95%) 7.6 (6.2 to 9.5)8.0 (6.7 to 8.9)
+10.3)
+Statistical analyses
+Statistical analysis title Combo therapy vs. SoC
+Comparison groups Durvalumab + Tremelimumab v Standard of Care (SoC)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 10  of 48
+Number of subjects included in analysis 352
+Analysis specification Pre-specified
+Analysis type
+P-value = 0.459
+Method Logrank
+Parameter estimate Hazard ratio (HR)
+Point estimate 0.92
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.73
+upper limit 1.17
+Statistical analysis title Combo therapy vs. mono therapy
+Comparison groups Durvalumab + Tremelimumab v Durvalumab
+Number of subjects included in analysis 347
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Hazard ratio (HR)
+Point estimate 1.08
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.85
+upper limit 1.36
+Secondary: Overall survival (OS) in PD-L1 positive participants
+End point title Overall survival (OS) in PD-L1 positive participants
+End point description:
+OS is defined as the time from the date of randomization until death due to any cause. PD-L1 positive
+was defined as ≥25% of tumor cells with membrane staining for PD-L1 at any intensity.
+End point type Secondary
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 72 68 72
+Units: Months
+9.8 (4.3 to
+median (confidence interval 95%) 4.8 (3.3 to 6.4) 9.0 (6.8 to 9.2)
+14.1)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 11  of 48
+Statistical analyses
+Statistical analysis title M 
+
+******************************
+
+ ono therapy vs. SoC
+Comparison groups Durvalumab v Standard of Care (SoC)
+Number of subjects included in analysis 140
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Hazard ratio (HR)
+Point estimate 0.93
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.63
+upper limit 1.39
+Secondary: Progression free survival (PFS)
+End point title Progression free survival (PFS)
+End point description:
+PFS was defined as the time from the date of randomization until the date of objective disease
+progression or death based on investigator assessments, according to response evaluation criteria in
+solid tumors 1.1 (RECIST1.1). Objective disease progression was defined as at least a 20% increase in
+the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the
+baseline sum if that is the smallest on study). In addition to the relative increase of 20%, the sum must
+also demonstrate an absolute increase of at least 5 mm.
+End point type Secondary
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 247 240 249
+Units: Months
+median (confidence interval 95%) 2.0 (1.9 to 2.3)2.1 (1.9 to 3.0)3.7 (3.1 to 3.7)
+Statistical analyses
+Statistical analysis title Combo therapy vs. SoC
+Comparison groups Durvalumab + Tremelimumab v Standard of Care (SoC)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 12  of 48
+Number of subjects included in analysis 496
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Hazard ratio (HR)
+Point estimate 1.09
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.9
+upper limit 1.33
+Statistical analysis title Mono therapy vs. SoC
+Comparison groups Durvalumab v Standard of Care (SoC)
+Number of subjects included in analysis 489
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Hazard ratio (HR)
+Point estimate 1.02
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.84
+upper limit 1.25
+Secondary: Objective response rate (ORR)
+End point title Objective response rate (ORR)
+End point description:
+The percentage of participants who experienced an objective response (complete response [CR] or
+partial response [PR]), based on investigator assessments according to response evaluation criteria in
+solid tumors 1.1 (RECIST1.1). A CR was defined as the disappearance of all target lesions (TLs) since
+baseline. Any pathological lymph nodes selected as TLs must have a reduction in short axis to <10 mm.
+A PR was defined as at least a 30% decrease in the sum of the diameters of TLs, taking as reference the
+baseline sum of diameters.
+End point type Secondary
+End point timeframe:
+Assessed at randomisation and every 8 weeks thereafter
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 247 240 249
+Units: Percentage of participants
+18.2 (13.6 to 17.9 (13.3 to 17.3 (12.8 to
+number (confidence interval 95%)
+23.6) 23.4) 22.5)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 13  of 48
+Statistical analyses
+Statistical analysis title Combo therapy vs. SoC
+Comparison groups Durvalumab + Tremelimumab v Standard of Care (SoC)
+Number of subjects included in analysis 496
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Odds ratio (OR)
+Point estimate 1.07
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.67
+upper limit 1.7
+Statistical analysis title Mono therapy vs. SoC
+Comparison groups Durvalumab v Standard of Care (SoC)
+Number of subjects included in analysis 489
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Odds ratio (OR)
+Point estimate 1.05
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.66
+upper limit 1.68
+Secondary: Duration of response (DoR)
+End point title Duration of response  
+
+******************************
+
+ (DoR)
+End point description:
+Median DoR, in months, based on investigator assessments, according to response evaluation criteria in
+solid tumors 1.1 (RECIST1.1). A complete response was defined as the disappearance of all target
+lesions (TLs) since baseline. Any pathological lymph nodes selected as TLs must have a reduction in
+short axis to <10 mm. A partial response was defined as at least a 30% decrease in the sum of the
+diameters of TLs, taking as reference the baseline sum of diameters. Values of 99999 represent N/A.
+End point type Secondary
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 14  of 48
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 45 43 43
+Units: Months
+7.4 (2.8 to 12.9 (5.6 to
+median (inter-quartile range (Q1-Q3)) 3.7 (1.9 to 5.5)
+99999) 99999)
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Disease control rate (DCR)
+End point title Disease control rate (DCR)
+End point description:
+6 Months: The percentage of participants who had a best objective response of complete response (CR)
+or partial response (PR) in the first 6 months or had demonstrated stable disease (SD) for a minimum
+interval of 24 weeks following randomization. 12 Months: The percentage of participants who had a best
+objective response of CR or PR within 12 months or had demonstrated SD for a minimum interval of 48
+weeks following randomization. Objective response was based on investigator assessments, according to
+response evaluation criteria in solid tumors 1.1 (RECIST1.1). A CR was defined as the disappearance of
+all target lesions (TLs) since baseline. Any pathological lymph nodes selected as TLs must have a
+reduction in short axis to <10 mm. A PR was defined as at least a 30% decrease in the sum of the
+diameters of TLs, taking as reference the baseline sum of diameters.
+End point type Secondary
+End point timeframe:
+Baseline up to 6 months; baseline up to 12 months
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 247 240 249
+Units: Percentage of participants
+number (not applicable)
+6 Months 25.1 24.2 24.9
+12 Months 20.6 18.8 18.9
+Statistical analyses
+Statistical analysis title Combo therapy vs. SoC
+Statistical analysis description:
+6 Month analysis
+Comparison groups Durvalumab + Tremelimumab v Standard of Care (SoC)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 15  of 48
+Number of subjects included in analysis 496
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Odds ratio (OR)
+Point estimate 1.01
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.67
+upper limit 1.52
+Statistical analysis title Mono therapy vs. SoC
+Statistical analysis description:
+6 Month analysis
+Comparison groups Durvalumab v Standard of Care (SoC)
+Number of subjects included in analysis 489
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Odds ratio (OR)
+Point estimate 0.96
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.64
+upper limit 1.46
+Statistical analysis title Combo therapy vs. SoC
+Statistical analysis description:
+12 Month analysis
+Comparison groups Durvalumab + Tremelimumab v Standard of Care (SoC)
+Number of subjects included in analysis 496
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Odds ratio (OR)
+Point estimate 1.12
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.72
+upper limit 1.75
+Statistical analysis title Mono therapy vs. SoC
+Statistical analysis description:
+12 Month analysis
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 16  of 48
+Comparison groups Durvalumab v Standard of Care (SoC)
+Number of subjects included in analysis 489
+Analysis specification Pre-specified
+Analysis t 
+
+******************************
+
+ ype
+Parameter estimate Odds ratio (OR)
+Point estimate 1
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.63
+upper limit 1.57
+Secondary: Percentage of participants alive and progression free (APF)
+End point title Percentage of participants alive and progression free (APF)
+End point description:
+APF is defined as the percentage of participants who are alive and progression free at 6 months and 12
+months after randomization. Estimates of progression free survival were based on investigator
+assessments according to response evaluation criteria in solid tumors 1.1 (RECIST1.1). Objective
+disease progression was defined as at least a 20% increase in the sum of diameters of target lesions,
+taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on
+study). In addition to the relative increase of 20%, the sum must also demonstrate an absolute increase
+of at least 5 mm.
+End point type Secondary
+End point timeframe:
+Baseline up to 6 months; baseline up to 12 months
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 247 240 249
+Units: Percentage of participants
+number (confidence interval 95%)
+6 Months 22.5 (17.4 to 25.1 (19.7 to 23.3 (17.8 to
+28.0) 30.9) 29.3)
+12 Months 11.0 (7.4 to 14.4 (10.1 to 5.7 (2.8 to
+15.5) 19.5) 10.2)
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage of participants alive
+End point title Percentage of participants alive
+End point description:
+Percentage of participants alive at 12, 18 and 24 months using a Kaplan Meier estimate.
+End point type Secondary
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 17  of 48
+End point timeframe:
+12, 18 and 24 months
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 247 240 249
+Units: Percentage of participants
+number (confidence interval 95%)
+12 Months 30.4 (24.7 to 37.0 (30.9 to 30.5 (24.7 to
+36.3) 43.1) 36.4)
+18 Months 21.0 (15.9 to 25.4 (19.9 to 17.8 (13.1 to
+26.5) 31.3) 23.2)
+24 Months 13.3 (8.9 to 18.4 (13.3 to 10.3 (5.7 to
+18.6) 24.1) 16.5)
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Progression free survival (PFS) in PD-L1 negative participants
+End point title Progression free survival (PFS) in PD-L1 negative participants
+End point description:
+Number of participants with confirmed objective disease progression (PD) at the time of the participant's
+last evaluable response evaluation criteria in solid tumors 1.1 (RECIST1.1) assessment. PD was defined
+as at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest
+sum on study (this includes the baseline sum if that is the smallest on study). In addition to the relative
+increase of 20%, the sum must also demonstrate an absolute increase of at least 5 mm. PD-L1 negative
+was defined as <25% of tumor cells with membrane staining for PD-L1 at any intensity.
+End point type Secondary
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 175 172 177
+Units: Participants 154 151 144
+Statistical analyses
+Statistical analysis title Combo therapy vs. mono therapy
+Comparison groups Durvalumab + Tremelimumab v Durvalumab
+Number of subjects included in analysis 347
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 18  of 48
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Hazard ratio (HR)
+Point estimate 0.96
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.76
+upper limit 1.21
+Secondary: Objective response rate (ORR) in PD-L1 negative participants
+End point title Objective response rate (ORR) in PD-L1 negative participants
+End point d 
+
+******************************
+
+ escription:
+The percentage of PD-L1 negative participants who experienced an objective response (complete
+response [CR] or partial response [PR]), based on investigator assessments according to response
+evaluation criteria in solid tumors 1.1 (RECIST1.1). A CR was defined as the disappearance of all target
+lesions (TLs) since baseline. Any pathological lymph nodes selected as TLs must have a reduction in
+short axis to <10 mm. A PR was defined as at least a 30% decrease in the sum of the diameters of TLs,
+taking as reference the baseline sum of diameters. PD-L1 negative was defined as <25% of tumor cells
+with membrane staining for PD-L1 at any intensity.
+End point type Secondary
+End point timeframe:
+Assessed at randomisation and every 8 weeks thereafter
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 175 172 177
+Units: Percentage of participants
+17.7 (12.4 to 14.0 (9.1 to 15.3 (10.3 to
+number (confidence interval 95%)
+24.2) 20.0) 21.4)
+Statistical analyses
+Statistical analysis title Combo therapy vs. mono therapy
+Comparison groups Durvalumab + Tremelimumab v Durvalumab
+Number of subjects included in analysis 347
+Analysis specification Pre-specified
+Analysis type
+Parameter estimate Odds ratio (OR)
+Point estimate 1.33
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.74
+upper limit 2.39
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 19  of 48
+Secondary: Time to Deterioration in European Organisation for Research and
+Treatment of Cancer 30-item core quality of life questionnaire, version 3 (EORTC
+QLQ-C30)
+End point title Time to Deterioration in European Organisation for Research
+and Treatment of Cancer 30-item core quality of life
+questionnaire, version 3 (EORTC QLQ-C30)
+End point description:
+The EORTC QLQ-C30 consists of 30 questions that can be combined to produce functional scales (e.g.
+physical), symptom scales (e.g. fatigue), and a global measure of health status. Each of the scales are
+measured from 0 to 100. Deterioration was defined as a 10-point decrease from baseline in a
+functioning or global health status/ quality of life score or a 10-point increase from baseline in a
+symptom score.
+End point type Secondary
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 227 226 227
+Units: Months
+median (confidence interval 95%)
+Function - Physical 2.0 (1.9 to 3.2)2.2 (1.9 to 3.5)3.7 (2.3 to 4.6)
+Function - Role 1.9 (1.8 to 2.4)2.0 (1.8 to 2.7)3.7 (2.5 to 4.1)
+Function - Emotional 2.4 (1.9 to 3.7)3.6 (2.5 to 4.9)3.8 (3.2 to 4.9)
+Function - Cognitive 2.1 (1.8 to 2.8)2.2 (1.9 to 3.4)4.0 (3.2 to 5.5)
+Function - Social 2.1 (1.9 to 3.4)2.0 (1.8 to 3.4)3.7 (3.2 to 4.7)
+Symptom - Fatigue 1.8 (1.3 to 1.9)1.4 (1.0 to 1.9)1.9 (1.6 to 2.6)
+Symptom - Pain 1.9 (1.8 to 2.4)2.5 (1.9 to 3.7)3.7 (2.7 to 4.1)
+Symptom - Nausea/ Vomiting 2.6 (2.0 to 3.9)3.9 (2.8 to 4.9)4.0 (3.6 to 5.5)
+Global health status/QoL 1.9 (1.8 to 2.7)2.8 (1.9 to 3.8)3.5 (2.9 to 4.0)
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to Deterioration for European Organisation for Research and
+Treatment of Cancer 35-item head and neck quality of life questionnaire (EORTC
+QLQ-H&N35)
+End point title Time to Deterioration for European Organisation for Research
+and Treatment of Cancer 35-item head and neck quality of life
+questionnaire (EORTC QLQ-H&N35)
+End point description:
+The EORTC QLQ-H&N35 comprises of 35 questions to assess head and neck cancer symptoms (e.g. pain,
+swallowing). Deterioration was defined as a 10-point increase from baseline in the symptom score.
+End point type Secondary
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 20  of 48
+End point timeframe:
+September 2015 to September 2018 (36 months)
+Durvalumab + Standard of 
+
+******************************
+
+ 
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 223 220 221
+Units: Months
+median (confidence interval 95%)
+Pain (Mouth/ Throat) 2.9 (2.4 to 3.8)2.8 (2.6 to 3.7)3.4 (2.7 to 4.0)
+Swallowing 2.6 (1.9 to 3.6)2.8 (1.9 to 3.9)3.7 (2.9 to 4.6)
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants reporting one or more adverse events (AE)
+End point title Number of participants reporting one or more adverse events
+(AE)
+End point description:
+An AE is defined as any untoward medical occurrence in a clinical investigation participant administered
+a drug; it does not necessarily have to have a causal relationship with this treatment. Inclusive of AEs
+and serious AEs.
+End point type Secondary
+End point timeframe:
+First dose to last dose + 90 days or data cut off (up to 36 months)
+Durvalumab + Standard of
+End point values Durvalumab
+Tremelimumab Care (SoC)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 246 237 240
+Units: Participants 232 214 229
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 21  of 48
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+First dose to last dose + 90 days or data cut off (maximum exposure 32 months)
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 21.0
+Reporting groups
+Reporting group title Durvalumab + Tremelimumab
+Reporting group description:
+Participants received 20 mg/kg durvalumab and 1 mg/kg tremelimumab combination therapy via
+intravenous (IV) infusion every 4 weeks (q4w) for up to 16 weeks. 4 weeks after completion of
+combination therapy, participants received dosing with durvalumab 10 mg/kg monotherapy every 2
+weeks (q2w) until disease progression (PD).
+Reporting group title Standard of Care (SoC)
+Reporting group description:
+Participants received monotherapy with 1 of the following therapies at the investigator’s discretion until
+disease progression (PD): cetuximab, a taxane, methotrexate, or a fluoropyrimidine.
+Reporting group title Durvalumab
+Reporting group description:
+Participants received 10 mg/kg durvalumab via intravenous (IV) infusion every 2 weeks (q2w) until
+disease progression (PD).
+Durvalumab + Standard of Care
+Serious adverse events Durvalumab
+Tremelimumab (SoC)
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 79 / 246 (32.11%) 61 / 240 (25.42%) 69 / 237 (29.11%)
+number of deaths (all causes) 206 199 186
+number of deaths resulting from
+adverse events
+Vascular disorders
+Arterial haemorrhage
+subjects affected / exposed 2 / 246 (0.81%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 2 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Embolism
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Haemorrhage
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 22  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 1 / 1
+Hypertension
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypotension
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Peripheral ischaemia
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment /  
+
+******************************
+
+ all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Shock haemorrhagic
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Superior vena cava syndrome
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Neoplasms benign, malignant and
+unspecified (incl cysts and polyps)
+Infected neoplasm
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 0 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tumour associated fever
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tumour haemorrhage
+subjects affected / exposed 7 / 246 (2.85%) 2 / 240 (0.83%) 4 / 237 (1.69%)
+occurrences causally related to 0 / 7 0 / 2 0 / 4
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 23  of 48
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 1
+Tumour necrosis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Immune system disorders
+Anaphylactic reaction
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Drug hypersensitivity
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Asthenia
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 1 / 1 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 0
+Chest pain
+subjects affected / exposed 2 / 246 (0.81%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Death
+subjects affected / exposed 2 / 246 (0.81%) 2 / 240 (0.83%) 2 / 237 (0.84%)
+occurrences causally related to 1 / 2 0 / 2 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 1 / 2 0 / 2 1 / 2
+Facial pain
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Fatigue
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 24  of 48
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+General physical health deterioration
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 4 / 237 (1.69%)
+occurrences causally related to 0 / 0 0 / 1 1 / 4
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 2
+Hyperthermia
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Inflammation
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pain
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 1 0 / 1
+treatment / all
+dea 
+
+******************************
+
+ ths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pyrexia
+subjects affected / exposed 4 / 246 (1.63%) 2 / 240 (0.83%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 4 0 / 2 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Sudden cardiac death
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Psychiatric disorders
+Anxiety
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Confusional state
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 2
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 25  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Disorientation
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 1 / 1
+Hallucinations, mixed
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Injury, poisoning and procedural
+complications
+Abdominal wall wound
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Femur fracture
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Fibula fracture
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrostomy tube site complication
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infusion related reaction
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Nasal injury
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 26  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Osteoradionecrosis
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Periprosthetic fracture
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Petroleum distillate poisoning
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Radius fracture
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Stoma site haemorrhage
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / 
+
+******************************
+
+  all 0 / 0 0 / 0 0 / 0
+Thermal burn
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Tracheostomy malfunction
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Investigations
+Aspartate aminotransferase
+increased
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 27  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+White blood cell count decreased
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac disorders
+Acute coronary syndrome
+subjects affected / exposed 2 / 246 (0.81%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 2 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 1 0 / 0
+Atrial flutter
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac arrest
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac failure
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Left ventricular failure
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pericardial effusion
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Acquired tracheo-oesophageal fistula
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 28  of 48
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Acute respiratory failure
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 1 0 / 1
+Apnoea
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Asphyxia
+subjects affected / exposed 2 / 246 (0.81%) 3 / 240 (1.25%) 3 / 237 (1.27%)
+occurrences causally related to 0 / 2 0 / 3 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 3 0 / 3
+Bronchial haemorrhage
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Chronic obstructive pulmonary
+disease
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 2 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Dyspnoea
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 3 / 237 (1.27%)
+occurrences causally related to 0 / 1 0 / 0 1 / 3
+treatment / all
+deaths causally rela 
+
+******************************
+
+ ted to
+treatment / all 0 / 0 0 / 0 0 / 0
+Haemoptysis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypoxia
+subjects affected / exposed 2 / 246 (0.81%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 2 0 / 0 0 / 0
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 29  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Laryngeal oedema
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 1 / 1 0 / 0 0 / 0
+Lung disorder
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 3 / 237 (1.27%)
+occurrences causally related to 0 / 0 0 / 0 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Pharyngeal haemorrhage
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pleural effusion
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pneumonia aspiration
+subjects affected / exposed 3 / 246 (1.22%) 2 / 240 (0.83%) 5 / 237 (2.11%)
+occurrences causally related to 0 / 3 0 / 2 1 / 6
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 1 0 / 1
+Pneumonitis
+subjects affected / exposed 3 / 246 (1.22%) 1 / 240 (0.42%) 3 / 237 (1.27%)
+occurrences causally related to 2 / 3 0 / 1 3 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Pneumothorax
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pulmonary embolism
+subjects affected / exposed 4 / 246 (1.63%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 4 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 3 0 / 0 0 / 0
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 30  of 48
+Respiratory distress
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 0
+Respiratory failure
+subjects affected / exposed 0 / 246 (0.00%) 3 / 240 (1.25%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 0 0 / 3 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 2 0 / 2
+Sleep apnoea syndrome
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Stridor
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 1 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Blood and lymphatic system disorders
+Anaemia
+subjects affected / exposed 5 / 246 (2.03%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 3 / 5 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Febrile neutropenia
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Haemorrhagic diathesis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Neutropenia
+subjects affected / exposed 0 / 246 (0.00%) 2 / 240 (0.83%) 0 / 237 
+
+******************************
+
+  (0.00%)
+occurrences causally related to 0 / 0 2 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pancytopenia
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 31  of 48
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Thrombocytopenia
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Nervous system disorders
+Carotid artery disease
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cerebral infarction
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cerebrovascular accident
+subjects affected / exposed 3 / 246 (1.22%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 3 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 0 0 / 0
+Depressed level of consciousness
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Dizziness
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Epilepsy
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Haemorrhagic stroke
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 32  of 48
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 0
+Horner's syndrome
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Loss of consciousness
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Presyncope
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Seizure
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Syncope
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 1 0 / 1 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Vocal cord paralysis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Eye disorders
+Eye pain
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Ear and labyrinth disorders
+Otorrhoea
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 Februa 
+
+******************************
+
+ ry 2021 Page 33  of 48
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrointestinal disorders
+Abdominal pain
+subjects affected / exposed 2 / 246 (0.81%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Coeliac disease
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Colitis ischaemic
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Constipation
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Diarrhoea
+subjects affected / exposed 2 / 246 (0.81%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 2 / 3 1 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Dysphagia
+subjects affected / exposed 4 / 246 (1.63%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 4 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastric fistula
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastric ulcer perforation
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 34  of 48
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrointestinal haemorrhage
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Ileus
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Inguinal hernia
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Intestinal obstruction
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 1 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Large intestine perforation
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 0
+Lower gastrointestinal haemorrhage
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Mouth haemorrhage
+subjects affected / exposed 2 / 246 (0.81%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Nausea
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 35  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tongue haemorrhage
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causall 
+
+******************************
+
+ y related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Upper gastrointestinal haemorrhage
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Vomiting
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Renal and urinary disorders
+Acute kidney injury
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Renal failure
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 1 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tubulointerstitial nephritis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Skin and subcutaneous tissue disorders
+Dermatitis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Erythema
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 36  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Urticaria
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Vasculitic ulcer
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Product issues
+Device dislocation
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Device occlusion
+subjects affected / exposed 0 / 246 (0.00%) 2 / 240 (0.83%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Arthritis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Osteonecrosis of jaw
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Trismus
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Endocrine disorders
+Adrenal insufficiency
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 37  of 48
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypopituitarism
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Inappropriate antidiuretic hormone
+secretion
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 1 0 / 0 2 / 2
+tre 
+
+******************************
+
+ atment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 1 / 1
+Metabolism and nutrition disorders
+Decreased appetite
+subjects affected / exposed 1 / 246 (0.41%) 2 / 240 (0.83%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypercalcaemia
+subjects affected / exposed 2 / 246 (0.81%) 2 / 240 (0.83%) 4 / 237 (1.69%)
+occurrences causally related to 0 / 2 1 / 3 0 / 4
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hyperglycaemia
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hyperkalaemia
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 0 0 / 1 0 / 5
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypocalcaemia
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 0 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypoglycaemia
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 38  of 48
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypokalaemia
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hyponatraemia
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infections and infestations
+Abscess neck
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Abscess oral
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Bacteraemia
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Bronchitis
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Device related infection
+subjects affected / exposed 3 / 246 (1.22%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 3 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Endocarditis
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 39  of 48
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Escherichia sepsis
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastroenteritis
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Herpes zoster
+subjects affected / exposed 1 / 246 (0.41%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 1 / 1 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infection
+subjects affected / exposed 0 / 24 
+
+******************************
+
+ 6 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Localised infection
+subjects affected / exposed 0 / 246 (0.00%) 2 / 240 (0.83%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 3 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Lower respiratory tract infection
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Lung infection
+subjects affected / exposed 1 / 246 (0.41%) 2 / 240 (0.83%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 1 0 / 2 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 1
+Oesophageal infection
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 40  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Osteomyelitis
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Peritonitis
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pneumonia
+subjects affected / exposed 9 / 246 (3.66%) 9 / 240 (3.75%) 8 / 237 (3.38%)
+occurrences causally related to 0 / 9 0 / 9 0 / 9
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 4 0 / 0
+Pneumonia bacterial
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Postoperative wound infection
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Pulmonary sepsis
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Respiratory tract infection
+subjects affected / exposed 4 / 246 (1.63%) 1 / 240 (0.42%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 4 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Sepsis
+subjects affected / exposed 3 / 246 (1.22%) 4 / 240 (1.67%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 3 1 / 4 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 41  of 48
+Septic shock
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Staphylococcal infection
+subjects affected / exposed 0 / 246 (0.00%) 1 / 240 (0.42%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Stoma site infection
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Streptococcal sepsis
+subjects affected / exposed 1 / 246 (0.41%) 0 / 240 (0.00%) 0 / 237 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Subcutaneous abscess
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 2 / 237 (0.84%)
+occurrences causally related to 0 / 0 0 / 0 1 / 2
+treatment / a 
+
+******************************
+
+ ll
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Urosepsis
+subjects affected / exposed 0 / 246 (0.00%) 0 / 240 (0.00%) 1 / 237 (0.42%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Durvalumab + Standard of Care
+Non-serious adverse events Durvalumab
+Tremelimumab (SoC)
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 203 / 246 (82.52%) 207 / 240 (86.25%) 180 / 237 (75.95%)
+Vascular disorders
+Hypertension
+subjects affected / exposed 17 / 246 (6.91%) 7 / 240 (2.92%) 11 / 237 (4.64%)
+occurrences (all) 17 8 14
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 42  of 48
+Investigations
+Alanine aminotransferase increased
+subjects affected / exposed 15 / 246 (6.10%) 17 / 240 (7.08%) 11 / 237 (4.64%)
+occurrences (all) 20 28 11
+Blood alkaline phosphatase increased
+subjects affected / exposed 14 / 246 (5.69%) 8 / 240 (3.33%) 7 / 237 (2.95%)
+occurrences (all) 20 9 11
+Aspartate aminotransferase
+increased
+subjects affected / exposed 15 / 246 (6.10%) 14 / 240 (5.83%) 7 / 237 (2.95%)
+occurrences (all) 17 23 8
+Gamma-glutamyltransferase
+increased
+subjects affected / exposed 17 / 246 (6.91%) 12 / 240 (5.00%) 9 / 237 (3.80%)
+occurrences (all) 18 19 11
+Weight decreased
+subjects affected / exposed 27 / 246 (10.98%) 20 / 240 (8.33%) 31 / 237 (13.08%)
+occurrences (all) 27 22 33
+Respiratory, thoracic and mediastinal
+disorders
+Cough
+subjects affected / exposed 26 / 246 (10.57%) 19 / 240 (7.92%) 25 / 237 (10.55%)
+occurrences (all) 27 22 26
+Dyspnoea
+subjects affected / exposed 27 / 246 (10.98%) 19 / 240 (7.92%) 27 / 237 (11.39%)
+occurrences (all) 27 21 29
+Blood and lymphatic system disorders
+Anaemia
+subjects affected / exposed 55 / 246 (22.36%) 56 / 240 (23.33%) 47 / 237 (19.83%)
+occurrences (all) 68 94 57
+Leukopenia
+subjects affected / exposed 10 / 246 (4.07%) 13 / 240 (5.42%) 2 / 237 (0.84%)
+occurrences (all) 19 42 3
+Neutropenia
+subjects affected / exposed 11 / 246 (4.47%) 32 / 240 (13.33%) 4 / 237 (1.69%)
+occurrences (all) 16 86 4
+Thrombocytopenia
+subjects affected / exposed 11 / 246 (4.47%) 18 / 240 (7.50%) 5 / 237 (2.11%)
+occurrences (all) 23 49 11
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 43  of 48
+Nervous system disorders
+Headache
+subjects affected / exposed 11 / 246 (4.47%) 16 / 240 (6.67%) 13 / 237 (5.49%)
+occurrences (all) 11 19 15
+Neuropathy peripheral
+subjects affected / exposed 4 / 246 (1.63%) 24 / 240 (10.00%) 5 / 237 (2.11%)
+occurrences (all) 4 26 5
+General disorders and administration
+site conditions
+Asthenia
+subjects affected / exposed 51 / 246 (20.73%) 56 / 240 (23.33%) 42 / 237 (17.72%)
+occurrences (all) 57 63 53
+Fatigue
+subjects affected / exposed 40 / 246 (16.26%) 35 / 240 (14.58%) 31 / 237 (13.08%)
+occurrences (all) 44 44 35
+Mucosal inflammation
+subjects affected / exposed 2 / 246 (0.81%) 17 / 240 (7.08%) 3 / 237 (1.27%)
+occurrences (all) 3 20 3
+Pyrexia
+subjects affected / exposed 31 / 246 (12.60%) 29 / 240 (12.08%) 19 / 237 (8.02%)
+occurrences (all) 35 42 23
+Psychiatric disorders
+Insomnia
+subjects affected / exposed 13 / 246 (5.28%) 8 / 240 (3.33%) 7 / 237 (2.95%)
+occurrences (all) 13 8 7
+Gastrointestinal disorders
+Constipation
+subjects affected / exposed 33 / 246 (13.41%) 29 / 240 (12.08%) 33 / 237 (13.92%)
+occurrences (all) 37 29 40
+Diarrhoea
+subjects affected / exposed 38 / 246 (15.45%) 32 / 240 (13.33%) 24 / 237 (10.13%)
+occurrences (all) 50 42 46
+Dysphagia
+subjects affected / exposed 20 / 246 (8.13%) 18 / 240 (7.50%) 28 / 237 (11.81%)
+occurrences (all) 22 18 30
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 44  of 48
+Nausea
+subjects affected / exposed 30 / 246 (12.20%) 41 / 240 (17.08%) 27 / 237 (11.39%)
+occurrences (all) 36 47 29
+Vomiting
+subjects affected / exposed 15 / 246 (6.10%) 20 / 240 (8.33%) 18 / 237 (7.59%)
+occurrences (all) 16 24 23
+Stomatitis
+subjects affected / exposed 5 / 24 
+
+******************************
+
+ 6 (2.03%) 27 / 240 (11.25%) 11 / 237 (4.64%)
+occurrences (all) 7 34 12
+Skin and subcutaneous tissue disorders
+Alopecia
+subjects affected / exposed 0 / 246 (0.00%) 29 / 240 (12.08%) 0 / 237 (0.00%)
+occurrences (all) 0 30 0
+Dermatitis acneiform
+subjects affected / exposed 2 / 246 (0.81%) 17 / 240 (7.08%) 4 / 237 (1.69%)
+occurrences (all) 2 18 4
+Pruritus
+subjects affected / exposed 23 / 246 (9.35%) 9 / 240 (3.75%) 10 / 237 (4.22%)
+occurrences (all) 28 10 13
+Rash
+subjects affected / exposed 18 / 246 (7.32%) 36 / 240 (15.00%) 19 / 237 (8.02%)
+occurrences (all) 20 38 22
+Musculoskeletal and connective tissue
+disorders
+Neck pain
+subjects affected / exposed 20 / 246 (8.13%) 23 / 240 (9.58%) 15 / 237 (6.33%)
+occurrences (all) 20 24 16
+Endocrine disorders
+Hypothyroidism
+subjects affected / exposed 32 / 246 (13.01%) 5 / 240 (2.08%) 33 / 237 (13.92%)
+occurrences (all) 33 5 44
+Metabolism and nutrition disorders
+Decreased appetite
+subjects affected / exposed 51 / 246 (20.73%) 48 / 240 (20.00%) 30 / 237 (12.66%)
+occurrences (all) 51 56 33
+Hypercalcaemia
+subjects affected / exposed 21 / 246 (8.54%) 7 / 240 (2.92%) 10 / 237 (4.22%)
+occurrences (all) 21 8 12
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 45  of 48
+Hypomagnesaemia
+subjects affected / exposed 3 / 246 (1.22%) 20 / 240 (8.33%) 8 / 237 (3.38%)
+occurrences (all) 3 25 10
+Hyponatraemia
+subjects affected / exposed 16 / 246 (6.50%) 8 / 240 (3.33%) 11 / 237 (4.64%)
+occurrences (all) 16 8 15
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 46  of 48
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+14 January 2015 Updates to the following: - Management of non-immune-related toxicity using
+dose modifications. - Stratification factors changed to include PD-L1 status. -
+‘Deep sustained response’ (DSR) endpoint removed. - Change to pre-specify
+stratified log-rank test as primary method of analysis for OS and PFS in all-comers
+population, while retaining the weighted HR approach as a supportive analysis. -
+PD-L1 status added as a pre-specified subgroup analysis.
+03 April 2015 Updates to the following: - Change to doses of durvalumab and tremelimumab in
+the combination arm. - Clarification of procedures regarding discontinuation or
+retreatment in cases of confirmed PD. - Modifications to eligibility criteria. -
+Changes to endpoints and assessments.
+01 June 2015 Updates to the following: - Eligibility criteria modified. - Clarification that no
+further enrolment into the durvalumab monotherapy arm applies to patients with
+PD-L1-negative tumors, should external data suggest lack of benefit of
+durvalumab monotherapy in the PD-L1 negative population.
+18 February 2016 Updates to the following: - Co-primary endpoint of PFS removed, leaving only a
+primary endpoint of OS (accordingly, the multiple testing procedure was
+simplified). - Primary objective clarified as assessment of durvalumab +
+tremelimumab vs SoC in PD-L1-positive and -negative patients (ie, regardless of
+PD-L1 status). (throughout the document). - Previous primary comparison
+included monotherapy vs SoC in PD-L1-positive patients. - Clarification of key
+secondary objectives. - PFS, ORR, DoR, DCR, APF6, APF12 to be based on
+Investigator assessment rather than BICR. - PRO measures reduced and
+prioritised for formal analysis. - PRO for CTCAE reduced from collection of 30 PRO-
+CTCAE symptoms to 11. - Eligibility criteria modified. - Removal of text referring
+to possibility of halting enrolment of PD-L1- negative patients into the durvalumab
+monotherapy arm. - Definition of disease progression now to include clinical
+disease progression as well as confirmed objective disease progression. - Removal
+of the requirement to confirm response (amended to objective response). -
+Addition of one interim analysis for OS at 80% maturity, when 314 death events
+have occurred across the combination and SoC arms. - Update sample size
+estimate calculation and statistical ass 
+
+******************************
+
+ umptions. - Added analysis of patients with
+subsequent anticancer therapy. - HPV testing and analysis of OS by HPV status in
+patients with oropharyngeal cancer only. - Addition of subgroup analysis by race. -
+Management of study drug-related toxicities modified. - The timing and
+procedures for scheduled assessments and/or study design were modified and
+clarified.
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 47  of 48
+07 September 2016 Updates to the following: - Change from single primary objective of durvalumab +
+tremelimumab vs SoC in terms of OS to co-primary objectives of durvalumab +
+tremelimumab vs SoC in terms of OS and durvalumab monotherapy vs SoC in
+terms of OS. - Treatment in all arms to continue until progression. - Retreatment
+sections updated to only allow retreatment for patients on the combination arm,
+provided that progression occurs during the monotherapy portion of dosing. - The
+hypothesis testing is expected to be performed after ~11 months of follow-up
+instead of 10 months, and after ~375 death events have occurred instead of 392.
+The number of events that triggers the interim analysis was reduced from 314 to
+300. - The requirement for a min of 300 patients with PD-L1-positive disease was
+removed and enrolment was to be based on the natural prevalence of PD-L1-
+positive and -negative patients. - Updated to clarify that the specified PD-L1
+expression cut-off level will be used for the purpose of stratification, however the
+cut-off level to be used for the subgroup analyses by PD-L1 status and for
+determining the PD-L1- negative subgroup in the MTP may be different and will be
+determined from emerging data outside of this trial. - Updated to include text to
+allow the study to stop for superiority based on interim OS analysis. - DoR will be
+analysed by descriptive statistical and Kaplan Meier plots. - Primary tumor status,
+prior radiation therapy, use of chewing tobacco, oral snuff, and sublingual
+nicotine, smoking history, ECOG PS, prior lines of systemic therapy for treatment
+of HNSCC, and extent of disease added as subgroups for analysis. - Weighted
+estimate of the overall HR removed. - The sensitivity analyses and information on
+the ascertainment bias, subgroup analysis and its display on forest plot, and
+adjustment of significance level of testing were removed.
+23 January 2018 Updates to the following: - Updates to various sections to align with the most
+current safety information per the update to the Investigator’s Brochure. - New
+section added for survival status for withdrawn consent and lost to follow-up
+patients. - Clarification to collection of variables for SAEs. - New section added to
+describe treatment with durvalumab after the final data cut-off. - Updates to allow
+sites more flexibility in timing of survival calls after data cut-off.
+10 September 2018 Updates to the following (12-Dec-2018): - New section added to the CSP (Safety
+data to be collected following the final data cut-off of the study) to describe how
+safety data would be recorded for patients continuing to receive study drug after
+final data cut-off and database closure. - Treatment regimens text amended to
+clarify that patients currently receiving treatment with durvalumab may be
+transitioned to a roll-over or safety extension study after the analysis is finalized.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Limitations and caveats
+Limitations of the trial such as small numbers of subjects analysed or technical problems leading to
+unreliable data.
+Multiple testing was performed for OS analysis in the intent-to-treat (ITT) population and OS analysis in
+the PD-L1 negative population for durvalumab + tremelimumab versus SoC only.
+Notes:
+Clinical trial results 2014-003863-40 version 1 EU-CTR publication date: 06 February 2021 Page 48  of 48
+ 
+
+******************************
+

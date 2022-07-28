@@ -1,0 +1,2271 @@
+ EU Clinical Trials Register
+Clinical trial results:
+Open label study of isavuconazole in the treatment of patients
+with invasive Aspergillosis with renal impairment (RI) or of
+patients with invasive fungal disease (IFD) caused by rare moulds,
+yeasts or dimorphic fungi.
+Summary
+EudraCT number 2006-005003-33
+Trial protocol GB BE HU CZ DE ES
+Global end of trial date 05 May 2016
+Results information
+Result version number v3 (current)
+This version publication date 22 April 2017
+First version publication date 05 June 2015
+Version creation reason
+Trial information
+Trial identification
+Sponsor protocol code 9766-CL-0103
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT00634049
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name Astellas Global Pharma Development, Inc
+Sponsor organisation address 1 Astellas Way, Northbrook, United States,
+Public contact Medical Head ID/IM/TX, Astellas Pharma Global Development,
+Astellas.resultsdisclosure@astellas.com
+Scientific contact Medical Head ID/IM/TX, Astellas Pharma Global Development,
+Astellas.resultsdisclosure@astellas.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Results analysis stage
+Analysis stage Final
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 1  of 48
+Date of interim/final analysis 03 January 2014
+Is this the analysis of the primary Yes
+completion data?
+Primary completion date 03 January 2014
+Global end of trial reached? Yes
+Global end of trial date 05 May 2016
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+Main objective of the trial was to describe the safety and efficacy of isavuconazole in the treatment of
+invasive Aspergillosis in patients with renal impairment (RI) or in patients with invasive fungal disease
+(IFD) caused by rare moulds, yeasts or dimorphic fungi.
+Protection of trial subjects:
+This clinical study was written, conducted and reported in accordance with the protocol, ICH GCP
+Guidelines, and applicable local regulations, including the European Directive 2001/20/EC, on the
+protection of human rights, and with the ethical principles that have their origin in the Declaration of
+Helsinki. Astellas ensures that the use and disclosure of protected health information (PHI) obtained
+during a research study complies with the federal, national and/or regional legislation related to the
+privacy and protection of personal information.
+Background therapy:
+Participants eligible for the study were primarily, but not limited to, those with underlying hematologic
+malignancies. Treatments for participants underlying disease were not standardized.
+Evidence for comparator:
+This study did not have a comparator arm. The choice of a uniform comparator for all patients included
+in this study was not feasible due to the allowance of patients with IFD caused by many different rare
+pathogens.
+Actual start date of recruitment 21 April 2008
+Long term follow-up planned No
+Independent data monitoring committee Yes
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Lebanon: 1
+Country: Number of subjects enrolled Israel: 21
+Country: Number of subjects enrolled Belgium: 13
+Country: Number of subjects enrolled Germany: 4
+Country: Number of subjects enrolled United States: 57
+Country: Number of subjects enrolled Russian Federation: 2
+Country: Number of subjects enrolled Mexico: 8
+Country: Number of subjects enrolled Brazil: 20
+Country: Number of subjects enrolled Thailand: 15
+Country: Number of subjects enrolled Korea, Democratic People's Republic of: 3
+Country: Number of subjects enrolled India: 5
+Worldwide total number of subjects 149
+EEA total number of subjects 17
+Notes:
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 Ap 
+
+******************************
+
+ ril 2017 Page 2  of 48
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 119
+From 65 to 84 years 29
+85 years and over 1
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 3  of 48
+Subject disposition
+Recruitment
+Recruitment details:
+Consenting participants with proven,probable or possible invasive Aspergillosis and RI or IFD caused by
+rare molds, yeasts or dimorphic fungi meeting the inclusion and none of the exclusion criteria were
+enrolled at multicenter study at 34 centers globally, including centers in the US, European Union, South
+America, Asia and the Middle East.
+Pre-assignment
+Screening details:
+Candidates for screening were male and female participants aged ≥18 years of age,at high risk for
+developing IFD caused by Aspergillus species,rare molds,yeasts,or other dimorphic fungi.Excluded
+participants had hepatic dysfunction,chronic aspergillosis, aspergilloma, allergic aspergillosis,advanced
+HIV or AIDS or were unlikely to survive 30 days.
+Period 1
+Period 1 title Overall Trial (overall period)
+Is this the baseline period? Yes
+Allocation method Not applicable
+Blinding used Not blinded
+Arms
+Arm title Isavuconazole
+Arm description:
+Isavuconazole (BAL4815) is a broad spectrum triazole. It inhibits sterol 14 α-demethylase, a microsomal
+P450 enzyme (P45014DM) essential for ergosterol biosynthesis in fungi.
+Arm type Experimental
+Investigational medicinal product name isavuconazole/CRESEMBA
+Investigational medicinal product code BAL8557
+Other name isavuconazonium sulfate,(CRESEMBA) as a pro drug of
+isavuconazole
+Pharmaceutical forms Capsule, Injection
+Routes of administration Intravenous use, Oral use
+Dosage and administration details:
+The IV and oral formulations are 98% bioequivalent and therefore interchangable. A loading regimen of
+isavuconazole (IV or PO) was used over 2 days, followed by a maintenance regimen from Day 3 to EOT.
+During Days 1 and 2, three doses of 200 mg isavuconazole were administered every 8 hours for a total
+of six doses and from Day 3 to End of Treatment (EOT), maintanance dose of 200 mg isavuconazole was
+administered once daily up to 180 days; with an option for extended treatment under specified criteria.
+Number of subjects in period 1 Isavuconazole
+Started 149
+Completed 146
+Not completed 3
+Patient never received study drug 1
+Patient died prior to receiving any 1
+study drug
+Screening failure 1
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 4  of 48
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 5  of 48
+Baseline characteristics
+Reporting groups
+Reporting group title Isavuconazole
+Reporting group description:
+Isavuconazole (BAL4815) is a broad spectrum triazole. It inhibits sterol 14 α-demethylase, a microsomal
+P450 enzyme (P45014DM) essential for ergosterol biosynthesis in fungi.
+Reporting group values Isavuconazole Total
+Number of subjects 149 149
+Age categorical
+Units: Subjects
+In utero 0 0
+Preterm newborn infants 0 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0 0
+Infants and toddlers (28 days-23 0 0
+months)
+Children (2-11 years) 0 0
+Adolescents (12-17 years) 0 0
+Adults (18-64 years) 116 116
+From 65-84 years 29 29
+85 years and over 1 1
+Not Recorded 3 3
+Age continuous
+Units: years
+arithmetic mean 49.9
+standard deviation ± 16.78 -
+Gender categorical
+Units: Subjects
+Female 46 46
+Male 100 100
+Not Recorded 3 3
+Race
+Race
+Units: Subjects
+White 108 108
+Black or African American 10 10
+Asian 24 24
+Other 4 4
+Not Recorded 3 3
+Ethnicity
+Units: Subjects
+Hispanic or Latino 22 22
+Not Hispanic or Latino 124 124
+Not Recorded 3 3
+Therapy Status
+Intent to Treat Population. (ITT)
+Units: Subjects
+Primary Therapy 93 93
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 6  of 48
+Refractory 38 38
+Intolerant 12 12
+Missing 3 3
+Not Recorded 3 3
+Hematologic malignancy
+Units: 
+
+******************************
+
+  Subjects
+Yes 63 63
+No 83 83
+Not Recorded 3 3
+Allogeneic BMT/HSCT
+Units: Subjects
+Yes 26 26
+No 120 120
+Not Recorded 3 3
+Uncontrolled malignancy status
+Units: Subjects
+Yes 46 46
+No 100 100
+Not Recorded 3 3
+Corticosteroid use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes 35 35
+No 111 111
+Not Recorded 3 3
+T-cell immunosuppressant use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes 61 61
+No 48 48
+Missing 37 37
+Not Recorded 3 3
+Neutropenic
+Units: Subjects
+Yes 38 38
+No 66 66
+Missing 42 42
+Not Recorded 3 3
+Subject analysis sets
+Subject analysis set title mITT- Aspergillus [Renally Impaired]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Aspergillus - Renally Impaired mITT population consisted of participants who have had proven,probable
+or possible IFD as determined by the DRC. Classification by the DRC was based on the type of pathogen
+which was found to be the cause of participants IFD. The Aspergillus-mITT population was presented by
+renal status, renally impaired and not renally impaired. Renal impairment was defined as yes for
+patients who have a baseline eGFR-MDRD < 60 mL/min/1.73 m^2, no for patients who have a baseline
+eGFR-MDRD ≥ 60 mL/min/1.73 m^2. Overall there were 24 participants in the mITT-Aspergillus
+population out of which 20 participants were classified as Renally Impaired (RI).
+Subject analysis set title mITT- Aspergillus [Not Renally Impaired]
+Subject analysis set type Modified intention-to-treat
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 7  of 48
+Subject analysis set description:
+Aspergillus - Renally Impaired mITT population consisted of participants who have had proven or
+probable IFD as determined by the DRC. Classification by the DRC was based on the type of pathogen
+which was found to be the cause of participants IFD. The Aspergillus-mITT population was presented by
+renal status, renally impaired and not renally impaired. Overall there were 24 participants in the mITT-
+Aspergillus population out of which 4 participants were classified as Not Renally Impaired (NRI).
+Subject analysis set title mITT- Mucorales [Primary Therapy]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Mucorales – Primary Therapy mITT population consisted of participants who have had proven or
+probable IFD as determined by the DRC. Based on the DRC assessment 37 participants were assessed to
+have proven or probable Mucorales infection (32 participants had proven and 5 participants had
+probable invasive mucormycosis). The DRC also categorized each patient by therapy status; these
+groups were primary therapy, refractory and intolerant. There were 21 participants receiving
+isavuconazole as a primary therapy.
+Subject analysis set title mITT- Mucorales [Refractory]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Mucorales – Refractory Therapy mITT population consisted of participants who have had proven or
+probable IFD as determined by the DRC. Based on the DRC assessment 37 participants were assessed to
+have proven or probable Mucorales infection (32 participants had proven and 5 participants had
+probable invasive mucormycosis).The DRC also categorized each patient by therapy status; these
+groups were primary therapy, refractory and intolerant. There were 11 participants whose IFD was
+refractory to prior AFT.
+Subject analysis set title mITT - Mucorales [Intolerant]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Mucorales – Intolerant mITT population consisted of participants who have had proven or probable IFD
+as determined by the DRC. Based on the DRC assessment 37 participants were assessed to have proven
+or probable Mucorales infection (32 participant had proven and 5 participants had probable invasive
+mucormycosis). The DRC also categorized each patient by therapy status; these groups were primary
+therapy, refractory and intolerant. There were 5 participants who were intolerant to prior AFT.
+Subject analysis set title mIT 
+
+******************************
+
+ T- Other Filamentous Fungi
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Filamentous Fungi mITT population consisted of 17 participants who have had proven or probable
+IFD as determined by the DRC caused by other filamentous fungi (4 Fusarium,2 Exophiala,2
+Cladosporium,2 Scopulariopsis and 1 each of Acremonium, Alternaria, Curvularia,Exserohilum,
+Paecilomyces,Pseudallescheria and Scedosporium).
+Subject analysis set title mITT- Mould Species
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Mould Species mITT population consisted of 7 participants who have had proven or probable IFD
+as determined by the DRC caused by mould species.
+Subject analysis set title mITT- Dimorphic Fungi
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Dimorphic Fungi mITT population consisted of 29 participants who have had proven or probable
+IFD as determined by the DRC caused by dimorphic fungi (10 Paracoccidiodes,9 Coccidiodides, 7
+Histoplasma, 3 Blastomyces).
+Subject analysis set title mITT- Non Candida Yeast
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Non Candida Yeast mITT population consisted of 11 participants who have had proven or probable
+IFD as determined by the DRC caused by non-Candida yeast (4 Cryptococcus neoformans, 3
+Cryptococcus gatii, 2 Cryptococcus NOS and 2 Trichosporon).
+Subject analysis set title mITT-Mixed Infections
+Subject analysis set type Modified intention-to-treat
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 8  of 48
+Subject analysis set description:
+Other Mixed Infections mITT population consisted of 15 participants who have had proven or probable
+IFD as determined by the DRC caused by  mixed infections aspergillosis/mucormycosis.
+Reporting group values mITT- Aspergillus mITT- Aspergillus mITT- Mucorales
+[Renally Impaired] [Not Renally [Primary Therapy]
+Impaired]
+Number of subjects 20 4 21
+Age categorical
+Units: Subjects
+In utero 0 0 0
+Preterm newborn infants 0 0 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0 0 0
+Infants and toddlers (28 days-23 0 0 0
+months)
+Children (2-11 years) 0 0 0
+Adolescents (12-17 years) 0 0 0
+Adults (18-64 years) 13 3 17
+From 65-84 years 6 1 4
+85 years and over 1 0 0
+Not Recorded 0 0 0
+Age continuous
+Units: years
+arithmetic mean 55.7 41.5 51.7
+standard deviation ± 20.65 ± 25.72 ± 14.72
+Gender categorical
+Units: Subjects
+Female 8 1 4
+Male 12 3 17
+Not Recorded 0 0 0
+Race
+Race
+Units: Subjects
+White 17 4 12
+Black or African American 0 0 1
+Asian 3 0 8
+Other 0 0 0
+Not Recorded 0 0 0
+Ethnicity
+Units: Subjects
+Hispanic or Latino 1 0 1
+Not Hispanic or Latino 19 4 20
+Not Recorded 0 0 0
+Therapy Status
+Intent to Treat Population. (ITT)
+Units: Subjects
+Primary Therapy
+Refractory
+Intolerant
+Missing
+Not Recorded
+Hematologic malignancy
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 9  of 48
+Units: Subjects
+Yes 11 3 11
+No 9 1 10
+Not Recorded 0 0 0
+Allogeneic BMT/HSCT
+Units: Subjects
+Yes 7 2 4
+No 13 2 17
+Not Recorded 0 0 0
+Uncontrolled malignancy status
+Units: Subjects
+Yes 5 2 11
+No 15 2 10
+Not Recorded 0 0 0
+Corticosteroid use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes 12 1 5
+No 8 3 16
+Not Recorded 0 0 0
+T-cell immunosuppressant use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes 15 3 7
+No 5 1 14
+Missing 0 0 0
+Not Recorded 0 0 0
+Neutropenic
+Units: Subjects
+Yes 5 3 4
+No 15 1 17
+Missing 0 0 0
+Not Recorded 0 0 0
+Reporting group values mITT- Mucorales mITT - Mucorales mITT- Other
+[Refractory] [Intolerant] Filamentous Fungi
+Number of subjects 11 5 17
+Age categorical
+Units: Subjects
+In utero 0 0 0
+Preterm newborn infants 0 0 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0 0 0
+Infants and toddlers (28 days-23 0 0 0
+months)
+Children (2-11 years) 0 0 0
+Adolescents (12-17 years) 0 0 0
+Adults (18-64 years) 10 5 15
+From 65-84 years 1 0 2
+85 years and over 0 0 0
+Not Recorded 0 0 0
+Clinical trial results 2006-005003-33 version 3  
+
+******************************
+
+ EU-CTR publication date: 22 April 2017 Page 10  of 48
+Age continuous
+Units: years
+arithmetic mean 46.4 39.6 47.5
+standard deviation ± 16.55 ± 15.22 ± 14.26
+Gender categorical
+Units: Subjects
+Female 3 0 7
+Male 8 5 10
+Not Recorded 0 0 0
+Race
+Race
+Units: Subjects
+White 10 3 13
+Black or African American 1 2 1
+Asian 0 0 3
+Other 0 0 0
+Not Recorded 0 0 0
+Ethnicity
+Units: Subjects
+Hispanic or Latino 0 0 1
+Not Hispanic or Latino 11 5 16
+Not Recorded 0 0 0
+Therapy Status
+Intent to Treat Population. (ITT)
+Units: Subjects
+Primary Therapy
+Refractory
+Intolerant
+Missing
+Not Recorded
+Hematologic malignancy
+Units: Subjects
+Yes 7 4
+No 4 1
+Not Recorded 0 0
+Allogeneic BMT/HSCT
+Units: Subjects
+Yes 4 5
+No 7 0
+Not Recorded 0 0
+Uncontrolled malignancy status
+Units: Subjects
+Yes 6 1
+No 5 4
+Not Recorded 0 0
+Corticosteroid use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes 3 2
+No 8 3
+Not Recorded 0 0
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 11  of 48
+T-cell immunosuppressant use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes 6 5
+No 5 0
+Missing 0 0
+Not Recorded 0 0
+Neutropenic
+Units: Subjects
+Yes 5 1
+No 6 4
+Missing 0 0
+Not Recorded 0 0
+Reporting group values mITT- Mould mITT- Dimorphic mITT- Non Candida
+Species Fungi Yeast
+Number of subjects 7 29 11
+Age categorical
+Units: Subjects
+In utero 0 0 0
+Preterm newborn infants 0 0 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0 0 0
+Infants and toddlers (28 days-23 0 0 0
+months)
+Children (2-11 years) 0 0 0
+Adolescents (12-17 years) 0 0 0
+Adults (18-64 years) 4 24 7
+From 65-84 years 3 5 4
+85 years and over 0 0 0
+Not Recorded 0 0 0
+Age continuous
+Units: years
+arithmetic mean 58.6 45.7 52.5
+standard deviation ± 18.27 ± 14.79 ± 17.25
+Gender categorical
+Units: Subjects
+Female 2 7 5
+Male 5 22 6
+Not Recorded 0 0 0
+Race
+Race
+Units: Subjects
+White 5 20 6
+Black or African American 1 2 1
+Asian 1 4 3
+Other 0 3 1
+Not Recorded 0 0 0
+Ethnicity
+Units: Subjects
+Hispanic or Latino 0 17 2
+Not Hispanic or Latino 7 12 9
+Not Recorded 0 0 0
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 12  of 48
+Therapy Status
+Intent to Treat Population. (ITT)
+Units: Subjects
+Primary Therapy
+Refractory
+Intolerant
+Missing
+Not Recorded
+Hematologic malignancy
+Units: Subjects
+Yes
+No
+Not Recorded
+Allogeneic BMT/HSCT
+Units: Subjects
+Yes
+No
+Not Recorded
+Uncontrolled malignancy status
+Units: Subjects
+Yes
+No
+Not Recorded
+Corticosteroid use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes
+No
+Not Recorded
+T-cell immunosuppressant use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes
+No
+Missing
+Not Recorded
+Neutropenic
+Units: Subjects
+Yes
+No
+Missing
+Not Recorded
+Reporting group values mITT-Mixed
+Infections
+Number of subjects 15
+Age categorical
+Units: Subjects
+In utero 0
+Preterm newborn infants 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 13  of 48
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 13
+From 65-84 years 2
+85 years and over 0
+Not Recorded 0
+Age continuous
+Units: years
+arithmetic mean 49.8
+standard deviation ± 16.68
+Gender categorical
+Units: Subjects
+Female 7
+Male 8
+Not Recorded 0
+Race
+Race
+Units: Subjects
+White 12
+Black or African American 1
+Asian 2
+Other 0
+Not Recorded 0
+Ethnicity
+Units: Subjects
+Hispanic or Latino 0
+Not Hispanic or Latino 15
+Not Recorded 0
+Therapy Status
+Intent to Treat Population. (ITT)
+Units: Subjects
+Primary Therapy
+Refractory
+Intolerant
+Missing
+Not Recorded
+Hematologic malignancy
+Units: Subjects
+Yes
+No
+Not Recorded
+Allogeneic BMT/HSCT
+Units: Subjects
+Yes
+No
+Not Recorded
+Uncontrolled malignancy status
+Units: Subjects
+Yes
+No
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 14  of 48
+Not Recorded
+Corticosteroid use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes
+No
+Not Recorded
+T-cell immunosuppressant use
+Intent-to-Treat Analysis Set
+Units: Subjects
+Yes
+No
+Missing
+Not Recorded
+Neutropenic
+Units: Subjects
+Yes
+No
+Missing 
+
+******************************
+
+ 
+Not Recorded
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 15  of 48
+End points
+End points reporting groups
+Reporting group title Isavuconazole
+Reporting group description:
+Isavuconazole (BAL4815) is a broad spectrum triazole. It inhibits sterol 14 α-demethylase, a microsomal
+P450 enzyme (P45014DM) essential for ergosterol biosynthesis in fungi.
+Subject analysis set title mITT- Aspergillus [Renally Impaired]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Aspergillus - Renally Impaired mITT population consisted of participants who have had proven,probable
+or possible IFD as determined by the DRC. Classification by the DRC was based on the type of pathogen
+which was found to be the cause of participants IFD. The Aspergillus-mITT population was presented by
+renal status, renally impaired and not renally impaired. Renal impairment was defined as yes for
+patients who have a baseline eGFR-MDRD < 60 mL/min/1.73 m^2, no for patients who have a baseline
+eGFR-MDRD ≥ 60 mL/min/1.73 m^2. Overall there were 24 participants in the mITT-Aspergillus
+population out of which 20 participants were classified as Renally Impaired (RI).
+Subject analysis set title mITT- Aspergillus [Not Renally Impaired]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Aspergillus - Renally Impaired mITT population consisted of participants who have had proven or
+probable IFD as determined by the DRC. Classification by the DRC was based on the type of pathogen
+which was found to be the cause of participants IFD. The Aspergillus-mITT population was presented by
+renal status, renally impaired and not renally impaired. Overall there were 24 participants in the mITT-
+Aspergillus population out of which 4 participants were classified as Not Renally Impaired (NRI).
+Subject analysis set title mITT- Mucorales [Primary Therapy]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Mucorales – Primary Therapy mITT population consisted of participants who have had proven or
+probable IFD as determined by the DRC. Based on the DRC assessment 37 participants were assessed to
+have proven or probable Mucorales infection (32 participants had proven and 5 participants had
+probable invasive mucormycosis). The DRC also categorized each patient by therapy status; these
+groups were primary therapy, refractory and intolerant. There were 21 participants receiving
+isavuconazole as a primary therapy.
+Subject analysis set title mITT- Mucorales [Refractory]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Mucorales – Refractory Therapy mITT population consisted of participants who have had proven or
+probable IFD as determined by the DRC. Based on the DRC assessment 37 participants were assessed to
+have proven or probable Mucorales infection (32 participants had proven and 5 participants had
+probable invasive mucormycosis).The DRC also categorized each patient by therapy status; these
+groups were primary therapy, refractory and intolerant. There were 11 participants whose IFD was
+refractory to prior AFT.
+Subject analysis set title mITT - Mucorales [Intolerant]
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Mucorales – Intolerant mITT population consisted of participants who have had proven or probable IFD
+as determined by the DRC. Based on the DRC assessment 37 participants were assessed to have proven
+or probable Mucorales infection (32 participant had proven and 5 participants had probable invasive
+mucormycosis). The DRC also categorized each patient by therapy status; these groups were primary
+therapy, refractory and intolerant. There were 5 participants who were intolerant to prior AFT.
+Subject analysis set title mITT- Other Filamentous Fungi
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Filamentous Fungi mITT population consisted of 17 participants who have had proven or probable
+IFD as determined by  
+
+******************************
+
+ the DRC caused by other filamentous fungi (4 Fusarium,2 Exophiala,2
+Cladosporium,2 Scopulariopsis and 1 each of Acremonium, Alternaria, Curvularia,Exserohilum,
+Paecilomyces,Pseudallescheria and Scedosporium).
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 16  of 48
+Subject analysis set title mITT- Mould Species
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Mould Species mITT population consisted of 7 participants who have had proven or probable IFD
+as determined by the DRC caused by mould species.
+Subject analysis set title mITT- Dimorphic Fungi
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Dimorphic Fungi mITT population consisted of 29 participants who have had proven or probable
+IFD as determined by the DRC caused by dimorphic fungi (10 Paracoccidiodes,9 Coccidiodides, 7
+Histoplasma, 3 Blastomyces).
+Subject analysis set title mITT- Non Candida Yeast
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Non Candida Yeast mITT population consisted of 11 participants who have had proven or probable
+IFD as determined by the DRC caused by non-Candida yeast (4 Cryptococcus neoformans, 3
+Cryptococcus gatii, 2 Cryptococcus NOS and 2 Trichosporon).
+Subject analysis set title mITT-Mixed Infections
+Subject analysis set type Modified intention-to-treat
+Subject analysis set description:
+Other Mixed Infections mITT population consisted of 15 participants who have had proven or probable
+IFD as determined by the DRC caused by  mixed infections aspergillosis/mucormycosis.
+Primary: Crude success rate of overall outcome of treatment evaluated by the Data
+Review Committee (DRC) Day 42, Day 84 and EOT (mITT)
+End point title Crude success rate of overall outcome of treatment evaluated
+by the Data Review Committee (DRC) Day 42, Day 84 and EOT
+(mITT)[1]
+End point description:
+The DRC assessed overall response based on individual clinical, mycological and radiological response
+assessments. Participants with a complete or partial response were considered a success.
+End point type Primary
+End point timeframe:
+Day 42, Day 84 and End of Treatment [EOT]
+Notes:
+[1] - No statistical analyses have been specified for this primary end point. It is expected there is at
+least one statistical analysis for each primary end point.
+Justification: No statistical inferences were made due to the non-comparative study design. However,
+study outcomes were tabulated by renal status and baseline organism to provide context to historic
+literature.
+mITT- mITT- mITT-
+mITT-
+Aspergillus Aspergillus Mucorales
+End point values Mucorales
+[Renally [Not Renally [Primary
+[Refractory]
+Impaired] Impaired] Therapy]
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 20 4 21 11
+Units: Percent
+number (not applicable)
+Day 42 [Success] 25 50 14.3 9.1
+Day 84 [Success] 30 25 9.5 36.4
+End of Treatment [EOT Success] 30 66.7 31.6 36.4
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 17  of 48
+mITT - mITT- Other mITT-
+mITT- Mould
+End point values Mucorales Filamentous Dimorphic
+Species
+[Intolerant] Fungi Fungi
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 5 17 7 29
+Units: Percent
+number (not applicable)
+Day 42 [Success] 0 47.1 28.6 41.4
+Day 84 [Success] 20 41.2 28.6 44.8
+End of Treatment [EOT Success] 20 64.7 28.6 64.3
+mITT- Non mITT-Mixed
+End point values
+Candida Yeast Infections
+Subject group type Subject analysis setSubject analysis set
+Number of subjects analysed 11 15
+Units: Percent
+number (not applicable)
+Day 42 [Success] 36.4 13.3
+Day 84 [Success] 36.4 13.3
+End of Treatment [EOT Success] 72.7 14.3
+Statistical analyses
+No statistical analyses for this end point
+Secondary: All-Cause Crude Mortality Through Day 42 and Day 84 (ITT)
+End point title All-Cause Crude Mortality Through Day 42 and Day 84 (ITT)
+End po 
+
+******************************
+
+ int description:
+All-cause Mortality was assessed through Day 42 and Day 84 and summarized for ITT population.
+End point type Secondary
+End point timeframe:
+Baseline to End of Treatment (EOT [Day 180]).
+mITT- mITT- mITT-
+mITT-
+Aspergillus Aspergillus Mucorales
+End point values Mucorales
+[Renally [Not Renally [Primary
+[Refractory]
+Impaired] Impaired] Therapy]
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 20 4 21 4
+Units: Percent
+number (not applicable)
+All-cause Mortality Through Day 42 15 0 33.3 45.5
+All-cause Mortality Through Day 84 25 25 42.9 45.5
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 18  of 48
+mITT - mITT- Other mITT-
+mITT- Mould
+End point values Mucorales Filamentous Dimorphic
+Species
+[Intolerant] Fungi Fungi
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 5 17 7 29
+Units: Percent
+number (not applicable)
+All-cause Mortality Through Day 42 40 11.8 0 6.9
+All-cause Mortality Through Day 84 40 17.6 14.3 6.9
+mITT- Non mITT-Mixed
+End point values
+Candida Yeast Infections
+Subject group type Subject analysis setSubject analysis set
+Number of subjects analysed 11 15
+Units: Percent
+number (not applicable)
+All-cause Mortality Through Day 42 9.1 20
+All-cause Mortality Through Day 84 9.1 33.3
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Crude success rate of clinical response to treatment evaluated by the
+Data Review Committee (DRC) at Day 42, 84 and EOT (mITT)
+End point title Crude success rate of clinical response to treatment evaluated
+by the Data Review Committee (DRC) at Day 42, 84 and EOT
+(mITT)
+End point description:
+The DRC evaluated clinical response to treatment for patients at day 42, day 84 and EOT. The list of
+possible clinical responses to treatment as assessed by the DRC is as follows; Success [Resolution of all
+attributable clinical symptoms and physical findings and Partial resolution of attributable clinical
+symptoms and physical findings], Failure [No resolution of any attributable clinical symptoms and
+physical findings and/or worsening and Not done or missing] and Not applicable [No attributable signs
+and symptoms present at baseline and no symptoms attributable to IFD developed post baseline]. Each
+type of clinical response to treatment evaluated by the DRC at day 42, day 84 and EOT were
+summarized.
+End point type Secondary
+End point timeframe:
+Day 42, Day 84 and EOT
+mITT- mITT- mITT-
+mITT-
+Aspergillus Aspergillus Mucorales
+End point values Mucorales
+[Renally [Not Renally [Primary
+[Refractory]
+Impaired] Impaired] Therapy]
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 20 4 21 11
+Units: percent
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 19  of 48
+number (not applicable)
+Day 42 [Success] 55 75 50 33.3
+Day 42 [Failure] 45 25 50 66.7
+Day 84 [Success] 45 25 40 22.2
+Day 84 [Failure] 55 75 60 77.8
+EOT [Success] 55 66.7 55.6 22.2
+EOT [Failure] 45 33.3 44.4 77.8
+mITT - mITT- Other mITT-
+mITT- Mould
+End point values Mucorales Filamentous Dimorphic
+Species
+[Intolerant] Fungi Fungi
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 5 17 7 29
+Units: percent
+number (not applicable)
+Day 42 [Success] 50 78.6 71.4 85.2
+Day 42 [Failure] 50 21.4 28.6 14.8
+Day 84 [Success] 50 76.9 50 88.9
+Day 84 [Failure] 50 23.1 50 11.1
+EOT [Success] 50 81.3 85.7 82.1
+EOT [Failure] 50 18.8 14.3 17.9
+mITT- Non mITT-Mixed
+End point values
+Candida Yeast Infections
+Subject group type Subject analysis setSubject analysis set
+Number of subjects analysed 11 15
+Units: percent
+number (not applicable)
+Day 42 [Success] 77.8 50
+Day 42 [Failure] 22.2 50
+Day 84 [Success] 77.8 50
+Day 84 [Failure] 22.2 50
+EOT [Success] 70 38.5
+EOT [Failure] 30 61.5
+Statistical analyses
+No statistical analyses for this end point
+Se 
+
+******************************
+
+ condary: Crude success rate of mycological response to treatment evaluated by
+the Data Review Committee (DRC) at Day 42, 84 and EOT (mITT)
+End point title Crude success rate of mycological response to treatment
+evaluated by the Data Review Committee (DRC) at Day 42, 84
+and EOT (mITT)
+End point description:
+The DRC evaluated mycological response to treatment for patients at day 42, day 84 and EOT. The list
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 20  of 48
+of possible mycological responses to treatment is as follows, Success [Eradication and Presumed
+eradication], Failure [Persistence, Presumed persistence and Not done or missing] and Not applicable
+[No mycological evidence available at baseline]. Each type of mycological response to treatment
+evaluated by the DRC at day 42, day 84 and EOT was summarized.
+End point type Secondary
+End point timeframe:
+Day 42, Day 84 and End of Treatment (EOT).
+mITT- mITT- mITT-
+mITT-
+Aspergillus Aspergillus Mucorales
+End point values Mucorales
+[Renally [Not Renally [Primary
+[Refractory]
+Impaired] Impaired] Therapy]
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 20 4 21 11
+Units: percent
+number (not applicable)
+Day 42 [Success] 30 50 4.8 0
+Day 42 [Failure] 70 50 95.2 100
+Day 84 [Success] 35 25 9.5 27.3
+Day 84 [Failure] 65 75 90.5 72.7
+EOT [Success] 35 66.7 31.6 36.4
+EOT [Failure] 65 33.3 68.4 63.6
+mITT - mITT- Other mITT-
+mITT- Mould
+End point values Mucorales Filamentous Dimorphic
+Species
+[Intolerant] Fungi Fungi
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 5 17 7 29
+Units: percent
+number (not applicable)
+Day 42 [Success] 0 29.4 28.6 27.6
+Day 42 [Failure] 100 70.6 71.4 72.4
+Day 84 [Success] 40 35.3 28.6 27.6
+Day 84 [Failure] 60 64.7 71.4 72.4
+EOT [Success] 40 70.6 28.6 53.6
+EOT [Failure] 60 29.4 71.4 46.4
+mITT- Non mITT-Mixed
+End point values
+Candida Yeast Infections
+Subject group type Subject analysis setSubject analysis set
+Number of subjects analysed 11 15
+Units: percent
+number (not applicable)
+Day 42 [Success] 45.5 13.3
+Day 42 [Failure] 54.5 86.7
+Day 84 [Success] 45.5 13.3
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 21  of 48
+Day 84 [Failure] 54.5 86.7
+EOT [Success] 81.8 14.3
+EOT [Failure] 18.2 85.7
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Crude success rate of radiological response to treatment evaluated by
+the Data Review Committee (DRC) at Day 42, 84 and EOT (mITT)
+End point title Crude success rate of radiological response to treatment
+evaluated by the Data Review Committee (DRC) at Day 42, 84
+and EOT (mITT)
+End point description:
+Radiological responses to treatment as assessed by the DRC at different time points are as follows, Day
+42-Success [Improvement of at least 25% from baseline for invasive aspergillosis and other filamentous
+mold infections],Failure [No postbaseline radiology available]; Day 84-Success [Improvement of at least
+50% from baseline for invasive aspergillosis and other filamentous mold infections], Failure [No
+postbaseline radiology available for patient with baseline evidence of radiologic disease]; EOT-Success
+[Improvement of at least 25% from baseline if EOT occurs prior to day 42 and at least 50%
+improvement from baseline if EOT occurs after day 42 for invasive aspergillosis and other filamentous
+mold infections], Failure [No postbasline radiology available].
+End point type Secondary
+End point timeframe:
+Day 42, Day 84 and EOT
+mITT- mITT- mITT-
+mITT-
+Aspergillus Aspergillus Mucorales
+End point values Mucorales
+[Renally [Not Renally [Primary
+[Refractory]
+Impaired] Impaired] Therapy]
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 20 4 21 11
+Units: percent
+number (not applicable)
+Day 42 [Success] 30 25 0 10
+Day 42 [Failure] 70 75 100 90
+Day 84 [Success] 20 25 4.8 20
+Day 84 [Failure] 80 75  
+
+******************************
+
+ 95.2 80
+EOT [Success] 15 66.7 16.7 20
+EOT [Failure] 85 33.3 83.3 80
+mITT - mITT- Other mITT-
+mITT- Mould
+End point values Mucorales Filamentous Dimorphic
+Species
+[Intolerant] Fungi Fungi
+Subject group type Subject analysis setSubject analysis setSubject analysis setSubject analysis set
+Number of subjects analysed 5 17 7 29
+Units: percent
+number (not applicable)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 22  of 48
+Day 42 [Success] 0 25 16.7 21.4
+Day 42 [Failure] 100 75 83.3 78.6
+Day 84 [Success] 20 6.3 0 28.6
+Day 84 [Failure] 80 93.8 100 71.4
+EOT [Success] 20 50 0 33.3
+EOT [Failure] 80 50 100 66.7
+mITT- Non mITT-Mixed
+End point values
+Candida Yeast Infections
+Subject group type Subject analysis setSubject analysis set
+Number of subjects analysed 11 15
+Units: percent
+number (not applicable)
+Day 42 [Success] 0 7.1
+Day 42 [Failure] 100 92.9
+Day 84 [Success] 10 14.3
+Day 84 [Failure] 90 85.7
+EOT [Success] 10 7.7
+EOT [Failure] 90 92.3
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 23  of 48
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+Patients were assessed for the occurrence of AEs on an ongoing basis during the course of the study and
+up to follow-up visit 1 (28 days after the last administration of study drug).
+Adverse event reporting additional description:
+All adverse events analysis was completed on Safety Analysis Set (SAF) population. Adverse events
+reported are Treatment Emergent Adverse Events (TEAEs). A treatment- emergent adverse event is any
+adverse event that starts after the first administration of study medication until 28 days after the last
+dose of study medication.
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 12.1
+Reporting groups
+Reporting group title Not Renally Impaired
+Reporting group description: -
+Reporting group title Renally Impaired
+Reporting group description: -
+Not Renally
+Serious adverse events Renally Impaired
+Impaired
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 46 / 87 (52.87%) 43 / 59 (72.88%)
+number of deaths (all causes) 23 24
+number of deaths resulting from
+0 0
+adverse events
+Vascular disorders
+Arteritis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Deep vein thrombosis
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypotension
+subjects affected / exposed 0 / 87 (0.00%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Neoplasms benign, malignant and
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 24  of 48
+unspecified (incl cysts and polyps)
+Acute lymphocytic leukaemia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Acute myeloid leukaemia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Acute myeloid leukaemia recurrent
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Chronic lymphocytic leukaemia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Leukaemia recurrent
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Malignant neoplasm progression
+sub 
+
+******************************
+
+ jects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 0
+Immune system disorders
+Acute graft versus host disease
+subjects affected / exposed 0 / 87 (0.00%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 0 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Graft versus host disease
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 2 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 25  of 48
+Lung transplant rejection
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Death
+subjects affected / exposed 2 / 87 (2.30%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 1
+General physical health deterioration
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Multi-organ failure
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Non-cardiac chest pain
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Oedema peripheral
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pyrexia
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Psychiatric disorders
+Abnormal behaviour
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 26  of 48
+Aggression
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Agitation
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Confusional state
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hallucination
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Reproductive system and breast
+disorders
+Benign prostatic hyperplasia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac disorders
+Acute myocardial infarction
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Atrial fibrillation
+subjects affected / exposed 0 / 87 (0.00%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Atrioventricular block complete
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 
+
+******************************
+
+  22 April 2017 Page 27  of 48
+Cardiac failure acute
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Cardio-respiratory arrest
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 1
+Electromechanical dissociation
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Acute respiratory distress syndrome
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Acute respiratory failure
+subjects affected / exposed 3 / 87 (3.45%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 3 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Dyspnoea
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Haemoptysis
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Hypercapnia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 28  of 48
+Hypoxia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pleural effusion
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia aspiration
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 1 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pulmonary alveolar haemorrhage
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pulmonary embolism
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pulmonary infarction
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pulmonary oedema
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Respiratory failure
+subjects affected / exposed 1 / 87 (1.15%) 4 / 59 (6.78%)
+occurrences causally related to 0 / 1 0 / 4
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Sinus disorder
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 29  of 48
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Tachypnoea
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Wheezing
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Blood and lymphatic system disorders
+Anaemia
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+d 
+
+******************************
+
+ eaths causally related to
+treatment / all 0 / 0 0 / 0
+Febrile neutropenia
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pancytopenia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nervous system disorders
+Aphasia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cerebral infarction
+subjects affected / exposed 1 / 87 (1.15%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 1 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 1
+Cerebrovascular accident
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 30  of 48
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Convulsion
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Haemorrhagic transformation stroke
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Headache
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hemiparesis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Transient ischaemic attack
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Eye disorders
+Retinal artery occlusion
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Retinal haemorrhage
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Vitreous haemorrhage
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 1 / 1
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 31  of 48
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastrointestinal disorders
+Abdominal pain
+subjects affected / exposed 3 / 87 (3.45%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 4 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Colitis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Colitis ulcerative
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Constipation
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diarrhoea
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Dysphagia
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastrointestinal haemorrhage
+subjects affected / exposed 0 / 87 (0.00%) 3 / 59 (5.08%)
+occurrences causally related to 0 / 0 0 / 3
+treatment / all
+deaths causally r 
+
+******************************
+
+ elated to
+treatment / all 0 / 0 0 / 0
+Localised intraabdominal fluid
+collection
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 32  of 48
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nausea
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Oesophagitis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pancreatitis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pancreatitis chronic
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pancreatitis relapsing
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Vomiting
+subjects affected / exposed 4 / 87 (4.60%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 4 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal and urinary disorders
+Renal failure
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal failure acute
+subjects affected / exposed 1 / 87 (1.15%) 4 / 59 (6.78%)
+occurrences causally related to 0 / 1 1 / 4
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 33  of 48
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Hepatobiliary disorders
+Acute hepatic failure
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cholangiolitis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cholecystitis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cholelithiasis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Liver disorder
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Arthritis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Musculoskeletal chest pain
+subjects affected / exposed 0 / 87 (0.00%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 0 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pain in extremity
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 34  of 48
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Systemic lupus erythematosus
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Metabolism and nutrition disorders
+Dehydration
+subjects affected / exposed 1 / 87 (1.15%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 1 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 
+
+******************************
+
+  0 0 / 0
+Hyperkalaemia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypoglycaemia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hyponatraemia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Malnutrition
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Infections and infestations
+Abdominal abscess
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Appendicitis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 35  of 48
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Aspergillosis
+subjects affected / exposed 2 / 87 (2.30%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+BK virus infection
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bacteraemia
+subjects affected / exposed 0 / 87 (0.00%) 3 / 59 (5.08%)
+occurrences causally related to 0 / 0 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bacterial sepsis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Bronchiectasis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bronchiolitis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Catheter site infection
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clostridium difficile colitis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 36  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus enteritis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cytomegalovirus infection
+subjects affected / exposed 1 / 87 (1.15%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Empyema
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Enterococcal bacteraemia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Escherichia bacteraemia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Escherichia sepsis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Fungal infection
+subjects affected / 
+
+******************************
+
+  exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Fungal sepsis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 37  of 48
+Gastroenteritis norovirus
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastroenteritis viral
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Herpes zoster
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 3 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Influenza
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Lung infection
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Lung infection pseudomonal
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Mucormycosis
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 1 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Pneumocystis jirovecii pneumonia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia
+subjects affected / exposed 6 / 87 (6.90%) 1 / 59 (1.69%)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 38  of 48
+occurrences causally related to 0 / 8 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 0
+Pneumonia bacterial
+subjects affected / exposed 2 / 87 (2.30%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia blastomyces
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Pneumonia fungal
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 0
+Pneumonia influenzal
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia primary atypical
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Pseudomonal sepsis
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Pseudomonas bronchitis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Sepsis
+subjects affected / exposed 1 / 87 (1.15%) 2 / 59 (3.39%)
+occurrences causally related to 0 / 1 0 / 2
+treatment / all
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 39  of 48
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Septic shock
+subjects affected / exposed 0 / 87 (0.00%) 6 / 59 (10.17%)
+occurrences causally related to 0 / 0 1 / 6
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 1 
+
+******************************
+
+  / 4
+Sinusitis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Sinusitis fungal
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Staphylococcal bacteraemia
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Staphylococcal infection
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Staphylococcal sepsis
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Streptococcal bacteraemia
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Subcutaneous abscess
+subjects affected / exposed 1 / 87 (1.15%) 0 / 59 (0.00%)
+occurrences causally related to 2 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 40  of 48
+Brain abscess
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary tract infection
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urosepsis
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Viral diarrhoea
+subjects affected / exposed 0 / 87 (0.00%) 1 / 59 (1.69%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Zygomycosis
+subjects affected / exposed 2 / 87 (2.30%) 0 / 59 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Not Renally
+Non-serious adverse events Renally Impaired
+Impaired
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 68 / 87 (78.16%) 54 / 59 (91.53%)
+Vascular disorders
+Hypertension
+subjects affected / exposed 5 / 87 (5.75%) 3 / 59 (5.08%)
+occurrences (all) 5 3
+Hypotension
+subjects affected / exposed 5 / 87 (5.75%) 5 / 59 (8.47%)
+occurrences (all) 5 5
+General disorders and administration
+site conditions
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 41  of 48
+Asthenia
+subjects affected / exposed 7 / 87 (8.05%) 1 / 59 (1.69%)
+occurrences (all) 8 1
+Chills
+subjects affected / exposed 3 / 87 (3.45%) 5 / 59 (8.47%)
+occurrences (all) 3 8
+Fatigue
+subjects affected / exposed 2 / 87 (2.30%) 4 / 59 (6.78%)
+occurrences (all) 2 5
+Oedema peripheral
+subjects affected / exposed 8 / 87 (9.20%) 8 / 59 (13.56%)
+occurrences (all) 8 11
+Pain
+subjects affected / exposed 2 / 87 (2.30%) 3 / 59 (5.08%)
+occurrences (all) 3 4
+Pyrexia
+subjects affected / exposed 15 / 87 (17.24%) 9 / 59 (15.25%)
+occurrences (all) 27 14
+Psychiatric disorders
+Confusional state
+subjects affected / exposed 2 / 87 (2.30%) 7 / 59 (11.86%)
+occurrences (all) 2 9
+Insomnia
+subjects affected / exposed 8 / 87 (9.20%) 5 / 59 (8.47%)
+occurrences (all) 9 8
+Investigations
+Gamma-glutamyltransferase
+increased
+subjects affected / exposed 6 / 87 (6.90%) 4 / 59 (6.78%)
+occurrences (all) 6 4
+Blood alkaline phosphatase increased
+subjects affected / exposed 2 / 87 (2.30%) 3 / 59 (5.08%)
+occurrences (all) 2 4
+Cardiac disorders
+Atrial fibrillation
+subjects affected / exposed 1 / 87 (1.15%) 4  
+
+******************************
+
+ / 59 (6.78%)
+occurrences (all) 2 4
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 42  of 48
+Sinus tachycardia
+subjects affected / exposed 2 / 87 (2.30%) 3 / 59 (5.08%)
+occurrences (all) 2 3
+Tachycardia
+subjects affected / exposed 4 / 87 (4.60%) 4 / 59 (6.78%)
+occurrences (all) 5 4
+Blood and lymphatic system disorders
+Febrile neutropenia
+subjects affected / exposed 2 / 87 (2.30%) 4 / 59 (6.78%)
+occurrences (all) 2 4
+Neutropenia
+subjects affected / exposed 2 / 87 (2.30%) 6 / 59 (10.17%)
+occurrences (all) 2 6
+Respiratory, thoracic and mediastinal
+disorders
+Cough
+subjects affected / exposed 12 / 87 (13.79%) 3 / 59 (5.08%)
+occurrences (all) 14 3
+Epistaxis
+subjects affected / exposed 5 / 87 (5.75%) 2 / 59 (3.39%)
+occurrences (all) 6 2
+Dyspnoea
+subjects affected / exposed 7 / 87 (8.05%) 6 / 59 (10.17%)
+occurrences (all) 7 6
+Haemoptysis
+subjects affected / exposed 1 / 87 (1.15%) 3 / 59 (5.08%)
+occurrences (all) 1 3
+Oropharyngeal pain
+subjects affected / exposed 2 / 87 (2.30%) 4 / 59 (6.78%)
+occurrences (all) 3 4
+Nervous system disorders
+Dizziness
+subjects affected / exposed 5 / 87 (5.75%) 3 / 59 (5.08%)
+occurrences (all) 5 3
+Headache
+subjects affected / exposed 14 / 87 (16.09%) 11 / 59 (18.64%)
+occurrences (all) 19 13
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 43  of 48
+Gastrointestinal disorders
+Abdominal pain
+subjects affected / exposed 4 / 87 (4.60%) 7 / 59 (11.86%)
+occurrences (all) 4 8
+Abdominal pain upper
+subjects affected / exposed 5 / 87 (5.75%) 1 / 59 (1.69%)
+occurrences (all) 5 2
+Diarrhoea
+subjects affected / exposed 10 / 87 (11.49%) 16 / 59 (27.12%)
+occurrences (all) 11 22
+Constipation
+subjects affected / exposed 10 / 87 (11.49%) 5 / 59 (8.47%)
+occurrences (all) 11 5
+Haematochezia
+subjects affected / exposed 1 / 87 (1.15%) 3 / 59 (5.08%)
+occurrences (all) 1 3
+Nausea
+subjects affected / exposed 14 / 87 (16.09%) 19 / 59 (32.20%)
+occurrences (all) 19 23
+Stomatitis
+subjects affected / exposed 0 / 87 (0.00%) 3 / 59 (5.08%)
+occurrences (all) 0 3
+Vomiting
+subjects affected / exposed 17 / 87 (19.54%) 16 / 59 (27.12%)
+occurrences (all) 26 24
+Renal and urinary disorders
+Renal impairment
+subjects affected / exposed 1 / 87 (1.15%) 3 / 59 (5.08%)
+occurrences (all) 1 3
+Oliguria
+subjects affected / exposed 0 / 87 (0.00%) 3 / 59 (5.08%)
+occurrences (all) 0 3
+Skin and subcutaneous tissue disorders
+Pruritus
+subjects affected / exposed 7 / 87 (8.05%) 2 / 59 (3.39%)
+occurrences (all) 7 2
+Musculoskeletal and connective tissue
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 44  of 48
+disorders
+Musculoskeletal chest pain
+subjects affected / exposed 5 / 87 (5.75%) 3 / 59 (5.08%)
+occurrences (all) 5 4
+Back pain
+subjects affected / exposed 8 / 87 (9.20%) 6 / 59 (10.17%)
+occurrences (all) 8 6
+Myalgia
+subjects affected / exposed 2 / 87 (2.30%) 3 / 59 (5.08%)
+occurrences (all) 2 4
+Pain in extremity
+subjects affected / exposed 3 / 87 (3.45%) 4 / 59 (6.78%)
+occurrences (all) 4 4
+Metabolism and nutrition disorders
+Decreased appetite
+subjects affected / exposed 6 / 87 (6.90%) 4 / 59 (6.78%)
+occurrences (all) 7 4
+Hyperglycaemia
+subjects affected / exposed 4 / 87 (4.60%) 3 / 59 (5.08%)
+occurrences (all) 6 3
+Hyperkalaemia
+subjects affected / exposed 4 / 87 (4.60%) 7 / 59 (11.86%)
+occurrences (all) 5 8
+Hypernatraemia
+subjects affected / exposed 1 / 87 (1.15%) 3 / 59 (5.08%)
+occurrences (all) 1 3
+Hypokalaemia
+subjects affected / exposed 6 / 87 (6.90%) 6 / 59 (10.17%)
+occurrences (all) 8 6
+Hypocalcaemia
+subjects affected / exposed 3 / 87 (3.45%) 3 / 59 (5.08%)
+occurrences (all) 3 3
+Hypophosphataemia
+subjects affected / exposed 0 / 87 (0.00%) 3 / 59 (5.08%)
+occurrences (all) 0 3
+Hypomagnesaemia
+subjects affected / exposed 7 / 87 (8.05%) 2 / 59 (3.39%)
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 45  of 48
+occurrences (all) 7 2
+Infections and infestations
+Clostridial infection
+subjects affected / exposed 0 / 87 (0.00%) 3 / 59 (5.08%)
+occurrences (all) 0 3
+Clostridium difficile 
+
+******************************
+
+  colitis
+subjects affected / exposed 1 / 87 (1.15%) 3 / 59 (5.08%)
+occurrences (all) 1 4
+Herpes zoster
+subjects affected / exposed 5 / 87 (5.75%) 1 / 59 (1.69%)
+occurrences (all) 7 1
+Upper respiratory tract infection
+subjects affected / exposed 6 / 87 (6.90%) 5 / 59 (8.47%)
+occurrences (all) 7 6
+Urinary tract infection
+subjects affected / exposed 2 / 87 (2.30%) 7 / 59 (11.86%)
+occurrences (all) 2 7
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 46  of 48
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+16 October 2007 Amendment 1 issued on October 16, 2007, clarified the type of participants to be
+enrolled, including changes requested by Regulatory Authorities. Clarifications
+were made to the duration of study drug, clinical and mycological responses, and
+to the timing of evaluations for secondary efficacy variables including the addition
+that survival status should be assessed for all participants, including those
+discontinued prior to day 42 or day 84 due to an unsuccessful outcome. The
+ceiling for total bilirubin, aspartate transaminase (AST) and alanine transaminase
+(ALT) abnormalities were decreased per regulatory advice. The estimated number
+of centers that participated in the study was adjusted from 200 to 150.
+27 May 2010 Amendment 2 issued on May 27, 2010, identified the change in the study
+sponsorship from Basilea to Astellas. The project physician, biostatistician and
+clinical pharmacologist were also changed. Isavuconazole dosing and the fasting
+requirement for oral isavuconazole administration were amended. The prohibited
+concomitant drugs were updated. The European Organization for the Research and
+Treatment of Cancer/Mycoses Study Group (EORTC/MSG) definitions of IFD were
+changed from 2002 to the revised 2008 criteria.
+17 November 2010 Amendment 3 issued on November 17, 2010, amended maximum duration of
+therapy from 84 days up to 180 days and the timing of the first study drug
+maintenance dose was also amended. The primary and secondary analysis and
+efficacy variables were amended to specify that outcome criteria were assessed by
+the DRC and Investigator and to add additional time points for analysis. The
+exploratory analysis variables were amended to specify pharmacokinetic analysis
+and the addition of analysis of serum galactomannan (GM) as a biomarker for
+treatment of invasive aspergillosis. The inclusion and exclusion criteria were also
+amended and clarified. The criterion for withdrawing participants with possible IFD
+was removed, and prohibited and cautionary drugs and drug-drug interactions
+(DDIs) were updated. Various study procedures in the Schedule of Assessments
+were amended, clarified and added. Bronchoalveolar lavage (BAL) galactomannan
+(GM) was clarified as mycological criteria for enrollment of participants with
+invasive aspergillosis. The Protocol was amended to classify these participants as
+possible versus probable cases of IFD. Additional follow-up criteria for enrollment
+of these participants were also added. The CLCr calculation was amended to
+standardize reporting; ideal rather than actual BW was used in the calculation.
+The laboratory tests albumin, p-amylase and lipase were also added, and an
+improvement of < 25% was included in radiological response criteria.
+11 June 2012 Amendment 5 issued on June 11, 2012, amended and clarified the efficacy
+variables and analysis sets and modified the entry criteria. Entry criteria changes
+included allowance of enrollment of participants on dialysis and of participants
+with proven or probable invasive mucormycosis who required primary therapy,
+and exclusion of participants who were enrolled in previous isavuconazole trials.
+Sirolimus and tyrosine kinase inhibitors were added as medications to use with
+caution, and clarification was added that statins could be discontinued at time of
+first dose. Various study procedures were amended, clarified and added to the
+Schedule of Assessments. The laboratory tests hemato 
+
+******************************
+
+ crit and blood, urea and
+nitrogen test (BUN) were added.
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 47  of 48
+06 February 2013 Amendment 6.1 issued on February 06, 2013, added inclusion criterion 7, stating
+that participants were not to participate in any other clinical trial within 30 days
+prior to first administration of study drug. Exclusion criterion 12 was revised to
+remove the exception that allowed concurrent participation in open-label
+protocols; limited the enrollment to participants that had proven or probable IFD
+caused by rare molds, yeasts or dimorphic fungi and participants who had proven
+or probable invasive zycomycosis who required primary treatment; relabeled
+inclusion criterion 5 as inclusion criterion 6; and clarified that no waivers to
+inclusion or exclusion criteria were permitted. The total sample size was increased
+from 100 participants to 150 participants to allow enrollment of specified subsets
+of participants requiring primary therapy. As the sample size was increased and
+the inclusion of participants with specific infections was limited, the sections of the
+Protocol that were no longer relevant to participants to be enrolled under this
+amendment were identified, and exclusion criterion 15 was removed to allow the
+inclusion of participants with invasive aspergillosis. A section entitled End of Trial
+in All Participating Countries was added to the Protocol, to define the end of trial
+for this Protocol and allow for consistency throughout participating countries. The
+Protocol was also updated to indicate that preliminary data suggested
+isavuconazole may shorten the QT interval.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  Yes
+Date Interruption Restart date
+01 January 2009 Enrollment in the clinical study was suspended in January 01 April 2011
+2009 pending further characterization of newly identified
+impurities.  After successful completion of the studies,
+regulatory notifications, and transfer of Sponsorship from
+Basilea to Astellas, resumption of enrollment occurred in
+April 2011 for the 9766-CL-0103/WSA-CS-003 study
+(hereafter referred to as 9766-CL-0103).
+Notes:
+Limitations and caveats
+Limitations of the trial such as small numbers of subjects analysed or technical problems leading to
+unreliable data.
+Primary limitation is the non-comparative design. Conduct of a large randomized controlled study in
+these rare diseases was not considered feasible. The results provide evidence that CRESEMBA is
+effective for the treatment for mucormycosis.
+Notes:
+Clinical trial results 2006-005003-33 version 3 EU-CTR publication date: 22 April 2017 Page 48  of 48
+ 
+
+******************************
+

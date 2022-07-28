@@ -1,0 +1,2453 @@
+ EU Clinical Trials Register
+Clinical trial results:
+BI 655066 [risankizumab] versus placebo in a multicenter
+randomized double-blind study in participants with moderate to
+severe chronic plaque psoriasis evaluating the efficacy and safety
+with randomized withdrawal and re-treatment.
+Summary
+EudraCT number 2014-005102-38
+Trial protocol DE BE CZ
+Global end of trial date 26 July 2018
+Results information
+Result version number v2 (current)
+This version publication date 11 November 2019
+First version publication date 01 August 2019
+Version creation reason
+Trial information
+Trial identification
+Sponsor protocol code 1311.4
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT02672852
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name Boehringer Ingelheim
+Sponsor organisation address Binger Strasse 173, Ingelheim am Rhein, Germany, Ingelheim
+am Rhein
+Public contact QRPE Processes and Systems Coordination, Clinical Trial
+Information Disclosure, Boehringer Ingelheim, +1
+8002430127, clintriage.rdg@boehringer-ingelheim.com
+Scientific contact QRPE Processes and Systems Coordination, Clinical Trial
+Information Disclosure, Boehringer Ingelheim, +1
+8002430127, clintriage.rdg@boehringer-ingelheim.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 1  of 51
+Results analysis stage
+Analysis stage Final
+Date of interim/final analysis 26 July 2018
+Is this the analysis of the primary Yes
+completion data?
+Primary completion date 02 August 2017
+Global end of trial reached? Yes
+Global end of trial date 26 July 2018
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+The main objectives of this study were to assess the efficacy and safety of risankizumab compared with
+placebo in participants with moderate to severe chronic plaque psoriasis, the maintenance of response
+following drug withdrawal after Week 28 through Week 104, and the response after re-treatment in
+participants who experienced relapse after drug withdrawal and were re-treated with risankizumab.
+In addition, this study was designed to assess the pharmacokinetics (PK) of risankizumab, emergence of
+anti-drug antibodies, and the effect of anti-drug antibodies on efficacy and safety.
+Protection of trial subjects:
+Only participants that met all the study inclusion and none of the exclusion criteria were to be entered in
+the study. All participants were free to withdraw from the clinical trial at any time for any reason given.
+Close monitoring of all participants was adhered to throughout the trial conduct. Rescue medication was
+allowed for all participants as required.
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 29 February 2016
+Long term follow-up planned No
+Independent data monitoring committee Yes
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled United States: 288
+Country: Number of subjects enrolled Australia: 32
+Country: Number of subjects enrolled Belgium: 1
+Country: Number of subjects enrolled Canada: 117
+Country: Number of subjects enrolled Czech Republic: 15
+Country: Number of subjects enrolled France: 12
+Country: Number of subjects enrolled Germany: 27
+Country: Number of subjects enrolled Japan: 15
+Country: Number of subjects enrolled Korea, Republic of: 56
+Worldwide total number of subjects 563
+EEA total number of subjects 55
+Notes:
+Subjects enrolled per age group
+In utero 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 2  of 51
+Preterm newborn - gestational age < 37 0
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 493
+ 
+
+******************************
+
+ From 65 to 84 years 70
+85 years and over 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 3  of 51
+Subject disposition
+Recruitment
+Recruitment details: -
+Pre-assignment
+Screening details:
+Part A1: double-blind (DB) risankizumab or placebo (Weeks 0,4). Part A2 (Week 16) DB placebo to DB
+risankizumab; risankizumab continued risankizumab. Part B (Week 28) risankizumab responders
+rerandomized to DB risankizumab/placebo; risankizumab nonresponders continued risankizumab. Week
+32: rerandomized relapsed switch risankizumab.
+Period 1
+Period 1 title Part A1
+Is this the baseline period? Yes
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator, Monitor, Carer, Data analyst, Assessor
+Blinding implementation details:
+This was double-blind part of the study.
+Arms
+Are arms mutually exclusive? Yes
+Arm title Placebo (Part A1)
+Arm description:
+Participants randomized at Baseline to receive double-blind (DB) placebo by subcutaneous injection at
+Weeks 0 and 4 (Part A1).
+Arm type Placebo
+Investigational medicinal product name Placebo
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants randomized at Baseline to receive double-blind (DB) placebo by subcutaneous injection at
+Weeks 0 and 4 (Part A1).
+Arm title Risankizumab (Part A1)
+Arm description:
+Participants randomized at Baseline to receive double-blind (DB) risankizumab 150 mg by subcutaneous
+injection at Weeks 0 and 4 (Part A1).
+Arm type Experimental
+Investigational medicinal product name Rrisankizumab
+Investigational medicinal product code
+Other name BI 655066
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants randomized at Baseline to receive double-blind (DB) risankizumab 150 mg by subcutaneous
+injection at Weeks 0 and 4 (Part A1).
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 4  of 51
+Number of subjects in period Placebo (Part A1) Risankizumab (Part
+A1)
+1[1]
+Started 100 407
+Completed 97 403
+Not completed 3 4
+Disease worsening 1  -
+Adverse event, non-fatal  - 1
+Consent withdrawn by subject 1 1
+Lost to follow-up 1 2
+Notes:
+[1] - The number of subjects reported to be in the baseline period are not the same as the worldwide
+number enrolled in the trial. It is expected that these numbers will be the same.
+Justification: Baseline characteristics are based on patients who were randomised after successfully
+completing the screening period and received at least one dose of the trial medication.
+Period 2
+Period 2 title Part A2
+Is this the baseline period? No
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator, Monitor, Carer, Data analyst, Assessor
+Blinding implementation details:
+This was double-blind part of the study.
+Arms
+Are arms mutually exclusive? Yes
+Arm title Placebo/Risankizumab Part A2/Part B
+Arm description:
+Participants randomized at Baseline to receive double-blind (DB) placebo then received DB risankizumab
+150 mg by subcutaneous injection at Weeks 16 (Part A2) and at Week 28 and every 12 weeks up to 88
+weeks (Part B).
+Arm type Placebo
+Investigational medicinal product name Risankizumab
+Investigational medicinal product code
+Other name BI 655066
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants randomized at Baseline to receive double-blind (DB) placebo then received DB risankizumab
+150 mg by subcutaneous injection at Weeks 16 (Part A2) and at Week 28 and every 12 weeks up to 88
+weeks (Part B).
+Arm title Risankizumab/Risankizumab Part A2
+Arm description:
+Participants randomized at Baseline to receive double-blind (DB) risankizumab then received DB
+risankizumab 150 mg by subcutaneous injection at Weeks 16 (Part A2).
+Arm type Experimental
+Investigational medicinal product name Risankizumab
+I 
+
+******************************
+
+ nvestigational medicinal product code
+Other name BI 655066
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 5  of 51
+Participants randomized at Baseline to receive double-blind (DB) risankizumab then received DB
+risankizumab 150 mg by subcutaneous injection at Weeks 16 (Part A2).
+Number of subjects in period Placebo/Risankizum Risankizumab/Risan
+ab Part A2/Part B kizumab Part A2
+2[2]
+Started 93 403
+Completed 83 399
+Not completed 10 4
+Disease worsening 1  -
+Not specified 3  -
+Adverse event, non-fatal 3  -
+Consent withdrawn by subject 1  -
+Not entered in Part B  - 4
+Lost to follow-up 2  -
+Notes:
+[2] - The number of subjects starting the period is not consistent with the number completing the
+preceding period. It is expected the number of subjects starting the subsequent period will be the same
+as the number completing the preceding period.
+Justification: Baseline characteristics are based on patients who were randomised after successfully
+completing the screening period and received at least one dose of the trial medication.
+Period 3
+Period 3 title Part B
+Is this the baseline period? No
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator, Monitor, Carer, Data analyst, Assessor
+Blinding implementation details:
+This was double-blind part of the study.
+Arms
+Are arms mutually exclusive? Yes
+Arm title Risankizumab/Placebo (Part B; Rerandomized Responders)
+Arm description:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive placebo by subcutaneous injection at Week 28 and every 12 weeks up to Week
+88 (Part B).
+Arm type Experimental
+Investigational medicinal product name Placebo
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 6  of 51
+Dosage and administration details:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive placebo by subcutaneous injection at Week 28 and every 12 weeks up to Week
+88 (Part B).
+Arm title Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Arm description:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive risankizumab 150 mg by subcutaneous injection at Week 28 and every 12
+weeks up to Week 88 (Part B).
+Arm type Experimental
+Investigational medicinal product name Risankizumab
+Investigational medicinal product code
+Other name BI 655066
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive risankizumab 150 mg by subcutaneous injection at Week 28 and every 12
+weeks up to Week 88 (Part B).
+Arm title Risankizumab/Risankizumab Part B (Nonresponders)
+Arm description:
+Participants who received risankizumab in Part A and were nonresponders (sPGA ≥2) at Week 28
+received risankizumab 150 mg by subcutaneous injection at Week 28 and every 12 weeks up to Week
+88 (Part B).
+Arm type Experimental
+Investigational medicinal product name Risankizumab
+Investigational medicinal product code
+Other name BI 655066
+Pharmaceutical forms Solution for injection
+Routes of administration Subcutaneous use
+Dosage and administration details:
+Participants who received risankizumab in Part A and were nonresponders (sPGA ≥2) at Week 28
+received risankizumab 150 mg by subcutaneous injection at Week 28 and every 12 weeks up
+to Week 88 (Part B).
+Number of subjects in period Risankizumab/Place Risankizumab/Risan Risankizumab/Risan
+bo (Part B; kizumab (Part B; kizumab Part B
+3[3]
+Rerandomized Rerandomized (Nonresponders)
+Responders) Responders 
+
+******************************
+
+ )
+Started 225 111 63
+Completed 209 100 51
+Not completed 16 11 12
+Disease worsening 1  - 1
+Worsening pre-existing condition  - 1  -
+Not specified 4 1 2
+Other adverse event 3 5 1
+Consent withdrawn by subject 5  - 7
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 7  of 51
+Lost to follow-up 3 4 1
+Notes:
+[3] - The number of subjects starting the period is not consistent with the number completing the
+preceding period. It is expected the number of subjects starting the subsequent period will be the same
+as the number completing the preceding period.
+Justification: Baseline characteristics are based on patients who were randomised after successfully
+completing the screening period and received at least one dose of the trial medication.
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 8  of 51
+Baseline characteristics
+Reporting groups
+Reporting group title Placebo (Part A1)
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) placebo by subcutaneous injection at
+Weeks 0 and 4 (Part A1).
+Reporting group title Risankizumab (Part A1)
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) risankizumab 150 mg by subcutaneous
+injection at Weeks 0 and 4 (Part A1).
+Reporting group values Placebo (Part A1) Risankizumab (Part Total
+A1)
+Number of subjects 100 407 507
+Age categorical
+Units: Subjects
+Age Continuous
+Intent to Treat (ITT) Population in Part A1 (ITT_A1): All participants who were randomized at Baseline
+Units: years
+arithmetic mean 47.9 49.6
+standard deviation ± 13.78 ± 13.17 -
+Sex: Female, Male
+ITT_A1
+Units: Subjects
+Female 27 124 151
+Male 73 283 356
+Ethnicity (NIH/OMB)
+ITT_A1
+Units: Subjects
+Hispanic or Latino 11 45 56
+Not Hispanic or Latino 89 362 451
+Unknown or Not Reported 0 0 0
+Race (NIH/OMB)
+ITT_A1
+Units: Subjects
+American Indian or Alaska Native 0 0 0
+Asian 15 64 79
+Native Hawaiian or Other Pacific 1 3 4
+Islander
+Black or African American 2 18 20
+White 82 320 402
+More than one race 0 2 2
+Unknown or Not Reported 0 0 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 9  of 51
+End points
+End points reporting groups
+Reporting group title Placebo (Part A1)
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) placebo by subcutaneous injection at
+Weeks 0 and 4 (Part A1).
+Reporting group title Risankizumab (Part A1)
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) risankizumab 150 mg by subcutaneous
+injection at Weeks 0 and 4 (Part A1).
+Reporting group title Placebo/Risankizumab Part A2/Part B
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) placebo then received DB risankizumab
+150 mg by subcutaneous injection at Weeks 16 (Part A2) and at Week 28 and every 12 weeks up to 88
+weeks (Part B).
+Reporting group title Risankizumab/Risankizumab Part A2
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) risankizumab then received DB
+risankizumab 150 mg by subcutaneous injection at Weeks 16 (Part A2).
+Reporting group title Risankizumab/Placebo (Part B; Rerandomized Responders)
+Reporting group description:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive placebo by subcutaneous injection at Week 28 and every 12 weeks up to Week
+88 (Part B).
+Reporting group title Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Reporting group description:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive risankizumab 150 mg by subcutaneous injection at Week 28 and every 12
+weeks up to Week 88 (Part B).
+Reporting group title Risankizumab/Risankizumab Part B (Nonresponders)
+Reporting group description:
+Participants who received risankizumab in Part A and were nonresponders (sPGA ≥2) at Week 28
+received risankizumab 1 
+
+******************************
+
+ 50 mg by subcutaneous injection at Week 28 and every 12 weeks up to Week
+88 (Part B).
+Primary: Percentage of Participants Achieving 90% Improvement Psoriasis Area and
+Severity Index (PASI) score (PASI90) from baseline to week 16
+End point title Percentage of Participants Achieving 90% Improvement
+Psoriasis Area and Severity Index (PASI) score (PASI90) from
+baseline to week 16
+End point description:
+PASI is a composite score based on the degree of effect on body surface area of psoriasis and the
+extension of erythema (reddening), induration (thickness), desquamation (scaling) of the lesions and
+area affected as observed on the day of examination. The severity of each sign was assessed using a 5-
+point scale, where 0=no symptoms, 1=slight, 2=moderate, 3=marked, 4=very marked. The PASI score
+ranges from 0 to 72, where 0 indicates no psoriasis and 72 indicates very severe psoriasis. PASI90 is
+defined as at least a 90% reduction in PASI score compared with the Baseline PASI score. The percent
+reduction in score is calculated as (PASI score at Baseline - score at follow-up visit) / PASI score at
+Baseline * 100. Non-responder imputation (NRI) was used for missing data. Intent to treat (ITT)
+Population in Part A1(ITT_A1): all participants who were randomized at Baseline.
+End point type Primary
+End point timeframe:
+Baseline, Week 16
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 10  of 51
+Placebo (Part Risankizumab
+End point values
+A1) (Part A1)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 100[1] 407[2]
+Units: Percentage of participants
+number (not applicable) 2.0 73.2
+Notes:
+[1] - ITT_A1
+[2] - ITT_A1
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the Cochran-Mantel-Haenszel (CMH) test adjusted for strata.
+Within each stratum, P value was calculated based on the chi-square test (or Fisher's exact test if ≥25%
+of the cells had expected cell count <5).
+Comparison groups Risankizumab (Part A1) v Placebo (Part A1)
+Number of subjects included in analysis 507
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 70.8
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 65.7
+upper limit 76
+Primary: Percentage of Participants Achieving static Physician Global Assessment
+(sPGA) score of clear or almost clear at week 16
+End point title Percentage of Participants Achieving static Physician Global
+Assessment (sPGA) score of clear or almost clear at week 16
+End point description:
+The sPGA is an assessment by the investigator of the overall disease severity at the time of evaluation.
+Erythema (E), induration (I), and desquamation (D) are scored on a 5-point scale ranging from 0 (none)
+to 4 (severe). The sPGA ranges from 0 to 4, and is calculated as Clear (0) = 0 for all three; Almost clear
+(1) = mean >0, <1.5; Mild (2) = mean ≥1.5, <2.5; Moderate (3) = mean ≥2.5, <3.5; and Severe (4)
+= mean ≥3.5. NRI was used for missing data.
+End point type Primary
+End point timeframe:
+Week 16
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 11  of 51
+Placebo (Part Risankizumab
+End point values
+A1) (Part A1)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 100[3] 407[4]
+Units: Percentage of participants
+number (not applicable) 7.0 83.5
+Notes:
+[3] - ITT_A1
+[4] - ITT_A1
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Placebo (Part A1) v Risankizumab (Part A1)
+Number of subjects included in analysis 507
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel- 
+
+******************************
+
+ Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 76.5
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 70.4
+upper limit 82.5
+Primary: Percentage of Participants Achieving sPGA score of clear or almost clear at
+week 52
+End point title Percentage of Participants Achieving sPGA score of clear or
+almost clear at week 52
+End point description:
+The sPGA is an assessment by the investigator of the overall disease severity at the time of evaluation.
+Erythema (E), induration (I), and desquamation (D) are scored on a 5-point scale ranging from 0 (none)
+to 4 (severe). The sPGA ranges from 0 to 4, and is calculated as Clear (0) = 0 for all three; Almost clear
+(1) = mean >0, <1.5; Mild (2) = mean ≥1.5, <2.5; Moderate (3) = mean ≥2.5, <3.5; and Severe (4)
+= mean ≥3.5. NRI was used for missing data. ITT Population in Part B for re-randomized participants
+(ITT_B_R): All participants who were randomized to Arm 1 at Baseline and re randomized at Week 28.
+End point type Primary
+End point timeframe:
+Week 52
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 12  of 51
+Risankizumab/ Risankizumab/
+Placebo (Part Risankizumab
+End point values B; (Part B;
+Rerandomized Rerandomized
+Responders) Responders)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 225[5] 111[6]
+Units: Percentage of participants
+number (not applicable) 61.3 87.4
+Notes:
+[5] - ITT_B_R
+[6] - ITT_B_R
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Risankizumab/Placebo (Part B; Rerandomized Responders) v
+Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Number of subjects included in analysis 336
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 25.9
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 17.3
+upper limit 34.6
+Secondary: Percentage of Participants Achieving 75% Improvement in PASI score
+(PASI75) at week 16
+End point title Percentage of Participants Achieving 75% Improvement in PASI
+score (PASI75) at week 16
+End point description:
+PASI is a composite score based on the degree of effect on body surface area of psoriasis and the
+extension of erythema (reddening), induration (thickness), desquamation (scaling) of the lesions and
+area affected as observed on the day of examination. The severity of each sign was assessed using a 5-
+point scale, where 0=no symptoms, 1=slight, 2=moderate, 3=marked, 4=very marked. The PASI score
+ranges from 0 to 72, where 0 indicates no psoriasis and 72 indicates very severe psoriasis. PASI75 is
+defined as at least a 75% reduction in PASI score compared with the Baseline PASI score. The percent
+reduction in score is calculated as (PASI score at Baseline - score at follow-up visit) / PASI score at
+Baseline * 100. NRI was used for missing data.
+End point type Secondary
+End point timeframe:
+Week 16
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 13  of 51
+Placebo (Part Risankizumab
+End point values
+A1) (Part A1)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 100[7] 407[8]
+Units: Percentage of participants
+number (not applicable) 8.0 88.7
+Notes:
+[7] - ITT_A1
+[8] - ITT_A1
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Placebo (Part A1) v Risankizumab (Part A1)
+Number of subjects included in analysis 507
+Analysis specification Pre-specified
+Analy 
+
+******************************
+
+ sis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 80.6
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 74.5
+upper limit 86.6
+Secondary: Percentage of Participants Achieving 100% improvement in PASI score
+(PASI100) at week 16
+End point title Percentage of Participants Achieving 100% improvement in
+PASI score (PASI100) at week 16
+End point description:
+PASI is a composite score based on the degree of effect on body surface area of psoriasis and the
+extension of erythema (reddening), induration (thickness), desquamation (scaling) of the lesions and
+area affected as observed on the day of examination. The severity of each sign was assessed using a 5-
+point scale, where 0=no symptoms, 1=slight, 2=moderate, 3=marked, 4=very marked. The PASI score
+ranges from 0 to 72, where 0 indicates no psoriasis and 72 indicates very severe psoriasis. PASI100 is
+defined as a 100% reduction in PASI score compared with the Baseline PASI score. The percent
+reduction in score is calculated as (PASI score at Baseline - score at follow-up visit) / PASI score at
+Baseline * 100. NRI was used for missing data.
+End point type Secondary
+End point timeframe:
+Week 16
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 14  of 51
+Placebo (Part Risankizumab
+End point values
+A1) (Part A1)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 100[9] 407[10]
+Units: Percentage of participants
+number (not applicable) 1.0 47.2
+Notes:
+[9] - ITT_A1
+[10] - ITT_A1
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Placebo (Part A1) v Risankizumab (Part A1)
+Number of subjects included in analysis 507
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 45.5
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 40.3
+upper limit 50.8
+Secondary: Percentage of Participants Achieving an sPGA score of clear at Week 16
+End point title Percentage of Participants Achieving an sPGA score of clear at
+Week 16
+End point description:
+The sPGA is an assessment by the investigator of the overall disease severity at the time of evaluation.
+Erythema (E), induration (I), and desquamation (D) are scored on a 5-point scale ranging from 0 (none)
+to 4 (severe). The sPGA ranges from 0 to 4, and is calculated as Clear (0) = 0 for all three; Almost clear
+(1) = mean >0, <1.5; Mild (2) = mean ≥1.5, <2.5; Moderate (3) = mean ≥2.5, <3.5; and Severe (4)
+= mean ≥3.5. NRI was used for missing data.
+End point type Secondary
+End point timeframe:
+Week 16
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 15  of 51
+Placebo (Part Risankizumab
+End point values
+A1) (Part A1)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 100[11] 407[12]
+Units: Percentage of participants
+number (not applicable) 1.0 46.4
+Notes:
+[11] - ITT_A1
+[12] - ITT_A1
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Placebo (Part A1) v Risankizumab (Part A1)
+Number of subjects included in analysis 507
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 44.8
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 39.5
+upper limit 50
+Secondary: Percentage of Participants Achieving a Dermatology Li 
+
+******************************
+
+ fe Quality Index
+(DLQI) score of 0 or 1 at Week 16
+End point title Percentage of Participants Achieving a Dermatology Life Quality
+Index (DLQI) score of 0 or 1 at Week 16
+End point description:
+The DLQI is a 10-question questionnaire that asks the participant to evaluate the degree that psoriasis
+has affected their quality of life in the last week and includes 6 domains (symptoms and feelings, daily
+activities, leisure, work and school, personal relationships, and treatment). Responses to each domain
+are not relevant (0), not at all (0), a little (1), a lot (2), and very much (3). The DLQI is calculated by
+summing the scores of the questions and ranges from 1 to 30, where 0-1 = no effect on patient’s life, 2-
+5 = small effect, 6-10 = moderate effect, 11-20 = very large effect, and 21-30 = extremely large effect
+on patient’s life. The higher the score, the more the quality of life is impaired. NRI was used for missing
+data.
+End point type Secondary
+End point timeframe:
+Week 16
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 16  of 51
+Placebo (Part Risankizumab
+End point values
+A1) (Part A1)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 100[13] 407[14]
+Units: Percentage of participants
+number (not applicable) 3.0 65.4
+Notes:
+[13] - ITT_A1
+[14] - ITT_A1
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Placebo (Part A1) v Risankizumab (Part A1)
+Number of subjects included in analysis 507
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 62.1
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 56.4
+upper limit 67.9
+Secondary: Percentage of Participants Achieving an sPGA score of clear or almost
+clear at Week 104
+End point title Percentage of Participants Achieving an sPGA score of clear or
+almost clear at Week 104
+End point description:
+The sPGA is an assessment by the investigator of the overall disease severity at the time of evaluation.
+Erythema (E), induration (I), and desquamation (D) are scored on a 5-point scale ranging from 0 (none)
+to 4 (severe). The sPGA ranges from 0 to 4, and is calculated as Clear (0) = 0 for all three; Almost clear
+(1) = mean >0, <1.5; Mild (2) = mean ≥1.5, <2.5; Moderate (3) = mean ≥2.5, <3.5; and Severe (4)
+= mean ≥3.5. NRI was used for missing data.
+End point type Secondary
+End point timeframe:
+Week 104
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 17  of 51
+Risankizumab/ Risankizumab/
+Placebo (Part Risankizumab
+End point values B; (Part B;
+Rerandomized Rerandomized
+Responders) Responders)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 225[15] 111[16]
+Units: Percentage of participants
+number (not applicable) 7.1 81.1
+Notes:
+[15] - ITT_B_R
+[16] - ITT_B_R
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Risankizumab/Placebo (Part B; Rerandomized Responders) v
+Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Number of subjects included in analysis 336
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 73.9
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 66
+upper limit 81.9
+Secondary: Percentage of Participants Achieving 75% improvement in PASI Score
+(PASI75) at Week 52
+End point title Percentag 
+
+******************************
+
+ e of Participants Achieving 75% improvement in PASI
+Score (PASI75) at Week 52
+End point description:
+PASI is a composite score based on the degree of effect on body surface area of psoriasis and the
+extension of erythema (reddening), induration (thickness), desquamation (scaling) of the lesions and
+area affected as observed on the day of examination. The severity of each sign was assessed using a 5-
+point scale, where 0=no symptoms, 1=slight, 2=moderate, 3=marked, 4=very marked. The PASI score
+ranges from 0 to 72, where 0 indicates no psoriasis and 72 indicates very severe psoriasis. PASI75 is
+defined as at least a 75% reduction in PASI score compared with the Baseline PASI score. The percent
+reduction in score is calculated as (PASI score at Baseline - score at follow-up visit) / PASI score at
+Baseline * 100. NRI was used for missing data.
+End point type Secondary
+End point timeframe:
+Week 52
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 18  of 51
+Risankizumab/ Risankizumab/
+Placebo (Part Risankizumab
+End point values B; (Part B;
+Rerandomized Rerandomized
+Responders) Responders)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 225[17] 111[18]
+Units: Percentage of participants
+number (not applicable) 71.6 92.8
+Notes:
+[17] - ITT_B_R
+[18] - ITT_B_R
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Risankizumab/Placebo (Part B; Rerandomized Responders) v
+Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Number of subjects included in analysis 336
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 21.2
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 13.7
+upper limit 28.7
+Secondary: Percentage of Participants Achieving 90% Improvement in PASI Score
+(PASI90) at Week 52
+End point title Percentage of Participants Achieving 90% Improvement in PASI
+Score (PASI90) at Week 52
+End point description:
+PASI is a composite score based on the degree of effect on body surface area of psoriasis and the
+extension of erythema (reddening), induration (thickness), desquamation (scaling) of the lesions and
+area affected as observed on the day of examination. The severity of each sign was assessed using a 5-
+point scale, where 0=no symptoms, 1=slight, 2=moderate, 3=marked, 4=very marked. The PASI score
+ranges from 0 to 72, where 0 indicates no psoriasis and 72 indicates very severe psoriasis. PASI90 is
+defined as at least a 90% reduction in PASI score compared with the Baseline PASI score. The percent
+reduction in score is calculated as (PASI score at Baseline - score at follow-up visit) / PASI score at
+Baseline * 100. NRI was used for missing data.
+End point type Secondary
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 19  of 51
+End point timeframe:
+Week 52
+Risankizumab/ Risankizumab/
+Placebo (Part Risankizumab
+End point values B; (Part B;
+Rerandomized Rerandomized
+Responders) Responders)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 225[19] 111[20]
+Units: Percentage of participants
+number (not applicable) 52.4 85.6
+Notes:
+[19] - ITT_B_R
+[20] - ITT_B_R
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Risankizumab/Placebo (Part B; Rerandomized Responders) v
+Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Number of subjects included in analysis 336
+Analysis sp 
+
+******************************
+
+ ecification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 33.1
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 24
+upper limit 42.2
+Secondary: Percentage of Participants Achieving 100% Improvement in PASI Score
+(PASI100) at Week 52
+End point title Percentage of Participants Achieving 100% Improvement in
+PASI Score (PASI100) at Week 52
+End point description:
+PASI is a composite score based on the degree of effect on body surface area of psoriasis and the
+extension of erythema (reddening), induration (thickness), desquamation (scaling) of the lesions and
+area affected as observed on the day of examination. The severity of each sign was assessed using a 5-
+point scale, where 0=no symptoms, 1=slight, 2=moderate, 3=marked, 4=very marked. The PASI score
+ranges from 0 to 72, where 0 indicates no psoriasis and 72 indicates very severe psoriasis. PASI100 is
+defined as a 100% reduction in PASI score compared with the Baseline PASI score. The percent
+reduction in score is calculated as (PASI score at Baseline - score at follow-up visit) / PASI score at
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 20  of 51
+Baseline * 100. NRI was used for missing data.
+End point type Secondary
+End point timeframe:
+Week 52
+Risankizumab/ Risankizumab/
+Placebo (Part Risankizumab
+End point values B; (Part B;
+Rerandomized Rerandomized
+Responders) Responders)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 225[21] 111[22]
+Units: Percentage of participants
+number (not applicable) 30.2 64.0
+Notes:
+[21] - ITT_B_R
+[22] - ITT_B_R
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Across strata, P value was calculated from the CMH test adjusted for strata. Within each stratum, P
+value was calculated based on the chi-square test (or Fisher's exact test if ≥25% of the cells had
+expected cell count <5).
+Comparison groups Risankizumab/Placebo (Part B; Rerandomized Responders) v
+Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Number of subjects included in analysis 336
+Analysis specification Pre-specified
+Analysis type other
+P-value < 0.001
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Adjusted percentage difference
+Point estimate 33.7
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 23.2
+upper limit 44.2
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 21  of 51
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+Treatment-emergent adverse events (TEAEs) and serious adverse events (TESAEs) were collected from
+first dose of study drug until 15 weeks after the last dose of study drug (up to 103 weeks).
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 21.0
+Reporting groups
+Reporting group title Placebo (Part A1)
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) placebo by subcutaneous injection at
+Weeks 0 and 4 (Part A1).
+Reporting group title Risankizumab (Part A1)
+Reporting group description:
+Participants randomized at Baseline to receive double-blind (DB) risankizumab 150 mg by subcutaneous
+injection at Weeks 0 and 4 (Part A1).
+Reporting group title Risankizumab/Risankizumab (Part B; Rerandomized
+Responders)
+Reporting group description:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive risankizumab 150 mg by subcutaneous injection at Week 28 and every 12
+weeks up to Week 88 (Part B).
+Reporting group title Risankizumab/Placebo (Part B; Rerandomized Responders)
+Reporting group description:
+Participants who received risankizumab in Part A and were responders (sPGA 0 or 1) at Week 28, and
+rerandomized to receive placebo by subcutaneous injection at Week 28 and every 12 weeks up to Week
+88 (Part B).
+Reporting group title Any Risankizumab
+Reporting group description:
+Participants w 
+
+******************************
+
+ ho received at least one dose of risankizumab during the study.
+Risankizumab/Risan
+Risankizumab (Part kizumab (Part B;
+Serious adverse events Placebo (Part A1)
+A1) Rerandomized
+Responders)
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 8 / 100 (8.00%) 8 / 407 (1.97%) 13 / 111 (11.71%)
+number of deaths (all causes) 0 0 2
+number of deaths resulting from
+0 0 0
+adverse events
+Vascular disorders
+Deep vein thrombosis
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 22  of 51
+Surgical and medical procedures
+Alcohol detoxification
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Neoplasms benign, malignant and
+unspecified (incl cysts and polyps)
+B-cell lymphoma
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Basal cell carcinoma
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Breast cancer
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Breast cancer stage I
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastric cancer
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hepatic cancer metastatic
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Intestinal adenocarcinoma
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 23  of 51
+Invasive ductal breast carcinoma
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Malignant melanoma in situ
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Metastases to lymph nodes
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Oesophageal carcinoma
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Prostate cancer
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Squamous cell carcinoma of skin
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment  
+
+******************************
+
+ / all 0 / 0 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Death
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Psychiatric disorders
+Alcoholism
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 24  of 51
+Anxiety
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Delirium tremens
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Insomnia
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Somatic symptom disorder
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Suicidal ideation
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Reproductive system and breast
+disorders
+Benign prostatic hyperplasia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cervical dysplasia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Menometrorrhagia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 25  of 51
+Menorrhagia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Injury, poisoning and procedural
+complications
+Burns second degree
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Fall
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Femur fracture
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hand fracture
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Incisional hernia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Ligament sprain
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 
+
+******************************
+
+  / 0 0 / 0
+Muscle strain
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 26  of 51
+Open globe injury
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Thoracic vertebral fracture
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac disorders
+Acute myocardial infarction
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Angina unstable
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Aortic valve disease mixed
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Atrial fibrillation
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac arrest
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac failure congestive
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Coronary artery disease
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 27  of 51
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Intracardiac thrombus
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Myocardial infarction
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Ventricular arrhythmia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Congenital, familial and genetic
+disorders
+Benign familial pemphigus
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Huntington's disease
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Acute respiratory failure
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Chylothorax
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths  
+
+******************************
+
+ causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 28  of 51
+Pneumothorax
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pulmonary embolism
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Blood and lymphatic system disorders
+Disseminated intravascular
+coagulation
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Nervous system disorders
+Basal ganglia infarction
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Carotid artery occlusion
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cerebral infarction
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cerebrovascular accident
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Dementia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 29  of 51
+Encephalitis autoimmune
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Epilepsy
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 1
+Hemiplegia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Ischaemic stroke
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Seizure
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tension headache
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Transient ischaemic attack
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Eye disorders
+Amaurosis fugax
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Diabetic retinopathy
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 30  of 51
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+oc 
+
+******************************
+
+ currences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Retinal detachment
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Ear and labyrinth disorders
+Vertigo
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrointestinal disorders
+Abdominal pain
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Alcoholic pancreatitis
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Haemorrhoids
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Inguinal hernia
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Intestinal obstruction
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pancreatitis acute
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 31  of 51
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hepatobiliary disorders
+Bile duct stone
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cholecystitis acute
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hepatic cirrhosis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Liver injury
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Skin and subcutaneous tissue disorders
+Skin ulcer
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Arthralgia
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Arthropathy
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 32  of 51
+Bursitis
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gouty tophus
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences  
+
+******************************
+
+ causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Jaw cyst
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Osteoarthritis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Psoriatic arthropathy
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Rotator cuff syndrome
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Metabolism and nutrition disorders
+Dehydration
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypokalaemia
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infections and infestations
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 33  of 51
+Abdominal abscess
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Abscess neck
+subjects affected / exposed 0 / 100 (0.00%) 1 / 407 (0.25%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Appendicitis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Bronchitis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cellulitis
+subjects affected / exposed 1 / 100 (1.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Diverticulitis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Meningitis bacterial
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Nasopharyngitis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 1 / 111 (0.90%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Periorbital cellulitis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 34  of 51
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Sepsis
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Viral infection
+subjects affected / exposed 0 / 100 (0.00%) 0 / 407 (0.00%) 0 / 111 (0.00%)
+occurrences causally related to 0 / 0 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+ 
+
+******************************
+
+ Risankizumab/Place
+bo (Part B;
+Serious adverse events Any Risankizumab
+Rerandomized
+Responders)
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 17 / 225 (7.56%) 55 / 500 (11.00%)
+number of deaths (all causes) 0 4
+number of deaths resulting from
+0 0
+adverse events
+Vascular disorders
+Deep vein thrombosis
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Surgical and medical procedures
+Alcohol detoxification
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Neoplasms benign, malignant and
+unspecified (incl cysts and polyps)
+B-cell lymphoma
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Basal cell carcinoma
+subjects affected / exposed 1 / 225 (0.44%) 3 / 500 (0.60%)
+occurrences causally related to 0 / 2 0 / 3
+treatment / all
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 35  of 51
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Breast cancer
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Breast cancer stage I
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastric cancer
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hepatic cancer metastatic
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Intestinal adenocarcinoma
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Invasive ductal breast carcinoma
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Malignant melanoma in situ
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Metastases to lymph nodes
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 36  of 51
+Oesophageal carcinoma
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Prostate cancer
+subjects affected / exposed 2 / 225 (0.89%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 2 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Squamous cell carcinoma of skin
+subjects affected / exposed 1 / 225 (0.44%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 1 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Death
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Psychiatric disorders
+Alcoholism
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Anxiety
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00% 
+
+******************************
+
+ )
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Delirium tremens
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Insomnia
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 37  of 51
+Somatic symptom disorder
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Suicidal ideation
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Reproductive system and breast
+disorders
+Benign prostatic hyperplasia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cervical dysplasia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Menometrorrhagia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Menorrhagia
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Injury, poisoning and procedural
+complications
+Burns second degree
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Fall
+subjects affected / exposed 1 / 225 (0.44%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 1 0 / 4
+treatment / all
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 38  of 51
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Femur fracture
+subjects affected / exposed 1 / 225 (0.44%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hand fracture
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Incisional hernia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ligament sprain
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Muscle strain
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Open globe injury
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Thoracic vertebral fracture
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac disorders
+Acute myocardial infarction
+subjects affected / exposed 0 / 225 (0.00%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 39  of 51
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Angina unstable
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrence 
+
+******************************
+
+ s causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Aortic valve disease mixed
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Atrial fibrillation
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac arrest
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac failure congestive
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Coronary artery disease
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Intracardiac thrombus
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Myocardial infarction
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 40  of 51
+Ventricular arrhythmia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Congenital, familial and genetic
+disorders
+Benign familial pemphigus
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Huntington's disease
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Acute respiratory failure
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Chylothorax
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumothorax
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pulmonary embolism
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Blood and lymphatic system disorders
+Disseminated intravascular
+coagulation
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 41  of 51
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nervous system disorders
+Basal ganglia infarction
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Carotid artery occlusion
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cerebral infarction
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cerebrovascular accident
+subjects affected / exposed 1 / 225 (0.44%) 0 / 
+
+******************************
+
+  500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Dementia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Encephalitis autoimmune
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Epilepsy
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Hemiplegia
+subjects affected / exposed 0 / 225 (0.00%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 42  of 51
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ischaemic stroke
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Seizure
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Tension headache
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Transient ischaemic attack
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Eye disorders
+Amaurosis fugax
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diabetic retinopathy
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Retinal detachment
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ear and labyrinth disorders
+Vertigo
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 43  of 51
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastrointestinal disorders
+Abdominal pain
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Alcoholic pancreatitis
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Haemorrhoids
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Inguinal hernia
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Intestinal obstruction
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pancreatitis acute
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hepatobiliary disorders
+Bile duct stone
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cholecystitis acute
+subjects  
+
+******************************
+
+ affected / exposed 0 / 225 (0.00%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 44  of 51
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hepatic cirrhosis
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Liver injury
+subjects affected / exposed 0 / 225 (0.00%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Skin and subcutaneous tissue disorders
+Skin ulcer
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Arthralgia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 2 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Arthropathy
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bursitis
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gouty tophus
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Jaw cyst
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 45  of 51
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Osteoarthritis
+subjects affected / exposed 0 / 225 (0.00%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Psoriatic arthropathy
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Rotator cuff syndrome
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Metabolism and nutrition disorders
+Dehydration
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypokalaemia
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Infections and infestations
+Abdominal abscess
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Abscess neck
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Appendicitis
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 46  of 51
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bronchitis
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cellulitis
+subjects affected / exposed 0 / 225 (0.00%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diverticulitis
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0 
+
+******************************
+
+ .00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Meningitis bacterial
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nasopharyngitis
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Periorbital cellulitis
+subjects affected / exposed 1 / 225 (0.44%) 0 / 500 (0.00%)
+occurrences causally related to 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Sepsis
+subjects affected / exposed 0 / 225 (0.00%) 2 / 500 (0.40%)
+occurrences causally related to 0 / 0 1 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Viral infection
+subjects affected / exposed 0 / 225 (0.00%) 1 / 500 (0.20%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 47  of 51
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Risankizumab/Risan
+Risankizumab (Part kizumab (Part B;
+Non-serious adverse events Placebo (Part A1)
+A1) Rerandomized
+Responders)
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 17 / 100 (17.00%) 52 / 407 (12.78%) 52 / 111 (46.85%)
+Nervous system disorders
+Headache
+subjects affected / exposed 0 / 100 (0.00%) 14 / 407 (3.44%) 8 / 111 (7.21%)
+occurrences (all) 0 15 15
+Skin and subcutaneous tissue disorders
+Psoriasis
+subjects affected / exposed 5 / 100 (5.00%) 2 / 407 (0.49%) 0 / 111 (0.00%)
+occurrences (all) 6 2 0
+Musculoskeletal and connective tissue
+disorders
+Arthralgia
+subjects affected / exposed 2 / 100 (2.00%) 7 / 407 (1.72%) 10 / 111 (9.01%)
+occurrences (all) 2 7 10
+Back pain
+subjects affected / exposed 0 / 100 (0.00%) 2 / 407 (0.49%) 4 / 111 (3.60%)
+occurrences (all) 0 2 7
+Infections and infestations
+Influenza
+subjects affected / exposed 1 / 100 (1.00%) 3 / 407 (0.74%) 7 / 111 (6.31%)
+occurrences (all) 1 3 8
+Nasopharyngitis
+subjects affected / exposed 6 / 100 (6.00%) 21 / 407 (5.16%) 23 / 111 (20.72%)
+occurrences (all) 6 21 36
+Upper respiratory tract infection
+subjects affected / exposed 5 / 100 (5.00%) 6 / 407 (1.47%) 16 / 111 (14.41%)
+occurrences (all) 5 6 19
+Risankizumab/Place
+Non-serious adverse events Any Risankizumab
+bo (Part B;
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 48  of 51
+Rerandomized
+Responders)
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 92 / 225 (40.89%) 242 / 500 (48.40%)
+Nervous system disorders
+Headache
+subjects affected / exposed 7 / 225 (3.11%) 34 / 500 (6.80%)
+occurrences (all) 9 47
+Skin and subcutaneous tissue disorders
+Psoriasis
+subjects affected / exposed 8 / 225 (3.56%) 4 / 500 (0.80%)
+occurrences (all) 8 4
+Musculoskeletal and connective tissue
+disorders
+Arthralgia
+subjects affected / exposed 13 / 225 (5.78%) 35 / 500 (7.00%)
+occurrences (all) 16 37
+Back pain
+subjects affected / exposed 12 / 225 (5.33%) 28 / 500 (5.60%)
+occurrences (all) 13 31
+Infections and infestations
+Influenza
+subjects affected / exposed 8 / 225 (3.56%) 22 / 500 (4.40%)
+occurrences (all) 10 24
+Nasopharyngitis
+subjects affected / exposed 45 / 225 (20.00%) 116 / 500 (23.20%)
+occurrences (all) 53 170
+Upper respiratory tract infection
+subjects affected / exposed 23 / 225 (10.22%) 77 / 500 (15.40%)
+occurrences (all) 29 97
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 49  of 51
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+11 March 2016 Added Infection Testing (Tuberculosis (TB)) to Screening. Several footnotes
+added. Vital Status information updated. Justification provide for Section 2.3.
+Section 3.1.2 and 3.1.3 clarified. Section 3.3 
+
+******************************
+
+ .4.1, 5.1.3, 7.5 and 4.1.4 updated.
+Added tofacitinib (Xeljanz®), apremilast (Otezla®) and removed efalizumab
+(Raptiva®)in Table 4.2.2.1:1. Added a paragraph for TB testing in Section 6.2.
+Maximum of 2 visits a patient may need for screening was deleted. Updated
+Section 6.2.3, Follow-up Period and Trial Completion. Separated out re-
+randomized hypothesis from hypotheses tested on all randomized patients.
+Definition of analysis sets clarified. Wording “IPV’s would be provided in trial
+statistical analysis plan (TSAP) and added verbiage about IPVs and PPS sensitivity
+analyses” and data monitoring committee (DMC) information deleted. Added “The
+hypothesis tests as described in Section 7.2 will be repeated on the PPS or
+RRSPPS populations, as appropriate". Order of Psoriatic arthritis (PsA)
+assessments changed at Visit 2. Investigator Brochure document ID was changed.
+References added. Added risankizumab after BI 655066.
+28 July 2016 Footnotes were revised. Abbreviation added and corrected. Figure 3.1:1 was
+replaced with new trial design. Summary and Overall trial design and plan were
+updated.  Section 3.3.4.2 updated. Section 4.1.2 re-written according to new
+study design to be consistent with section 3.1. 650666 changed to 655066 in
+section 4.1.3. Section 4.1.4 Drug assignment and administration of doses for each
+patient updated. Section 4.1.5.1 Blinding and 7.6 Randomisation re-written
+according to new study design to be consistent with section 3.1, clarifying the
+criteria for receiving open label. Deleted reference to Section 3.3.3, and corrected
+to 3.3.2. Text added in section 5.1.3 Further endpoints. Section 5.3.2 Vital Signs
+updated to specify timing of vitals relative to injection times and also timing of
+monitoring hypersensitivity with respect to injection times. Added absolute count
+to differential, activated to aPTT, calculated to LDL, creatinineand
+Albumin/creatinine ratio to urinalysis. Deleted “MB” from Troponin reflex and
+creatinine” from urinalysis stix in Table 5.3.3:1 laboratory tests. Added paragraph
+to note that efficacy questionnaires are direct data capture on an electronic
+device. Wording revised due to implementation of continuing blinded treatment.
+Further instructions given for staying in the trial or terminating from the trial when
+a patient ends treatment early updated. Added “and who have not discontinued
+drug prematurely” to definition of trial completion. Section 7.1, Section 7.3
+Planned Analyses, 7.3.3 Further endpoint analyses, 7.3.3 Further endpoint
+analyses and 7.5 Handling of Missing Data updated. In Table 7.7.1 changed PBO
+to “placebo”. Wording from “scored” to “scores” corrected. Response categories
+for Dermatology life quality index (DLQI) updated. Blind break for week 28
+responders was updated.
+11 October 2016 The compound name was revised to add “ABBV-066” to BI 655066
+(risankizumab). Changed sponsor from Boehringer Ingelheim (BI) to AbbVie in the
+USA and BI for non-USA participating countries. Updated text to
+“AbbVie/Boehringer Ingelheim reserves the right to discontinue the trial overall or
+at a particular trial site at any time for the following reasons”. Changed DNA
+banking sample storage from Boehringer Ingelheim to “AbbVie or a third party
+delegate (e.g. Boehringer Ingelheim Pharma GmbH & Co. KG; Birkendorfer Str.
+65, 88397 Biberach, Germany)”. Changed text to specify that AbbVie summary
+tables and listings will be produced and analyses based on AbbVie standards.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 50  of 51
+Limitations and caveats
+None reported
+Clinical trial results 2014-005102-38 version 2 EU-CTR publication date: 11 November 2019 Page 51  of 51
+ 
+
+******************************
+

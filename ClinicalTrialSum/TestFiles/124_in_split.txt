@@ -1,0 +1,562 @@
+ EU Clinical Trials Register
+Clinical trial results:
+A Single Arm, Open-label Study to Evaluate the Efficacy and Safety
+of Glecaprevir (GLE)/Pibrentasvir (PIB) in Treatment Naïve Adults
+with Chronic Hepatitis C Virus (HCV) Genotype 1, 2, 4, 5 or 6
+Infection and Compensated Cirrhosis
+Summary
+EudraCT number 2016-004967-38
+Trial protocol GR PL PT HU CZ BG IE ES GB
+Global end of trial date 08 November 2019
+Results information
+Result version number v1 (current)
+This version publication date 30 July 2020
+First version publication date 30 July 2020
+Trial information
+Trial identification
+Sponsor protocol code M16-135
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number) NCT03089944
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name AbbVie
+Sponsor organisation address AbbVie House, Vanwall Business Park, Vanwall Road,
+Maidenhead, Berkshire, United Kingdom, SL6 4UB
+Public contact Global Medical Services, AbbVie, +001 8006339110,
+abbvieclinicaltrials@abbvie.com
+Scientific contact Global Medical Services, AbbVie, +001 8006339110,
+abbvieclinicaltrials@abbvie.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Results analysis stage
+Analysis stage Final
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 1  of 15
+Date of interim/final analysis 08 November 2019
+Is this the analysis of the primary No
+completion data?
+Global end of trial reached? Yes
+Global end of trial date 08 November 2019
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+A Phase 3b, single arm, open-label, multicenter study in treatment naïve adults with chronic HCV
+infection and compensated cirrhosis to assess the safety of 8 weeks of treatment with
+glecaprevir/pibrentasvir and to demonstrate the efficacy of the sustained virologic response 12 weeks
+post dosing (SVR12) rates of 8 weeks of treatment with glecaprevir/pibrentasvir compared to the
+historical SVR12 rates of 12 weeks of treatment with glecaprevir/pibrentasvir.
+Protection of trial subjects:
+Subject read and understood the information provided about the study and gave written permission.
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 28 April 2017
+Long term follow-up planned No
+Independent data monitoring committee No
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Spain: 20
+Country: Number of subjects enrolled Taiwan: 15
+Country: Number of subjects enrolled United Kingdom: 12
+Country: Number of subjects enrolled United States: 89
+Country: Number of subjects enrolled Vietnam: 9
+Country: Number of subjects enrolled Bulgaria: 20
+Country: Number of subjects enrolled Canada: 8
+Country: Number of subjects enrolled Czech Republic: 17
+Country: Number of subjects enrolled France: 11
+Country: Number of subjects enrolled Greece: 1
+Country: Number of subjects enrolled Hungary: 15
+Country: Number of subjects enrolled Ireland: 5
+Country: Number of subjects enrolled Israel: 16
+Country: Number of subjects enrolled Italy: 15
+Country: Number of subjects enrolled Poland: 12
+Country: Number of subjects enrolled Portugal: 7
+Country: Number of subjects enrolled Puerto Rico: 20
+Country: Number of subjects enrolled Romania: 21
+Country: Number of subjects enrolled Russian Federation: 30
+Worldwide total number of subjects 343
+EEA total number of subjects 156
+Notes:
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 2  of 15
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 257
+From 65 to 84 years 85
+85 years and over 1
+Clinical trial results 2016-004967-38 version 
+
+******************************
+
+  1 EU-CTR publication date: 30 July 2020 Page 3  of 15
+Subject disposition
+Recruitment
+Recruitment details: -
+Pre-assignment
+Screening details:
+The intent to treat (ITT) population included 343 subjects that enrolled and received ≥ 1 dose of study
+drug. The Per Protocol (PP) Population, a subset of ITT, excluded subjects who experienced
+breakthrough, or discontinued treatment prior to Week 8, or had no HCV RNA value in SVR12 visit
+window or later for reasons other than virologic failure.
+Period 1
+Period 1 title GLE/PIB for 8 weeks (overall period)
+Is this the baseline period? Yes
+Allocation method Not applicable
+Blinding used Not blinded
+Arms
+Arm title Glecaprevir (GLE)/Pibrentasvir (PIB) for 8 weeks
+Arm description:
+Glecaprevir (GLE)/Pibrentasvir (PIB) 300 mg/120 mg administered orally once daily (QD) for 8 weeks.
+Arm type Experimental
+Investigational medicinal product name Glecaprevir/Pibrentasvir tablet
+Investigational medicinal product code
+Other name ABT-493, ABT-530
+Pharmaceutical forms Tablet
+Routes of administration Oral use
+Dosage and administration details:
+Participants received glecaprevir (GLE)/pibrentasvir(PIB) 300 mg/120 mg orally (with food) once daily
+for 8 weeks.
+Number of subjects in period 1 Glecaprevir
+(GLE)/Pibrentasvir
+(PIB) for 8 weeks
+Started 343
+Completed 331
+Not completed 12
+Other, not specified 1
+Adverse event, non-fatal 1
+Withdrew consent 2
+Lost to follow-up 8
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 4  of 15
+Baseline characteristics
+Reporting groups
+Reporting group title GLE/PIB for 8 weeks
+Reporting group description: -
+Reporting group values GLE/PIB for 8 weeks Total
+Number of subjects 343 343
+Age categorical
+Units: Subjects
+Age continuous
+Units: years
+arithmetic mean 57.61
+standard deviation ± 10.58 -
+Gender categorical
+Units: Subjects
+Female 126 126
+Male 217 217
+Ethnicity (NIH/OMB)
+Units: Subjects
+Hispanic or Latino 43 43
+Not Hispanic or Latino 300 300
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 5  of 15
+End points
+End points reporting groups
+Reporting group title Glecaprevir (GLE)/Pibrentasvir (PIB) for 8 weeks
+Reporting group description:
+Glecaprevir (GLE)/Pibrentasvir (PIB) 300 mg/120 mg administered orally once daily (QD) for 8 weeks.
+Primary: Percentage of Participants With Sustained Virologic Response 12 Weeks
+Post-treatment (SVR12) in Hepatitis C Virus (HCV) Genotype (GT) 1,2,4,5 and 6-
+infected Participants in the Per Protocol (PP) Population
+End point title Percentage of Participants With Sustained Virologic Response
+12 Weeks Post-treatment (SVR12) in Hepatitis C Virus (HCV)
+Genotype (GT) 1,2,4,5 and 6-infected Participants in the Per
+Protocol (PP) Population[1]
+End point description:
+SVR12 was defined as plasma hepatitis C virus ribonucleic acid (HCV RNA) level less than the lower limit
+of quantification (<LLOQ; less than 15 IU/mL) 12 weeks after the last dose of study drug. Efficacy of the
+8-week treatment duration compared to the historical 12-week treatment duration was demonstrated if
+the lower bound of the 2-sided 95% confidence interval (CI) for the percentage of participants with HCV
+GT1, GT2, GT4, GT5, or GT6 infection in the 8 week treatment duration achieving SVR12 was greater
+than 94% in the PP population. Efficacy analyses were performed following a fixed-sequence testing
+procedure to control the type I error rate. The percentage of participants achieving SVR12 was
+summarized with a 2-sided 95% CI, calculated using the normal approximation to the binomial
+distribution. If the number of participants who failed to achieve SVR12 rate was less than 5, the Wilson's
+score method was used to calculate the CI.
+End point type Primary
+End point timeframe:
+12 weeks after last dose of study drug
+Notes:
+[1] - No statistical analyses have been specified for this primary end point. It is expected there is at
+least one statistical analysis for each primary end point.
+Justification: The statistical analysis are presented in the Endpoint Data Table, per protocol.
+Glecaprevir
+(GLE)/Pibrenta 
+
+******************************
+
+ 
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 274[2]
+Units: percentage of participants
+number (confidence interval 95%)
+Percentage with SVR12 (PP) 100 (98.6 to
+100.0)
+Notes:
+[2] - Per Protocol (PP) Population
+Statistical analyses
+No statistical analyses for this end point
+Primary: Percentage of Participants With SVR12 in HCV GT 1,2,4,5 and 6-infected
+Participants in the Intent-To-Treat (ITT) Population
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 6  of 15
+End point title Percentage of Participants With SVR12 in HCV GT 1,2,4,5 and
+6-infected Participants in the Intent-To-Treat (ITT)
+Population[3]
+End point description:
+SVR12 was defined as HCV RNA level less than the LLOQ (less than 15 IU/mL) 12 weeks after the last
+dose of study drug. Efficacy of the 8-week treatment duration compared to the historical 12-week
+treatment duration was demonstrated if the lower bound of the 2-sided 95% CI for the percentage of
+participants with HCV GT1, GT2, GT4, GT5, or GT6 infection in the 8 week treatment duration achieving
+SVR12 was greater than 93% in the ITT population. Primary efficacy analyses were performed following
+a fixed-sequence testing procedure to control the type I error rate. The percentage of participants
+achieving SVR12 was summarized with a 2-sided 95% CI, calculated using the normal approximation to
+the binomial distribution. If the number of participants who failed to achieve SVR12 rate was less than
+5, the Wilson's score method was used to calculate the CI.
+End point type Primary
+End point timeframe:
+12 weeks after last dose of study drug
+Notes:
+[3] - No statistical analyses have been specified for this primary end point. It is expected there is at
+least one statistical analysis for each primary end point.
+Justification: The statistical analysis are presented in the Endpoint Data Table, per protocol.
+Glecaprevir
+(GLE)/Pibrenta
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 280[4]
+Units: percentage of participants
+number (confidence interval 95%)
+Percentage with SVR12 (ITT) 98.2 (96.7 to
+99.8)
+Notes:
+[4] - Intent to treat (ITT) population: Participants who received at least one dose of study drug.
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage of Participants With SVR12 in HCV GT1-6-infected
+Participants in the PP Population
+End point title Percentage of Participants With SVR12 in HCV GT1-6-infected
+Participants in the PP Population
+End point description:
+SVR12 was defined as HCV RNA level less than the LLOQ (less than 15 IU/mL) 12 weeks after the last
+dose of study drug. Efficacy of the 8-week treatment duration compared to the historical 12-week
+treatment duration was demonstrated if the lower bound of the 2-sided 95% CI for the percentage of
+participants with HCV GT1, GT2, GT3, GT4, GT5, or GT6 infection in the 8 week treatment duration
+achieving SVR12 was greater than 94% in the PP population. These efficacy analyses were performed
+only if success was demonstrated for both primary efficacy analyses, following a fixed-sequence testing
+procedure.
+End point type Secondary
+End point timeframe:
+12 weeks after last dose of study drug
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 7  of 15
+Glecaprevir
+(GLE)/Pibrenta
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 335[5]
+Units: percentage of participants
+number (confidence interval 95%)
+With SVR12 in HCV GT1-6-infected PP 99.7 (98.3 to
+Population 99.9)
+Notes:
+[5] - PP population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage of Participants With SVR12 in HCV GT1-6-infected
+Participants in the ITT Population
+End point title Percentage of Participants With SVR12 in HCV GT1-6-infected
+Participants in the ITT Population
+End point description:
+SVR12 was defined as HCV RNA level less than the LLOQ (less than 15 IU/mL) 12 weeks after the last
+dose  
+
+******************************
+
+ of study drug. Efficacy of the 8-week treatment duration compared to the historical 12-week
+treatment duration was demonstrated if the lower bound of the 2-sided 95% CI for the percentage of
+participants with HCV GT1, GT2, GT3, GT4, GT5, or GT6 infection in the 8 week treatment duration
+achieving SVR12 was greater than 93% in the ITT population. These efficacy analyses were performed
+only if success was demonstrated for both primary efficacy analyses, following a fixed-sequence testing
+procedure.
+End point type Secondary
+End point timeframe:
+12 weeks after the last dose of study drug
+Glecaprevir
+(GLE)/Pibrenta
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 343[6]
+Units: Percentage of participants
+number (confidence interval 95%)
+With SVR12 in HCV GT-1-6-infected in 97.7 (96.1 to
+ITT 99.3)
+Notes:
+[6] - ITT population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage of Participants With On-treatment Virologic Failure in the
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 8  of 15
+ITT Population
+End point title Percentage of Participants With On-treatment Virologic Failure
+in the ITT Population
+End point description:
+On-treatment virologic failure was defined as confirmed HCV RNA ≥ 100 IU/mL after HCV RNA < LLOQ
+during treatment; confirmed increase of > 1 log(subscript)10(subscript) IU/mL above the lowest value
+post-baseline in HCV RNA during treatment; or HCV RNA ≥ LLOQ at end of treatment with at least 6
+weeks of treatment.
+End point type Secondary
+End point timeframe:
+8 weeks on treatment
+Glecaprevir
+(GLE)/Pibrenta
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 343[7]
+Units: Percentage of participants
+number (confidence interval 95%)
+With On-treatment Virologic Failure in 0 (0.0 to 1.1)
+ITT
+Notes:
+[7] - ITT population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage of Participants With Post-treatment Relapse
+End point title Percentage of Participants With Post-treatment Relapse
+End point description:
+Post-treatment relapse was defined as confirmed HCV RNA ≥ LLOQ between the end of treatment and
+12 weeks after the last dose of study drug among participants who completed treatment as planned
+(defined as study drug duration ≥ 52 days for participants assigned to 8 weeks of treatment) and with
+HCV RNA levels < LLOQ at the end of treatment excluding participants who had been reinfected.
+End point type Secondary
+End point timeframe:
+Up to 12 weeks after the last dose of study drug
+Glecaprevir
+(GLE)/Pibrenta
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 336[8]
+Units: Percentage of Participants
+number (confidence interval 95%)
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 9  of 15
+Participants with Post treatment Relapse0.3 (0.1 to 1.7)
+Notes:
+[8] - ITT population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage of HCV GT3-infected Participants Who Achieved SVR12 in the
+PP Population
+End point title Percentage of HCV GT3-infected Participants Who Achieved
+SVR12 in the PP Population
+End point description:
+SVR12 was defined as HCV RNA level less than the LLOQ (less than 15 IU/mL) 12 weeks after the last
+dose of study drug.
+End point type Secondary
+End point timeframe:
+12 weeks after the last dose of study drug
+Glecaprevir
+(GLE)/Pibrenta
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 61[9]
+Units: Percentage of participants
+number (confidence interval 95%)
+HCV GT3-infected Who Achieved SVR12 98.4 (91.3 to
+in PP 99.7)
+Notes:
+[9] - PP population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Percentage of HCV GT3-infected Participants Who Achieved SVR12 in the
+ITT Population
+End point title Percentage of HCV GT3-infected Participants Who Achieved
+SVR12 in the ITT Population
+End point descri 
+
+******************************
+
+ ption:
+SVR12 was defined as HCV RNA level less than the LLOQ (less than 15 IU/mL) 12 weeks after the last
+dose of study drug.
+End point type Secondary
+End point timeframe:
+12 weeks after the last dose of study drug
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 10  of 15
+Glecaprevir
+(GLE)/Pibrenta
+End point values svir (PIB) for 8
+weeks
+Subject group type Reporting group
+Number of subjects analysed 63[10]
+Units: Percentage of Participants
+number (confidence interval 95%)
+HCV GT3-infected Who Achieved SVR12 95.2 (86.9 to
+in ITT 98.4)
+Notes:
+[10] - ITT population
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 11  of 15
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+Treatment emergent adverse events (TEAEs) were defined as any adverse event with an onset date that
+was on or after the first dose of study drug and no more than 30 days after the last dose of study drug.
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 21.0
+Reporting groups
+Reporting group title Glecaprevir (GLE)/Pibrentasvir (PIB) for 8 weeks
+Reporting group description:
+Glecaprevir (GLE)/Pibrentasvir (PIB) 300 mg/120 mg administered orally once daily (QD) for 8 weeks.
+Glecaprevir
+Serious adverse events (GLE)/Pibrentasvir
+(PIB) for 8 weeks
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 6 / 343 (1.75%)
+number of deaths (all causes) 0
+number of deaths resulting from
+0
+adverse events
+Neoplasms benign, malignant and
+unspecified (incl cysts and polyps)
+Adenocarcinoma gastric
+subjects affected / exposed 1 / 343 (0.29%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Cardiac disorders
+Atrial fibrillation
+subjects affected / exposed 1 / 343 (0.29%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Cardiac failure
+subjects affected / exposed 1 / 343 (0.29%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+General disorders and administration
+site conditions
+Oedema peripheral
+subjects affected / exposed 1 / 343 (0.29%)
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 12  of 15
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Gastrointestinal disorders
+Duodenal ulcer haemorrhage
+subjects affected / exposed 1 / 343 (0.29%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Infections and infestations
+Bronchitis
+subjects affected / exposed 1 / 343 (0.29%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Pneumonia
+subjects affected / exposed 1 / 343 (0.29%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Pyelonephritis
+subjects affected / exposed 1 / 343 (0.29%)
+occurrences causally related to 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Glecaprevir
+Non-serious adverse events (GLE)/Pibrentasvir
+(PIB) for 8 weeks
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 82 / 343 (23.91%)
+Nervous system disorders
+Headache
+subjects affected / exposed 28 / 343 (8.16%)
+occurrences (all) 31
+General disorders and administration
+site conditions
+Fatigue
+subjects affected / exposed 30 / 343 (8.75%)
+occurrences (all) 31
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 13  of 15
+Gastrointestinal disorders
+Nausea
+subjects affected / exposed 19 / 343 (5.54%)
+occurrences (all) 19
+Skin and subcutaneous tissue disorders
+Pruritis
+subjects affected / exposed 29 / 343 (8.45%)
+occurrences (all) 31
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 20 
+
+******************************
+
+ 20 Page 14  of 15
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+25 April 2017 This amendment clarified the protocol deviation process, specified that
+participants experiencing virologic failure will be offered retreatment and excluded
+participants with a medical history of solid organ transplantation.
+06 September 2017 This amendment included an update to Primary Efficacy Endpoints, based on
+regulatory authority feedback, the analysis of SVR12 based on the ITT population
+has been elevated from a secondary to a primary efficacy endpoint , references to
+non-inferiority have been removed, and the Wilson score method will be used to
+calculate the confidence intervals for the primary efficacy endpoints if the number
+of SVR12 non-responders is less than 5, clarification of pregnancy test
+requirements during the study,include additional language on empiric use of
+lactulose and rifaximin and to clarify the list of approved and investigational anti-
+HCV compounds and that historical presence of HCC within the previous 5 years is
+exclusionary,clarify that specific statins must be discontinued at least 14 days or
+10 half-lives (whichever is longer) prior to the first dose of study drug, clarify
+when study procedures to be performed, and clarify that the Physical Exam and
+labs are to be drawn for FibroTest and Child-Pugh scores.
+11 June 2018 Allow for the enrollment of participants infected with HCV Genotype 3 to evaluate
+the efficacy and safety of an 8-week treatment regimen in a treatment-naïve
+cirrhotic patient population inclusive of patients with HCV GT3 infection.  Update
+prohibited therapy based on the marketing approval of GLE/PIB.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Limitations and caveats
+None reported
+Clinical trial results 2016-004967-38 version 1 EU-CTR publication date: 30 July 2020 Page 15  of 15
+ 
+
+******************************
+

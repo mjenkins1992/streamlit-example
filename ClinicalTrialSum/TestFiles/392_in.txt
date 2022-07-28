@@ -1,0 +1,3672 @@
+EU Clinical Trials Register
+Clinical trial results:
+A Phase II, Open Label, Randomized, Two-Arm Study to Investigate
+the Efficacy and Safety of Two Doses of the Antibody Drug
+Conjugate GSK2857916 in Participants with Multiple Myeloma Who
+Had 3 or More Prior Lines of Treatment, Are Refractory to a
+Proteasome Inhibitor and an Immunomodulatory Agent and Have
+Failed an Anti-CD38 Antibody (DREAMM 2)
+Summary
+EudraCT number 2017-004810-25
+Trial protocol GB DE ES IT
+Global end of trial date
+Results information
+Result version number v1 (current)
+This version publication date 26 April 2020
+First version publication date 26 April 2020
+Trial information
+Trial identification
+Sponsor protocol code 205678
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number)  -
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name GlaxoSmithKline
+Sponsor organisation address 980 Great West Road, Brentford, Middlesex, United Kingdom,
+Public contact GSK Response Center, GlaxoSmithKline, 1 8664357343,
+GSKClinicalSupportHD@gsk.com
+Scientific contact GSK Response Center, GlaxoSmithKline, 1 8664357343,
+GSKClinicalSupportHD@gsk.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Results analysis stage
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 1  of 77
+Analysis stage Interim
+Date of interim/final analysis 21 June 2019
+Is this the analysis of the primary Yes
+completion data?
+Primary completion date 21 June 2019
+Global end of trial reached? No
+Notes:
+General information about the trial
+Main objective of the trial:
+To evaluate the clinical efficacy of 2 doses of GSK2857916 in participants with relapsed/refractory
+multiple myeloma
+Protection of trial subjects:
+In order to minimize corneal events associated with GSK2857916 prophylactic preservative-free artificial
+tears should be administered in each eye at least 4 to 8 times daily beginning on Cycle 1 Day 1 until the
+end of treatment. In the event of ocular symptoms (e.g., dry eyes), the use of artificial tears may be
+increased up to every 2 hours as needed.
+While not yet clinically demonstrated, it is theoretically possible that the application of a cooling eye
+mask during GSK2857916 administration, and in the first few hours after infusion may subsequently
+decrease ocular side effects. On the day of infusion at the discretion of the participant and the
+investigator, the following may be considered:
+• Beginning with the start of each GSK2857916 infusion, participants may apply cooling eye
+masks to their eyes for approximately 1 hour or as much as tolerated.
+• Participants may continue using the cooling eye mask beyond the first hour for up to 4 hours.
+Further use beyond 4 hours is at the participant’s discretion.
+Participants should receive full supportive care during the study, including transfusions of blood
+products, growth factors, and treatment with antibiotics, anti-emetics, antidiarrheal, and analgesics, as
+appropriate. Concomitant therapy with bisphosphonates is allowed. Participants may receive local
+irradiation for pain or stability control.
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 18 June 2018
+Long term follow-up planned Yes
+Long term follow-up rationale Scientific research, Safety
+Long term follow-up duration 5 Years
+Independent data monitoring committee Yes
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Australia: 5
+Country: Number of subjects enrolled Canada: 12
+Country: Number of subjects enrolled France: 26
+Country: Number of subjects enrolled Germany: 16
+Country: Number of subjects enrolled Italy: 7
+Country: Number of subjects enrolled Spain: 17
+Country: Number of subjects enrolled United Kingdom: 12
+Country: Number of subjects enrolled United States: 126
+Worldwide total number of subjects 221
+EEA total number of subjects 78
+Notes:
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 2  of 77
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days-23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 91
+From 65 to 84 years 127
+85 years and over 3
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 3  of 77
+Subject disposition
+Recruitment
+Recruitment details:
+This was a Phase II, open-label, randomized, multicenter study to evaluate the efficacy and safety of
+belantamab mafodotin monotherapy at a dose of 2.5 milligram per kilogram (mg/kg) or 3.4 mg/kg,
+given intravenously (IV) in participants with relapsed/refractory multiple myeloma (RRMM).
+Pre-assignment
+Screening details:
+A total of 293 participants were screened and 221 participants were enrolled and randomized in this
+study. The results presented are based on the interim analysis.
+Period 1
+Period 1 title Overall Study (overall period)
+Is this the baseline period? Yes
+Allocation method Not applicable
+Blinding used Not blinded
+Arms
+Are arms mutually exclusive? Yes
+Arm title GSK2857916 2.5 mg/kg (Frozen liquid)
+Arm description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 2.5
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 11 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Arm type Experimental
+Investigational medicinal product name GSK2857916
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Concentrate for solution for infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+GSK2857916 frozen liquid was available as 30 milligrams per vial solution in single-use vial. It was
+diluted with 0.9 percent saline to the appropriate concentration for the dose (2.5 milligram per kilogram
+[mg/kg]). Participants were administered GSK2857916 via intravenous route.
+Arm title GSK2857916 3.4 mg/kg (Frozen liquid)
+Arm description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 10 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Arm type Experimental
+Investigational medicinal product name GSK2857916
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Concentrate for solution for infusion
+Routes of administration Intravenous use
+Dosage and administration details:
+GSK2857916 frozen liquid was available as 30 milligrams per vial solution in single-use vial. It was
+diluted with 0.9 percent saline to the appropriate concentration for the dose (3.4 mg/kg]. Participants
+were administered GSK2857916 via intravenous route.
+Arm title GSK2857916 3.4 mg/kg (Lyophilized)
+Arm description:
+Participants were administered lyophilized powder (100 mg/vial in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 given IV for a maximum of 8 cycles (1 cycle= 21 days). Lyophilized powder was
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 4  of 77
+reconstituted using water for injection.
+Arm type Experimental
+Investigational medicinal product name GSK2857916
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Powder for solution for injection
+Routes of administration Intravenous use
+Dosage and administration details:
+GSK2857916 lyophilized powder was available as 100 milligrams per vial in single-use vial for
+reconstitution. It was reconstituted using water for injection and diluted with 0.9 percent saline to the
+appropriate concentration for the dose (3.4 mg/kg). Participants were administered GSK2857916 via
+intravenous route.
+Number of subjects in period 1 GSK2857916 2.5 GSK2857916 3.4 GSK2857916 3.4
+mg/kg (Frozen mg/kg (Frozen mg/kg (Lyophilized)
+liquid) liquid)
+Started 97 99 25
+Completed 0 0 0
+Not completed 97 99 25
+Physician decision 1 2  -
+Adverse event, serious fatal 32 31 4
+Consent withdrawn by subject 3 1  -
+Ongoing at the time of interim 60 65 21
+analysis
+Lost to follow-up 1  -  -
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 5  of 77
+Baseline characteristics
+Reporting groups
+Reporting group title GSK2857916 2.5 mg/kg (Frozen liquid)
+Reporting group description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 2.5
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 11 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Reporting group title GSK2857916 3.4 mg/kg (Frozen liquid)
+Reporting group description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 10 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Reporting group title GSK2857916 3.4 mg/kg (Lyophilized)
+Reporting group description:
+Participants were administered lyophilized powder (100 mg/vial in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 given IV for a maximum of 8 cycles (1 cycle= 21 days). Lyophilized powder was
+reconstituted using water for injection.
+Reporting group values GSK2857916 2.5 GSK2857916 3.4 GSK2857916 3.4
+mg/kg (Frozen mg/kg (Frozen mg/kg (Lyophilized)
+liquid) liquid)
+Number of subjects 97 99 25
+Age categorical
+Units: Subjects
+Total Participants 97 99 25
+Age Continuous
+Units: Years
+arithmetic mean 64.1 66.0 67.2
+standard deviation ± 10.01 ± 9.09 ± 10.78
+Sex: Female, Male
+Units: Participants
+Female 46 43 11
+Male 51 56 14
+Race/Ethnicity, Customized
+Units: Subjects
+Black or African American 16 11 3
+Asian - Central/South Asian 1 0 0
+Heritage
+Asian - East Asian Heritage 1 0 0
+Asian - South East Asian Heritage 0 1 1
+White - Arabic/North African 4 2 0
+Heritage
+White - White/Caucasian/European 72 83 21
+Heritage
+Mixed Asian Race 0 1 0
+Mixed White Race 0 1 0
+Unknown 1 0 0
+Missing 2 0 0
+Reporting group values Total
+Number of subjects 221
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 6  of 77
+Age categorical
+Units: Subjects
+Total Participants 221
+Age Continuous
+Units: Years
+arithmetic mean
+standard deviation -
+Sex: Female, Male
+Units: Participants
+Female 100
+Male 121
+Race/Ethnicity, Customized
+Units: Subjects
+Black or African American 30
+Asian - Central/South Asian 1
+Heritage
+Asian - East Asian Heritage 1
+Asian - South East Asian Heritage 2
+White - Arabic/North African 6
+Heritage
+White - White/Caucasian/European 176
+Heritage
+Mixed Asian Race 1
+Mixed White Race 1
+Unknown 1
+Missing 2
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 7  of 77
+End points
+End points reporting groups
+Reporting group title GSK2857916 2.5 mg/kg (Frozen liquid)
+Reporting group description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 2.5
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 11 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Reporting group title GSK2857916 3.4 mg/kg (Frozen liquid)
+Reporting group description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 10 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Reporting group title GSK2857916 3.4 mg/kg (Lyophilized)
+Reporting group description:
+Participants were administered lyophilized powder (100 mg/vial in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 given IV for a maximum of 8 cycles (1 cycle= 21 days). Lyophilized powder was
+reconstituted using water for injection.
+Primary: Overall response rate (ORR) by Independent Review Committee (IRC) (Full
+Analysis Population)
+End point title Overall response rate (ORR) by Independent Review
+Committee (IRC) (Full Analysis Population)[1]
+End point description:
+ORR was determined according to the 2016 international myeloma working group (IMWG) response
+criteria by IRC. ORR was calculated as the percentage of participants with a confirmed partial response
+(PR) or better (that is [i.e.], PR, very good partial response [VGPR], complete response [CR] and
+stringent complete response [sCR]). Confidence intervals were based on the exact method. Full Analysis
+Population comprised of all randomized participants (any participant who received a treatment
+randomization number was considered as randomized) whether or not randomized treatment was
+administered. This population was based on the treatment the participant was randomized to.
+End point type Primary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[1] - No statistical analyses have been specified for this primary end point. It is expected there is at
+least one statistical analysis for each primary end point.
+Justification: There are no statistical data to report.
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[2] 99[3] 25[4]
+Units: Percentage of Participants
+31 (20.8 to 34 (23.9 to 48 (25.5 to
+number (confidence interval 97.5%)
+42.6) 46.0) 71.1)
+Notes:
+[2] - Full Analysis Population
+[3] - Full Analysis Population
+[4] - Full Analysis Population
+Statistical analyses
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 8  of 77
+No statistical analyses for this end point
+Primary: Overall response rate by Independent Review Committee (Efficacy
+Population)
+End point title Overall response rate by Independent Review Committee
+(Efficacy Population)[5][6]
+End point description:
+ORR was determined according to the 2016 IMWG response criteria by IRC. ORR was calculated as the
+percentage of participants with a confirmed PR or better (i.e., PR, VGPR, CR and sCR). Confidence
+intervals were based on the exact method. Efficacy Population comprised of first 130 intent-to-treat
+participants whether or not randomized treatment (frozen solution) was administered. Intent-to-treat
+Population comprised of all randomized participants whether or not randomized treatment was
+administered. Data is not presented for 'GSK2857916 3.4 mg/kg (Lyophilized)' arm as it is not included
+in Efficacy Population.
+End point type Primary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[5] - No statistical analyses have been specified for this primary end point. It is expected there is at
+least one statistical analysis for each primary end point.
+Justification: There are no statistical data to report.
+[6] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all the
+baseline period arms will be reported on when providing values for an end point on the baseline period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 64[7] 66[8]
+Units: Percentage of Participants
+30 (18.9 to 30 (19.6 to
+number (confidence interval 95%)
+42.4) 42.9)
+Notes:
+[7] - Efficacy Population
+[8] - Efficacy Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Overall response rate by investigator assessment (IA) (Full Analysis
+Population)
+End point title Overall response rate by investigator assessment (IA) (Full
+Analysis Population)
+End point description:
+ORR was determined by the investigator according to the 2016 IMWG response criteria. ORR was
+calculated as the percentage of participants with a confirmed PR or better (i.e., PR, VGPR, CR and sCR).
+Confidence intervals were based on the exact method.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 9  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[9] 99[10] 25[11]
+Units: Percentage of Participants
+30 (21.0 to 31 (22.4 to 52 (31.3 to
+number (confidence interval 95%)
+40.0) 41.4) 72.2)
+Notes:
+[9] - Full Analysis Population
+[10] - Full Analysis Population
+[11] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Overall response rate by investigator assessment (Efficacy Population)
+End point title Overall response rate by investigator assessment (Efficacy
+Population)[12]
+End point description:
+ORR was determined by the investigator according to the 2016 IMWG response criteria. ORR was
+calculated as the percentage of participants with a confirmed PR or better (i.e., PR, VGPR, CR and sCR).
+Confidence intervals were based on the exact method. Data is not presented for 'GSK2857916 3.4
+mg/kg (Lyophilized)' arm as it is not included in Efficacy Population.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[12] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all
+the baseline period arms will be reported on when providing values for an end point on the baseline
+period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 64[13] 66[14]
+Units: Percentage of Participants
+30 (18.9 to 26 (15.8 to
+number (confidence interval 95%)
+42.4) 38.0)
+Notes:
+[13] - Efficacy Population
+[14] - Efficacy Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Clinical benefit rate (CBR) by investigator assessment (Full Analysis
+Population)
+End point title Clinical benefit rate (CBR) by investigator assessment (Full
+Analysis Population)
+End point description:
+CBR was determined by the investigator according to the 2016 IMWG response criteria. CBR was
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 10  of 77
+calculated as the percentage of participants with a confirmed minimal response (MR) or better (i.e., MR,
+PR, VGPR, CR and sCR). Confidence intervals were based on the exact method.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[15] 99[16] 25[17]
+Units: Percentage of Participants
+34 (24.7 to 37 (27.9 to 56 (34.9 to
+number (confidence interval 95%)
+44.3) 47.7) 75.6)
+Notes:
+[15] - Full Analysis Population
+[16] - Full Analysis Population
+[17] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Clinical benefit rate by investigator assessment (Efficacy Population)
+End point title Clinical benefit rate by investigator assessment (Efficacy
+Population)[18]
+End point description:
+CBR was determined by the investigator according to the 2016 IMWG response criteria. CBR was
+calculated as the percentage of participants with a confirmed MR or better (i.e., MR, PR, VGPR, CR and
+sCR). Confidence intervals were based on the exact method. Data is not presented for 'GSK2857916 3.4
+mg/kg (Lyophilized)' arm as it is not included in Efficacy Population.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[18] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all
+the baseline period arms will be reported on when providing values for an end point on the baseline
+period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 64[19] 66[20]
+Units: Percentage of Participants
+34 (22.9 to 33 (22.2 to
+number (confidence interval 95%)
+47.3) 46.0)
+Notes:
+[19] - Efficacy Population
+[20] - Efficacy Population
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 11  of 77
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Clinical benefit rate by Independent Review Committee (Full Analysis
+Population)
+End point title Clinical benefit rate by Independent Review Committee (Full
+Analysis Population)
+End point description:
+CBR was determined according to the 2016 IMWG response criteria by IRC. CBR was calculated as the
+percentage of participants with a confirmed MR or better (i.e., MR, PR, VGPR, CR and sCR). Confidence
+intervals were based on the exact method.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[21] 99[22] 25[23]
+Units: Percentage of Participants
+34 (24.7 to 39 (29.7 to 52 (31.3 to
+number (confidence interval 95%)
+44.3) 49.7) 72.2)
+Notes:
+[21] - Full Analysis Population
+[22] - Full Analysis Population
+[23] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Clinical benefit rate by Independent Review Committee (Efficacy
+Population)
+End point title Clinical benefit rate by Independent Review Committee
+(Efficacy Population)[24]
+End point description:
+CBR was determined according to the 2016 IMWG response criteria by IRC. CBR was calculated as the
+percentage of participants with a confirmed MR or better (i.e., MR, PR, VGPR, CR and sCR). Confidence
+intervals were based on the exact method. Data is not presented for 'GSK2857916 3.4 mg/kg
+(Lyophilized)' arm as it is not included in Efficacy Population.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[24] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all
+the baseline period arms will be reported on when providing values for an end point on the baseline
+period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 12  of 77
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 64[25] 66[26]
+Units: Percentage of Participants
+33 (21.6 to 36 (24.9 to
+number (confidence interval 95%)
+45.7) 49.1)
+Notes:
+[25] - Efficacy Population
+[26] - Efficacy Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Duration of response (DoR) by investigator assessment (Full Analysis
+Population)
+End point title Duration of response (DoR) by investigator assessment (Full
+Analysis Population)
+End point description:
+DoR is defined as the time from first documented evidence of PR or better until the earliest date of
+documented disease progression (PD) per IMWG response criteria; or death due to PD among
+participants who achieved an overall response, i.e., confirmed PR or better. DOR based on responses
+assessed by investigator is presented. Median and inter-quartile range (first quartile and third quartile)
+of DOR are presented. Only those participants with data available at the specified data points were
+analyzed. 99999 indicates <50% of participants experienced the event within the treatment arms; 2.5
+mg/kg (frozen liquid) and 3.4 mg/kg (lyophilized). Hence, median and third-quartile could not be
+derived. 88888 indicates <25% of participants experienced the event within the treatment arm; 3.4
+mg/kg (frozen liquid). Hence, median and inter-quartile range could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 29[27] 31[28] 13[29]
+Units: Months
+99999 (4.2 to 88888 (88888 99999 (2.8 to
+median (inter-quartile range (Q1-Q3))
+99999) to 88888) 99999)
+Notes:
+[27] - Full Analysis Population
+[28] - Full Analysis Population
+[29] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Duration of response by investigator assessment (Efficacy Population)
+End point title Duration of response by investigator assessment (Efficacy
+Population)[30]
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 13  of 77
+End point description:
+DoR is defined as the time from first documented evidence of PR or better until the earliest date of
+documented PD per IMWG response criteria; or death due to PD among participants who achieved an
+overall response, i.e., confirmed PR or better. DOR based on responses assessed by investigator is
+presented. Median and inter-quartile range (first quartile and third quartile) of DOR are presented. Data
+is not presented for 'GSK2857916 3.4 mg/kg (Lyophilized)' arm as it is not included in Efficacy
+Population. Only those participants with data available at the specified data points were analyzed.99999
+indicates <50% of participants experienced the event within the treatment arm; 2.5 mg/kg (frozen
+liquid). Hence, median and third-quartile could not be derived. 88888 indicates <25% of participants
+experienced the event within the treatment arm; 3.4 mg/kg (frozen liquid). Hence, median and inter-
+quartile range could not be derived
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[30] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all
+the baseline period arms will be reported on when providing values for an end point on the baseline
+period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 19[31] 17[32]
+Units: Months
+99999 (4.1 to 88888 (88888
+median (inter-quartile range (Q1-Q3))
+99999) to 88888)
+Notes:
+[31] - Efficacy Population
+[32] - Efficacy Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Duration of response by Independent Review Committee (Full Analysis
+Population)
+End point title Duration of response by Independent Review Committee (Full
+Analysis Population)
+End point description:
+DoR is defined as the time from first documented evidence of PR or better until the earliest date of
+documented PD per IMWG response criteria; or death due to PD among participants who achieved an
+overall response, i.e., confirmed PR or better. DOR based on responses assessed by IRC is presented.
+Median and inter-quartile range (first quartile and third quartile) of DOR are presented. Only those
+participants with data available at the specified data points were analyzed. 99999 indicates <50% of
+participants experienced the event within the treatment arms; 2.5 mg/kg (frozen liquid), 3.4 mg/kg
+(frozen liquid) and 3.4 mg/kg (lyophilized). Hence, median and third-quartile could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 14  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 30[33] 34[34] 12[35]
+Units: Months
+99999 (4.2 to 99999 (4.7 to 99999 (3.4 to
+median (inter-quartile range (Q1-Q3))
+99999) 99999) 99999)
+Notes:
+[33] - Full Analysis Population
+[34] - Full Analysis Population
+[35] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Duration of response by Independent Review Committee (Efficacy
+Population)
+End point title Duration of response by Independent Review Committee
+(Efficacy Population)[36]
+End point description:
+DoR is defined as the time from first documented evidence of PR or better until the earliest date of
+documented PD per IMWG response criteria; or death due to PD among participants who achieved an
+overall response, i.e., confirmed PR or better. DOR based on responses assessed by IRC is presented.
+Median and inter-quartile range (first quartile and third quartile) of DOR are presented. Data is not
+presented for 'GSK2857916 3.4 mg/kg (Lyophilized)' arm as it is not included in Efficacy Population.
+Only those participants with data available at the specified data points were analyzed. 99999 indicates
+<50% of participants experienced the event within the treatment arms; 2.5 mg/kg (frozen liquid) and
+3.4 mg/kg (frozen liquid). Hence, median and third-quartile could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[36] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all
+the baseline period arms will be reported on when providing values for an end point on the baseline
+period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 19[37] 20[38]
+Units: Months
+99999 (4.0 to 99999 (4.7 to
+median (inter-quartile range (Q1-Q3))
+99999) 99999)
+Notes:
+[37] - Efficacy Population
+[38] - Efficacy Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to response by investigator assessment (Full Analysis Population)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 15  of 77
+End point title Time to response by investigator assessment (Full Analysis
+Population)
+End point description:
+Time to response is defined as the time between the date of randomization and the first documented
+evidence of response (PR or better), among participants who achieve a response (i.e., confirmed PR or
+better). Time to response based on responses assessed by investigator is presented. Median and inter-
+quartile range (first quartile and third quartile) of time to response are presented. Only those
+participants with data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 29[39] 31[40] 13[41]
+Units: Months
+median (inter-quartile range (Q1-Q3)) 1.4 (0.8 to 2.1)1.5 (0.9 to 3.0)0.9 (0.8 to 1.0)
+Notes:
+[39] - Full Analysis Population
+[40] - Full Analysis Population
+[41] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to response by investigator assessment (Efficacy Population)
+End point title Time to response by investigator assessment (Efficacy
+Population)[42]
+End point description:
+Time to response is defined as the time between the date of randomization and the first documented
+evidence of response (PR or better), among participants who achieve a response (i.e., confirmed PR or
+better). Time to response based on responses assessed by investigator is presented. Median and inter-
+quartile range (first quartile and third quartile) of time to response are presented. Data is not presented
+for 'GSK2857916 3.4 mg/kg (Lyophilized)' arm as it is not included in Efficacy Population. Only those
+participants with data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[42] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all
+the baseline period arms will be reported on when providing values for an end point on the baseline
+period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 16  of 77
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 19[43] 17[44]
+Units: Months
+median (inter-quartile range (Q1-Q3)) 1.4 (0.8 to 2.2)1.5 (1.4 to 2.8)
+Notes:
+[43] - Efficacy Population
+[44] - Efficacy Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to response by Independent Review Committee (Full Analysis
+Population)
+End point title Time to response by Independent Review Committee (Full
+Analysis Population)
+End point description:
+Time to response is defined as the time between the date of randomization and the first documented
+evidence of response (PR or better), among participants who achieve a response (i.e., confirmed PR or
+better). Time to response based on responses assessed by IRC is presented. Median and inter-quartile
+range (first quartile and third quartile) of time to response are presented. Only those participants with
+data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 30[45] 34[46] 12[47]
+Units: Months
+median (inter-quartile range (Q1-Q3)) 1.4 (0.8 to 2.1)1.4 (0.8 to 2.8)0.9 (0.8 to 1.6)
+Notes:
+[45] - Full Analysis Population
+[46] - Full Analysis Population
+[47] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to response by Independent Review Committee (Efficacy
+Population)
+End point title Time to response by Independent Review Committee (Efficacy
+Population)[48]
+End point description:
+Time to response is defined as the time between the date of randomization and the first documented
+evidence of response (PR or better), among participants who achieve a response (i.e., confirmed PR or
+better). Time to response based on responses assessed by IRC is presented. Median and inter-quartile
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 17  of 77
+range (first quartile and third quartile) of time to response are presented. Data is not presented for
+'GSK2857916 3.4 mg/kg (Lyophilized)' arm as it is not included in Efficacy Population. Only those
+participants with data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Notes:
+[48] - The end point is not reporting statistics for all the arms in the baseline period. It is expected all
+the baseline period arms will be reported on when providing values for an end point on the baseline
+period.
+Justification: This endpoint is only reporting on a subset of the arms that are contained in the Baseline
+period.
+GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid)
+Subject group type Reporting group Reporting group
+Number of subjects analysed 19[49] 20[50]
+Units: Months
+median (inter-quartile range (Q1-Q3)) 1.5 (0.8 to 2.2)1.4 (1.1 to 1.9)
+Notes:
+[49] - Efficacy Population
+[50] - Efficacy Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Progression free survival by investigator assessment
+End point title Progression free survival by investigator assessment
+End point description:
+Progression free survival is defined as the time from randomization until the earliest date of documented
+PD per IMWG, or death due to any cause. Progression free survival based on responses assessed by
+investigator is presented. Median and inter-quartile range (first quartile and third quartile) of
+progression free survival are presented. 77777 indicates <75% of participants experienced the event
+within the treatment arms; 2.5 mg/kg (frozen liquid), 3.4 mg/kg (frozen liquid) and 3.4 mg/kg
+(lyophilized). Hence, third-quartile range could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[51] 99[52] 25[53]
+Units: Months
+2.2 (0.8 to 3.8 (1.1 to 4.3 (2.1 to
+median (inter-quartile range (Q1-Q3))
+77777) 77777) 77777)
+Notes:
+[51] - Full Analysis Population
+[52] - Full Analysis Population
+[53] - Full Analysis Population
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 18  of 77
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Progression free survival by Independent Review Committee
+End point title Progression free survival by Independent Review Committee
+End point description:
+Progression free survival is defined as the time from randomization until the earliest date of documented
+PD per IMWG, or death due to any cause. Progression free survival based on responses assessed by IRC
+is presented. Median and inter-quartile range (first quartile and third quartile) of progression free
+survival are presented. 77777 indicates <75% of participants experienced the event within the
+treatment arms; 2.5 mg/kg (frozen liquid) and 3.4 mg/kg (frozen liquid). Hence, third-quartile range
+could not be derived. 99999 indicates <50% of participants experienced the event within the treatment
+arm; 3.4 mg/kg (lyophilized). Hence, median and third-quartile could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[54] 99[55] 25[56]
+Units: Months
+2.9 (0.9 to 4.9 (0.9 to 99999 (2.2 to
+median (inter-quartile range (Q1-Q3))
+77777) 77777) 99999)
+Notes:
+[54] - Full Analysis Population
+[55] - Full Analysis Population
+[56] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to progression by investigator assessment
+End point title Time to progression by investigator assessment
+End point description:
+Time to progression is defined as the time from randomization until the earliest date of documented PD
+per IMWG, or death due to PD. Time to Progression based on responses assessed by investigator is
+presented. Median and inter-quartile range (first quartile and third quartile) of time to progression are
+presented. 77777 indicates <75% of participants experienced the event within the treatment arms; 2.5
+mg/kg (frozen liquid), 3.4 mg/kg (frozen liquid) and 3.4 mg/kg (lyophilized). Hence, third-quartile range
+could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 19  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[57] 99[58] 25[59]
+Units: Months
+2.3 (0.8 to 4.2 (1.3 to 4.3 (2.1 to
+median (inter-quartile range (Q1-Q3))
+77777) 77777) 77777)
+Notes:
+[57] - Full Analysis Population
+[58] - Full Analysis Population
+[59] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to progression by Independent Review Committee
+End point title Time to progression by Independent Review Committee
+End point description:
+Time to progression is defined as the time from randomization until the earliest date of documented PD
+per IMWG, or death due to PD. Time to Progression based on responses assessed by IRC is presented.
+Median and inter-quartile range (first quartile and third quartile) of time to progression are presented.
+77777 indicates <75% of participants experienced the event within the treatment arms; 2.5 mg/kg
+(frozen liquid) and 3.4 mg/kg (frozen liquid). Hence, third-quartile range could not be derived. 99999
+indicates <50% of participants experienced the event within the treatment arm; 3.4 mg/kg
+(lyophilized). Hence, median and third-quartile could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[60] 99[61] 25[62]
+Units: Months
+3.0 (0.9 to 5.8 (0.9 to 99999 (2.2 to
+median (inter-quartile range (Q1-Q3))
+77777) 77777) 99999)
+Notes:
+[60] - Full Analysis Population
+[61] - Full Analysis Population
+[62] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Overall survival
+End point title Overall survival
+End point description:
+Overall survival is defined as the time from randomization until death due to any cause. Overall survival
+was analyzed using the Kaplan-Meier method by dose level. Median and inter-quartile range (first
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 20  of 77
+quartile and third quartile) of overall survival are presented. 77777 indicates <75% of participants
+experienced the event within the treatment arms; 2.5 mg/kg (frozen liquid) and 3.4 mg/kg (frozen
+liquid). Hence, third-quartile range could not be derived. 88888 indicates <25% of participants
+experienced the event within the treatment arm; 3.4 mg/kg (lyophilized). Hence, median and inter-
+quartile range could not be derived.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 97[63] 99[64] 25[65]
+Units: Months
+9.9 (4.8 to 9.7 (6.4 to 88888 (88888
+median (inter-quartile range (Q1-Q3))
+77777) 77777) to 88888)
+Notes:
+[63] - Full Analysis Population
+[64] - Full Analysis Population
+[65] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with change from Baseline in hematology
+parameters with respect to the normal range
+End point title Number of participants with change from Baseline in
+hematology parameters with respect to the normal range
+End point description:
+Blood samples were collected for assessment of
+basophils(Baso),eosinophils(Eosino),hematocrit(Hct),mean corpuscular hemoglobin(MCH),MCH
+concentration(MCHC),MC
+volume(MCV),monocyte(Mono),erythrocytes(Erythro),reticulocytes(Reticu).Baseline is latest pre-dose
+assessment(Day1)with a non-missing value, including unscheduled visits.If values were
+unchanged(eg.high to high) or whose value became normal,were recorded in change to normal/no
+change (NC) category.Participants were counted twice if participant had both decreased to low/increased
+to high during post-Baseline(PB). Full Safety Population(FSP) comprised of all participants who received
+at least 1dose of frozen liquid or lyophilized powder.3out of 221participants did not receive any study
+treatment, were excluded from FSP. All the participants in the study were included (95, 99 and 24
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[66] 99[67] 24[68]
+Units: Participants
+Baso, decrease to low, n=94,96,23 2 6 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 21  of 77
+Baso, change to normal or NC, 89 86
+22
+n=94,96,23
+Baso, increase to high, n=94,96,23 3 4 1
+Eosino, decrease to low, n=95,97,23 12 11 0
+Eosino, change to normal or NC, 78 82
+18
+n=95,97,23
+Eosino, increase to high, n=95,97,23 5 6 5
+Hct, decrease to low, n=95,97,24 9 3 1
+Hct, change to normal or NC, 86 94
+23
+n=95,97,24
+Hct, increase to high, n=95,97,24 1 0 0
+MCH, decrease to low, n=95,95,21 10 16 2
+MCH, change to normal or NC, 83 71
+18
+n=95,95,21
+MCH, increase to high, n=95,95,21 2 9 1
+MCHC, decrease to low, n=94,96,21 19 25 4
+MCHC, change to normal or NC, 73 71
+17
+n=94,96,21
+MCHC, increase to high, n=94,96,21 2 0 0
+MCV, decrease to low, n=95,97,24 9 12 1
+MCV, change to normal or NC, 80 77
+21
+n=95,97,24
+MCV, increase to high, n=95,97,24 6 8 2
+Mono, decrease to low, n=95,97,24 6 8 0
+Mono, change to normal or NC, 63 53
+14
+n=95,97,24
+Mono, increase to high, n=95,97,24 27 42 10
+Erythro, decrease to low, n=95,97,24 3 1 0
+Erythro, change to normal or NC, 92 95
+23
+n=95,97,24
+Erythro, increase to high, n=95,97,24 1 1 1
+Reticu, decrease to low, n=68,62,18 7 11 5
+Reticu, change to normal or NC, 50 37
+6
+n=68,62,18
+Reticu, increase to high, n=68,62,18 12 17 8
+Notes:
+[66] - Full Safety Population
+[67] - Full Safety Population
+[68] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with grade change from Baseline in hematology
+parameters
+End point title Number of participants with grade change from Baseline in
+hematology parameters
+End point description:
+Blood samples were collected for the analysis of following hematology parameters: hemoglobin (Hb),
+lymphocyte count (Lymph), neutrophil count (Neutro), platelet count (PC), and leukocyte count (leuko).
+The laboratory parameters were graded according to National Cancer Institute – Common Terminology
+Criteria for Adverse Events (NCI-CTCAE) version 4.03. Grade 1: mild; Grade 2: moderate; Grade 3:
+severe or medically significant; Grade 4: life–threatening consequences. Baseline was defined as latest
+pre-dose assessment (Day 1) with a non-missing value, including unscheduled visits. An increase is
+defined as an increase in CTCAE grade relative to Baseline grade. Data for worst-case post Baseline is
+presented. Only those participants with increase to grade 3 and increase to grade 4 have been
+presented. 3 participants out of 221 participants did not receive any study treatment and thus, were
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 22  of 77
+excluded from the Full Safety Population.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[69] 99[70] 24[71]
+Units: Participants
+Hb, Hb increased, increase to Grade 3 0 0 0
+Hb, Hb increased, increase to Grade 4 0 0 0
+Hb, Anemia, increase to Grade 3 17 28 4
+Hb, Anemia, increase to Grade 4 0 0 0
+Lymph, Lymph count increased, 0 0
+0
+increase to Grade 3
+Lymph, Lymph count increased, 0 0
+0
+increase to Grade 4
+Lymph, Lymph count decreased, 16 24
+6
+increase to Grade 3
+Lymph, Lymph count decreased, 5 5
+0
+increase to Grade 4
+Neutro, increase to Grade 3 4 11 2
+Neutro, increase to Grade 4 5 2 1
+PC, increase to Grade 3 8 12 1
+PC, increase to Grade 4 12 23 2
+Leuko, Leukocytosis, increase to Grade 0 0
+0
+3
+Leuko, Leukocytosis, increase to Grade 0 0
+0
+4
+Leuko, Leuko decreased, increase to 5 9
+1
+Grade 3
+Leuko, Leuko decreased, increase to 3 2
+0
+Grade 4
+Notes:
+[69] - Full Safety Population
+[70] - Full Safety Population
+[71] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with change from Baseline in clinical chemistry
+parameters with respect to the normal range
+End point title Number of participants with change from Baseline in clinical
+chemistry parameters with respect to the normal range
+End point description:
+Blood samples were collected for analysis of bicarbonate, direct bilirubin(D.Bil), calcium, chloride, lactate
+dehydrogenase(LDH), total protein, urea or blood urea nitrogen(BUN),estimated glomerular filtration
+rate (eGFR).Baseline is latest pre-dose assessment(Day 1) with a non-missing value, including
+unscheduled visits. If values were unchanged (example: high to high), or whose value became normal,
+were recorded in the change to normal or NC category. Participants were counted twice if the participant
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 23  of 77
+had both decreased to low and increased to high during post Baseline. 3 out of 221participants did not
+receive any study treatment, were excluded from FSP. All the participants in the study were included in
+the analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[72] 99[73] 24[74]
+Units: Participants
+Bicarbonate, decrease to low, 8 19
+3
+n=90,93,24
+Bicarbonate, change to normal or NC, 72 63
+18
+n=90,93,24
+Bicarbonate, increase to high, 10 14
+3
+n=90,93,24
+D.Bil, decrease to low, n=69,70,21 0 1 0
+D.Bil, change to normal or NC, 64 63
+21
+n=69,70,21
+D.Bil, increase to high, n=69,70,21 5 6 0
+Calcium, decrease to low, n=95,98,24 24 26 7
+Calcium, change to normal or NC, 55 52
+9
+n=95,98,24
+Calcium, increase to high, n=95,98,24 25 23 8
+Chloride, decrease to low, n=94,97,24 15 12 2
+Chloride, change to normal or NC, 66 65
+20
+n=94,97,24
+Chloride, increase to high, n=94,97,24 13 23 2
+LDH, decrease to low, n=92,98,23 1 1 0
+LDH, change to normal or NC, 47 54
+12
+n=92,98,23
+LDH, increase to high, n=92,98,23 44 44 11
+Protein, decrease to low, n=94,98,24 29 27 8
+Protein, change to normal or NC, 51 64
+14
+n=94,98,24
+Protein, increase to high, n=94,98,24 17 7 2
+BUN, decrease to low, n=90,93,24 10 13 0
+BUN, change to normal or NC, 69 60
+18
+n=90,93,24
+BUN, increase to high, n=90,93,24 12 22 6
+eGFR, decrease to low, n=51,67,19 9 10 5
+eGFR, change to normal or NC, 42 56
+14
+n=51,67,19
+eGFR, increase to high, n=51,67,19 0 1 1
+Notes:
+[72] - Full Safety Population
+[73] - Full Safety Population
+[74] - Full Safety Population
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 24  of 77
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with grade change from Baseline in clinical
+chemistry parameters
+End point title Number of participants with grade change from Baseline in
+clinical chemistry parameters
+End point description:
+Blood samples were collected for analysis of glucose(Gl), albumin, alkaline phosphatase (ALP), alanine
+aminotransferase(ALT), aspartate aminotransferase(AST), total bilirubin(T.Bil), creatinine kinase (CK),
+creatinine, gamma glutamyl transferase (GGT), potassium (Pot), magnesium (Mg), sodium (Sod),
+phosphate (Ph) and urate. Grading was as per NCI-CTCAE version 4.03. Grade1: mild; Grade2:
+moderate; Grade3: severe or medically significant; Grade4: life–threatening consequences. Baseline is
+latest pre-dose assessment(Day 1) with a non-missing value, including unscheduled visits. An increase
+is defined as an increase in CTCAE grade relative to Baseline grade. 3 out of 221participants did not
+receive any study treatment, were excluded from FSP. All the participants in the study were included in
+the analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[75] 99[76] 24[77]
+Units: Participants
+Gl, Hyper, increase to Grade 3, 3 4
+0
+n=94,95,24
+Gl, Hyper, increase to Grade 4, 0 0
+0
+n=94,95,24
+Gl, Hypo, increase to Grade 3, 0 0
+0
+n=94,95,24
+Gl, Hypo, increase to Grade 4, 0 0
+0
+n=94,95,24
+Albumin, increase to Grade 3, 4 7
+1
+n=94,98,24
+Albumin, increase to Grade 4, 0 0
+0
+n=94,98,24
+ALP, increase to Grade 3, n=93,97,24 1 0 0
+ALP, increase to Grade 4, n=93,97,24 0 0 0
+ALT, increase to Grade 3, n=93,97,24 0 0 0
+ALT, increase to Grade 4, n=93,97,24 0 0 0
+AST, increase to Grade 3, n=93,96,24 2 5 0
+AST, increase to Grade 4, n=93,96,24 0 0 0
+T.Bil, increase to Grade 3, n=92,97,23 0 0 0
+T.Bil, increase to Grade 4, n=92,97,23 0 0 0
+CK, increase to Grade 3, n= 87,91,24 0 0 1
+CK, increase to Grade 4, n= 87,91,24 1 0 0
+Creatinine, increase to Grade 3, n= 4 3
+0
+95,97,24
+Creatinine, increase to Grade 4, n= 1 0
+0
+95,97,24
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 25  of 77
+GGT, increase to Grade 3, n= 91,95,24 5 9 0
+GGT, increase to Grade 4, n= 91,95,24 0 1 0
+Pot, Hyper,increase to Grade 3, n= 0 1
+0
+95,97,24
+Pot, Hyper,increase to Grade 4, n= 0 0
+0
+95,97,24
+Pot, Hypo, increase to Grade 3, n= 0 2
+1
+95,97,24
+Pot, Hypo, increase to Grade 4, n= 2 0
+0
+95,97,24
+Mg, Hyper, increase to Grade 3, n= 3 0
+0
+91,96,24
+Mg, Hyper, increase to Grade 4, n= 0 0
+0
+91,96,24
+Mg, Hypo, increase to Grade 3, n= 0 0
+0
+91,96,24
+Mg, Hypo, increase to Grade 4, n= 0 0
+0
+91,96,24
+Phosphate, increase to Grade 3, n= 4 6
+1
+90,93,24
+Phosphate, increase to Grade 4, n= 0 0
+0
+90,93,24
+Sod, Hyper, increase to Grade 3, n= 0 0
+0
+95,97,24
+Sod, Hyper, increase to Grade 4, n= 0 0
+0
+95,97,24
+Sod, Hypo, increase to Grade 3, n= 2 6
+1
+95,97,24
+Sod, Hypo, increase to Grade 4, n= 0 0
+0
+95,97,24
+Urate, increase to Grade 3, n= 93,96,24 0 0 0
+Urate, increase to Grade 4, n= 93,96,24 3 4 0
+Notes:
+[75] - Full Safety Population
+[76] - Full Safety Population
+[77] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with abnormal findings during physical
+examination
+End point title Number of participants with abnormal findings during physical
+examination
+End point description:
+Physical examination included assessment of the head, eyes, ears, nose, throat, skin, thyroid, lungs,
+cardiovascular, abdomen (liver and spleen), lymph nodes, and extremities. This analysis was planned,
+but data was not collected and captured in the database.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 26  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 0[78] 0[79] 0[80]
+Units: Participants
+Notes:
+[78] - Full Safety Population
+[79] - Full Safety Population
+[80] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with change from Baseline in pulse rate
+End point title Number of participants with change from Baseline in pulse rate
+End point description:
+Baseline was defined as the latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Number of participants with worst case change from Baseline in pulse rate is
+presented. Data is categorized as: pulse rate 'decrease to <60 beats per minute [bpm]', 'increase to
+>100 bpm' and 'change to normal or no change'. If values were unchanged (example: increase to >100
+bpm to increase to >100 bpm), or whose value became normal, were recorded in the 'change to normal
+or no change' category. Participants were counted twice if the participant had both ‘decreased to <60
+bpm’ and ‘increased to >100 bpm’ during post Baseline. Data for worst-case post Baseline is presented.
+3 participants out of 221 participants did not receive any study treatment and thus, were excluded from
+the Full Safety Population.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[81] 99[82] 24[83]
+Units: Participants
+Decrease to <60 12 15 5
+Change to normal or no change 59 58 17
+Increase to >100 25 27 2
+Notes:
+[81] - Full Safety Population
+[82] - Full Safety Population
+[83] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with change from Baseline in body temperature
+End point title Number of participants with change from Baseline in body
+temperature
+End point description:
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 27  of 77
+Baseline was defined as the latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Number of participants with worst case change from Baseline in body temperature
+are presented. Data is categorized as: body temperature 'decrease to <=35 degrees celsius', 'increase
+to >=38 degrees celsius' and 'change to normal or no change'. If values were unchanged (example:
+increase to >=38 to increase to >=38 degrees celsius), or whose value became normal, were recorded
+in the 'change to normal or no change' category. Participants were counted twice if the participant had
+both ‘decreased to <=35’ and ‘increased to >=38 degrees celsius’ during post Baseline. Data for worst-
+case post Baseline is presented. 3 participants out of 221 participants did not receive any study
+treatment and thus, were excluded from the Full Safety Population.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[84] 99[85] 24[86]
+Units: Participants
+Decrease to <=35 1 2 0
+Change to normal or no change 86 86 21
+Increase to >=38 8 10 3
+Notes:
+[84] - Full Safety Population
+[85] - Full Safety Population
+[86] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with grade change from Baseline in systolic
+blood pressure (SBP) and diastolic blood pressure (DBP)
+End point title Number of participants with grade change from Baseline in
+systolic blood pressure (SBP) and diastolic blood pressure
+(DBP)
+End point description:
+SBP and DBP were graded using NCI CTCAE version 4.03. For SBP: Grade 0: <120 millimeter mercury
+(mmHg); Grade 1: 120-139 mmHg; Grade 2: 140-159 mmHg; Grade 3: >=160 mmHg. For DBP: Grade
+0: <80 mmHg; Grade 1: 80-89 mmHg; Grade 2: 90-99 mmHg; Grade 3: >=100 mmHg. Baseline was
+defined as the latest pre-dose assessment (Day 1) with a non-missing value, including unscheduled
+visits. An increase is defined as an increase in CTCAE grade relative to Baseline grade. Data for worst-
+case post Baseline is presented. Only those participants with increase to grade 2 and increase to grade 3
+have been presented. 3 participants out of 221 participants did not receive any study treatment and
+thus, were excluded from the Full Safety Population.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 28  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[87] 99[88] 24[89]
+Units: Participants
+SBP, increase to Grade 2 29 42 1
+SBP, increase to Grade 3 13 19 6
+DBP, increase to Grade 2 15 14 0
+DBP, increase to Grade 3 9 7 1
+Notes:
+[87] - Full Safety Population
+[88] - Full Safety Population
+[89] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of Participants with serious adverse events (SAEs), common
+(>=5%) non-serious adverse events and adverse events of special interest (AESI)
+End point title Number of Participants with serious adverse events (SAEs),
+common (>=5%) non-serious adverse events and adverse
+events of special interest (AESI)
+End point description:
+An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally
+associated with the use of a medicinal product, whether or not considered related to the medicinal
+product. SAE is defined as any untoward medical occurrence that; results in death, is life-threatening,
+requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity, is a
+congenital anomaly/birth defect, other situations judged by physician, is associated with liver injury and
+impaired liver function. Number of participants who had SAEs and common (>=5%) non-SAEs are
+presented. Number of participants with AESI (keratopathy, dry eye events, blurred vision,
+thrombocytopenia, infusion-related reactions, corneal events and neutropenia) are also presented.  3
+participants out of 221 participants did not receive any study treatment and thus, were excluded from
+the Full Safety Population.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[90] 99[91] 24[92]
+Units: Participants
+Common non-SAE 93 96 24
+SAE 38 47 15
+Keratopathy 67 74 22
+Dry eye events 13 23 6
+Blurred vision 21 30 7
+Thrombocytopenia 33 58 10
+Infusion-related reactions 20 16 3
+Corneal events 67 76 22
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 29  of 77
+Neutropenia 13 27 2
+Notes:
+[90] - Full Safety Population
+[91] - Full Safety Population
+[92] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with change from Baseline in best corrected
+visual acuity (BCVA) test scores
+End point title Number of participants with change from Baseline in best
+corrected visual acuity (BCVA) test scores
+End point description:
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. BCVA score was assessed individually for each eye. BCVA test scores were
+categorized as no change/improved vision, possible worsened vision and definite worsened vision. No
+change/improved vision was defined as a change from Baseline <0.12 Logarithm of the Minimum Angle
+of Resolution (logMAR) score; a possible worsened vision was defined as a change from Baseline >=0.12
+to <0.3 logMAR score; a definite worsened vision was defined as a change from Baseline >=0.3 logMAR
+score. 3 participants out of 221 participants did not receive any study treatment and thus, were
+excluded from the Full Safety Population. All the participants in the study were included in the analysis
+(95, 99 and 24 Participants), but only those participants with data available at the specified data points
+were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[93] 99[94] 24[95]
+Units: Participants
+Left eye, no change/improved vision, 38 46
+6
+n=88,94,24
+Left eye, possible worsened vision, 12 16
+3
+n=88,94,24
+Left eye, definite worsened vision, 38 32
+15
+n=88,94,24
+Right eye, no change/improved vision, 34 39
+5
+n=87,93,23
+Right eye, possible worsened vision, 24 18
+8
+n=87,93,23
+Right eye, definite worsened vision, 29 36
+10
+n=87,93,23
+Notes:
+[93] - Full Safety Population
+[94] - Full Safety Population
+[95] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 30  of 77
+Secondary: Number of participants with intraocular pressure (IOP) >=22 mmHg
+anytime post-Baseline
+End point title Number of participants with intraocular pressure (IOP) >=22
+mmHg anytime post-Baseline
+End point description:
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. IOP was assessed individually for each eye. Number of participants with IOP >=22
+mmHg anytime post-Baseline are presented. 3 participants out of 221 participants did not receive any
+study treatment and thus, were excluded from the Full Safety Population. All the participants in the
+study were included in the analysis (95, 99 and 24 Participants), but only those participants with data
+available at the specified data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[96] 99[97] 24[98]
+Units: Participants
+Right eye, n=88,93,23 14 13 8
+Left eye, n=88,92,24 12 12 7
+Notes:
+[96] - Full Safety Population
+[97] - Full Safety Population
+[98] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with shift in pupillary examination findings from
+normal (Baseline) to abnormal (worst post-Baseline)
+End point title Number of participants with shift in pupillary examination
+findings from normal (Baseline) to abnormal (worst post-
+Baseline)
+End point description:
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Number of participants with shift in pupillary examination findings from normal
+(Baseline) to abnormal (worst post-Baseline) are presented. 3 participants out of 221 participants did
+not receive any study treatment and thus, were excluded from the Full Safety Population. Only those
+participants with data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline and Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 31  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 91[99] 90[100] 23[101]
+Units: Participants 4 9 1
+Notes:
+[99] - Full Safety Population
+[100] - Full Safety Population
+[101] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with shift in extraocular muscle movement from
+yes (Baseline) to no (worst post-Baseline)
+End point title Number of participants with shift in extraocular muscle
+movement from yes (Baseline) to no (worst post-Baseline)
+End point description:
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Extraocular muscle movement was assessed individually for each eye. Number of
+participants with shift in extraocular muscle movement from yes (Baseline) to no (worst post-Baseline)
+are presented. 3 participants out of 221 participants did not receive any study treatment and thus, were
+excluded from the Full Safety Population. All the participants in the study were included in the analysis
+(95, 99 and 24 Participants), but only those participants with data available at the specified data points
+were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Baseline and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[102] 99[103] 24[104]
+Units: Participants
+Right eye,n=95,93,23 0 4 0
+Left eye,n=93,92,22 0 2 0
+Notes:
+[102] - Full Safety Population
+[103] - Full Safety Population
+[104] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with shift in corneal epithelium findings from
+normal (Baseline) to abnormal (worst post-Baseline) for corneal epithelium (CE)
+and corneal stroma (CS)
+End point title Number of participants with shift in corneal epithelium findings
+from normal (Baseline) to abnormal (worst post-Baseline) for
+corneal epithelium (CE) and corneal stroma (CS)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 32  of 77
+End point description:
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Corneal epithelium findings for CE and CS were assessed individually for each eye.
+Number of participants with shift in corneal epithelium findings from normal (Baseline) to abnormal
+(worst post-Baseline) for CE and CS are presented. 3 participants out of 221 participants did not receive
+any study treatment and thus, were excluded from the Full Safety Population. All the participants in the
+study were included in the analysis (95, 99 and 24 Participants), but only those participants with data
+available at the specified data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Baseline and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[105] 99[106] 24[107]
+Units: Participants
+CE, Right eye, n=53,54,17 39 40 15
+CE, Left eye,n=55,55,15 39 44 13
+CS, Right eye,n=92,94,24 5 4 1
+CS, Left eye,n=92,89,23 6 3 2
+Notes:
+[105] - Full Safety Population
+[106] - Full Safety Population
+[107] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with shift in corneal epithelium findings from no
+(Baseline) to yes (worst post-Baseline)
+End point title Number of participants with shift in corneal epithelium findings
+from no (Baseline) to yes (worst post-Baseline)
+End point description:
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Corneal epithelium findings like active edema, active opacity, corneal
+neovascularization (CN), corneal ulcer, epithelial microcystic edema (EME) and subepithelial were
+performed using a slit lamp. Number of participants with shift in corneal epithelium findings from no
+(Baseline) to yes (worst post-Baseline) are presented. 3 participants out of 221 participants did not
+receive any study treatment and thus, were excluded from the Full Safety Population. All the
+participants in the study were included in the analysis (95, 99 and 24 Participants), but only those
+participants with data available at the specified data points were analyzed (represented by n=X in the
+category titles).
+End point type Secondary
+End point timeframe:
+Baseline and Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 33  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[108] 99[109] 24[110]
+Units: Participants
+Active edema, Right eye, n=94,99,24 3 3 1
+Active edema, Left eye,n=95,99,24 4 2 1
+Active opacity, Right eye,n=93,97,24 2 2 1
+Active opacity, Left eye,n=94,95,24 3 2 1
+CN, Right eye,n=93,99,24 1 2 0
+CN, Left eye,n=93,99,23 0 1 0
+Corneal ulcer, Right eye,n=61,60,22 0 0 0
+Corneal ulcer, Left eye,n=63,61,20 0 1 0
+EME, Right eye,n=95,99,24 13 19 7
+EME, Left eye,n=95,99,23 15 21 7
+Subepithelial haze, Right 14 26
+5
+eye,n=95,98,24
+Subepithelial haze, Left eye,n=95,97,23 14 25 5
+Notes:
+[108] - Full Safety Population
+[109] - Full Safety Population
+[110] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with shift in tear break-up time from >10
+seconds (Baseline) to <=5 seconds (worst post-Baseline)
+End point title Number of participants with shift in tear break-up time from
+>10 seconds (Baseline) to <=5 seconds (worst post-Baseline)
+End point description:
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Number of participants with shift in tear break-up time from >10 seconds (Baseline)
+to <=5 seconds (worst post-Baseline) are presented. 3 participants out of 221 participants did not
+receive any study treatment and thus, were excluded from the Full Safety Population. All the
+participants in the study were included in the analysis (95, 99 and 24 Participants), but only those
+participants with data available at the specified data points were analyzed (represented by n=X in the
+category titles).
+End point type Secondary
+End point timeframe:
+Baseline and Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[111] 99[112] 24[113]
+Units: Participants
+Left eye,n=34,30,2 12 8 0
+Right eye,n=30,31,2 11 10 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 34  of 77
+Notes:
+[111] - Full Safety Population
+[112] - Full Safety Population
+[113] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Area under the concentration-time curve from time zero extrapolated to
+infinite time (AUC[0-infinity]) of GSK2857916 following IV dose in participants with
+RRMM
+End point title Area under the concentration-time curve from time zero
+extrapolated to infinite time (AUC[0-infinity]) of GSK2857916
+following IV dose in participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. Pharmacokinetic (PK) parameters of
+GSK2857916 were calculated using non-compartmental methods. Full Pharmacokinetic (PK) Population
+comprised of all participants in the Full Safety Population who had atleast 1 non-missing PK assessment.
+All the participants in the study were included in the analysis (95, 99 and 24 Participants), but only
+those participants with data available at the specified data points were analyzed (represented by n=X in
+the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, end of infusion (EOI), 2 hours and 24 hours post start of infusion (SOI)
+on Day 1, anytime on Day 4, and anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[114] 99[115] 24[116]
+Units: Hours*microgram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1,n=26,18,18 5644 (± 39.6) 6495 (± 54.3) 6962 (± 51.4)
+Cycle 3, n=19,21,9 7848 (± 42.7) 9199 (± 45.1) 9694 (± 49.9)
+Notes:
+[114] - Full PK Population
+[115] - Full PK Population
+[116] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Area under the concentration-time curve over the dosing interval
+(AUC[0-tau]) of GSK2857916 following IV dose in participants With RRMM
+End point title Area under the concentration-time curve over the dosing
+interval (AUC[0-tau]) of GSK2857916 following IV dose in
+participants With RRMM
+End point description:
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 35  of 77
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[117] 99[118] 24[119]
+Units: Hours*microgram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=30,20,22 4666 (± 45.7) 5678 (± 40.1) 5946 (± 37.2)
+Cycle 3, n=26,24,11 6399 (± 31.6) 6941 (± 34.2) 7593 (± 34.5)
+Notes:
+[117] - Full PK Population
+[118] - Full PK Population
+[119] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Area under the concentration-time curve from zero to time of last
+quantifiable concentration (AUC[0-tlast]) of GSK2857916 following IV dose in
+participants with RRMM
+End point title Area under the concentration-time curve from zero to time of
+last quantifiable concentration (AUC[0-tlast]) of GSK2857916
+following IV dose in participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[120] 99[121] 24[122]
+Units: Hours*microgram per milliliter
+geometric mean (geometric coefficient
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 36  of 77
+of variation)
+Cycle 1, n=32,21,22 4607 (± 54.4) 5567 (± 51.0) 6293 (± 45.7)
+Cycle 3, n=28,28,11 6033 (± 44.7) 6084 (± 73.8) 8388 (± 46.1)
+Notes:
+[120] - Full PK Population
+[121] - Full PK Population
+[122] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Maximum observed concentration (Cmax) of GSK2857916 following IV
+dose in participants with RRMM
+End point title Maximum observed concentration (Cmax) of GSK2857916
+following IV dose in participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[123] 99[124] 24[125]
+Units: Microgram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=32,21,22 42.51 (± 26.3) 52.03 (± 19.8) 51.32 (± 18.3)
+Cycle 3, n=29,28,11 42.35 (± 25.6) 45.5 (± 25.3) 48.06 (± 17.1)
+Notes:
+[123] - Full PK Population
+[124] - Full PK Population
+[125] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Time to reach maximum observed concentration (Tmax) of GSK2857916
+following IV dose in participants with RRMM
+End point title Time to reach maximum observed concentration (Tmax) of
+GSK2857916 following IV dose in participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 37  of 77
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[126] 99[127] 24[128]
+Units: Hours
+median (full range (min-max))
+Cycle 1, n=32,21,22 0.780 (0.42 to 0.700 (0.43 to 0.750 (0.48 to
+2.50) 2.15) 2.88)
+Cycle 3, n=29,28,11 0.580 (0.47 to 0.715 (0.42 to 0.870 (0.50 to
+2.03) 2.90) 2.02)
+Notes:
+[126] - Full PK Population
+[127] - Full PK Population
+[128] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Terminal half-life (t1/2) of GSK2857916 following IV dose in
+participants with RRMM
+End point title Terminal half-life (t1/2) of GSK2857916 following IV dose in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[129] 99[130] 24[131]
+Units: Hours
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=29,19,22 164.4 (± 46.2) 165.8 (± 55.0) 196.2 (± 40.9)
+Cycle 3, n=26,23,11 193.7 (± 48.4) 214.4 (± 45.9) 279.5 (± 40.3)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 38  of 77
+Notes:
+[129] - Full PK Population
+[130] - Full PK Population
+[131] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: AUC(0-infinity) of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point title AUC(0-infinity) of GSK2857916 total antibody following IV dose
+in participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 total antibody
+were calculated using non-compartmental methods. All the participants in the study were included in the
+analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[132] 99[133] 24[134]
+Units: Hours*microgram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=16,10,9 10268 (± 65.8)10209 (± 64.9)10170 (± 75.0)
+Cycle 3, n=10,11,3 20526 (± 45.1)18637 (± 69.4) 22782 (±
+161.1)
+Notes:
+[132] - Full PK Population
+[133] - Full PK Population
+[134] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: AUC(0-tau) of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point title AUC(0-tau) of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 total antibody
+were calculated using non-compartmental methods. All the participants in the study were included in the
+analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 39  of 77
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[135] 99[136] 24[137]
+Units: Hours*microgram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=29,18,19 7305 (± 41.9) 9566 (± 42.2) 9029 (± 40.2)
+Cycle 3, n=23,24,11 11243 (± 34.6)11646 (± 38.0)15311 (± 43.9)
+Notes:
+[135] - Full PK Population
+[136] - Full PK Population
+[137] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: AUC(0-tlast) of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point title AUC(0-tlast) of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 total antibody
+were calculated using non-compartmental methods. All the participants in the study were included in the
+analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[138] 99[139] 24[140]
+Units: Hours*microgram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=30,19,20 7417 (± 58.5) 9628 (± 52.8) 9017 (± 55.4)
+Cycle 3, n=27,26,11 10725 (± 59.4)11295 (± 80.0)17715 (± 61.0)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 40  of 77
+Notes:
+[138] - Full PK Population
+[139] - Full PK Population
+[140] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Cmax of GSK2857916 total antibody following IV dose in participants
+with RRMM
+End point title Cmax of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 total antibody
+were calculated using non-compartmental methods. All the participants in the study were included in the
+analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[141] 99[142] 24[143]
+Units: Microgram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=30,19,20 48.94 (± 30.0) 61.06 (± 26.9) 60.08 (± 18.3)
+Cycle 3, n=29,28,11 49.34 (± 32.9) 55.60 (± 26.5) 65.07 (± 17.4)
+Notes:
+[141] - Full PK Population
+[142] - Full PK Population
+[143] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Tmax of GSK2857916 total antibody following IV dose in participants
+with RRMM
+End point title Tmax of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 total antibody
+were calculated using non-compartmental methods. All the participants in the study were included in the
+analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 41  of 77
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[144] 99[145] 24[146]
+Units: Hours
+median (full range (min-max))
+Cycle 1, n=30,19,20 1.750 (0.42 to 1.870 (0.50 to 0.650 (0.48 to
+2.50) 24.50) 2.17)
+Cycle 3, n=29,28,11 0.830 (0.47 to 1.150 (0.42 to 1.750 (0.50 to
+46.05) 2.90) 2.02)
+Notes:
+[144] - Full PK Population
+[145] - Full PK Population
+[146] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: t1/2 of GSK2857916 total antibody following IV dose in participants
+with RRMM
+End point title t1/2 of GSK2857916 total antibody following IV dose in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of GSK2857916 total antibody
+were calculated using non-compartmental methods. All the participants in the study were included in the
+analysis (95, 99 and 24 Participants), but only those participants with data available at the specified
+data points were analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[147] 99[148] 24[149]
+Units: Hours
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=29,17,19 241.8 (± 49.3) 250.8 (± 70.3) 299.8 (± 61.0)
+Cycle 3, n=23,23,11 352.4 (± 52.6) 372.0 (± 49.6) 557.3 (± 91.7)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 42  of 77
+Notes:
+[147] - Full PK Population
+[148] - Full PK Population
+[149] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: AUC(0-infinity) of Cysteine-maleimidocaproyl monomethyl auristatin F
+(Cys-mcMMAF) following IV dose of GSK2857916 in participants with RRMM
+End point title AUC(0-infinity) of Cysteine-maleimidocaproyl monomethyl
+auristatin F (Cys-mcMMAF) following IV dose of GSK2857916 in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of  Cys-mcMMAF were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles). 66666 indicates Cys-mcMMAF was not detectable
+throughout the elimination phase; therefore, AUC(0-infinity) could not be estimated.
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[150] 99[151] 24[152]
+Units: Hours*nanogram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=27,20,19 66666 (± 66666 (± 66666 (±
+66666) 66666) 66666)
+Cycle 3, n=26,29,11 66666 (± 66666 (± 66666 (±
+66666) 66666) 66666)
+Notes:
+[150] - Full PK Population
+[151] - Full PK Population
+[152] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: AUC(0-tau) of Cys-mcMMAF following IV dose of GSK2857916 in
+participants with RRMM
+End point title AUC(0-tau) of Cys-mcMMAF following IV dose of GSK2857916
+in participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of  Cys-mcMMAF were calculated
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 43  of 77
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles). 66666 indicates Cys-mcMMAF was not detectable
+throughout the dosing interval; therefore, AUC(0-tau) could not be estimated.
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[153] 99[154] 24[155]
+Units: Hours*nanogram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=27,20,19 66666 (± 66666 (± 66666 (±
+66666) 66666) 66666)
+Cycle 3, n=26,29,11 66666 (± 66666 (± 66666 (±
+66666) 66666) 66666)
+Notes:
+[153] - Full PK Population
+[154] - Full PK Population
+[155] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: AUC(0-tlast) of Cysteine-maleimidocaproyl monomethyl auristatin F
+(Cys-mcMMAF) following IV dose of GSK2857916 in participants with RRMM
+End point title AUC(0-tlast) of Cysteine-maleimidocaproyl monomethyl
+auristatin F (Cys-mcMMAF) following IV dose of GSK2857916 in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of  Cys-mcMMAF were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 44  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[156] 99[157] 24[158]
+Units: Hours*nanogram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=27,20,19 79.26 (± 61.0) 113.57 (± 100.35 (±
+58.3) 51.8)
+Cycle 3, n=26,29,11 70.84 (± 46.9) 74.04 (± 73.0) 69.83 (± 36.6)
+Notes:
+[156] - Full PK Population
+[157] - Full PK Population
+[158] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Cmax of Cys-mcMMAF following IV dose of GSK2857916 in participants
+with RRMM
+End point title Cmax of Cys-mcMMAF following IV dose of GSK2857916 in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of  Cys-mcMMAF were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[159] 99[160] 24[161]
+Units: Nanogram per milliliter
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=27,20,19 0.903 (± 63.9) 1.148 (± 64.7) 1.017 (± 61.4)
+Cycle 3, n=26,29,11 0.660 (± 52.3) 0.749 (± 66.2) 0.656 (± 47.6)
+Notes:
+[159] - Full PK Population
+[160] - Full PK Population
+[161] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 45  of 77
+Secondary: Tmax of Cys-mcMMAF following IV dose of GSK2857916 in participants
+with RRMM
+End point title Tmax of Cys-mcMMAF following IV dose of GSK2857916 in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of  Cys-mcMMAF were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles).
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[162] 99[163] 24[164]
+Units: Hours
+median (full range (min-max))
+Cycle 1, n=27,20,19 22.830 (1.92 23.835 (17.38 24.080 (0.97
+to 65.63) to 72.65) to 69.47)
+Cycle 3, n=26,29,11 23.235 (0.58 22.570 (0.55 22.780 (0.50
+to 46.08) to 70.98) to 71.93)
+Notes:
+[162] - Full PK Population
+[163] - Full PK Population
+[164] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: t1/2 of Cys-mcMMAF following IV dose of GSK2857916 in participants
+with RRMM
+End point title t1/2 of Cys-mcMMAF following IV dose of GSK2857916 in
+participants with RRMM
+End point description:
+Blood samples were collected at designated timepoints. PK parameters of  Cys-mcMMAF were calculated
+using non-compartmental methods. All the participants in the study were included in the analysis (95,
+99 and 24 Participants), but only those participants with data available at the specified data points were
+analyzed (represented by n=X in the category titles). 66666 indicates Cys-mcMMAF was not detectable
+throughout the elimination phase; therefore, t1/2 could not be estimated.
+End point type Secondary
+End point timeframe:
+Cycle 1 and Cycle 3: Pre-dose, EOI, 2 hours and 24 hours post SOI on Day 1, anytime on Day 4, and
+anytime on Day 8 to Day 15 (each cycle of 21 days)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 46  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[165] 99[166] 24[167]
+Units: Hours
+geometric mean (geometric coefficient
+of variation)
+Cycle 1, n=27,20,19 66666 (± 66666 (± 66666 (±
+66666) 66666) 66666)
+Cycle 3, n=26,29,11 66666 (± 66666 (± 66666 (±
+66666) 66666) 66666)
+Notes:
+[165] - Full PK Population
+[166] - Full PK Population
+[167] - Full PK Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with at least one confirmed positive post-
+Baseline anti-drug antibody (ADA) result
+End point title Number of participants with at least one confirmed positive
+post-Baseline anti-drug antibody (ADA) result
+End point description:
+Serum samples were collected for the determination of anti-GSK2857916 antibodies (ADA) using a
+validated electrochemiluminescent (ECL) immunoassay. The assay involved screening, confirmation and
+titration steps. If serum samples tested positive in the screening assay, they were considered
+'potentially positive' and were further analyzed for the specificity using the confirmation assay. Samples
+that confirmed positive in the confirmation assay were reported as 'positive'. Confirmed positive ADA
+samples were further characterized in the titration assay to quasi-quantitate the amount of ADA in the
+sample. Additionally, confirmed positive ADA samples were also tested in a validated neutralizing
+antibody assay to determine the potential neutralizing activity of the ADA. 3 participants out of 221
+participants did not receive any study treatment and thus, were excluded from the Full Safety
+Population. Only those participants with data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 89[168] 92[169] 22[170]
+Units: Participants 2 0 0
+Notes:
+[168] - Full Safety Population
+[169] - Full Safety Population
+[170] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 47  of 77
+Secondary: Titers of anti-drug antibodies against GSK2857916
+End point title Titers of anti-drug antibodies against GSK2857916
+End point description:
+Serum samples were collected for the determination of ADA using a validated ECL immunoassay. The
+assay involved screening, confirmation and titration steps. If serum samples contained ADA, they were
+further analyzed for the specificity of antibodies by a confirmation assay. Confirmed positive samples
+were titrated to obtain the titers of antibodies. Titers of anti-drug antibodies against GSK2857916 is
+presented. 3 participants out of 221 participants did not receive any study treatment and thus, were
+excluded from the Full Safety Population. Only those participants with data available at the specified
+data points were analyzed. No participant was found with positive results for ADA test in arms;
+GSK2857916 3.4 mg/kg (Frozen liquid) and GSK2857916 3.4 mg/kg (Lyophilized). Hence, titer values
+are not presented for both these arms.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 2[171] 0[172] 0[173]
+Units: Titers
+arithmetic mean (standard deviation) 100 (± 0)  ()  ()
+Notes:
+[171] - Full Safety Population
+[172] - Full Safety Population
+[173] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Number of participants with symptomatic AEs measured by patient-
+reported outcomes version of the common terminology criteria for adverse events
+(PRO-CTCAE)
+End point title Number of participants with symptomatic AEs measured by
+patient-reported outcomes version of the common terminology
+criteria for adverse events (PRO-CTCAE)
+End point description:
+The PRO-CTCAE is a patient-reported outcome measure developed to evaluate symptomatic toxicity in
+participants on cancer clinical trials. It included symptomatic toxicities drawn from the CTCAE like
+blurred vision (BV), chills, constipation, decreased appetite (DA), fatigue, general pain (GP), heart
+palpitations (HP), mouth/throat (M/T) sores, nausea, nosebleed, shortness of breath (SB), vomiting and
+watery eyes (WE). Items were scored individually on a 0 to 4 scale for severity, frequency and
+interference. Number of participants with symptomatic AEs (those who had a maximum post-Baseline
+rating greater than 0, example; 1, 2, 3, or 4) measured by PRO-CTCAE are presented. 3 participants out
+of 221 participants did not receive any study treatment and thus, were excluded from the Full Safety
+Population.
+End point type Secondary
+End point timeframe:
+Up to 48 weeks
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 48  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 95[174] 99[175] 24[176]
+Units: Participants
+BV 58 63 18
+Chills 38 33 11
+Constipation 39 43 15
+DA 59 61 16
+Fatigue 80 85 21
+GP 76 77 19
+HP 31 28 12
+M/T sores 24 21 7
+Nausea 42 45 11
+Nosebleed 16 32 4
+SB 57 52 16
+Vomiting 15 23 4
+WE 48 53 18
+Notes:
+[174] - Full Safety Population
+[175] - Full Safety Population
+[176] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Worst change from Baseline in National Eye Institute Visual Function
+Questionnaire-25 (NEI-VFQ-25) overall composite score
+End point title Worst change from Baseline in National Eye Institute Visual
+Function Questionnaire-25 (NEI-VFQ-25) overall composite
+score
+End point description:
+The NEI-VFQ-25 consisted of a base set of 25 vision-targeted questions representing 11 vision-related
+constructs, plus an additional single-item general health rating question to assess the impact of ocular
+toxicity on visual function. Items were coded to a 0 to 100 scale and averaged to calculate domains.
+Domain scores ranged from 0 to 100; higher scores are better. Therefore, increase in score means
+improvement. Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value,
+including unscheduled visits. Change from Baseline was calculated by subtracting Baseline value from
+the post-dose visit value. Data for worst-case post Baseline is presented. 3 participants out of 221
+participants did not receive any study treatment and thus, were excluded from the Full Safety
+Population. Only those participants with data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and up to Week 48
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 49  of 77
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 82[177] 90[178] 22[179]
+Units: Scores on a scale
+-18.8 (± -17.6 (± -21.4 (±
+arithmetic mean (standard deviation)
+22.00) 21.13) 23.71)
+Notes:
+[177] - Full Safety Population
+[178] - Full Safety Population
+[179] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Worst change from Baseline in Ocular Surface Disease Index (OSDI)
+total score
+End point title Worst change from Baseline in Ocular Surface Disease Index
+(OSDI) total score
+End point description:
+The OSDI is a 12-item questionnaire designed to assess both the frequency of dry eye symptoms and
+their impact on vision-related functioning. The total OSDI score was calculated as (sum of scores for all
+questions answered*100) divided by (total number of questions answered*4). Domain scores ranged
+from 0 to 100; lower scores are better. Therefore, decrease in score from Baseline means improvement.
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Change from Baseline was calculated by subtracting Baseline value from the post-
+dose visit value. Data for worst-case post Baseline is presented. 3 participants out of 221 participants
+did not receive any study treatment and thus, were excluded from the Full Safety Population. Only those
+participants with data available at the specified data points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and up to Week 48
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 82[180] 91[181] 22[182]
+Units: Scores on a scale
+arithmetic mean (standard deviation) 25.4 (± 28.99) 25.1 (± 28.10) 34.3 (± 29.57)
+Notes:
+[180] - Full Safety Population
+[181] - Full Safety Population
+[182] - Full Safety Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Change from Baseline in European Organization for Research and
+Treatment of Cancer Quality of Life Questionnaire 30-item Core module (EORTC
+QLQ-C30) score
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 50  of 77
+End point title Change from Baseline in European Organization for Research
+and Treatment of Cancer Quality of Life Questionnaire 30-item
+Core module (EORTC QLQ-C30) score
+End point description:
+The EORTC QLQ-C30 includes physical functioning [PF], role functioning [RF], cognitive functioning [CF],
+emotional functioning [EF] and social functioning [SF]), (fatigue, pain and nausea/vomiting [N/V]), a
+global health status (GHS)/ Quality-of-Life (QoL) scale, (constipation, diarrhea, insomnia, dyspnea,
+appetite loss [AL] and financial difficulties [FD]). Response options: 1 to 4. Scores were averaged and
+transformed to 0 to 100, a high score for functional scales/ GHS/QoL- better functioning ability or
+health-related quality-of-life (HRQoL), whereas a high score for symptom scales/ single items-
+significant symptomatology. Baseline was defined as latest pre-dose assessment with a non-missing
+value, including unscheduled visits. Change from Baseline was calculated by post-dose visit minus
+Baseline value. Only those participants with data available at the specified data points were analyzed
+(represented by n=X in the category titles). 99999 indicates the data is not available.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 07, Week 13, Week 19, Week 25, Week 31, Week 37 and Week 43
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 46[183] 46[184] 17[185]
+Units: Scores on a scale
+arithmetic mean (standard deviation)
+GHS/QoL,Week 07,n=46,46,17 0.4 (± 20.18) -4.7 (± 18.23) 1.5 (± 23.80)
+GHS/QoL,Week 13,n=29,28,16 -3.2 (± 18.42) 5.7 (± 16.36) 1.0 (± 14.23)
+GHS/QoL,Week 19,n=19,26,10 -2.2 (± 13.84) 1.9 (± 18.30) -0.0 (± 12.42)
+GHS/QoL,Week 25,n=19,23,4 -4.4 (± 16.52) -2.5 (± 20.94) 8.3 (± 11.79)
+GHS/QoL,Week 31,n=12,14,0 -2.1 (± 12.37) 8.9 (± 17.13) 99999 (±
+99999)
+GHS/QoL,Week 37,n=4,3,0 -2.1 (± 4.17) 11.1 (± 12.73) 99999 (±
+99999)
+GHS/QoL,Week 43,n=0,2,0 99999 (± 25.0 (± 0.00) 99999 (±
+99999) 99999)
+PF,Week 07,n=46,46,17 5.1 (± 15.34) -1.6 (± 21.78) -5.5 (± 24.18)
+PF,Week 13,n=29,28,16 0.7 (± 14.62) 6.4 (± 15.02) -12.5 (±
+23.84)
+PF,Week 19,n=19,26,10 0.4 (± 13.78) 4.9 (± 24.77) -4.0 (± 14.81)
+PF,Week 25,n=19,23,4 1.8 (± 12.34) 5.5 (± 25.08) 3.3 (± 12.77)
+PF,Week 31,n=12,14,0 -1.1 (± 8.45) 9.0 (± 18.42) 99999 (±
+99999)
+PF,Week 37,n=4,3,0 6.7 (± 9.43) 22.2 (± 34.21) 99999 (±
+99999)
+PF,Week 43,n=0,2,0 99999 (± 43.3 (± 23.57) 99999 (±
+99999) 99999)
+RF,Week 07,n=46,46,17 0.7 (± 33.88) -8.3 (± 32.35) -7.8 (± 25.08)
+RF,Week 13,n=29,28,16 2.3 (± 33.55) -0.6 (± 33.48) -6.3 (± 30.96)
+RF,Week 19,n=19,26,10 -4.4 (± 31.35) -3.2 (± 30.56) -5.0 (± 23.64)
+RF,Week 25,n=19,23,4 2.6 (± 33.45) 0.0 (± 32.57) 0.0 (± 36.00)
+RF,Week 31,n=12,14,0 13.9 (± 22.29) 1.2 (± 32.99) 99999 (±
+99999)
+RF,Week 37,n=4,3,0 4.2 (± 8.33) 27.8 (± 34.69) 99999 (±
+99999)
+RF,Week 43,n=0,2,0 99999 (± 33.3 (± 47.14) 99999 (±
+99999) 99999)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 51  of 77
+EF,Week 07,n=46,46,17 1.8 (± 19.08) 1.1 (± 27.31) -4.4 (± 21.27)
+EF,Week 13,n=29,28,16 -2.0 (± 23.00) 2.4 (± 28.41) -9.4 (± 23.35)
+EF,Week 19,n=19,26,10 0.4 (± 19.93) 1.9 (± 20.59) -1.7 (± 21.08)
+EF,Week 25,n=19,23,4 -4.8 (± 21.75) 4.0 (± 20.39) 0.0 (± 18.00)
+EF,Week 31,n=12,14,0 2.1 (± 21.94) 4.2 (± 26.70) 99999 (±
+99999)
+EF,Week 37,n=4,3,0 4.2 (± 8.33) 25.0 (± 36.32) 99999 (±
+99999)
+EF,Week 43,n=0,2,0 99999 (± 45.8 (± 41.25) 99999 (±
+99999) 99999)
+CF,Week 07,n=46,46,17 4.7 (± 20.98) -2.2 (± 21.26) -1.0 (± 20.81)
+CF,Week 13,n=29,28,16 2.3 (± 23.45) -0.6 (± 16.03) -15.6 (±
+27.53)
+CF,Week 19,n=19,26,10 -1.8 (± 26.58) -0.6 (± 23.32) -6.7 (± 21.08)
+CF,Week 25,n=19,23,4 -1.8 (± 28.27) 1.4 (± 21.27) -4.2 (± 20.97)
+CF,Week 31,n=12,14,0 9.7 (± 25.08) -0.0 (± 18.49) 99999 (±
+99999)
+CF,Week 37,n=4,3,0 8.3 (± 28.87) 11.1 (± 19.25) 99999 (±
+99999)
+CF,Week 43,n=0,2,0 99999 (± 16.7 (± 23.57) 99999 (±
+99999) 99999)
+SF,Week 07,n=46,46,17 4.7 (± 29.12) 0.7 (± 32.76) -1.0 (± 33.58)
+SF,Week 13,n=29,28,16 -4.0 (± 28.75) 3.6 (± 31.54) -7.3 (± 31.01)
+SF,Week 19,n=19,26,10 -6.1 (± 28.44) 4.5 (± 28.50) -6.7 (± 28.54)
+SF,Week 25,n=19,23,4 -7.9 (± 26.86) 13.8 (± 22.84) -0.0 (± 36.00)
+SF,Week 31,n=12,14,0 2.8 (± 13.91) 21.4 (± 30.26) 99999 (±
+99999)
+SF,Week 37,n=4,3,0 -4.2 (± 15.96) 38.9 (± 25.46) 99999 (±
+99999)
+SF,Week 43,n=0,2,0 99999 (± 66.7 (± 47.14) 99999 (±
+99999) 99999)
+Fatigue,Week 07,n=46,46,17 -4.3 (± 22.03) 0.5 (± 23.07) -5.2 (± 20.83)
+Fatigue,Week 13,n=29,28,16 -7.7 (± 23.78) -9.1 (± 22.44) -1.4 (± 24.97)
+Fatigue,Week 19,n=19,26,10 -0.6 (± 22.67) 0.9 (± 18.03) -11.1 (±
+15.71)
+Fatigue,Week 25,n=19,23,4 4.7 (± 23.52) -2.4 (± 21.70) -2.8 (± 10.64)
+Fatigue,Week 31,n=12,14,0 -0.0 (± 21.71) -12.7 (± 99999 (±
+19.90) 99999)
+Fatigue,Week 37,n=4,3,0 0.0 (± 9.07) -25.9 (± 99999 (±
+35.72) 99999)
+Fatigue,Week 43,n=0,2,0 99999 (± -44.4 (± 99999 (±
+99999) 62.85) 99999)
+N/V,Week 07,n=46,46,17 2.2 (± 14.32) 5.1 (± 17.17) 2.0 (± 14.29)
+N/V,Week 13,n=29,28,16 2.3 (± 13.16) 2.4 (± 8.74) 7.3 (± 25.80)
+N/V,Week 19,n=19,26,10 -1.8 (± 15.61) 1.3 (± 12.40) 1.7 (± 5.27)
+N/V,Week 25,n=19,23,4 5.3 (± 12.49) -0.7 (± 12.79) 0.0 (± 0.00)
+N/V,Week 31,n=12,14,0 -4.2 (± 7.54) 2.4 (± 6.05) 99999 (±
+99999)
+N/V,Week 37,n=4,3,0 0.0 (± 0.00) 0.0 (± 0.00) 99999 (±
+99999)
+N/V,Week 43,n=0,2,0 99999 (± 0.0 (± 0.00) 99999 (±
+99999) 99999)
+Pain,Week 07,n=46,46,17 -4.7 (± 27.37) 0.7 (± 25.81) 8.8 (± 28.33)
+Pain,Week 13,n=29,28,16 -4.0 (± 26.97) -4.2 (± 26.30) 5.2 (± 27.02)
+Pain,Week 19,n=19,26,10 4.4 (± 19.12) -3.8 (± 27.61) 1.7 (± 30.88)
+Pain,Week 25,n=19,23,4 3.5 (± 18.07) -1.4 (± 24.57) -12.5 (±
+20.97)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 52  of 77
+Pain,Week 31,n=12,14,0 5.6 (± 17.88) -3.6 (± 18.70) 99999 (±
+99999)
+Pain,Week 37,n=4,3,0 12.5 (± 15.96) -11.1 (± 99999 (±
+19.25) 99999)
+Pain,Week 43,n=0,2,0 99999 (± -16.7 (± 99999 (±
+99999) 47.14) 99999)
+Dyspnoea,Week 07,n=46,46,17 -2.2 (± 21.55) 1.4 (± 13.98) -7.8 (± 18.74)
+Dyspnoea,Week 13,n=29,28,16 -1.1 (± 18.86) -0.0 (± 18.14) 2.1 (± 30.96)
+Dyspnoea,Week 19,n=19,26,10 -5.3 (± 20.07) 6.4 (± 21.12) -16.7 (±
+28.33)
+Dyspnoea,Week 25,n=19,23,4 -1.8 (± 20.71) 4.3 (± 18.27) 8.3 (± 31.91)
+Dyspnoea,Week 31,n=12,14,0 -11.1 (± 0.0 (± 18.49) 99999 (±
+16.41) 99999)
+Dyspnoea,Week 37,n=4,3,0 -16.7 (± 11.1 (± 19.25) 99999 (±
+19.25) 99999)
+Dyspnoea,Week 43,n=0,2,0 99999 (± 0.0 (± 0.00) 99999 (±
+99999) 99999)
+Insomnia,Week 07,n=46,46,17 -6.5 (± 30.32) -1.4 (± 25.29) -0.0 (± 23.57)
+Insomnia,Week 13,n=29,28,16 0.0 (± 26.73) -2.4 (± 25.55) -0.0 (± 34.43)
+Insomnia,Week 19,n=19,26,10 -8.8 (± 24.45) -1.3 (± 27.46) -13.3 (±
+35.83)
+Insomnia,Week 25,n=19,23,4 -5.3 (± 33.82) -7.2 (± 22.38) -8.3 (± 31.91)
+Insomnia,Week 31,n=12,14,0 -22.2 (± -9.5 (± 35.63) 99999 (±
+29.59) 99999)
+Insomnia,Week 37,n=4,3,0 -16.7 (± -11.1 (± 99999 (±
+19.25) 19.25) 99999)
+Insomnia,Week 43,n=0,2,0 99999 (± -16.7 (± 99999 (±
+99999) 23.57) 99999)
+AL,Week 07,n=46,46,17 5.1 (± 25.31) 3.6 (± 27.42) 2.0 (± 27.56)
+AL,Week 13,n=29,28,16 8.0 (± 29.08) -1.2 (± 26.42) 12.5 (± 26.87)
+AL,Week 19,n=19,26,10 0.0 (± 24.85) 3.8 (± 33.10) -3.3 (± 10.54)
+AL,Week 25,n=19,23,4 7.0 (± 32.54) -5.8 (± 21.68) -8.3 (± 16.67)
+AL,Week 31,n=12,14,0 -5.6 (± 12.97) 2.4 (± 20.52) 99999 (±
+99999)
+AL,Week 37,n=4,3,0 -8.3 (± 16.67) 11.1 (± 19.25) 99999 (±
+99999)
+AL,Week 43,n=0,2,0 99999 (± 0.0 (± 0.00) 99999 (±
+99999) 99999)
+Constipation,Week 07,n=46,46,17 -0.0 (± 21.08) -2.2 (± 17.78) -7.8 (± 25.08)
+Constipation,Week 13,n=29,28,16 0.0 (± 25.20) -4.8 (± 19.70) 8.3 (± 31.03)
+Constipation,Week 19,n=19,26,10 -7.0 (± 21.02) -1.3 (± 22.07) -3.3 (± 18.92)
+Constipation,Week 25,n=19,23,4 -3.5 (± 15.29) -1.4 (± 18.74) 0.0 (± 27.22)
+Constipation,Week 31,n=12,14,0 -5.6 (± 12.97) 0.0 (± 13.07) 99999 (±
+99999)
+Constipation,Week 37,n=4,3,0 0.0 (± 0.00) 0.0 (± 0.00) 99999 (±
+99999)
+Constipation,Week 43,n=0,2,0 99999 (± 0.0 (± 0.00) 99999 (±
+99999) 99999)
+Diarrhoea,Week 07,n=46,46,17 -2.9 (± 27.06) -1.4 (± 27.18) -2.0 (± 24.92)
+Diarrhoea,Week 13,n=29,28,16 0.0 (± 25.20) -6.0 (± 20.39) 4.2 (± 31.91)
+Diarrhoea,Week 19,n=19,26,10 1.8 (± 26.00) -2.6 (± 24.81) -3.3 (± 18.92)
+Diarrhoea,Week 25,n=19,23,4 1.8 (± 28.27) -7.2 (± 33.27) -8.3 (± 16.67)
+Diarrhoea,Week 31,n=12,14,0 -5.6 (± 23.92) -11.9 (± 99999 (±
+30.96) 99999)
+Diarrhoea,Week 37,n=4,3,0 8.3 (± 16.67) 0.0 (± 0.00) 99999 (±
+99999)
+Diarrhoea,Week 43,n=0,2,0 99999 (± 33.3 (± 0.00) 99999 (±
+99999) 99999)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 53  of 77
+FD,Week 07,n=46,46,17 -5.1 (± 26.26) 2.9 (± 25.17) 0.0 (± 16.67)
+FD,Week 13,n=29,28,16 -4.6 (± 23.10) 4.8 (± 19.70) 10.4 (± 20.07)
+FD,Week 19,n=19,26,10 -7.0 (± 21.02) 3.8 (± 27.21) 10.0 (± 22.50)
+FD,Week 25,n=19,23,4 -3.5 (± 26.98) -1.4 (± 15.82) 8.3 (± 16.67)
+FD,Week 31,n=12,14,0 -8.3 (± 25.13) -2.4 (± 20.52) 99999 (±
+99999)
+FD,Week 37,n=4,3,0 0.0 (± 0.00) -11.1 (± 99999 (±
+19.25) 99999)
+FD,Week 43,n=0,2,0 99999 (± 0.0 (± 47.14) 99999 (±
+99999) 99999)
+Notes:
+[183] - Full Analysis Population
+[184] - Full Analysis Population
+[185] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Change from Baseline in EORTC QLQ 20-item multiple myeloma module
+(MY20) score
+End point title Change from Baseline in EORTC QLQ 20-item multiple myeloma
+module (MY20) score
+End point description:
+The EORTC QLQ-MY20 is a supplement to the QLQ-C30 instrument used in participants with multiple
+myeloma. The module comprised of 20 questions that addressed four myeloma-specific HRQoL domains:
+disease symptoms (DS), side effects of treatment (SET), future perspective (FP) and body image (BI).
+Responses are 1 to 4. Scores were averaged and scales were transformed to 0 to 100 scale.  A high
+score for disease symptoms and side effects of treatment represented a high level of symptomatology or
+problems, whereas a high score for future perspective and body image represented better outcomes.
+Baseline was defined as latest pre-dose assessment (Day 1) with a non-missing value, including
+unscheduled visits. Change from Baseline was calculated by subtracting Baseline value from the post-
+dose visit value. Only those participants with data available at the specified data points were analyzed
+(represented by n=X in the category titles). 99999 indicates the data is not available.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 07, Week 13, Week 19, Week 25, Week 31, Week 37 and Week 43
+GSK2857916 GSK2857916 GSK2857916
+End point values 2.5 mg/kg 3.4 mg/kg 3.4 mg/kg
+(Frozen liquid) (Frozen liquid) (Lyophilized)
+Subject group type Reporting group Reporting group Reporting group
+Number of subjects analysed 45[186] 44[187] 16[188]
+Units: Scores on a scale
+arithmetic mean (standard deviation)
+FP,Week 07,n=45,44,16 3.0 (± 25.67) 3.3 (± 29.70) 8.3 (± 24.51)
+FP,Week 13,n=28,27,15 -2.0 (± 24.39) 8.6 (± 24.13) -2.2 (± 27.28)
+FP,Week 19,n=18,23,10 3.7 (± 22.87) 9.2 (± 21.10) 3.3 (± 27.24)
+FP,Week 25,n=18,23,4 0.6 (± 26.81) 13.5 (± 29.39) 13.9 (± 40.95)
+FP,Week 31,n=11,14,0 8.1 (± 17.98) 21.4 (± 27.38) 99999 (±
+99999)
+FP,Week 37,n=3,3,0 14.8 (± 23.13) 51.9 (± 12.83) 99999 (±
+99999)
+FP,Week 43,n=0,2,0 99999 (± 55.6 (± 15.71) 99999 (±
+99999) 99999)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 54  of 77
+BI,Week 07,n=45,44,16 3.7 (± 22.72) 8.3 (± 27.02) 4.2 (± 43.67)
+BI,Week 13,n=28,27,15 6.0 (± 25.75) 6.2 (± 35.85) -4.4 (± 37.52)
+BI,Week 19,n=18,23,10 5.6 (± 23.57) 5.8 (± 23.89) -3.3 (± 42.89)
+BI,Week 25,n=18,23,4 7.4 (± 24.40) 15.9 (± 31.57) 16.7 (± 57.74)
+BI,Week 31,n=11,14,0 6.1 (± 20.10) 16.7 (± 33.97) 99999 (±
+99999)
+BI,Week 37,n=3,3,0 0.0 (± 0.00) 22.2 (± 19.25) 99999 (±
+99999)
+BI,Week 43,n=0,2,0 99999 (± 16.7 (± 23.57) 99999 (±
+99999) 99999)
+DS,Week 07,n=45,44,16 -2.3 (± 19.84) -1.1 (± 17.96) -2.8 (± 12.17)
+DS,Week 13,n=28,27,15 -1.0 (± 16.22) -6.2 (± 24.18) 1.1 (± 25.65)
+DS,Week 19,n=18,23,10 0.9 (± 14.91) -6.5 (± 14.67) -1.7 (± 20.63)
+DS,Week 25,n=18,23,4 0.9 (± 16.20) -3.6 (± 17.78) -0.0 (± 28.33)
+DS,Week 31,n=11,14,0 -3.0 (± 11.75) -10.7 (± 99999 (±
+21.29) 99999)
+DS,Week 37,n=3,3,0 -1.9 (± 8.49) -24.1 (± 99999 (±
+27.40) 99999)
+DS,Week 43,n=0,2,0 99999 (± -44.4 (± 99999 (±
+99999) 39.28) 99999)
+SET,Week 07,n=45,44,16 1.5 (± 9.41) 0.4 (± 13.49) 0.2 (± 15.49)
+SET,Week 13,n=28,27,15 2.0 (± 10.44) -3.0 (± 14.17) 6.8 (± 23.69)
+SET,Week 19,n=18,23,10 0.0 (± 10.40) -0.3 (± 10.69) 0.9 (± 9.04)
+SET,Week 25,n=18,23,4 3.7 (± 8.48) 0.1 (± 13.10) 0.9 (± 6.33)
+SET,Week 31,n=11,14,0 1.9 (± 6.44) -2.1 (± 14.59) 99999 (±
+99999)
+SET,Week 37,n=3,3,0 0.0 (± 3.70) -21.6 (± 99999 (±
+24.45) 99999)
+SET,Week 43,n=0,2,0 99999 (± -28.3 (± 99999 (±
+99999) 34.83) 99999)
+Notes:
+[186] - Full Analysis Population
+[187] - Full Analysis Population
+[188] - Full Analysis Population
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 55  of 77
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+Serious adverse events (SAEs) and common (>=5%) non-serious AEs were collected from the start of
+study treatment until maximum of 48 weeks
+Adverse event reporting additional description:
+SAEs and non-SAEs were reported for the Full Safety Population(who received atleast 1 dose of frozen
+liquid or lyophilized powder). 3 out of 221 participants did not receive drug and SAEs and non-SAEs
+were not reported. Deaths is reported for Full Analysis Population(221)[all randomized whether or not
+randomized treatment was given].
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 22.0
+Reporting groups
+Reporting group title GSK2857916 2.5 mg/kg (Frozen liquid)
+Reporting group description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 2.5
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 11 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Reporting group title GSK2857916 3.4 mg/kg (Frozen liquid)
+Reporting group description:
+Participants were administered frozen liquid (30 mg/vial solution in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 as IV solution once every three weeks for a maximum of 10 cycles (1 cycle= 21
+days). Frozen liquid was diluted with 0.9 percent saline.
+Reporting group title GSK2857916 3.4 mg/kg (Lyophilized)
+Reporting group description:
+Participants were administered lyophilized powder (100 mg/vial in a single use vial) at a dose of 3.4
+mg/kg GSK2857916 given IV for a maximum of 8 cycles (1 cycle= 21 days). Lyophilized powder was
+reconstituted using water for injection.
+GSK2857916 2.5 GSK2857916 3.4
+GSK2857916 3.4
+Serious adverse events mg/kg (Frozen mg/kg (Frozen
+mg/kg (Lyophilized)
+liquid) liquid)
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 38 / 95 (40.00%) 47 / 99 (47.47%) 15 / 24 (62.50%)
+number of deaths (all causes) 32 31 4
+number of deaths resulting from
+adverse events
+Vascular disorders
+Haematoma
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 1 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Aortic stenosis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 56  of 77
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypertension
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Neoplasms benign, malignant and
+unspecified (incl cysts and polyps)
+Acute myeloid leukaemia
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 0
+Basal cell carcinoma
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Immune system disorders
+Haemophagocytic
+lymphohistiocytosis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 1 / 1 0 / 0
+General disorders and administration
+site conditions
+Pyrexia
+subjects affected / exposed 6 / 95 (6.32%) 5 / 99 (5.05%) 0 / 24 (0.00%)
+occurrences causally related to 2 / 7 5 / 6 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+General physical health deterioration
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Non-cardiac chest pain
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Chest pain
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 57  of 77
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Fatigue
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Influenza like illness
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Psychiatric disorders
+Confusional state
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Delirium
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Injury, poisoning and procedural
+complications
+Infusion related reaction
+subjects affected / exposed 3 / 95 (3.16%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 4 / 4 2 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Spinal compression fracture
+subjects affected / exposed 1 / 95 (1.05%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clavicle fracture
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 58  of 77
+Fall
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Fracture
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Humerus fracture
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Subdural haematoma
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tibia fracture
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Upper limb fracture
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Investigations
+Alanine aminotransferase increased
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Aspartate aminotransferase
+increased
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 59  of 77
+Blood lactate dehydrogenase
+increased
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Electrocardiogram T wave inversion
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cardiac disorders
+Cardiac arrest
+subjects affected / exposed 1 / 95 (1.05%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 1 0 / 0
+Atrial fibrillation
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Mitral valve disease
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pericardial effusion
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pericarditis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Tachycardia
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 60  of 77
+Blood and lymphatic system disorders
+Thrombocytopenia
+subjects affected / exposed 1 / 95 (1.05%) 2 / 99 (2.02%) 3 / 24 (12.50%)
+occurrences causally related to 2 / 2 2 / 2 2 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Febrile neutropenia
+subjects affected / exposed 0 / 95 (0.00%) 3 / 99 (3.03%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 3 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hyperviscosity syndrome
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Anaemia
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pancytopenia
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Pleural effusion
+subjects affected / exposed 2 / 95 (2.11%) 1 / 99 (1.01%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 2 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Epistaxis
+subjects affected / exposed 1 / 95 (1.05%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 1 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Cough
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 61  of 77
+Dyspnoea
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Respiratory failure
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Nervous system disorders
+Cerebral haemorrhage
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 2 0 / 0
+Cognitive disorder
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Headache
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Lethargy
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Posterior reversible encephalopathy
+syndrome
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Seizure
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 62  of 77
+Spinal cord compression
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Eye disorders
+Keratopathy
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Gastrointestinal disorders
+Gastrointestinal haemorrhage
+subjects affected / exposed 1 / 95 (1.05%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Vomiting
+subjects affected / exposed 1 / 95 (1.05%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Ascites
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Colitis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Constipation
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Diarrhoea
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 63  of 77
+Gastric fibrosis
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Haematochezia
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Large intestinal haemorrhage
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Large intestinal obstruction
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pancreatitis
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Renal and urinary disorders
+Acute kidney injury
+subjects affected / exposed 2 / 95 (2.11%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 1 / 2 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Renal failure
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Renal impairment
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Urinary retention
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 64  of 77
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Product issues
+Device dislocation
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Back pain
+subjects affected / exposed 1 / 95 (1.05%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Muscular weakness
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Osteolysis
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pathological fracture
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Arthritis
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Bone pain
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 65  of 77
+Haematoma muscle
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Lumbar spinal stenosis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Osteonecrosis of jaw
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pain in extremity
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Spinal osteoarthritis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Metabolism and nutrition disorders
+Hypercalcaemia
+subjects affected / exposed 4 / 95 (4.21%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 4 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Dehydration
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 2 / 24 (8.33%)
+occurrences causally related to 0 / 0 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypokalaemia
+subjects affected / exposed 2 / 95 (2.11%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 1 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hyponatraemia
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 66  of 77
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 1 / 1 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hyperglycaemia
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypocalcaemia
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypomagnesaemia
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Hypophosphataemia
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Infections and infestations
+Pneumonia
+subjects affected / exposed 4 / 95 (4.21%) 12 / 99 (12.12%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 4 3 / 13 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 2 0 / 0
+Lung infection
+subjects affected / exposed 3 / 95 (3.16%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 1 / 3 3 / 3 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0 0 / 0
+Sepsis
+subjects affected / exposed 2 / 95 (2.11%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 2 / 2 2 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 1 / 1 0 / 0 0 / 0
+Cellulitis
+subjects affected / exposed 1 / 95 (1.05%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 67  of 77
+occurrences causally related to 1 / 1 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Escherichia urinary tract infection
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Influenza
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pneumonia influenzal
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 1 / 24 (4.17%)
+occurrences causally related to 0 / 0 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Staphylococcal sepsis
+subjects affected / exposed 2 / 95 (2.11%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Upper respiratory tract infection
+subjects affected / exposed 0 / 95 (0.00%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Vascular device infection
+subjects affected / exposed 2 / 95 (2.11%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 2 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Brain abscess
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Device related infection
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 68  of 77
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Enterocolitis infectious
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Escherichia bacteraemia
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Escherichia sepsis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Herpes simplex pneumonia
+subjects affected / exposed 1 / 95 (1.05%) 0 / 99 (0.00%) 0 / 24 (0.00%)
+occurrences causally related to 1 / 1 0 / 0 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Lower respiratory tract infection
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Nocardiosis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Otitis media
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Pneumonia legionella
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 69  of 77
+Pneumonia respiratory syncytial viral
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Sinusitis
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Staphylococcal bacteraemia
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Staphylococcal infection
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 1 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0 0 / 0
+Viral infection
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 0 / 24 (0.00%)
+occurrences causally related to 0 / 0 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+GSK2857916 2.5 GSK2857916 3.4
+GSK2857916 3.4
+Non-serious adverse events mg/kg (Frozen mg/kg (Frozen
+mg/kg (Lyophilized)
+liquid) liquid)
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 93 / 95 (97.89%) 96 / 99 (96.97%) 24 / 24 (100.00%)
+Vascular disorders
+Hypertension
+subjects affected / exposed 6 / 95 (6.32%) 9 / 99 (9.09%) 1 / 24 (4.17%)
+occurrences (all) 7 10 1
+General disorders and administration
+site conditions
+Fatigue
+subjects affected / exposed 15 / 95 (15.79%) 26 / 99 (26.26%) 8 / 24 (33.33%)
+occurrences (all) 16 28 9
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 70  of 77
+Pyrexia
+subjects affected / exposed 18 / 95 (18.95%) 22 / 99 (22.22%) 4 / 24 (16.67%)
+occurrences (all) 21 28 5
+Asthenia
+subjects affected / exposed 4 / 95 (4.21%) 10 / 99 (10.10%) 2 / 24 (8.33%)
+occurrences (all) 4 10 2
+Chills
+subjects affected / exposed 7 / 95 (7.37%) 4 / 99 (4.04%) 1 / 24 (4.17%)
+occurrences (all) 7 4 1
+Pain
+subjects affected / exposed 5 / 95 (5.26%) 5 / 99 (5.05%) 0 / 24 (0.00%)
+occurrences (all) 5 5 0
+Oedema peripheral
+subjects affected / exposed 3 / 95 (3.16%) 3 / 99 (3.03%) 3 / 24 (12.50%)
+occurrences (all) 3 3 4
+Psychiatric disorders
+Insomnia
+subjects affected / exposed 5 / 95 (5.26%) 1 / 99 (1.01%) 2 / 24 (8.33%)
+occurrences (all) 5 1 2
+Injury, poisoning and procedural
+complications
+Infusion related reaction
+subjects affected / exposed 14 / 95 (14.74%) 8 / 99 (8.08%) 1 / 24 (4.17%)
+occurrences (all) 15 9 1
+Rib fracture
+subjects affected / exposed 0 / 95 (0.00%) 1 / 99 (1.01%) 2 / 24 (8.33%)
+occurrences (all) 0 1 2
+Investigations
+Aspartate aminotransferase
+increased
+subjects affected / exposed 19 / 95 (20.00%) 24 / 99 (24.24%) 4 / 24 (16.67%)
+occurrences (all) 20 31 4
+Platelet count decreased
+subjects affected / exposed 15 / 95 (15.79%) 14 / 99 (14.14%) 2 / 24 (8.33%)
+occurrences (all) 18 26 2
+Lymphocyte count decreased
+subjects affected / exposed 13 / 95 (13.68%) 12 / 99 (12.12%) 2 / 24 (8.33%)
+occurrences (all) 15 13 3
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 71  of 77
+Blood creatinine increased
+subjects affected / exposed 10 / 95 (10.53%) 11 / 99 (11.11%) 2 / 24 (8.33%)
+occurrences (all) 11 14 2
+Gamma-glutamyltransferase
+increased
+subjects affected / exposed 8 / 95 (8.42%) 13 / 99 (13.13%) 2 / 24 (8.33%)
+occurrences (all) 8 13 2
+Blood alkaline phosphatase increased
+subjects affected / exposed 8 / 95 (8.42%) 12 / 99 (12.12%) 0 / 24 (0.00%)
+occurrences (all) 8 12 0
+Neutrophil count decreased
+subjects affected / exposed 7 / 95 (7.37%) 9 / 99 (9.09%) 2 / 24 (8.33%)
+occurrences (all) 8 9 2
+White blood cell count decreased
+subjects affected / exposed 7 / 95 (7.37%) 10 / 99 (10.10%) 0 / 24 (0.00%)
+occurrences (all) 8 11 0
+Intraocular pressure increased
+subjects affected / exposed 6 / 95 (6.32%) 5 / 99 (5.05%) 5 / 24 (20.83%)
+occurrences (all) 8 5 5
+Blood lactate dehydrogenase
+increased
+subjects affected / exposed 4 / 95 (4.21%) 7 / 99 (7.07%) 4 / 24 (16.67%)
+occurrences (all) 4 8 4
+Alanine aminotransferase increased
+subjects affected / exposed 5 / 95 (5.26%) 5 / 99 (5.05%) 0 / 24 (0.00%)
+occurrences (all) 5 6 0
+Weight decreased
+subjects affected / exposed 8 / 95 (8.42%) 1 / 99 (1.01%) 1 / 24 (4.17%)
+occurrences (all) 8 1 1
+Blood creatine phosphokinase
+increased
+subjects affected / exposed 5 / 95 (5.26%) 3 / 99 (3.03%) 0 / 24 (0.00%)
+occurrences (all) 7 3 0
+C-reactive protein increased
+subjects affected / exposed 2 / 95 (2.11%) 5 / 99 (5.05%) 1 / 24 (4.17%)
+occurrences (all) 2 5 1
+Urine albumin/creatinine ratio
+increased
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 72  of 77
+subjects affected / exposed 2 / 95 (2.11%) 6 / 99 (6.06%) 0 / 24 (0.00%)
+occurrences (all) 2 6 0
+Bacterial test positive
+subjects affected / exposed 0 / 95 (0.00%) 0 / 99 (0.00%) 2 / 24 (8.33%)
+occurrences (all) 0 0 2
+Blood and lymphatic system disorders
+Thrombocytopenia
+subjects affected / exposed 19 / 95 (20.00%) 43 / 99 (43.43%) 8 / 24 (33.33%)
+occurrences (all) 26 59 11
+Anaemia
+subjects affected / exposed 22 / 95 (23.16%) 37 / 99 (37.37%) 6 / 24 (25.00%)
+occurrences (all) 25 49 12
+Neutropenia
+subjects affected / exposed 6 / 95 (6.32%) 19 / 99 (19.19%) 1 / 24 (4.17%)
+occurrences (all) 11 27 2
+Leukopenia
+subjects affected / exposed 9 / 95 (9.47%) 7 / 99 (7.07%) 0 / 24 (0.00%)
+occurrences (all) 9 8 0
+Lymphopenia
+subjects affected / exposed 6 / 95 (6.32%) 5 / 99 (5.05%) 1 / 24 (4.17%)
+occurrences (all) 6 5 1
+Respiratory, thoracic and mediastinal
+disorders
+Cough
+subjects affected / exposed 7 / 95 (7.37%) 18 / 99 (18.18%) 2 / 24 (8.33%)
+occurrences (all) 7 19 2
+Epistaxis
+subjects affected / exposed 7 / 95 (7.37%) 17 / 99 (17.17%) 0 / 24 (0.00%)
+occurrences (all) 8 20 0
+Dyspnoea
+subjects affected / exposed 5 / 95 (5.26%) 5 / 99 (5.05%) 1 / 24 (4.17%)
+occurrences (all) 5 5 1
+Nervous system disorders
+Headache
+subjects affected / exposed 9 / 95 (9.47%) 14 / 99 (14.14%) 4 / 24 (16.67%)
+occurrences (all) 10 18 4
+Dizziness
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 73  of 77
+subjects affected / exposed 0 / 95 (0.00%) 6 / 99 (6.06%) 1 / 24 (4.17%)
+occurrences (all) 0 6 1
+Eye disorders
+Keratopathy
+subjects affected / exposed 67 / 95 (70.53%) 74 / 99 (74.75%) 22 / 24 (91.67%)
+occurrences (all) 162 197 51
+Vision blurred
+subjects affected / exposed 17 / 95 (17.89%) 25 / 99 (25.25%) 7 / 24 (29.17%)
+occurrences (all) 21 33 10
+Dry eye
+subjects affected / exposed 11 / 95 (11.58%) 18 / 99 (18.18%) 5 / 24 (20.83%)
+occurrences (all) 11 18 8
+Photophobia
+subjects affected / exposed 3 / 95 (3.16%) 5 / 99 (5.05%) 3 / 24 (12.50%)
+occurrences (all) 3 5 3
+Diplopia
+subjects affected / exposed 2 / 95 (2.11%) 4 / 99 (4.04%) 2 / 24 (8.33%)
+occurrences (all) 3 5 2
+Gastrointestinal disorders
+Nausea
+subjects affected / exposed 23 / 95 (24.21%) 32 / 99 (32.32%) 1 / 24 (4.17%)
+occurrences (all) 25 38 1
+Diarrhoea
+subjects affected / exposed 11 / 95 (11.58%) 15 / 99 (15.15%) 2 / 24 (8.33%)
+occurrences (all) 14 15 2
+Vomiting
+subjects affected / exposed 6 / 95 (6.32%) 19 / 99 (19.19%) 0 / 24 (0.00%)
+occurrences (all) 8 19 0
+Constipation
+subjects affected / exposed 11 / 95 (11.58%) 9 / 99 (9.09%) 3 / 24 (12.50%)
+occurrences (all) 12 9 4
+Skin and subcutaneous tissue disorders
+Hyperhidrosis
+subjects affected / exposed 2 / 95 (2.11%) 1 / 99 (1.01%) 2 / 24 (8.33%)
+occurrences (all) 2 1 2
+Musculoskeletal and connective tissue
+disorders
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 74  of 77
+Back pain
+subjects affected / exposed 9 / 95 (9.47%) 10 / 99 (10.10%) 5 / 24 (20.83%)
+occurrences (all) 10 10 5
+Arthralgia
+subjects affected / exposed 11 / 95 (11.58%) 7 / 99 (7.07%) 1 / 24 (4.17%)
+occurrences (all) 11 7 1
+Pain in extremity
+subjects affected / exposed 5 / 95 (5.26%) 11 / 99 (11.11%) 0 / 24 (0.00%)
+occurrences (all) 5 15 0
+Bone pain
+subjects affected / exposed 4 / 95 (4.21%) 9 / 99 (9.09%) 0 / 24 (0.00%)
+occurrences (all) 5 10 0
+Musculoskeletal pain
+subjects affected / exposed 5 / 95 (5.26%) 7 / 99 (7.07%) 1 / 24 (4.17%)
+occurrences (all) 5 8 1
+Musculoskeletal chest pain
+subjects affected / exposed 5 / 95 (5.26%) 6 / 99 (6.06%) 0 / 24 (0.00%)
+occurrences (all) 5 7 0
+Myalgia
+subjects affected / exposed 2 / 95 (2.11%) 3 / 99 (3.03%) 2 / 24 (8.33%)
+occurrences (all) 2 3 2
+Metabolism and nutrition disorders
+Decreased appetite
+subjects affected / exposed 11 / 95 (11.58%) 18 / 99 (18.18%) 4 / 24 (16.67%)
+occurrences (all) 13 20 4
+Hypercalcaemia
+subjects affected / exposed 9 / 95 (9.47%) 16 / 99 (16.16%) 4 / 24 (16.67%)
+occurrences (all) 10 18 5
+Hypokalaemia
+subjects affected / exposed 6 / 95 (6.32%) 13 / 99 (13.13%) 3 / 24 (12.50%)
+occurrences (all) 6 13 5
+Hyponatraemia
+subjects affected / exposed 4 / 95 (4.21%) 11 / 99 (11.11%) 4 / 24 (16.67%)
+occurrences (all) 4 12 4
+Hyperuricaemia
+subjects affected / exposed 9 / 95 (9.47%) 8 / 99 (8.08%) 0 / 24 (0.00%)
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 75  of 77
+occurrences (all) 14 9 0
+Hypoalbuminaemia
+subjects affected / exposed 5 / 95 (5.26%) 10 / 99 (10.10%) 1 / 24 (4.17%)
+occurrences (all) 5 12 1
+Hypophosphataemia
+subjects affected / exposed 7 / 95 (7.37%) 7 / 99 (7.07%) 2 / 24 (8.33%)
+occurrences (all) 10 10 2
+Hypomagnesaemia
+subjects affected / exposed 5 / 95 (5.26%) 6 / 99 (6.06%) 1 / 24 (4.17%)
+occurrences (all) 7 6 1
+Hyperglycaemia
+subjects affected / exposed 3 / 95 (3.16%) 6 / 99 (6.06%) 2 / 24 (8.33%)
+occurrences (all) 4 7 2
+Hypocalcaemia
+subjects affected / exposed 4 / 95 (4.21%) 3 / 99 (3.03%) 2 / 24 (8.33%)
+occurrences (all) 4 3 2
+Infections and infestations
+Upper respiratory tract infection
+subjects affected / exposed 7 / 95 (7.37%) 15 / 99 (15.15%) 3 / 24 (12.50%)
+occurrences (all) 8 19 3
+Urinary tract infection
+subjects affected / exposed 6 / 95 (6.32%) 5 / 99 (5.05%) 1 / 24 (4.17%)
+occurrences (all) 7 9 1
+Bronchitis
+subjects affected / exposed 5 / 95 (5.26%) 2 / 99 (2.02%) 0 / 24 (0.00%)
+occurrences (all) 5 2 0
+Nasopharyngitis
+subjects affected / exposed 1 / 95 (1.05%) 5 / 99 (5.05%) 0 / 24 (0.00%)
+occurrences (all) 1 6 0
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 76  of 77
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+02 April 2018 Amendment 01: Addressed regulatory agency advice. The original single-arm
+design with 1 dose level (3.4 milligram per kilogram [mg/kg] GSK2857916 once
+every 3 weeks [Q3W]) was amended to an open label, randomized, 2-arm study
+with 2 dose levels by including the 2.5 mg/kg Q3W dose.  In addition, a new
+exploratory cohort of 25 participants, who will receive a lyophilized configuration
+of GSK2857916, was added to gain clinical experience with the lyophilized
+configuration.  To accommodate these main changes, the overall sample size and
+related analytical methods were changed.
+30 August 2018 Amendment 02: Addressed feedback from regulatory agencies, ethics
+commitee/institutional review board, and investigators. The updates included the
+addition of Exclusion Criteria defining the use of high dose steroids, clarification of
+specific timeframe from last treatment required for systemic anti-myeloma
+therapy, and increase of corrected QT interval Fridericia criteria.  Additional
+pharmacokinetic sampling timepoints were added to capture the maximum
+observed concentration of the free cytotoxic drug (cysteine-maleimidocaproyl
+monomethyl auristatin F [cys-mcMMAF]) and to better define the kinetics of cys-
+mcMMAF and the elimination phase of antibody drug conjugate and cys-mcMMAF.
+Soluble B-cell maturation antigen (BCMA) collection timepoints were also added to
+capture the effect of GSK2857916 administration on soluble BCMA concentrations
+over time as a marker of pharmacodynamic effect.  The dose modifications
+guidelines for GSK2857916 related Corneal Events clarified dose adjustments for
+GlaxoSmithKline Scale Grade 2 events.
+17 December 2018 Amendment 03:   Addressed over-enrolment in the frozen liquid solution portion
+of the study. Due to the over-enrolment, the primary analysis will be based on all
+randomized participants (anticipated approximately 200) enroled into the frozen
+liquid solution arms. In addition, a sensitivity analysis based on the first 130
+participants will be performed to account for the original design.
+21 October 2019 Amendment 04: Updated schedule of activities to include the footnotes. Updated
+risk assessment, modified dose justification, modified treatments administered,
+updated dose reducations for toxicity, modified corneal supportive care guidelines
+and schedule of activities, updated guidance on prohibited medications, updated
+requirements for efficacy assessments, modified timeframes for contraception
+usage in males and females, modified monocular prophylaxis and treatment,
+updated immunogenicity, updated timeframe of minimal residual disease testing,
+updated GlaxoSmithKline corneal event severity scale and mitigation strategy for
+treatment related corneal events.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Limitations and caveats
+None reported
+Clinical trial results 2017-004810-25 version 1 EU-CTR publication date: 26 April 2020 Page 77  of 77

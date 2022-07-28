@@ -1,0 +1,2339 @@
+ EU Clinical Trials Register
+Clinical trial results:
+A 28-week, randomized, double-blind, placebo-controlled,
+parallel-group, multi-center, study in recombinant human
+erythropoietin (rhEPO) naïve non-dialysis participants with
+anemia associated with chronic kidney disease to evaluate the
+efficacy, safety and effects on quality of life of daprodustat
+compared to placebo
+Summary
+EudraCT number 2017-002270-39
+Trial protocol GB ES PL IT
+Global end of trial date 07 October 2020
+Results information
+Result version number v1 (current)
+This version publication date 21 October 2021
+First version publication date 21 October 2021
+Trial information
+Trial identification
+Sponsor protocol code 205270
+Additional study identifiers
+ISRCTN number  -
+ClinicalTrials.gov id (NCT number)  -
+WHO universal trial number (UTN)  -
+Notes:
+Sponsors
+Sponsor organisation name GlaxoSmithKline
+Sponsor organisation address 980 Great West Road, Brentford, Middlesex, United Kingdom,
+TW8 9GS
+Public contact GSK Response Center, GlaxoSmithKline, 1 8664357343,
+GSKClinicalSupportHD@gsk.com
+Scientific contact GSK Response Center, GlaxoSmithKline, 1 8664357343,
+GSKClinicalSupportHD@gsk.com
+Notes:
+Paediatric regulatory details
+Is trial part of an agreed paediatric No
+investigation plan (PIP)
+Does article 45 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Does article 46 of REGULATION (EC) No No
+1901/2006 apply to this trial?
+Notes:
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 1  of 50
+Results analysis stage
+Analysis stage Final
+Date of interim/final analysis 22 February 2021
+Is this the analysis of the primary No
+completion data?
+Global end of trial reached? Yes
+Global end of trial date 07 October 2020
+Was the trial ended prematurely? No
+Notes:
+General information about the trial
+Main objective of the trial:
+To compare the efficacy of daprodustat to placebo on mean change in hemoglobin (Hgb) levels
+Secondary objectives of the trial:
+To compare the proportion of participants achieving increases in Hgb when treated with daprodustat
+versus placebo;
+To compare daprodustat to placebo for health related quality-of-life;
+To compare daprodustat to placebo on additional Hgb endpoints;
+To compare daprodustat to placebo on the time to rescue;
+To compare daprodustat to placebo for improving symptoms of anemia of chronic kidney disease (CKD);
+To compare daprodustat to placebo on the severity and change in symptoms;
+To compare daprodustat to placebo for improving health related quality-of-life;
+To compare daprodustat to placebo on improving work productivity and regular daily activity
+impairment;
+To compare daprodustat to placebo on improving health status;
+To compare daprodustat to placebo on blood pressure (BP)
+Protection of trial subjects:
+Not applicable
+Background therapy: -
+Evidence for comparator: -
+Actual start date of recruitment 05 March 2018
+Long term follow-up planned No
+Independent data monitoring committee No
+(IDMC) involvement?
+Notes:
+Population of trial subjects
+Subjects enrolled per country
+Country: Number of subjects enrolled Argentina: 26
+Country: Number of subjects enrolled Australia: 21
+Country: Number of subjects enrolled Brazil: 39
+Country: Number of subjects enrolled Canada: 39
+Country: Number of subjects enrolled France: 15
+Country: Number of subjects enrolled Italy: 21
+Country: Number of subjects enrolled Mexico: 105
+Country: Number of subjects enrolled Poland: 31
+Country: Number of subjects enrolled Romania: 47
+Country: Number of subjects enrolled Russian Federation: 40
+Country: Number of subjects enrolled Korea, Republic of: 39
+Country: Number of subjects enrolled Spain: 1
+Country: Number of subjects enrolled United Kingdom: 18
+Country: Number of subjects enrolled United States: 172
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 2  of 50
+Worldwide total number of subjects 614
+EEA total number of subjects 115
+Notes:
+Subjects enrolled per age group
+In utero 0
+Preterm newborn - gestational age < 37 0
+wk
+Newborns (0-27 days) 0
+Infants and toddlers (28 days 
+
+******************************
+
+ -23 0
+months)
+Children (2-11 years) 0
+Adolescents (12-17 years) 0
+Adults (18-64 years) 256
+From 65 to 84 years 321
+85 years and over 37
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 3  of 50
+Subject disposition
+Recruitment
+Recruitment details:
+This was a multicenter study conducted at 142 centers in 14 countries. Participants were randomized to
+receive either Daprodustat or Placebo.
+Pre-assignment
+Screening details:
+A total of 1336 participants were screened, of which 722 were screen failures. A total of 614 participants
+were enrolled in the study.
+Period 1
+Period 1 title Overall Study (overall period)
+Is this the baseline period? Yes
+Allocation method Randomised - controlled
+Blinding used Double blind
+Roles blinded Subject, Investigator
+Arms
+Are arms mutually exclusive? Yes
+Arm title Placebo
+Arm description:
+Participants received matching placebo once daily orally for up to 28 weeks followed by 4 weeks of
+follow-up.
+Arm type Placebo
+Investigational medicinal product name Placebo
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Film-coated tablet
+Routes of administration Oral use
+Dosage and administration details:
+Participants received matching placebo orally once daily.
+Arm title Daprodustat
+Arm description:
+Participants received daprodustat film-coated tablets with titrated dose levels ranging from 1, 2, 4, 6, 8,
+10, 12, 16 milligrams (mg) once daily orally for up to 28 weeks, followed by 4 weeks of follow-up. Study
+treatment was dose-titrated to achieve and maintain hemoglobin in the target range (11 to 12 grams
+per deciliter [g/dL])
+Arm type Experimental
+Investigational medicinal product name Daprodustat
+Investigational medicinal product code
+Other name
+Pharmaceutical forms Film-coated tablet
+Routes of administration Oral use
+Dosage and administration details:
+Participants received daprodustat film-coated tablets with titrated dose levels ranging from 1, 2, 4, 6, 8,
+10, 12, 16 milligrams (mg)
+once daily orally.
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 4  of 50
+Number of subjects in period 1 Placebo Daprodustat
+Started 307 307
+Completed 290 300
+Not completed 17 7
+Physician decision 1  -
+Adverse event, non-fatal 5 3
+Consent withdrawn by subject 4 2
+Lost to follow-up 7 2
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 5  of 50
+Baseline characteristics
+Reporting groups
+Reporting group title Placebo
+Reporting group description:
+Participants received matching placebo once daily orally for up to 28 weeks followed by 4 weeks of
+follow-up.
+Reporting group title Daprodustat
+Reporting group description:
+Participants received daprodustat film-coated tablets with titrated dose levels ranging from 1, 2, 4, 6, 8,
+10, 12, 16 milligrams (mg) once daily orally for up to 28 weeks, followed by 4 weeks of follow-up. Study
+treatment was dose-titrated to achieve and maintain hemoglobin in the target range (11 to 12 grams
+per deciliter [g/dL])
+Reporting group values Placebo Daprodustat Total
+Number of subjects 307 307 614
+Age categorical
+Units: Subjects
+In utero 0 0 0
+Preterm newborn infants 0 0 0
+(gestational age < 37 wks)
+Newborns (0-27 days) 0 0 0
+Infants and toddlers (28 days-23 0 0 0
+months)
+Children (2-11 years) 0 0 0
+Adolescents (12-17 years) 0 0 0
+Adults (18-64 years) 121 135 256
+From 65-84 years 165 156 321
+85 years and over 21 16 37
+Age Continuous
+Units: Years
+arithmetic mean 66.6 65.3
+standard deviation ± 12.93 ± 13.43 -
+Sex: Female, Male
+Units: Participants
+Female 178 176 354
+Male 129 131 260
+Race/Ethnicity, Customized
+Units: Subjects
+AMERICAN INDIAN OR ALASKA 34 34 68
+NATIVE
+ASIAN: CENTRAL/SOUTH ASIAN 3 6 9
+HERITAGE
+ASIAN:JAPANESE/EAST(E). 24 24 48
+ASIAN/SOUTH E.ASIA HERITAGE
+ASIAN: MIXED ASIAN RACE 1 0 1
+BLACK OR AFRICAN AMERICAN 47 44 91
+NATIVE HAWAIIAN/OTHER PACIFIC 1 0 1
+ISLANDER
+WHITE 195 197 392
+BLACK OR AFRICAN AMERICAN AND 2 2 4
+WHITE
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 6  of 50
+Clinical trial res 
+
+******************************
+
+ ults 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 7  of 50
+End points
+End points reporting groups
+Reporting group title Placebo
+Reporting group description:
+Participants received matching placebo once daily orally for up to 28 weeks followed by 4 weeks of
+follow-up.
+Reporting group title Daprodustat
+Reporting group description:
+Participants received daprodustat film-coated tablets with titrated dose levels ranging from 1, 2, 4, 6, 8,
+10, 12, 16 milligrams (mg) once daily orally for up to 28 weeks, followed by 4 weeks of follow-up. Study
+treatment was dose-titrated to achieve and maintain hemoglobin in the target range (11 to 12 grams
+per deciliter [g/dL])
+Primary: Mean change in hemoglobin from Baseline and over the evaluation period
+(mean over Week 24 and 28)
+End point title Mean change in hemoglobin from Baseline and over the
+evaluation period (mean over Week 24 and 28)
+End point description:
+Blood samples were collected at given time points from participants for hemoglobin measurements.
+Evaluation period hemoglobin value was defined as the mean of all available post-randomization
+hemoglobin values (on and off-treatment) during the evaluation period (Week 24 to Week 28 inclusive).
+For the primary analysis, the missing post-Baseline hemoglobin values were imputed using pre-specified
+multiple imputations. Change from Baseline was defined as the average of post-randomization values
+during the evaluation period minus Baseline value. Baseline value was the latest non-missing pre-dose
+assessment on or before the randomization date. Analysis was performed using the Analysis of
+Covariance (ANCOVA) model with terms for treatment, Baseline hemoglobin, and region. Intent-to-Treat
+(ITT) Population comprised all randomized participants regardless of whether they took study drug.
+End point type Primary
+End point timeframe:
+Baseline (Day 1) and Week 24 to Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 307[1] 307[2]
+Units: Grams per deciliter
+least squares mean (standard error) 0.19 (± 0.062) 1.58 (± 0.061)
+Notes:
+[1] - ITT Population
+[2] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Treatment group comparisons were based on a ANCOVA model with terms for treatment, Baseline
+hemoglobin, and region.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 614
+Analysis specification Pre-specified
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 8  of 50
+Analysis type superiority
+P-value < 0.0001 [3]
+Method ANCOVA
+Parameter estimate  LS Mean difference
+Point estimate 1.4
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.23
+upper limit 1.56
+Notes:
+[3] - One-sided p-value based on test of null hypothesis: (Daprodustat - Placebo) <= 0 versus
+alternative: difference > 0.
+Secondary: Percentage of participants with hemoglobin increase of >=1.0 grams per
+deciliter from Baseline to evaluation period
+End point title Percentage of participants with hemoglobin increase of >=1.0
+grams per deciliter from Baseline to evaluation period
+End point description:
+Blood samples were collected at given time points for hemoglobin measurements. Evaluation period
+hemoglobin value was defined as the mean of all available post-randomization hemoglobin values (on
+and off-treatment) during the evaluation period (Week 24 to Week 28 inclusive). For the primary
+analysis, the missing post-Baseline hemoglobin values were imputed using pre-specified multiple
+imputations. Baseline value was the latest non-missing pre-dose assessment on or before the
+randomization date. Percentage of participants with hemoglobin increase of >=1.0 grams per deciliter
+from Baseline to evaluation period was analyzed using Cochran-Mantel-Haenszel (CMH) chi-squared
+test. The percentage values presented has been rounded off.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 24 to Week 28
+End point values Placebo Daprodustat
+ 
+
+******************************
+
+ Subject group type Reporting group Reporting group
+Number of subjects analysed 307[4] 307[5]
+Units: Percentage of participants 18 77
+Notes:
+[4] - ITT Population
+[5] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Treatment group comparisons were based on a Cochran-Mantel-Haenszel test adjusted for treatment
+group and region.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 614
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.0001 [6]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Difference in Response rate
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 9  of 50
+Point estimate 0.56
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.49
+upper limit 0.63
+Notes:
+[6] - One-sided p-value was based on test of null hypothesis: (Daprodustat - Placebo) <=0 versus
+alternative: difference > 0
+Secondary: Change from Baseline in short form-36 (SF-36) questionnaire vitality
+domain score by traditional scoring at Week 28
+End point title Change from Baseline in short form-36 (SF-36) questionnaire
+vitality domain score by traditional scoring at Week 28
+End point description:
+The SF-36 acute version 2 is a 36-item generic quality of life instrument designed to measure a
+participant’s level of performance in the 8 health domains: Physical Functioning, Role-Physical (role
+limitations caused by physical problems), Social Functioning, Bodily Pain, Mental Health, Role-Emotional
+(role limitations caused by emotional problems), Vitality, and General Perception of Health.Each domain
+is scored from 0 (poorer health) to 100 (better health). Vitality domain score ranges from 0-100; higher
+score indicates a better health state & better functioning. Change from Baseline was calculated as Post-
+Dose Visit Value at Week 28 minus Baseline. For primary analysis, the missing on-treatment Week 28
+SF-36 Vitality domain scores were imputed using pre-specified multiple imputations. Baseline value was
+latest non-missing pre-dose assessment on or before randomization date. Analysis was performed using
+ANCOVA model with terms for treatment, Baseline score, and region.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 307[7] 307[8]
+Units: Scores on a scale
+least squares mean (standard error) 1.93 (± 1.161) 7.29 (± 1.121)
+Notes:
+[7] - ITT Population
+[8] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Treatment group comparisons were based on ANCOVA model with terms for treatment, Baseline score,
+and region.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 614
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0005 [9]
+Method ANCOVA
+Parameter estimate  LS Mean Difference
+Point estimate 5.36
+Confidence interval
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 10  of 50
+level 95 %
+sides 2-sided
+lower limit 2.17
+upper limit 8.56
+Notes:
+[9] - One-sided p-value based on test of null hypothesis:(Daprodustat-Placebo) <= 0 vs alternative:
+difference >0.
+Secondary: Percentage of participants with Hgb response (Hgb in the 11-12
+grams/deciliter range) During Evaluation Period (Week 24 to Week 28 inclusive)
+End point title Percentage of participants with Hgb response (Hgb in the 11-12
+grams/deciliter range) During Evaluation Period (Week 24 to
+Week 28 inclusive)
+End point description:
+Mean hemoglobin during the evaluation period was defined as the mean of all evaluable hemoglobin
+values during the evaluation period (Week 24 to Week 28 inclusive) including any evaluable unscheduled
+hemoglobin values that were taken during this period.  Percentage of participants with Hgb response
+was defined as participants with mean Hgb within range (11-12 grams per deciliter during the evaluation
+peri 
+
+******************************
+
+ od (Week 24 to Week 28 inclusive) and it was analyzed using Cochran-Mantel-Haenszel (CMH) chi-
+squared test. The percentage values presented has been rounded off.
+End point type Secondary
+End point timeframe:
+Week 24 to Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 307[10] 307[11]
+Units: Percentage of participants 8 52
+Notes:
+[10] - ITT Population
+[11] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Treatment group comparisons are based on a Cochran-Mantel-Haenszel test adjusted for treatment
+group, and region
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 614
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.0001 [12]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Difference in Response rate
+Point estimate 0.45
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.37
+upper limit 0.52
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 11  of 50
+Notes:
+[12] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative:
+difference >0.
+Secondary: Percentage of time with Hgb within the target range (11-12 grams per
+deciliter) During Evaluation Period (Week 24 to Week 28 inclusive) (Hodges-
+Lehmann Estimate)
+End point title Percentage of time with Hgb within the target range (11-12
+grams per deciliter) During Evaluation Period (Week 24 to
+Week 28 inclusive) (Hodges-Lehmann Estimate)
+End point description:
+Percentage of days for which participant’s Hgb was within the target range of 11-12 grams per deciliter
+during the evaluation period (Week 24 to Week 28 inclusive), including any unscheduled evaluable Hgb
+values that were taken during this time period. Percentage of time for which Hgb was within the target
+range (11-12 grams per deciliter) for a participant was calculated by dividing ‘the total number of days
+that Hgb was within range during Week 24 to 28’ by ‘the total number of days the participant remained
+on treatment during Week 24 to 28’. Only those participants with data available at the indicated time
+points were analyzed.
+End point type Secondary
+End point timeframe:
+Week 24 to Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 216[13] 252[14]
+Units: Percentage of days
+0.00 (0.0 to 53.59 (0.0 to
+median (full range (min-max))
+100.0) 100.0)
+Notes:
+[13] - ITT Population
+[14] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Hodges-Lehmann Estimate of treatment difference has been reported.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 468
+Analysis specification Pre-specified
+Analysis type superiority
+Method  Hodges-Lehmann Estimate
+Parameter estimate  Difference in treatment effect
+Point estimate 38.8
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 25
+upper limit 54.55
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 12  of 50
+Secondary: Percentage of participants with Hgb response (Hgb in the 11-12
+grams/deciliter range) During Evaluation Period (Week 24 to Week 28 inclusive)
+(Mann-Whitney Estimate)
+End point title Percentage of participants with Hgb response (Hgb in the 11-12
+grams/deciliter range) During Evaluation Period (Week 24 to
+Week 28 inclusive) (Mann-Whitney Estimate)
+End point description:
+Percentage of days for which participant’s Hgb was within the target range of 11-12 grams per deciliter
+during the evaluation period (Week 24 to Week 28 inclusive), including any unscheduled evaluable Hgb
+values that were taken during this time period. Percentage of time for which Hgb was within the target
+range (11-12 grams per deciliter) for a participant was calculated by dividing ‘the total number of days
+that Hgb was within range during Week 24 to 28’ by ‘the total number of days the participant 
+
+******************************
+
+  remained
+on treatment during Week 24 to 28’. Only those participants with data available at the indicated time
+points were analyzed.
+End point type Secondary
+End point timeframe:
+Week 24 to Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 216[15] 252[16]
+Units: Percentage of days
+0.00 (0.0 to 53.59 (0.0 to
+median (full range (min-max))
+100.0) 100.0)
+Notes:
+[15] - ITT Population
+[16] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Mann-Whitney estimate of the treatment difference stratified by region has been presented.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 468
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.0001 [17]
+Method  van Elteren test
+Parameter estimate  Difference in treatment effect
+Point estimate 0.768
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.729
+upper limit 0.806
+Notes:
+[17] - One-sided superiority p-value from the van Elteren test
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 13  of 50
+Secondary: Change from Baseline in Post-randomization Hgb at Week 28
+End point title Change from Baseline in Post-randomization Hgb at Week 28
+End point description:
+Blood samples were collected at given time points for hemoglobin measurements. Change from Baseline
+in Hgb was analyzed using a mixed model repeated measures (MMRM) approach. Change from Baseline
+was calculated as Post-dose visit value minus Baseline. Baseline value was the latest non-missing pre-
+dose assessment on or before the randomization date. Only those participants with data available at the
+indicated time points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 301[18] 299[19]
+Units: Grams per deciliter
+least squares mean (standard error) 0.20 (± 0.070) 1.56 (± 0.069)
+Notes:
+[18] - ITT Population
+[19] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Treatment group comparisons were based on MMRM fitted from baseline up to Week 28, with factors for
+treatment, time, region, Baseline Hb and Baseline Hb by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 600
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.0001 [20]
+Method  MMRM
+Parameter estimate  LS Mean difference
+Point estimate 1.36
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 1.16
+upper limit 1.55
+Notes:
+[20] - One-sided superiority p-value from the MMRM model
+Secondary: Rate of participants permanently stopping randomized treatment due to
+meeting rescue criteria
+End point title Rate of participants permanently stopping randomized
+treatment due to meeting rescue criteria
+End point description:
+The incidence rate of participants permanently stopping randomized treatment due to meeting rescue
+criteria is presented.
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 14  of 50
+End point type Secondary
+End point timeframe:
+Up to Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 307[21] 307[22]
+Units: Events per 100 person year
+18.88 (12.33 1.33 (0.16 to
+number (confidence interval 95%)
+to 27.66) 4.82)
+Notes:
+[21] - ITT Population
+[22] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Hazard ratio was estimated using a Cox proportional hazard regression model adjusted for treatment
+group and region.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 614
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0002 [23]
+Method  Wald test
+Parameter estimate Hazard ratio (HR)
+ 
+
+******************************
+
+ Point estimate 0.07
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.02
+upper limit 0.3
+Notes:
+[23] - One-sided p-value was based on Wald test of null hypothesis: (Daprodustat/Placebo) >=1 versus
+alternative: ratio<1.
+Secondary: Change from Baseline by domain and single item scores on the Chronic
+Kidney Disease -Anemia Questionnaire (CKD-AQ) symptom questionnaire
+End point title Change from Baseline by domain and single item scores on the
+Chronic Kidney Disease -Anemia Questionnaire (CKD-AQ)
+symptom questionnaire
+End point description:
+CKD-AQ is 21-item patient reported outcomes measure assessing symptoms & symptom impact in
+participants with anemia associated with CKD.CKD-AQ identified 3 domains:1.Tired/Low Energy/Weak
+scale consisting of 10items;2.Chest Pain/Shortness of Breath scale consisting of 4items;3.Cognitive scale
+consisting of 3items;&single items;4.Difficulty Sleeping;5.Difficulty Standing for long periods of
+time;6.Severity of Shortness of breath while sitting/resting;7.Time with Shortness of breath while not
+doing activity.Single-item measures were recorded based on 0-100 scoring:0 is worst possible&100 is
+best possible score.Total domain score is calculated as average of items in each domain &ranged from 0-
+100:0 is worst possible &100 is best possible score.Change from Baseline was calculated as post-dose
+visit value minus Baseline.Baseline value was latest non-missing pre-dose assessment on/before
+randomization date.Only those participants with data available at indicated time points were analyzed.
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 15  of 50
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 193[24] 212[25]
+Units: Scores on a scale
+arithmetic mean (standard error)
+Tired/Low Energy/Weak Domain 2.81 (± 1.132) 8.72 (± 1.086)
+Chest Pain/Shortness of Breath Domain 0.62 (± 0.971) 3.55 (± 0.932)
+Cognitive Domain 0.48 (± 1.042) 4.27 (± 0.999)
+Difficulty in Sleeping 2.61 (± 1.643) 5.22 (± 1.577)
+Difficulty Standing for Long Periods of 1.55 (± 1.630) 6.19 (± 1.563)
+Time
+Severity of Shortness of Breath While 0.43 (± 0.995) 3.11 (± 0.954)
+Sitting/Rest
+Time with Shortness of 0.29 (± 1.083) 2.30 (± 1.037)
+BreathnotDoingActivity
+Notes:
+[24] - ITT Population
+[25] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+Analysis was performed by MMRM with factors for treatment, time, region, Baseline value and Baseline
+value by time and treatment by time interactions for Tired/Low Energy/Weak domain.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value < 0.0001 [26]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 5.91
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 2.83
+upper limit 9
+Notes:
+[26] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+Analysis was performed by MMRM with factors for treatment, time, region, Baseline value and Baseline
+value by time and treatment by time interactions for Chest Pain/Shortness of Breath Domain.
+Comparison groups Placebo v Daprodustat
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 16  of 50
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0152 [27]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 2.93
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.28
+upper limit 5.57
+Notes:
+[27] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+Analysis  
+
+******************************
+
+ was performed by MMRM with factors for treatment, time, region, Baseline value and Baseline
+value by time and treatment by time interactions for Cognitive Domain.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0045 [28]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 3.79
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.95
+upper limit 6.63
+Notes:
+[28] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+Analysis was performed by MMRM with factors for treatment, time, region, Baseline value and Baseline
+value by time and treatment by time interactions for Difficulty Sleeping
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.1267 [29]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 2.61
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -1.87
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 17  of 50
+upper limit 7.09
+Notes:
+[29] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 5
+Statistical analysis description:
+Analysis was performed by MMRM with factors for treatment, time, region, Baseline value and Baseline
+value by time and treatment by time interactions for Difficulty Standing for Long Periods of Time
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0203 [30]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 4.64
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.2
+upper limit 9.09
+Notes:
+[30] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 6
+Statistical analysis description:
+Analysis was performed by MMRM with factors for treatment, time, region, Baseline value and Baseline
+value by time and treatment by time interactions for Severity of Shortness of Breath While Sitting or
+Resting
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0266 [31]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 2.68
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.04
+upper limit 5.39
+Notes:
+[31] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 7
+Statistical analysis description:
+Analysis was performed by MMRM with factors for treatment, time, region, Baseline value and Baseline
+value by time and treatment by time interactions for Time with Shortness of Breath While not Doing an
+Activity
+Comparison groups Placebo v Daprodustat
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 18  of 50
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0907 [32]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 2.01
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.94
+upper limit 4.96
+Notes:
+[32] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Secondary: Change from Baseline in Patient Global Impression of Severity (PGI-S)
+End point title Change from Baseline in Patient Global Impression of Severity
+(PGI-S)
+End point description:
+The PGI-S is a 1-item questionnaire designed to assess participant’s impression of disease severity on a
+5-point disease severity scale  
+
+******************************
+
+ (0=absent, 1=mild, 2=moderate, 3=severe, or 4=very severe). A higher
+score indicated worse outcome. Change from Baseline was calculated as Post-Dose visit value minus
+Baseline. Baseline value was the latest non-missing pre-dose assessment on or before the
+randomization date. Adjusted mean and standard error is presented. Only those participants with data
+available at the indicated time points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 193[33] 212[34]
+Units: Scores on a scale
+-0.04 (± -0.18 (±
+least squares mean (standard error)
+0.055) 0.052)
+Notes:
+[33] - ITT Population
+[34] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+MMRM fitted from Baseline up to Week 28 with factors for treatment, time, region, Baseline value and
+Baseline value by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 405
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0391 [35]
+Method  MMRM
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 19  of 50
+Parameter estimate Mean difference (net)
+Point estimate -0.13
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.28
+upper limit 0.02
+Notes:
+[35] - One-sided p-value was based on test of null hypothesis: (Daprodustat-rhEPO) >=0 versus
+alternative: difference <0
+Secondary: Change from Baseline in the SF-36 physical functioning Domain
+End point title Change from Baseline in the SF-36 physical functioning Domain
+End point description:
+The SF-36 acute version 2 is a 36-item generic quality of life instrument designed to measure a
+participant’s level of performance in the following eight health domains: physical functioning, role-
+physical (role limitations caused by physical problems), social functioning, bodily pain, mental health,
+role-emotional (role limitations caused by emotional problems), vitality, and general perception of
+health. Each domain is scored from 0 (poorer health) to 100 (better health). Physical functioning domain
+score ranges from 0-100; higher score indicates a better health state and better functioning. Change
+from Baseline was calculated as post-dose visit value minus Baseline. Baseline value was the latest non-
+missing pre-dose assessment on or before the randomization date. Only those participants with data
+available at the indicated time points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 190[36] 210[37]
+Units: Scores on a scale
+least squares mean (standard error) 1.23 (± 1.354) 3.80 (± 1.298)
+Notes:
+[36] - ITT Population
+[37] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+MMRM fitted from Baseline up to Week 28 with factors for treatment, time, region, Baseline value and
+Baseline value by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 400
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0858 [38]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 2.57
+Confidence interval
+level 95 %
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 20  of 50
+sides 2-sided
+lower limit -1.12
+upper limit 6.26
+Notes:
+[38] - One sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 vs.
+alternative: difference >0.
+Secondary: Change from Baseline of the SF-36 individual items in the vitality
+Domain
+End point title Change from Baseline of the SF-36 individual items in the
+vitality Domain
+End point description:
+The SF-36 acute version 2 is a 36-item generic quality of life instrument designed to measure a
+participant’s 
+
+******************************
+
+  level of performance in the following eight health domains: physical functioning, role-
+physical (role limitations caused by physical problems), social functioning, bodily pain, mental health,
+role-emotional (role limitations caused by emotional problems), vitality, and general perception of
+health. Individual vitality item includes: 1. Did you feel full of life?, 2. Did you have a lot of energy?, 3.
+Did you feel worn out?, 4. Did you feel tired?. Score of each item in the vitality domain ranges from 0-
+100; higher score indicates better health state and better functioning. Change from Baseline was
+calculated as post-dose visit value minus Baseline. Baseline value was the latest non-missing pre-dose
+assessment on or before the randomization date. Only those participants with data available at the
+indicated time points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 190[39] 210[40]
+Units: Scores on a scale
+least squares mean (standard error)
+Did you feel full of life? -0.02 (± 0.16 (± 0.067)
+0.070)
+Did you have a lot of energy? 0.09 (± 0.066) 0.26 (± 0.063)
+Did you feel worn out? 0.16 (± 0.067) 0.34 (± 0.064)
+Did you feel tired? 0.08 (± 0.060) 0.34 (± 0.057)
+Notes:
+[39] - ITT Population
+[40] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+MMRM fitted from Baseline up to Week 28 with factors for treatment, time, region, Baseline value and
+Baseline value by time and treatment by time interactions for Did you feel full of life?
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 400
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0357 [41]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 21  of 50
+Point estimate 0.17
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.02
+upper limit 0.36
+Notes:
+[41] - One sided p-value based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+MMRM fitted from Baseline up to Week 28 with factors for treatment, time, region, Baseline value and
+Baseline value by time and
+treatment by time interactions for Did you have a lot of energy?
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 400
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0328 [42]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 0.17
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.01
+upper limit 0.35
+Notes:
+[42] - One-sided p-value based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+MMRM fitted from Baseline up to Week 28 with factors for treatment, time, region, Baseline value and
+Baseline value by time and
+treatment by time interactions for Did you feel worn out?
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 400
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.0252 [43]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 0.18
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0
+upper limit 0.37
+Notes:
+[43] - One-sided p-value based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 22  of 50
+Statistical analysis title Statistical Analysis 4
+Statistical analysis description:
+MMRM fitted from Baseline up to Week 28 with factors for treatment, time, region, Baseline value and
+Baseline value by time and treatment by time interactions for Did you feel tired?
+Comparison groups Placebo v Daprodustat
+Number  
+
+******************************
+
+ of subjects included in analysis 400
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.001 [44]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 0.26
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.1
+upper limit 0.42
+Notes:
+[44] - One-sided p-value based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus
+alternative: difference >0.
+Secondary: Number of participants currently employed as per work productivity and
+activity impairment questionnaire: Anemic symptoms clinical practice version
+(WPAI-ANS-CPV)
+End point title Number of participants currently employed as per work
+productivity and activity impairment questionnaire: Anemic
+symptoms clinical practice version (WPAI-ANS-CPV)
+End point description:
+WPAI-ANS-CPV is anemia specific questionnaire designed as self-reported quantitative assessment of
+social functioning related to work and regular daily activities. It contains 2 concepts-work productivity
+impairment measured via absenteeism (time missed from work), presenteeism (impairment at work)
+and regular daily activity impairment. WPAI questions (Q) were:1) currently employed, 2) work time
+missed due to problem, 3) impairment while working due to problem, 4) overall work impairment due to
+problem, 5) activity impairment due to problem. WPAI generates 4 domain scores:percent (%) of work
+time missed(absenteeism),% of impairment while working (presenteeism), % of overall work
+impairment (absenteeism and presenteeism combined), % of activity impairment. Number of
+participants currently employed as per WPAI-ANS-CPV is presented. Only those participants with data
+available at the indicated time points were analyzed (represented by n=X in category titles).
+End point type Secondary
+End point timeframe:
+Week 8, Week 12 and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 249[45] 251[46]
+Units: Participants
+Week 8, No, n=249, 250 195 204
+Week 8, Yes, n=249, 250 54 46
+Week 12, No, n=234, 251 183 212
+Week 12, Yes, n=234, 251 51 39
+Week 28, No, n=193, 213 158 178
+Week 28, Yes, n=193, 213 35 35
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 23  of 50
+Notes:
+[45] - ITT Population
+[46] - ITT Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Change from Baseline in WPAI-ANS-CPV: Percent time missed from
+Work
+End point title Change from Baseline in WPAI-ANS-CPV: Percent time missed
+from Work
+End point description:
+WPAI-ANS-CPV is anemia specific questionnaire designed as self-reported quantitative assessment of
+social functioning related to work&regular daily activities.It contain concepts-work productivity
+impairment measured via absenteeism(time missed from work),presenteeism(impairment at
+work)&regular daily activity impairment.WPAI Qs were:1)currently employed,2)work time missed due to
+problem,3)impairment while working due to problem,4)overall work impairment due to
+problem,5)activity impairment due to problem.Percent work time missed due to problem was
+subscale&calculated as: Q2/(Q2+Q4) for those who were currently employed.Subscale score was
+expressed as impairment percentage (range:0-100%) where higher numbers indicate greater
+impairment&less productivity.Change from Baseline was calculated as post-dose visit minus
+Baseline.Baseline was latest non-missing predose assessment on/before randomization date.Only those
+participants with data available at indicated time points are presented.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1), Week 8, Week 12 and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 50[47] 39[48]
+Units: Percentage of time
+arithmetic mean (standard deviation)
+Week 8, n=50, 39 -2.4 (± 28.40) -6.1 (± 24.92)
+Week 12, n=46, 31 0.9 (± 28.79) 4.2 (± 27.96)
+Week 28, n=28, 25 0.0 (± 33.59) 0.3 (± 31.01)
+Notes:
+[47] - ITT Population
+[48] - ITT Population
+Statistical analyses
+No statistical analyses for this end p 
+
+******************************
+
+ oint
+Secondary: Change from Baseline in WPAI-ANS-CPV: mean hours missed from work
+in the past 7 days
+End point title Change from Baseline in WPAI-ANS-CPV: mean hours missed
+from work in the past 7 days
+End point description:
+WPAI-ANS-CPV is anemia specific questionnaire designed as self-reported quantitative assessment of
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 24  of 50
+social functioning related to work and regular daily activities. It contains 2 concepts-work productivity
+impairment measured via absenteeism (time missed from work), presenteeism (impairment at work)
+and regular daily activity impairment. WPAI questions (Q) were: 1) currently employed, 2) work time
+missed due to problem, 3) impairment while working due to problem, 4) overall work impairment due to
+problem, 5) activity impairment due to problem. Change from Baseline was calculated as post-dose visit
+value minus Baseline. Baseline value was the latest non-missing pre-dose assessment on or before the
+randomization date. Only those participants with data available at indicated time points are presented
+(presented by n=X in category titles).
+End point type Secondary
+End point timeframe:
+Baseline (Day 1), Week 8, Week 12 and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 50[49] 39[50]
+Units: Percentage of hours
+arithmetic mean (standard deviation)
+Week 8, n=50, 39 0.1 (± 18.46) -1.8 (± 11.88)
+Week 12, n=46, 31 1.4 (± 14.07) 2.4 (± 16.83)
+Week 28, n=28, 25 0.3 (± 19.90) 1.0 (± 14.24)
+Notes:
+[49] - ITT Population
+[50] - ITT Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Change from Baseline in WPAI: Percent Impairment at Work
+End point title Change from Baseline in WPAI: Percent Impairment at Work
+End point description:
+WPAI-ANS-CPV is anemia specific questionnaire designed as self-reported quantitative assessment of
+social functioning related to work&regular daily activities.It contains2concepts-work productivity
+impairment measured via absenteeism(time missed from work),presenteeism(impairment at
+work)&regular daily activity impairment.WPAI Qs:1)currently employed,2)work time missed due to
+problem,3)impairment while working due to problem,4)overall work impairment due to
+problem,5)activity impairment due to problem.% Impairment while Working due to Problem was
+subscale&calculated asQ5/10 for those who were currently employed,actually worked in
+past7day.Subscale score was expressed as impairment percentage(range:0-100%),higher number
+indicate greater impairment,less productivity.Change fromBaseline=post-dose visit value-
+Baseline.Baseline was latest non-missing pre-dose assessment on/before randomization date.Only
+participants with data available at indicated time point are presented(n=X)
+End point type Secondary
+End point timeframe:
+Baseline (Day 1), Week 8, Week 12 and Week 28
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 25  of 50
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 45[51] 32[52]
+Units: Percentage of impairment
+arithmetic mean (standard deviation)
+Week 8, n=45, 32 -5.1 (± 18.42) -11.3 (±
+24.06)
+Week 12, n=41, 26 -4.6 (± 18.99) -8.8 (± 23.38)
+Week 28, n=24, 20 -9.6 (± 25.62) -9.0 (± 22.92)
+Notes:
+[51] - ITT Population
+[52] - ITT Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Change from Baseline in WPAI: Percent overall work impairment
+End point title Change from Baseline in WPAI: Percent overall work
+impairment
+End point description:
+WPAI-ANS-CPV is anemia specific questionnaire designed as self-reported quantitative assessment of
+social functioning related to work & regular daily activities. WPAI Questions(Q)were:1)currently
+employed,2)work time missed due to problem,3)impairment while working due to problem,4)overall
+work impairment due to problem,5)activity impairment due to problem.Percent overall work impairment
+due to pr 
+
+******************************
+
+ oblem was subscale & calculated as: Q2/(Q2+Q4)+[(1-Q2/(Q2+Q4))×(Q5/10)] for those who
+were currently employed.Subscale score was expressed as impairment percentage (range:0-100%)
+where higher numbers indicate greater impairment. Change from Baseline was calculated as post-dose
+visit value minus Baseline. Baseline was latest non-missing pre-dose assessment on/before
+randomization date. Only those participants with data available at indicated time points were analyzed
+(n=X).
+End point type Secondary
+End point timeframe:
+Baseline (Day 1), Week 8, Week 12 and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 45[53] 32[54]
+Units: Percentage of impairment
+arithmetic mean (standard deviation)
+Week 8, n=45, 32 -4.3 (± 24.04) -12.0 (±
+25.90)
+Week 12, n=41, 26 0.5 (± 25.81) -3.2 (± 33.35)
+Week 28, n=24, 20 -9.3 (± 37.45) -8.4 (± 19.12)
+Notes:
+[53] - ITT Population
+[54] - ITT Population
+Statistical analyses
+No statistical analyses for this end point
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 26  of 50
+Secondary: Change from Baseline in WPAI: Percent regular daily activity impairment
+End point title Change from Baseline in WPAI: Percent regular daily activity
+impairment
+End point description:
+WPAI-ANS-CPV is anemia specific questionnaire designed as self-reported quantitative assessment of
+social functioning related to work and regular daily activities.WPAI Questions (Q) were: 1) currently
+employed, 2) work time missed due to problem, 3) impairment while working due to problem, 4) overall
+work impairment due to problem, 5) activity impairment due to problem. Percent activity impairment
+due to problem was a subscale and calculated as: Q5/10 for all respondents. Subscale score was
+expressed as an impairment percentage (range: 0-100%) where higher numbers indicate greater
+impairment. Change from Baseline was calculated as post-dose visit value minus Baseline. Baseline
+value was the latest non-missing pre-dose assessment on or before randomization date.Only those
+participants with data available at the indicated time points were analyzed (represented by n=X in
+category titles).
+End point type Secondary
+End point timeframe:
+Baseline (Day 1), Week 8, Week 12 and Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 246[55] 248[56]
+Units: Percentage of impairment
+arithmetic mean (standard deviation)
+Week 8, n=243, 248 -4.6 (± 23.67) -7.7 (± 24.53)
+Week 12, n=228, 246 -5.2 (± 25.40) -8.6 (± 24.58)
+Week 28, n=187, 210 -6.7 (± 28.93) -12.2 (±
+27.50)
+Notes:
+[55] - ITT Population
+[56] - ITT Population
+Statistical analyses
+No statistical analyses for this end point
+Secondary: Change from Baseline in EuroQol 5 Dimension 5 Level Health Utility
+Index (EQ-5D-5L) utility score
+End point title Change from Baseline in EuroQol 5 Dimension 5 Level Health
+Utility Index (EQ-5D-5L) utility score
+End point description:
+The EQ-5D-5L is a self-assessment questionnaire, consisting of 5 items covering 5 dimensions (mobility,
+self-care, usual activities, pain/discomfort, and anxiety/depression). Each dimension is measured by a 5-
+point Likert scale (1: no problems, 2: slight problems, 3: moderate problems, 4: severe problems, and
+5: extreme problems). The responses for the five dimension together form a five-figure description of
+health state. Each of these five-figure health states has attached valuation (utility score), expressed as
+single index on a scale from 0-1, where 1 is full health and 0 is worst health. The higher the score the
+better the health status. Change from Baseline was calculated as post-dose visit value minus Baseline.
+Baseline value was the latest non-missing pre-dose assessment on or before the randomization date.
+Only those participants with data available at indicated time points are presented.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 Octob 
+
+******************************
+
+ er 2021 Page 27  of 50
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 106[57] 116[58]
+Units: Scores on a scale
+least squares mean (standard error) 0.01 (± 0.015) 0.03 (± 0.014)
+Notes:
+[57] - ITT Population
+[58] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Based on MMRM model fitted from Baseline up to Week 28 with factors for treatment, time, region,
+Baseline value and Baseline value by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 222
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.1098 [59]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 0.03
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.02
+upper limit 0.07
+Notes:
+[59] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 versus.
+alternative: difference >0.
+Secondary: Change from Baseline in EuroQol visual analogue scale (EQ-VAS) score
+End point title Change from Baseline in EuroQol visual analogue scale (EQ-
+VAS) score
+End point description:
+The EQ VAS records the respondent’s self-rated health on a vertical, visual analogue scale where the
+endpoints are labeled ‘the best health you can imagine’ and ‘the worst health you can imagine’ at the
+time of completion. It is a self-assessment visual analogue scale, ranging from 0=worst imaginable to
+100=best. Change from Baseline was calculated as post-dose visit value minus Baseline. Baseline value
+was the latest non-missing pre-dose assessment on or before the randomization date. Adjusted mean
+and standard error is presented. Only those participants with data available at indicated time points are
+presented.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 28  of 50
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 106[60] 116[61]
+Units: Scores on a scale
+least squares mean (standard error) 0.80 (± 1.427) 5.30 (± 1.373)
+Notes:
+[60] - ITT Population
+[61] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Mixed model repeated measures model fitted from Baseline up to Week 28 with factors for treatment,
+time, region, Baseline value and Baseline value by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 222
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.012 [62]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 4.5
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit 0.6
+upper limit 8.4
+Notes:
+[62] - One-sided p-value was based on test of null hypothesis: (Daprodustat-Placebo) <=0 vs.
+alternative: difference >0.
+Secondary: Change from Baseline in systolic blood pressure (SBP), diastolic blood
+pressure (DBP), mean arterial pressure (MAP) at Week 28
+End point title Change from Baseline in systolic blood pressure (SBP), diastolic
+blood pressure (DBP), mean arterial pressure (MAP) at Week
+28
+End point description:
+SBP, DBP and MAP were measured with participants in a seated position after at least a 5-minute of
+rest. MAP is the average BP in an individual’s arteries during a single cardiac cycle.  Change from
+Baseline was calculated as post-dose visit value minus Baseline. Baseline value was the latest non-
+missing pre-dose assessment on or before the randomization date. Only those participants with data
+available at the indicated time points were analyzed.
+End point type Secondary
+End point timeframe:
+Baseline (Day 1) and Week 28
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 29  of 50
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 202[63] 230 
+
+******************************
+
+ [64]
+Units: Millimeters of mercury (mmHg)
+least squares mean (standard error)
+SBP -0.63 (± -0.23 (±
+1.045) 0.981)
+DBP -0.96 (± 0.84 (± 0.587)
+0.625)
+MAP -0.82 (± 0.49 (± 0.632)
+0.674)
+Notes:
+[63] - ITT Population
+[64] - ITT Population
+Statistical analyses
+Statistical analysis title Statistical Analysis 1
+Statistical analysis description:
+MMRM model fitted from Baseline up to Week 28, with factors for treatment, time, region, Baseline SBP
+and Baseline SBP by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 432
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.6106 [65]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 0.4
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -2.42
+upper limit 3.22
+Notes:
+[65] - One-sided p-value was based on test of null hypothesis: (Daprodustat - Placebo) >= 0 versus
+alternative:
+difference <0
+Statistical analysis title Statistical Analysis 2
+Statistical analysis description:
+MMRM model fitted from Baseline up to Week 28, with factors for treatment, time, region, Baseline DBP
+and Baseline DBP by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 432
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.9819 [66]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 1.8
+Confidence interval
+level 95 %
+sides 2-sided
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 30  of 50
+lower limit 0.12
+upper limit 3.49
+Notes:
+[66] - One-sided p-value was based on test of null hypothesis: (Daprodustat - Placebo) >= 0 versus
+alternative:
+difference < 0
+Statistical analysis title Statistical Analysis 3
+Statistical analysis description:
+MMRM model fitted from Baseline up to Week 28, with factors for treatment, time, region, Baseline MAP
+and Baseline MAP by time and treatment by time interactions.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 432
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.9215 [67]
+Method  MMRM
+Parameter estimate Mean difference (net)
+Point estimate 1.31
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.51
+upper limit 3.13
+Notes:
+[67] - One-sided p-value was based on test of null hypothesis: (Daprodustat - Placebo) >= 0 versus
+alternative:
+difference <0
+Secondary: Percentage of participants with at least one BP) exacerbation event
+End point title Percentage of participants with at least one BP) exacerbation
+event
+End point description:
+Percentage of participants with at least one BP exacerbation event is presented. BP exacerbation is
+defined as: SBP exacerbation: SBP >= 25 mmHg increase from Baseline or SBP >= 180 mmHg; DBP
+exacerbation: DBP >= 15 mmHg increase from Baseline or DBP >= 110 mmHg. Percentage of
+participants with at least one BP exacerbation event is presented. The percentage values presented has
+been rounded off.
+End point type Secondary
+End point timeframe:
+Up to Week 28
+End point values Placebo Daprodustat
+Subject group type Reporting group Reporting group
+Number of subjects analysed 307 307
+Units: Percentage of participants 26 32
+Statistical analyses
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 31  of 50
+Statistical analysis title Statistical Analysis
+Statistical analysis description:
+Cochran-Mantel-Haenszel test was performed for treatment group comparison.
+Comparison groups Placebo v Daprodustat
+Number of subjects included in analysis 614
+Analysis specification Pre-specified
+Analysis type superiority
+P-value = 0.068 [68]
+Method Cochran-Mantel-Haenszel
+Parameter estimate  Difference in Response rate
+Confidence interval
+level 95 %
+sides 2-sided
+lower limit -0.02
+upper limit 0.13
+Notes:
+[68] - One-sided p-value based on test of null hypothesis: (Daprodustat - Placebo) <= 0 versus
+alternative: difference > 0.
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 Octo 
+
+******************************
+
+ ber 2021 Page 32  of 50
+Adverse events
+Adverse events information
+Timeframe for reporting adverse events:
+All cause mortality, serious adverse events (SAEs) and non-serious AEs were collected up to follow-up
+(Week 32).
+Adverse event reporting additional description:
+Safety Population comprised of all randomized participants who received at least 1 dose of study
+treatment.Treatment emergent non-serious adverse events & serious adverse events are reported.One
+participant who was randomized to placebo accidently received daprodustat during study & was
+evaluated in daprodustat treatment group for safety outcome.
+Assessment type Systematic
+Dictionary used
+Dictionary name MedDRA
+Dictionary version 23.1
+Reporting groups
+Reporting group title Placebo
+Reporting group description:
+Participants received matching placebo once daily orally for up to 28 weeks followed by 4 weeks of
+follow-up.
+Reporting group title Daprodustat
+Reporting group description:
+Participants received daprodustat film-coated tablets with titrated dose levels ranging from 1, 2, 4, 6, 8,
+10, 12, 16 milligrams (mg) once daily orally for up to 28 weeks, followed by 4 weeks of follow-up. Study
+treatment was dose-titrated to achieve and maintain hemoglobin in the target range (11 to 12 grams
+per deciliter [g/dL])
+Serious adverse events Placebo Daprodustat
+Total subjects affected by serious
+adverse events
+subjects affected / exposed 68 / 306 (22.22%) 62 / 308 (20.13%)
+number of deaths (all causes) 16 10
+number of deaths resulting from
+adverse events
+Vascular disorders
+Hypertensive crisis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypotension
+subjects affected / exposed 3 / 306 (0.98%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 3 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypertension
+subjects affected / exposed 2 / 306 (0.65%) 2 / 308 (0.65%)
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 33  of 50
+occurrences causally related to 0 / 2 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypovolaemic shock
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Hypertensive emergency
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Peripheral arterial occlusive disease
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Thrombophlebitis superficial
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Neoplasms benign, malignant and
+unspecified (incl cysts and polyps)
+Breast cancer
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Plasma cell myeloma
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pituitary tumour benign
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+General disorders and administration
+site conditions
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 34  of 50
+Death
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+General physical health deterioration
+subjects affected / exposed 1 / 306 (0 
+
+******************************
+
+ .33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Psychiatric disorders
+Bipolar disorder
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Injury, poisoning and procedural
+complications
+Craniocerebral injury
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Femur fracture
+subjects affected / exposed 0 / 306 (0.00%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cervical vertebral fracture
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Humerus fracture
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Kidney rupture
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 35  of 50
+Ligament sprain
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Subdural haematoma
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Transplant dysfunction
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Vascular pseudoaneurysm
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Upper limb fracture
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Investigations
+Blood pressure increased
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hepatic enzyme increased
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Liver function test abnormal
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac disorders
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 36  of 50
+Cardiac failure congestive
+subjects affected / exposed 2 / 306 (0.65%) 3 / 308 (0.97%)
+occurrences causally related to 0 / 2 1 / 4
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac failure acute
+subjects affected / exposed 4 / 306 (1.31%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 4 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Acute coronary syndrome
+subjects affected / exposed 2 / 306 (0.65%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Atrial fibrillation
+subjects affected / exposed 0 / 306 (0.00%) 3 / 308 (0.97%)
+occurrences causally related to 0 / 0 1 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Bradycardia
+subjects affected / exposed 2 / 306 (0.65%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 2 0 
+
+******************************
+
+  / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Left ventricular failure
+subjects affected / exposed 0 / 306 (0.00%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Acute myocardial infarction
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Angina pectoris
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Angina unstable
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 37  of 50
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Arrhythmia
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Atrial flutter
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Atrial thrombosis
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac failure chronic
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Coronary artery disease
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Mitral valve incompetence
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Myocardial infarction
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Myocardial ischaemia
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 38  of 50
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Right ventricular failure
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cardiac failure
+subjects affected / exposed 1 / 306 (0.33%) 4 / 308 (1.30%)
+occurrences causally related to 0 / 1 0 / 4
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+Tricuspid valve incompetence
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Respiratory, thoracic and mediastinal
+disorders
+Acute pulmonary oedema
+subjects affected / exposed 1 / 306 (0.33%) 3 / 308 (0.97%)
+occurrences causally related to 0 / 1 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pulmonary oedema
+subjects affected / exposed 1 / 306 (0.33%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Bronchial hyperreactivity
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Acute interstitial pneumonitis
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Interstitial lung disease 
+
+******************************
+
+ 
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 39  of 50
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Chronic obstructive pulmonary
+disease
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pulmonary hypertension
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pleural effusion
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Blood and lymphatic system disorders
+Anaemia
+subjects affected / exposed 8 / 306 (2.61%) 2 / 308 (0.65%)
+occurrences causally related to 1 / 9 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nervous system disorders
+Encephalopathy
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Syncope
+subjects affected / exposed 0 / 306 (0.00%) 3 / 308 (0.97%)
+occurrences causally related to 0 / 0 0 / 3
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Autonomic nervous system
+imbalance
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Ischaemic stroke
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 40  of 50
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Sciatica
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Eye disorders
+Ulcerative keratitis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Vitreous haemorrhage
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ear and labyrinth disorders
+Tympanic membrane perforation
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Vertigo positional
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hypoacusis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastrointestinal disorders
+Gastrointestinal haemorrhage
+subjects affected / exposed 2 / 306 (0.65%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Vomiting
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 41  of 50
+subjects affected / exposed 1 / 306 (0.33%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 1 2 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Constipation
+subjects affected / exposed 2 / 306 (0.65%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Upper gastrointestinal haemorrhage
+subjects affected / exposed 1 / 306 (0.33%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related  
+
+******************************
+
+ to
+treatment / all 0 / 0 0 / 0
+Abdominal pain upper
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Colitis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ascites
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diabetic gastropathy
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Large intestine polyp
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diarrhoea
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 42  of 50
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nausea
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 1 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal and urinary disorders
+Acute kidney injury
+subjects affected / exposed 5 / 306 (1.63%) 5 / 308 (1.62%)
+occurrences causally related to 0 / 5 0 / 6
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal failure
+subjects affected / exposed 6 / 306 (1.96%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 6 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+End stage renal disease
+subjects affected / exposed 2 / 306 (0.65%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 2 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Renal impairment
+subjects affected / exposed 2 / 306 (0.65%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 3 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Azotaemia
+subjects affected / exposed 1 / 306 (0.33%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 1 0 / 0
+Urinary retention
+subjects affected / exposed 2 / 306 (0.65%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Chronic kidney disease
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 43  of 50
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+IgA nephropathy
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nephrolithiasis
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nephropathy toxic
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Nephrotic syndrome
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Renal haematoma
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hepatobiliary disorders
+Autoimmune hepatitis
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+trea 
+
+******************************
+
+ tment / all 0 / 0 0 / 0
+Cholangitis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cholelithiasis
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 44  of 50
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Skin and subcutaneous tissue disorders
+Skin ulcer
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Musculoskeletal and connective tissue
+disorders
+Arthralgia
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Atlantoaxial instability
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Osteoarthritis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Metabolism and nutrition disorders
+Hypoglycaemia
+subjects affected / exposed 1 / 306 (0.33%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 1 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Fluid overload
+subjects affected / exposed 1 / 306 (0.33%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 1 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diabetic ketoacidosis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Dehydration
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 45  of 50
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hyperglycaemia
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hyperkalaemia
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Hyponatraemia
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Infections and infestations
+Sepsis
+subjects affected / exposed 2 / 306 (0.65%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 2 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Cellulitis
+subjects affected / exposed 2 / 306 (0.65%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 2 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Urinary tract infection
+subjects affected / exposed 4 / 306 (1.31%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 5 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia
+subjects affected / exposed 1 / 306 (0.33%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 1 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Septic shock
+subjects affected / exposed 2 / 306 (0.65%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 2 0 / 0
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 46  of 50
+treatment / all
+deaths causally related to
+treatment / all 0 / 2 0 / 0
+Urosepsis
+subjects affected / exposed 0 / 306 (0.00%) 2 / 308 (0.65%)
+occurrences causally related to 0 / 0 0 / 2
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 1
+COVID-19
+subjec 
+
+******************************
+
+ ts affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Diabetic foot infection
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Endophthalmitis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Ear infection
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Escherichia urinary tract infection
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Gastroenteritis
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Lower respiratory tract infection
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 47  of 50
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Otitis externa
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Perirectal abscess
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pyelonephritis
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Upper respiratory tract infection
+subjects affected / exposed 1 / 306 (0.33%) 0 / 308 (0.00%)
+occurrences causally related to 0 / 1 0 / 0
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Pneumonia bacterial
+subjects affected / exposed 0 / 306 (0.00%) 1 / 308 (0.32%)
+occurrences causally related to 0 / 0 0 / 1
+treatment / all
+deaths causally related to
+treatment / all 0 / 0 0 / 0
+Frequency threshold for reporting non-serious adverse events: 5 %
+Non-serious adverse events Placebo Daprodustat
+Total subjects affected by non-serious
+adverse events
+subjects affected / exposed 44 / 306 (14.38%) 49 / 308 (15.91%)
+Vascular disorders
+Hypertension
+subjects affected / exposed 14 / 306 (4.58%) 21 / 308 (6.82%)
+occurrences (all) 14 27
+General disorders and administration
+site conditions
+Oedema peripheral
+subjects affected / exposed 21 / 306 (6.86%) 12 / 308 (3.90%)
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 48  of 50
+occurrences (all) 23 14
+Gastrointestinal disorders
+Diarrhoea
+subjects affected / exposed 17 / 306 (5.56%) 24 / 308 (7.79%)
+occurrences (all) 22 26
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 49  of 50
+More information
+Substantial protocol amendments (globally)
+Were there any global substantial amendments to the protocol?  Yes
+Date Amendment
+02 April 2018 Country Specific Protocol ITA-1: Edited footnote 11 to include evaluation of all iron
+parameters at Week 4 in Section 2: Schedule of Activities; Exclude participants
+with a lower electrocardiogram (ECG) criteria based on Frederica’s QT Interval
+Corrected for Heart Rate (QTcF) and not Bazett’s QT Interval Corrected for Heart
+Rate (QTcB); exclude participants with second or third degree atrioventricular
+(AV) block in Exclusion Criteria (Crit) Exclusion 18; replaced QTcB with QTcF in
+Electrocardiograms section.
+23 August 2019 Amendment 1:Added footnote17 to state when study treatment should be
+dispensed;Revised footnote9 to permit HemoCue Hgb retest with ne 
+
+******************************
+
+ w blood
+sample; Revised footnote12 to clarify the purpose of participant reminder
+card;Edited footnote15 to add ultrasound assessments for ADPKD participants at
+end of treatment.Added row to conduct assessment regarding HCRU  by
+participants at each visit starting with Day1 & after study treatment
+discontinuation;Added renal ultrasound for ADPKD participants upon
+discontinuation of study treatment ;Updated risk assessment table with language
+related to IB update;Added secondary & exploratory endpoints objectives related
+to BP exacerbations & concomitant medications;Revised secondary endpoints for
+work productivity& regular daily activity impairment captured on WPAI-ANS-
+CPV;Amended exploratory objectives for Hgb change to evaluate participants
+achieving Hgb increase of >=1.0 g/dL instead of >=1.2g/dL;Updated exploratory
+objective to capture time to first rhEPO Transfusion use;Edited inclusion Crit5 to
+provide clarity for requirements of compliance with oral iron dosing prior to Day1
+& removed need for stable iron dose prior to screening;Edited ex crit 13 edited to
+include use of investigational device;Added ex crit22 for uncontrolled
+hypertension;Instructions to repeat & average HemoCue Hgb assessment for Hgb
+<8.5 g/dL;Added information regarding discontinuation of study treatment in
+participants with ADPKD;Added language related to alternative methods of follow-
+up;Added language regarding alternative methods of follow-up for participants
+potentially lost to follow-up;Added language regarding retests with new blood
+sample entering HemoCue Hgb values into IRT  system;Added worsening of
+hypertension as additional AESI; Added guidance on conducting ultrasound for
+participants with ADPKD based on different clinical scenarios in study;Changes
+made to provide guidance regarding the conduct of study at French site only.
+Notes:
+Interruptions (globally)
+Were there any global interruptions to the trial?  No
+Limitations and caveats
+None reported
+Clinical trial results 2017-002270-39 version 1 EU-CTR publication date: 21 October 2021 Page 50  of 50
+ 
+
+******************************
+
