@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 import streamlit as st
 from PyPDF2 import PdfFileReader
@@ -115,6 +116,7 @@ def get_file_name():
 
 def run_analysis():
     # Get the raw text from the input
+    startT = time.time()
     myBar.progress(0.05)
     get_file_name()
     get_raw_txt()
@@ -128,6 +130,9 @@ def run_analysis():
     st.session_state.download_button_off = False
     st.session_state.prog_val = 1.0
     myBar.progress(st.session_state.prog_val)
+    endT = time.time()
+    with open('./timings.csv', 'a') as fd:
+        fd.write(endT-startT)
     #st.success('Complete!')
     return
 
