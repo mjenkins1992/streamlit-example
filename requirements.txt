@@ -8,3 +8,4 @@ torch
 transformers
 pickle-mixin
 cuda-python
+pdfplumber
